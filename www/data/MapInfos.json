@@ -1,0 +1,998 @@
+[
+    null,
+    {
+        "id": 1,
+        "expanded": false,
+        "name": "テンプレートイベント",
+        "order": 1,
+        "parentId": 0,
+        "scrollX": 803.25,
+        "scrollY": 879.75
+    },
+    {
+        "id": 2,
+        "expanded": true,
+        "name": "教会内部",
+        "order": 31,
+        "parentId": 6,
+        "scrollX": 1048.2,
+        "scrollY": 881.4
+    },
+    {
+        "id": 3,
+        "expanded": true,
+        "name": "ガレット洞窟",
+        "order": 78,
+        "parentId": 146,
+        "scrollX": 747.5,
+        "scrollY": 1211.5
+    },
+    {
+        "id": 4,
+        "expanded": false,
+        "name": "動画テストマップ",
+        "order": 6,
+        "parentId": 1,
+        "scrollX": 947.25,
+        "scrollY": 879.75
+    },
+    {
+        "id": 5,
+        "expanded": true,
+        "name": "共同墓地",
+        "order": 33,
+        "parentId": 6,
+        "scrollX": 499.79999999999995,
+        "scrollY": 726.6
+    },
+    {
+        "id": 6,
+        "expanded": true,
+        "name": "教会",
+        "order": 30,
+        "parentId": 133,
+        "scrollX": 499.79999999999995,
+        "scrollY": 713.4
+    },
+    {
+        "id": 7,
+        "expanded": false,
+        "name": "洞窟の中",
+        "order": 47,
+        "parentId": 14,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 8,
+        "expanded": true,
+        "name": "VSラティエ",
+        "order": 41,
+        "parentId": 138,
+        "scrollX": 692.5,
+        "scrollY": 605.5
+    },
+    {
+        "id": 9,
+        "expanded": false,
+        "name": "ガレット洞窟（イベゾーン）",
+        "order": 79,
+        "parentId": 3,
+        "scrollX": 692.5,
+        "scrollY": 605.5
+    },
+    {
+        "id": 10,
+        "expanded": true,
+        "name": "OP",
+        "order": 15,
+        "parentId": 135,
+        "scrollX": 1508,
+        "scrollY": 1020
+    },
+    {
+        "id": 11,
+        "expanded": true,
+        "name": "スラムイベント用",
+        "order": 24,
+        "parentId": 136,
+        "scrollX": 1508,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 12,
+        "expanded": true,
+        "name": "ラティエイベント",
+        "order": 42,
+        "parentId": 8,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 13,
+        "expanded": true,
+        "name": "VSソエル",
+        "order": 45,
+        "parentId": 138,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 14,
+        "expanded": true,
+        "name": "ソエルイベント",
+        "order": 46,
+        "parentId": 13,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 15,
+        "expanded": true,
+        "name": "VSラドロ",
+        "order": 50,
+        "parentId": 138,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 16,
+        "expanded": true,
+        "name": "ラドロイベント",
+        "order": 51,
+        "parentId": 15,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 17,
+        "expanded": true,
+        "name": "VSビジュー",
+        "order": 57,
+        "parentId": 138,
+        "scrollX": 692.6666666666666,
+        "scrollY": 727.3333333333334
+    },
+    {
+        "id": 18,
+        "expanded": true,
+        "name": "ビジューイベント",
+        "order": 58,
+        "parentId": 17,
+        "scrollX": 934,
+        "scrollY": 792.6666666666666
+    },
+    {
+        "id": 19,
+        "expanded": true,
+        "name": "VSメーレ",
+        "order": 62,
+        "parentId": 138,
+        "scrollX": 692.5,
+        "scrollY": 845.5
+    },
+    {
+        "id": 20,
+        "expanded": true,
+        "name": "メーレイベント",
+        "order": 63,
+        "parentId": 19,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 21,
+        "expanded": true,
+        "name": "VSシェイカバーリィ",
+        "order": 67,
+        "parentId": 138,
+        "scrollX": 807.3333333333334,
+        "scrollY": 879.3333333333334
+    },
+    {
+        "id": 22,
+        "expanded": true,
+        "name": "シェイカバーリィイベント",
+        "order": 68,
+        "parentId": 21,
+        "scrollX": 1035.3333333333333,
+        "scrollY": 782
+    },
+    {
+        "id": 23,
+        "expanded": true,
+        "name": "VSインプ変異種",
+        "order": 70,
+        "parentId": 138,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 24,
+        "expanded": true,
+        "name": "VSチェルシー",
+        "order": 10,
+        "parentId": 1,
+        "scrollX": 682,
+        "scrollY": 782
+    },
+    {
+        "id": 25,
+        "expanded": true,
+        "name": "VSチェルシー2戦目",
+        "order": 11,
+        "parentId": 24,
+        "scrollX": 692.5,
+        "scrollY": 725.5
+    },
+    {
+        "id": 26,
+        "expanded": true,
+        "name": "チェルシー説得",
+        "order": 12,
+        "parentId": 25,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 27,
+        "expanded": true,
+        "name": "インプイベント",
+        "order": 71,
+        "parentId": 23,
+        "scrollX": 700.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 28,
+        "expanded": true,
+        "name": "VSあるの",
+        "order": 72,
+        "parentId": 138,
+        "scrollX": 700.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 29,
+        "expanded": true,
+        "name": "アルノイベント",
+        "order": 73,
+        "parentId": 28,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 30,
+        "expanded": true,
+        "name": "VSワンズワース",
+        "order": 74,
+        "parentId": 138,
+        "scrollX": 692.6666666666666,
+        "scrollY": 750
+    },
+    {
+        "id": 31,
+        "expanded": true,
+        "name": "ワンズイベント",
+        "order": 75,
+        "parentId": 30,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 32,
+        "expanded": false,
+        "name": "戦闘テスト",
+        "order": 2,
+        "parentId": 1,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 33,
+        "expanded": true,
+        "name": "豪邸",
+        "order": 52,
+        "parentId": 15,
+        "scrollX": 1041.75,
+        "scrollY": 1019.25
+    },
+    {
+        "id": 34,
+        "expanded": true,
+        "name": "豪邸夜",
+        "order": 53,
+        "parentId": 33,
+        "scrollX": 923.3333333333334,
+        "scrollY": 782
+    },
+    {
+        "id": 35,
+        "expanded": true,
+        "name": "ドリーネ壁穴",
+        "order": 80,
+        "parentId": 146,
+        "scrollX": 1508,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 36,
+        "expanded": false,
+        "name": "古代遺跡",
+        "order": 59,
+        "parentId": 18,
+        "scrollX": 692.5,
+        "scrollY": 739.5
+    },
+    {
+        "id": 37,
+        "expanded": true,
+        "name": "VSメグナLv2",
+        "order": 39,
+        "parentId": 139,
+        "scrollX": 682.1999999999999,
+        "scrollY": 736.1999999999999
+    },
+    {
+        "id": 38,
+        "expanded": true,
+        "name": "メグナイベントLv2",
+        "order": 40,
+        "parentId": 37,
+        "scrollX": 934,
+        "scrollY": 792.6666666666666
+    },
+    {
+        "id": 39,
+        "expanded": true,
+        "name": "ギルド",
+        "order": 26,
+        "parentId": 133,
+        "scrollX": 803.25,
+        "scrollY": 879.75
+    },
+    {
+        "id": 40,
+        "expanded": false,
+        "name": "イベントを作るところ",
+        "order": 5,
+        "parentId": 1,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 41,
+        "expanded": false,
+        "name": "孤児院",
+        "order": 28,
+        "parentId": 133,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 42,
+        "expanded": true,
+        "name": "シャル拠点",
+        "order": 7,
+        "parentId": 1,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 43,
+        "expanded": true,
+        "name": "VSラティエLv2",
+        "order": 43,
+        "parentId": 8,
+        "scrollX": 692.6666666666666,
+        "scrollY": 726
+    },
+    {
+        "id": 44,
+        "expanded": true,
+        "name": "VSソエルLv2",
+        "order": 48,
+        "parentId": 13,
+        "scrollX": 659.3333333333334,
+        "scrollY": 750
+    },
+    {
+        "id": 45,
+        "expanded": true,
+        "name": "ラティエLv2イベント",
+        "order": 44,
+        "parentId": 43,
+        "scrollX": 692.6666666666666,
+        "scrollY": 750
+    },
+    {
+        "id": 46,
+        "expanded": false,
+        "name": "※没教会",
+        "order": 34,
+        "parentId": 6,
+        "scrollX": 1412.6666666666667,
+        "scrollY": 882
+    },
+    {
+        "id": 47,
+        "expanded": true,
+        "name": "VSラドロLv2",
+        "order": 54,
+        "parentId": 15,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 48,
+        "expanded": true,
+        "name": "ラドロLv2イベント",
+        "order": 55,
+        "parentId": 47,
+        "scrollX": 692.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 49,
+        "expanded": false,
+        "name": "ラドロ逮捕イベント",
+        "order": 56,
+        "parentId": 48,
+        "scrollX": 692.5,
+        "scrollY": 613.5
+    },
+    {
+        "id": 50,
+        "expanded": true,
+        "name": "VSビジューLv2",
+        "order": 60,
+        "parentId": 17,
+        "scrollX": 692.6666666666666,
+        "scrollY": 750
+    },
+    {
+        "id": 51,
+        "expanded": true,
+        "name": "ソエルLv2イベント",
+        "order": 49,
+        "parentId": 44,
+        "scrollX": 659.25,
+        "scrollY": 879.75
+    },
+    {
+        "id": 52,
+        "expanded": true,
+        "name": "VSメーレLv2",
+        "order": 65,
+        "parentId": 19,
+        "scrollX": 692.5,
+        "scrollY": 605.5
+    },
+    {
+        "id": 53,
+        "expanded": true,
+        "name": "メーレ証拠探し",
+        "order": 64,
+        "parentId": 20,
+        "scrollX": 934,
+        "scrollY": 792.6666666666666
+    },
+    {
+        "id": 54,
+        "expanded": true,
+        "name": "VSシェイカバーリィLv2",
+        "order": 69,
+        "parentId": 21,
+        "scrollX": 741.75,
+        "scrollY": 879.75
+    },
+    {
+        "id": 55,
+        "expanded": false,
+        "name": "テストマップ2",
+        "order": 3,
+        "parentId": 1,
+        "scrollX": 747.75,
+        "scrollY": 879.75
+    },
+    {
+        "id": 56,
+        "expanded": true,
+        "name": "メーレLv2イベント",
+        "order": 66,
+        "parentId": 52,
+        "scrollX": 692.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 57,
+        "expanded": false,
+        "name": "汎用イベント/テスト",
+        "order": 4,
+        "parentId": 1,
+        "scrollX": 803.25,
+        "scrollY": 879.75
+    },
+    {
+        "id": 58,
+        "expanded": true,
+        "name": "ルマーレ森林地帯",
+        "order": 81,
+        "parentId": 146,
+        "scrollX": 1088.5,
+        "scrollY": 1760.5
+    },
+    {
+        "id": 59,
+        "expanded": true,
+        "name": "ビジューLv2イベント",
+        "order": 61,
+        "parentId": 50,
+        "scrollX": 692.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 60,
+        "expanded": true,
+        "name": "最終戦用",
+        "order": 82,
+        "parentId": 135,
+        "scrollX": 1088.5,
+        "scrollY": 1333.5
+    },
+    {
+        "id": 61,
+        "expanded": true,
+        "name": "ドリーネ襲撃イベ",
+        "order": 83,
+        "parentId": 60,
+        "scrollX": 555.3333333333334,
+        "scrollY": 1040.6666666666667
+    },
+    {
+        "id": 62,
+        "expanded": true,
+        "name": "ギルド2F",
+        "order": 27,
+        "parentId": 39,
+        "scrollX": 738.6,
+        "scrollY": 703.8
+    },
+    {
+        "id": 63,
+        "expanded": true,
+        "name": "ドレインMAP",
+        "order": 100,
+        "parentId": 135,
+        "scrollX": 700.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 64,
+        "expanded": true,
+        "name": "襲撃前宿屋",
+        "order": 84,
+        "parentId": 61,
+        "scrollX": 555.3333333333334,
+        "scrollY": 739.3333333333334
+    },
+    {
+        "id": 65,
+        "expanded": true,
+        "name": "ワンズ戦後ギルド",
+        "order": 85,
+        "parentId": 61,
+        "scrollX": 874,
+        "scrollY": 690
+    },
+    {
+        "id": 66,
+        "expanded": true,
+        "name": "ミニマムイベント",
+        "order": 86,
+        "parentId": 61,
+        "scrollX": 938,
+        "scrollY": 1030
+    },
+    {
+        "id": 67,
+        "expanded": true,
+        "name": "ギルド吹き飛ばし前イベ",
+        "order": 87,
+        "parentId": 66,
+        "scrollX": 948.6666666666666,
+        "scrollY": 1138
+    },
+    {
+        "id": 68,
+        "expanded": true,
+        "name": "ギルド無くなった",
+        "order": 88,
+        "parentId": 67,
+        "scrollX": 1508,
+        "scrollY": 1038.6666666666667
+    },
+    {
+        "id": 69,
+        "expanded": false,
+        "name": "貴族街ルマーレ",
+        "order": 35,
+        "parentId": 133,
+        "scrollX": 1035,
+        "scrollY": 781.8
+    },
+    {
+        "id": 70,
+        "expanded": true,
+        "name": "VSテラ",
+        "order": 76,
+        "parentId": 138,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 71,
+        "expanded": true,
+        "name": "襲撃時のルマーレ",
+        "order": 89,
+        "parentId": 61,
+        "scrollX": 1131.3333333333333,
+        "scrollY": 1234
+    },
+    {
+        "id": 72,
+        "expanded": true,
+        "name": "崩落作戦のルマーレ",
+        "order": 90,
+        "parentId": 71,
+        "scrollX": 792.6666666666666,
+        "scrollY": 1020.6666666666666
+    },
+    {
+        "id": 73,
+        "expanded": true,
+        "name": "アトリエ拠点",
+        "order": 8,
+        "parentId": 42,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 74,
+        "expanded": true,
+        "name": "生き埋めのドリーネ",
+        "order": 91,
+        "parentId": 72,
+        "scrollX": 1131.5,
+        "scrollY": 1211.5
+    },
+    {
+        "id": 75,
+        "expanded": true,
+        "name": "魔王城（仮）",
+        "order": 92,
+        "parentId": 74,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 76,
+        "expanded": true,
+        "name": "テラチェイス",
+        "order": 95,
+        "parentId": 72,
+        "scrollX": 636.75,
+        "scrollY": 879.75
+    },
+    {
+        "id": 77,
+        "expanded": true,
+        "name": "壁外崖上",
+        "order": 96,
+        "parentId": 76,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 78,
+        "expanded": true,
+        "name": "魔王城（仮）報告",
+        "order": 93,
+        "parentId": 75,
+        "scrollX": 1200.857142857143,
+        "scrollY": 1019.1428571428571
+    },
+    {
+        "id": 79,
+        "expanded": false,
+        "name": "姉VSふたご",
+        "order": 94,
+        "parentId": 78,
+        "scrollX": 634,
+        "scrollY": 782
+    },
+    {
+        "id": 80,
+        "expanded": true,
+        "name": "怪盗エンディング",
+        "order": 97,
+        "parentId": 77,
+        "scrollX": 1131.5,
+        "scrollY": 700.5
+    },
+    {
+        "id": 81,
+        "expanded": true,
+        "name": "回想部屋",
+        "order": 98,
+        "parentId": 135,
+        "scrollX": 555.3333333333334,
+        "scrollY": 690
+    },
+    {
+        "id": 82,
+        "expanded": true,
+        "name": "メグナドレイン",
+        "order": 101,
+        "parentId": 63,
+        "scrollX": 566,
+        "scrollY": 700.6666666666666
+    },
+    {
+        "id": 83,
+        "expanded": true,
+        "name": "ラティエドレイン",
+        "order": 102,
+        "parentId": 63,
+        "scrollX": 739.3333333333334,
+        "scrollY": 782
+    },
+    {
+        "id": 84,
+        "expanded": true,
+        "name": "メーレドレイン",
+        "order": 103,
+        "parentId": 63,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 85,
+        "expanded": true,
+        "name": "シェイカドレイン",
+        "order": 104,
+        "parentId": 63,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 86,
+        "expanded": true,
+        "name": "インプドレイン",
+        "order": 105,
+        "parentId": 63,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 87,
+        "expanded": true,
+        "name": "アルノドレイン",
+        "order": 106,
+        "parentId": 63,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 88,
+        "expanded": false,
+        "name": "懺悔室",
+        "order": 32,
+        "parentId": 2,
+        "scrollX": 566,
+        "scrollY": 700.6666666666666
+    },
+    {
+        "id": 89,
+        "expanded": true,
+        "name": "クリア部屋",
+        "order": 99,
+        "parentId": 81,
+        "scrollX": 566,
+        "scrollY": 700.6666666666666
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 117,
+        "expanded": false,
+        "name": "回想部屋",
+        "order": 9,
+        "parentId": 42,
+        "scrollX": 1043.25,
+        "scrollY": 879.75
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "id": 131,
+        "expanded": true,
+        "name": "CF家勉強部屋",
+        "order": 17,
+        "parentId": 136,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 132,
+        "expanded": true,
+        "name": "CF家自室",
+        "order": 19,
+        "parentId": 141,
+        "scrollX": 784.6666666666666,
+        "scrollY": 725.3333333333334
+    },
+    {
+        "id": 133,
+        "expanded": true,
+        "name": "スラム街（ドリーネ）",
+        "order": 25,
+        "parentId": 135,
+        "scrollX": 1316.6666666666667,
+        "scrollY": 690
+    },
+    {
+        "id": 134,
+        "expanded": true,
+        "name": "CF邸",
+        "order": 20,
+        "parentId": 132,
+        "scrollX": 784.6666666666666,
+        "scrollY": 725.3333333333334
+    },
+    {
+        "id": 135,
+        "expanded": true,
+        "name": "メルブレキトゥンズ",
+        "order": 14,
+        "parentId": 0,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 136,
+        "expanded": true,
+        "name": "イベント用マップ",
+        "order": 16,
+        "parentId": 135,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    null,
+    {
+        "id": 138,
+        "expanded": true,
+        "name": "ボスバトルマップ",
+        "order": 36,
+        "parentId": 135,
+        "scrollX": 566,
+        "scrollY": 792.6666666666666
+    },
+    {
+        "id": 139,
+        "expanded": true,
+        "name": "VSメグナ",
+        "order": 37,
+        "parentId": 138,
+        "scrollX": 636.75,
+        "scrollY": 891.75
+    },
+    {
+        "id": 140,
+        "expanded": true,
+        "name": "ベルチョコサンプル",
+        "order": 13,
+        "parentId": 1,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 141,
+        "expanded": true,
+        "name": "アニスギルド",
+        "order": 18,
+        "parentId": 131,
+        "scrollX": 739.5,
+        "scrollY": 586.5
+    },
+    {
+        "id": 142,
+        "expanded": true,
+        "name": "ドリーネ最初のイベ",
+        "order": 21,
+        "parentId": 134,
+        "scrollX": 692.5,
+        "scrollY": 586.5
+    },
+    {
+        "id": 143,
+        "expanded": true,
+        "name": "宿屋(イベント）",
+        "order": 22,
+        "parentId": 142,
+        "scrollX": 1518.6666666666667,
+        "scrollY": 881.3333333333334
+    },
+    {
+        "id": 144,
+        "expanded": true,
+        "name": "宿屋",
+        "order": 29,
+        "parentId": 133,
+        "scrollX": 555.3333333333334,
+        "scrollY": 700.6666666666666
+    },
+    {
+        "id": 145,
+        "expanded": false,
+        "name": "ギルド(イベント）",
+        "order": 23,
+        "parentId": 143,
+        "scrollX": 747.5,
+        "scrollY": 613.5
+    },
+    {
+        "id": 146,
+        "expanded": true,
+        "name": "ダンジョン",
+        "order": 77,
+        "parentId": 135,
+        "scrollX": 700.5,
+        "scrollY": 594.5
+    },
+    {
+        "id": 147,
+        "expanded": true,
+        "name": "メグナイベント",
+        "order": 38,
+        "parentId": 139,
+        "scrollX": 682,
+        "scrollY": 782
+    }
+]
