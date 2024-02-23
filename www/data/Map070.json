@@ -4899,7 +4899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>くすくす♥"
+                                "\\n<Enemy_Succubus>くすくす♥"
                             ]
                         },
                         {
@@ -4981,7 +4981,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あら、どうして離れないの？"
+                                "\\n<Enemy_Succubus>あら、どうして離れないの？"
                             ]
                         },
                         {
@@ -5019,7 +5019,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ふふ♥そうよね♥"
+                                "\\n<Enemy_Succubus>ふふ♥そうよね♥"
                             ]
                         },
                         {
@@ -5744,7 +5744,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ふふ♥思った通り。"
+                                "\\n<Enemy_Succubus>ふふ♥思った通り。"
                             ]
                         },
                         {
@@ -5791,7 +5791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>他の人間ならすぐ私の虜になって"
+                                "\\n<Enemy_Succubus>他の人間ならすぐ私の虜になって"
                             ]
                         },
                         {
@@ -5849,7 +5849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>とても強い正義感を持っているのね。素敵だわ♥"
+                                "\\n<Enemy_Succubus>とても強い正義感を持っているのね。素敵だわ♥"
                             ]
                         },
                         {
@@ -5899,7 +5899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ま、その様子を見るに、"
+                                "\\n<Enemy_Succubus>ま、その様子を見るに、"
                             ]
                         },
                         {
@@ -5946,7 +5946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>壊れる一歩手前の理性。"
+                                "\\n<Enemy_Succubus>壊れる一歩手前の理性。"
                             ]
                         },
                         {
@@ -6173,7 +6173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>アナタと同じ血が流れているだけあって、"
+                                "\\n<Enemy_Succubus>アナタと同じ血が流れているだけあって、"
                             ]
                         },
                         {
@@ -6220,7 +6220,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ただ、経験不足だったみたいね。"
+                                "\\n<Enemy_Succubus>ただ、経験不足だったみたいね。"
                             ]
                         },
                         {
@@ -6277,7 +6277,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>感の鋭い子。"
+                                "\\n<Enemy_Succubus>感の鋭い子。"
                             ]
                         },
                         {
@@ -6324,7 +6324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>でも、心が弱すぎ♥"
+                                "\\n<Enemy_Succubus>でも、心が弱すぎ♥"
                             ]
                         },
                         {
@@ -6381,7 +6381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>さぁ♥おいで♥"
+                                "\\n<Enemy_Succubus>さぁ♥おいで♥"
                             ]
                         },
                         {
@@ -6504,7 +6504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>んふふ♥どうかしら♥"
+                                "\\n<Enemy_Succubus>んふふ♥どうかしら♥"
                             ]
                         },
                         {
@@ -6691,7 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>どうするべきか、分かったでしょう？"
+                                "\\n<Enemy_Succubus>どうするべきか、分かったでしょう？"
                             ]
                         },
                         {
@@ -6722,7 +6722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ここまでよく頑張ったわね♥"
+                                "\\n<Enemy_Succubus>ここまでよく頑張ったわね♥"
                             ]
                         },
                         {
@@ -6760,7 +6760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>まだまだこれから、もっと強くなる。"
+                                "\\n<Enemy_Succubus>まだまだこれから、もっと強くなる。"
                             ]
                         },
                         {
@@ -6791,7 +6791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>こっちにおいで♥"
+                                "\\n<Enemy_Succubus>こっちにおいで♥"
                             ]
                         },
                         {
@@ -6829,7 +6829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ほら、おっぱいがひとつ余ってるわよ♥"
+                                "\\n<Enemy_Succubus>ほら、おっぱいがひとつ余ってるわよ♥"
                             ]
                         },
                         {
@@ -7182,7 +7182,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>全て忘れなさい♥今までのこと。これからのこと。"
+                                "\\n<Enemy_Succubus>全て忘れなさい♥今までのこと。これからのこと。"
                             ]
                         },
                         {
@@ -7473,7 +7473,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あら、意外と頑張るのね。"
+                                "\\n<Enemy_Succubus>あら、意外と頑張るのね。"
                             ]
                         },
                         {
@@ -7513,7 +7513,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>無理やりチャームするのは好きじゃないんだけど・・・"
+                                "\\n<Enemy_Succubus>無理やりチャームするのは好きじゃないんだけど・・・"
                             ]
                         },
                         {
@@ -7771,7 +7771,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>・・・！！！"
+                                "\\n<Enemy_Succubus>・・・！！！"
                             ]
                         },
                         {
@@ -7905,7 +7905,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>何・・・！？"
+                                "\\n<Enemy_Succubus>何・・・！？"
                             ]
                         },
                         {
@@ -7938,7 +7938,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>・・・目がチカチカする。"
+                                "\\n<Enemy_Succubus>・・・目がチカチカする。"
                             ]
                         },
                         {
@@ -7978,7 +7978,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あら・・・"
+                                "\\n<Enemy_Succubus>あら・・・"
                             ]
                         },
                         {
@@ -8018,7 +8018,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>まぁいいわ。そろそろ援軍も着く頃だろうし。"
+                                "\\n<Enemy_Succubus>まぁいいわ。そろそろ援軍も着く頃だろうし。"
                             ]
                         },
                         {
@@ -8227,7 +8227,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>うふふ♥"
+                                "\\n<Enemy_Succubus>うふふ♥"
                             ]
                         },
                         {
@@ -8394,7 +8394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>これでこの子たちは私の虜♥"
+                                "\\n<Enemy_Succubus>これでこの子たちは私の虜♥"
                             ]
                         },
                         {
@@ -12912,7 +12912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>後ろがら空きぃ♥"
+                                "\\n<Enemy_Succubus>後ろがら空きぃ♥"
                             ]
                         },
                         {
@@ -12994,7 +12994,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>なぁに？パンパンされて出るー？"
+                                "\\n<Enemy_Succubus>なぁに？パンパンされて出るー？"
                             ]
                         },
                         {
@@ -13032,7 +13032,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>んーっ♥ヤバい締まりゅぅ♥"
+                                "\\n<Enemy_Succubus>んーっ♥ヤバい締まりゅぅ♥"
                             ]
                         },
                         {
@@ -14081,7 +14081,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>チャーム♥チャーム♥チャーム♥"
+                                "\\n<Enemy_Succubus>チャーム♥チャーム♥チャーム♥"
                             ]
                         },
                         {
@@ -14163,7 +14163,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>テラ様ぁ♥この子イっちゃうってさ♥"
+                                "\\n<Enemy_Succubus>テラ様ぁ♥この子イっちゃうってさ♥"
                             ]
                         },
                         {
@@ -14201,7 +14201,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あははは♥イっちゃってる♥あーぁ♥"
+                                "\\n<Enemy_Succubus>あははは♥イっちゃってる♥あーぁ♥"
                             ]
                         },
                         {
@@ -14263,7 +14263,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>言われなくてもそうなると思いますー♥"
+                                "\\n<Enemy_Succubus>言われなくてもそうなると思いますー♥"
                             ]
                         },
                         {
@@ -15321,7 +15321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ん・・・捕まえた。"
+                                "\\n<Enemy_Succubus>ん・・・捕まえた。"
                             ]
                         },
                         {
@@ -15391,7 +15391,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あ、テラ様。"
+                                "\\n<Enemy_Succubus>あ、テラ様。"
                             ]
                         },
                         {
@@ -15429,7 +15429,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あっあっ！ごめんなさい・・・"
+                                "\\n<Enemy_Succubus>あっあっ！ごめんなさい・・・"
                             ]
                         },
                         {
@@ -16418,7 +16418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>ぎゅぅぅぅ♥♥"
+                                "\\n<Enemy_Succubus>ぎゅぅぅぅ♥♥"
                             ]
                         },
                         {
@@ -16488,7 +16488,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>テラ様、もうダメみたいです。"
+                                "\\n<Enemy_Succubus>テラ様、もうダメみたいです。"
                             ]
                         },
                         {
@@ -16526,7 +16526,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あっ！まだ返事聞いてないのに！"
+                                "\\n<Enemy_Succubus>あっ！まだ返事聞いてないのに！"
                             ]
                         },
                         {

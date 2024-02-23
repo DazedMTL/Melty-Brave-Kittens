@@ -5075,7 +5075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>捕まえました♥れろぉ・・・♥"
+                                "\\n<Enemy_Succubus>捕まえました♥れろぉ・・・♥"
                             ]
                         },
                         {
@@ -5157,7 +5157,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>んぁ♥れろれろ・・・♥"
+                                "\\n<Enemy_Succubus>んぁ♥れろれろ・・・♥"
                             ]
                         },
                         {
@@ -5195,7 +5195,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>きゃぁ♥びゅるびゅる飛び出してます♥"
+                                "\\n<Enemy_Succubus>きゃぁ♥びゅるびゅる飛び出してます♥"
                             ]
                         },
                         {
@@ -10987,7 +10987,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あ・・・う・・・"
+                                "\\n<Enemy_Succubus>あ・・・う・・・"
                             ]
                         },
                         {
@@ -11825,7 +11825,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あ・・・う・・・"
+                                "\\n<Enemy_Succubus>あ・・・う・・・"
                             ]
                         },
                         {
@@ -12899,7 +12899,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>う・・・♥あ・・・♥"
+                                "\\n<Enemy_Succubus>う・・・♥あ・・・♥"
                             ]
                         },
                         {
@@ -13852,7 +13852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>う・・・♥あ・・・♥"
+                                "\\n<Enemy_Succubus>う・・・♥あ・・・♥"
                             ]
                         },
                         {
@@ -15015,7 +15015,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あぅ・・・♥"
+                                "\\n<Enemy_Succubus>あぅ・・・♥"
                             ]
                         },
                         {
@@ -15931,7 +15931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[SUCCUBUS]>あぅ・・・♥"
+                                "\\n<Enemy_Succubus>あぅ・・・♥"
                             ]
                         },
                         {
