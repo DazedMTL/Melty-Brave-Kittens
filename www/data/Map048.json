@@ -4951,21 +4951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ふぅ・・・やっとまいたか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かなり遠回りしたけど、スラムの居住区までは降りてこられた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "モノがモノだけに、今日はしつこかったなぁ・・・"
+                                "\\n<Radro>Phew... I've finally made it... It was quite a detour, but I\nmanaged to get down to the slum residential area. With such\na prize, they were particularly persistent today..."
                             ]
                         },
                         {
@@ -4998,21 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>まぁでも、普段から予告状出してて良かった♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『大物を狙う時はいきなり約束破ると警備が薄くなる』って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママの言ってた通りだ♥"
+                                "\\n<Radro>Well, it's a good thing I usually send out a warning notice.\n♥ \"When you're aiming for a big catch, breaking the promise\nsuddenly thins out the guards,\" just like mom used to say. ♥"
                             ]
                         },
                         {
@@ -5054,21 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>こんなでっかい宝石・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でも買える♥お腹いっぱい食べさせられる♥"
+                                "\\n<Radro>Such a huge gemstone... kufufu ♥ I can buy anything ♥ I can\nfeed everyone to their heart's content ♥"
                             ]
                         },
                         {
@@ -5120,21 +5078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>月夜に～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "猫から逃げられるわけ～♪"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ないにゃお～ん♥"
+                                "\\n<Rui>In the moonlit night~♪ There's no way to escape from a cat~♪\nmeow~n ♥"
                             ]
                         },
                         {
@@ -5168,7 +5112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>そうはさせないぞ！"
+                                "\\n<Rui>I won't let you do that!"
                             ]
                         },
                         {
@@ -5429,14 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ぐ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（くそ！やっぱりRui・・・！）"
+                                "\\n<Radro>Gah...! (Damn it! It's Rui again...!)"
                             ]
                         },
                         {
@@ -5568,21 +5505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>今日こそはお縄に・・・お縄に・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お縄にちょうだい致しまする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれ？セリフ考えてたのに分からなくなっちゃった！"
+                                "\\n<Rui>Today for sure, you'll be caught... caught... please let\nyourself be caught? Huh? I had my line thought out, but now\nI've forgotten it!"
                             ]
                         },
                         {
@@ -5616,7 +5539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ヒーロー参上！"
+                                "\\n<Rui>Hero to the rescue!"
                             ]
                         },
                         {
@@ -5691,21 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（まぁ、正直ここまでは想定済み。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiの足はやっかいだ。）"
+                                "\\n<Radro>... (Well, honestly, this was all expected. Rui's agility is\ntroublesome.)"
                             ]
                         },
                         {
@@ -5738,21 +5647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（氷魔法で足を奪う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それから・・・）"
+                                "\\n<Radro>... (I'll take away their mobility with ice magic... and\nthen...)"
                             ]
                         },
                         {
@@ -5785,14 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>（あまりケガはさせたくないから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりあの手で行くしかない。）"
+                                "\\n<Radro>(I don't want to hurt them too much... so I guess I have no\nchoice but to use that method.)"
                             ]
                         },
                         {
@@ -5848,21 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>あのね、キミの弱点はもう分かってるの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってほら、前回だって。ねぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Radro>You know, I've already figured out your weakness ♥ After\nall, look at last time. Right? ♥ Kusukusu ♥"
                             ]
                         },
                         {
@@ -5895,21 +5769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>お顔真っ赤にしてさ♥あれほんと可愛かったよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またあの顔、見たいなぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度見せてぇ♥"
+                                "\\n<Radro>Your face turned so red ♥ It was really cute ♥ I want to see\nthat face again ♥ Show it to me one more time ♥"
                             ]
                         },
                         {
@@ -6030,21 +5890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>にゃぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な、なんで脱ぐのぉ？や、やめてよこっちが恥ずかしいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "羞恥心とか、無いの？"
+                                "\\n<Rui>Nyaa!! Wh-why are you undressing? St-stop it, it's\nembarrassing for me! Don't you have any sense of shame?"
                             ]
                         },
                         {
@@ -6071,21 +5917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぬ、脱ぐな！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しゅ、羞恥心とかないのかぁ・・・！"
+                                "\\n<Rui>Ugh... ♥ Do-don't strip! Do-don't you have any sense of\nshame...!"
                             ]
                         },
                         {
@@ -6135,21 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>羞恥心？ないね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなものは家の引き出しにしまって来たの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鍵を掛けてね！あはは！"
+                                "\\n<Radro>Sense of shame? Nope! I left that at home in a drawer.\nLocked it up tight! Ahaha!"
                             ]
                         },
                         {
@@ -6189,7 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>（死ぬほど恥ずかしいわ！）"
+                                "\\n<Radro>(I'm dying of embarrassment here!)"
                             ]
                         },
                         {
@@ -6238,7 +6056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ち、痴女だぁ！！"
+                                "\\n<Rui>You pervert!!"
                             ]
                         },
                         {
@@ -6265,7 +6083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ズボンを履け！へ、変態仮面！"
+                                "\\n<Rui>Put your pants on! You, exhibitionist!"
                             ]
                         },
                         {
@@ -6354,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>（殺すぞクソガキッ・・・！！）"
+                                "\\n<Radro>(I'll kill you, you little brat...!!)"
                             ]
                         },
                         {
@@ -6417,7 +6235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・にゃぁ・・・///"
+                                "\\n<Rui>Uh... nyaa...///"
                             ]
                         },
                         {
@@ -6444,14 +6262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うぅ・・・///"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（目のやり場に困る・・・）"
+                                "\\n<Rui>Ugh.../// (I don't know where to look...)"
                             ]
                         },
                         {
@@ -6503,21 +6314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>（効いてる効いてる。落ち着きなさい。ラドロ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は絶対にこんなところで捕まるわけにはいかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな手を使ってでも。）"
+                                "\\n<Radro>(It's working, it's working. Calm down, Radro. I absolutely\ncannot afford to be caught here. No matter what it takes.)"
                             ]
                         },
                         {
@@ -6550,21 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ふふ♥戦える？私の姿すらまともに見れないのに♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くすくす♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっとしてたら、お姉さんがいいコトしたげる♥"
+                                "\\n<Radro>Fufu ♥ Can you fight? You can't even look at me properly ♥\nKusukusu ♥ If you stay still, big sis will do something nice\nfor you ♥"
                             ]
                         },
                         {
@@ -6597,14 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>抵抗しないでね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その方が、お互いの為になるもの♥"
+                                "\\n<Radro>Don't resist ♥ It's better for both of us that way ♥"
                             ]
                         },
                         {

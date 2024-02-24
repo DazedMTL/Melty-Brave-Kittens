@@ -24,7 +24,7 @@
         ],
         "initialLevel": 5,
         "maxLevel": 99,
-        "name": "ルイ",
+        "name": "Rui",
         "nickname": "",
         "note": "<equipSlotEx:1 2 4 5 6>\n",
         "profile": ""
@@ -47,7 +47,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "二人目",
+        "name": "Second one",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -70,7 +70,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "敵の名前",
+        "name": "Enemy's name",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -93,7 +93,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "4攻撃部位（手、胸）",
+        "name": "4 attack parts (hand, chest)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -122,7 +122,7 @@
         ],
         "initialLevel": 10,
         "maxLevel": 99,
-        "name": "フリオ",
+        "name": "Fulio",
         "nickname": "",
         "note": "<equipSlotEx:1 6>",
         "profile": ""
@@ -151,7 +151,7 @@
         ],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ユイネ",
+        "name": "Yuine",
         "nickname": "",
         "note": "<equipSlotEx:1 6>",
         "profile": ""
@@ -174,7 +174,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アイリン",
+        "name": "Airin",
         "nickname": "",
         "note": "<equipSlotEx:1 6>",
         "profile": ""
@@ -197,7 +197,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "呼び方",
+        "name": "Way of calling",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -220,7 +220,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エイミー",
+        "name": "Amy",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -243,7 +243,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "10行動名（パイズリなど）",
+        "name": "10 action name (such as titty-fucking)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -266,7 +266,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "11特殊ワード（乳肉）",
+        "name": "11 special word (breast meat)",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -289,7 +289,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "敵の弱点",
+        "name": "Enemy's weak point",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -312,7 +312,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "敵の説明",
+        "name": "Enemy's description",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -335,7 +335,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "行動パターン1",
+        "name": "Action pattern 1",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -358,7 +358,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "行動パターン2",
+        "name": "Action pattern 2",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -381,7 +381,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "一時ワード保存",
+        "name": "Temporary word storage",
         "nickname": "",
         "note": "",
         "profile": ""
@@ -450,7 +450,7 @@
         "traits": [],
         "initialLevel": 5,
         "maxLevel": 99,
-        "name": "右手",
+        "name": "Right hand",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -473,7 +473,7 @@
         "traits": [],
         "initialLevel": 5,
         "maxLevel": 99,
-        "name": "左手",
+        "name": "Left hand",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -496,7 +496,7 @@
         "traits": [],
         "initialLevel": 20,
         "maxLevel": 99,
-        "name": "ムー",
+        "name": "Moo",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -519,7 +519,7 @@
         "traits": [],
         "initialLevel": 10,
         "maxLevel": 99,
-        "name": "ルナ",
+        "name": "Luna",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -542,7 +542,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "あ",
+        "name": "Ah",
         "nickname": "",
         "note": "<equipSlotEx:1 6>",
         "profile": ""
@@ -565,7 +565,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アリス",
+        "name": "Alice",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -612,7 +612,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "メグナ",
+        "name": "Megna",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -636,7 +636,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ラティエ",
+        "name": "Latier",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -660,7 +660,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "シェイカ＆バーリィ",
+        "name": "Sheika & Barley",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -684,7 +684,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "バーリィ",
+        "name": "Barley",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -708,7 +708,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "アルノ",
+        "name": "Arno",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -732,7 +732,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "インプ",
+        "name": "Imp",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -756,7 +756,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "メーレ",
+        "name": "Meere",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -780,7 +780,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "サキュバス",
+        "name": "Succubus",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -804,7 +804,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エルフ",
+        "name": "Elf",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -827,7 +827,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "マキサ",
+        "name": "Makisa",
         "nickname": "",
         "note": "<equipSlotEx:1 6>",
         "profile": ""
@@ -850,7 +850,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "ウォルフ",
+        "name": "Wolf",
         "nickname": "",
         "note": "<equipSlotEx:1 6>",
         "profile": ""
@@ -873,7 +873,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "キャンティ",
+        "name": "Canti",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -896,7 +896,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "エクスピラ",
+        "name": "Expila",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -920,7 +920,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "クリルク",
+        "name": "Krilk",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""
@@ -944,7 +944,7 @@
         "traits": [],
         "initialLevel": 1,
         "maxLevel": 99,
-        "name": "チトリ",
+        "name": "Chitri",
         "nickname": "",
         "note": "<equipSlotEx:1 6>\n",
         "profile": ""

@@ -4020,21 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シオン、気を付けろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "明らかに普通じゃない魔力を感じる！"
+                                "\\n<Moo>\"...! Shion, be careful. I sense a magic power that's\nclearly not normal!\""
                             ]
                         },
                         {
@@ -4076,7 +4062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<勇者シオン>・・・"
+                                "\\n<Hero Shion>\"...\""
                             ]
                         },
                         {
@@ -4119,7 +4105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<勇者シオン>・・・"
+                                "\\n<Hero Shion>\"...\""
                             ]
                         },
                         {
@@ -4901,21 +4887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>ふーん、アナタが勇者？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "随分と遅かったじゃん。"
+                                "\\n<Wadsworth>\"Hm, so you're the hero? I see. You sure took your time\ngetting here.\""
                             ]
                         },
                         {
@@ -4958,21 +4930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>ほう。お前が勇者か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "随分と遅かったな。"
+                                "\\n<Rui-Chan>\"Oh? You're the hero? I see. You've certainly taken your\ntime.\""
                             ]
                         },
                         {
@@ -5033,21 +4991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>ドラゴンと一緒に旅してるって聞いてたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさか、そのポメラニアンみたいなやつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あはは！"
+                                "\\n<Rui-Chan>\"I heard you were traveling with a dragon, but could it be\nthat Pomeranian-looking thing? Ahaha!\""
                             ]
                         },
                         {
@@ -5090,21 +5034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>ドラゴンと一緒に旅してるって聞いてたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まさか、そのポメラニアンみたいなやつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あはは！"
+                                "\\n<Wadsworth>\"I heard you were traveling with a dragon, but could it be\nthat Pomeranian-looking thing? Ahaha!\""
                             ]
                         },
                         {
@@ -5163,7 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>ルイシャム！？ワンズワース！？"
+                                "\\n<Chelsea>\"Ruisham!? Wanzworth!?\""
                             ]
                         },
                         {
@@ -5205,14 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルナ>ん？知り合い？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ていうか、似てない？"
+                                "\\n<Luna>\"Hm? Someone you know? ...Or rather, don't they look alike?\""
                             ]
                         },
                         {
@@ -5254,21 +5177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>わたしの妹と弟だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてこんなところに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どういうこと？"
+                                "\\n<Chelsea>\"They're my younger sister and brother. Why are you here...\nWhat's going on?\""
                             ]
                         },
                         {
@@ -5333,14 +5242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>相変わらずお姉ちゃんは察しが悪いなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクらはもう、昔のボクらじゃないってことさ。"
+                                "\\n<Rui-Chan>\"As usual, big sis is slow on the uptake. We're not the same\nas we used to be.\""
                             ]
                         },
                         {
@@ -5383,21 +5285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>相変わらずだね。おねーちゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見たら分かるでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私達はもう、昔の私達じゃないの。"
+                                "\\n<Wadsworth>\"You're as oblivious as ever, big sis. Can't you see? We're\nnot who we used to be.\""
                             ]
                         },
                         {
@@ -5458,21 +5346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>説得は無理だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私達は知っちゃったから。色んなこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここを通すわけにはいかない。"
+                                "\\n<Wadsworth>\"Persuasion is futile. We've come to know too much. Various\nthings. We can't let you pass here.\""
                             ]
                         },
                         {
@@ -5515,21 +5389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>説得は無理だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクらは知っているんだ。色んなことを。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから、ここを通すわけにはいかない。"
+                                "\\n<Rui-Chan>\"Persuasion is futile. We know too much now. Various things.\nThat's why we can't let you pass here.\""
                             ]
                         },
                         {
@@ -5595,21 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ど、どうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シオンに、チェルシーの弟達を斬れと・・・？）"
+                                "\\n<Moo>\"...(What do we do? Can I really ask Shion to cut down\nChelsea's siblings...?)\""
                             ]
                         },
                         {
@@ -5651,7 +5497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>・・・"
+                                "\\n<Chelsea>\"...\""
                             ]
                         },
                         {
@@ -5693,21 +5539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（そんな残酷なことはさせられない。逃げるか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、獣人から逃げるのは・・・）"
+                                "\\n<Moo>\"...(I can't let such a cruel thing happen. Should we run?\nNo, escaping from beastmen is...)\""
                             ]
                         },
                         {
@@ -5795,21 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>んんん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイシャム、ワンズワース。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしが家を出た後、何があったか分からないけど・・・"
+                                "\\n<Chelsea>\"Nnnn! Ruisham, Wanzworth. I don't know what happened after\nI left home, but...\""
                             ]
                         },
                         {
@@ -5888,21 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>いいよ！シオン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはわたしに任せて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キョウダイ喧嘩だもん。わたしがなんとかする。"
+                                "\\n<Chelsea>\"It's okay! Shion, leave this to me! It's a sibling fight\nafter all. I'll handle it.\""
                             ]
                         },
                         {
@@ -5944,14 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルナ>大丈夫？チェルシー・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ルナなんか瞬殺されるレベルの魔力を感じるんだけど。）"
+                                "\\n<Luna>\"Are you okay, Chelsea... (But I sense a level of magic\npower that could instantly kill someone like Luna.)\""
                             ]
                         },
                         {
@@ -5993,21 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>シオン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは・・・下がれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "任せたぞ。チェルシー。"
+                                "\\n<Moo>\"Shion. Step back... Leave it to me, Chelsea.\""
                             ]
                         },
                         {
@@ -6525,21 +6308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>猫借手も出来ない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出来損ないのおねーちゃんに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私達が倒せると思ってる？"
+                                "\\n<Wadsworth>\"Do you really think we can be defeated by a big sis who\ncan't even borrow a cat's paw, a failure at that?\""
                             ]
                         },
                         {
@@ -6582,21 +6351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>猫借手も出来ない、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "出来損ないのお姉ちゃんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクらに勝てると思ってるの？"
+                                "\\n<Rui-Chan>\"Do you really think a big sis who can't even borrow a cat's\npaw, a failure at that, can beat us?\""
                             ]
                         },
                         {
@@ -6662,7 +6417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>『できない』って、そんなに悪いことなの？"
+                                "\\n<Chelsea>\"'Can't do' it, is that such a bad thing?\""
                             ]
                         },
                         {
@@ -6695,21 +6450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>できなかったから、他の事をがんばったんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしはわたしの道を見つけた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタたちは、自分の足でここまで歩いてきたの？"
+                                "\\n<Chelsea>\"Because I couldn't do it, I tried hard at other things. I\nfound my own path. Did you walk here on your own feet?\""
                             ]
                         },
                         {
@@ -6742,21 +6483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>どうせ誰かに手を引かれて、流されるまま来たんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の手を借りなきゃ戦えないチビ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほーんと、手のかかる双子だよ。"
+                                "\\n<Chelsea>\"You probably just got dragged along by someone else's hand.\nA little runt who can't fight without borrowing someone\nelse's strength. Really, such troublesome twins.\""
                             ]
                         },
                         {
@@ -6882,21 +6609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>まとめてかかってこい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手なんて2本もあれば十分だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねーちゃんが、愛のある拳の痛さを教えてやる！"
+                                "\\n<Chelsea>\"Come at me all at once! Two hands are more than enough! Big\nsis will teach you the pain of a fist filled with love!\""
                             ]
                         },
                         {
@@ -6932,7 +6645,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>\\C[14]\\{『ちからくらべ』だッ！"
+                                "\\C[14]\\n<Chelsea>\"It's a 'test of strength'!\""
                             ]
                         },
                         {
@@ -6975,14 +6688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　\\C[14]ED1　『悪の天才と正義の出来損ない』"
+                                "\\C[14]ED1 \"The Evil Genius and the Failure of Justice\""
                             ]
                         },
                         {
@@ -6999,7 +6705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メルティブレイブ本編に続く・・・"
+                                "Melty Brave main story continues..."
                             ]
                         },
                         {

@@ -2823,21 +2823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>ルイシャム！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "聞いて聞いて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "凄いこと聞いちゃった！"
+                                "\\n<Wadsworth>Rui-sham! Listen, listen! I've heard something amazing!"
                             ]
                         },
                         {
@@ -3212,14 +3198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>メイドさんが話してたの！盗み聞きしたんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最近、『猫の獣人でバカぢからの冒険者』が噂になってるって！"
+                                "\\n<Wadsworth>The maids were talking about it! I eavesdropped, and\napparently, there's a rumor about an adventurer who's a\nbeast-person with cat-like traits and incredible strength!"
                             ]
                         },
                         {
@@ -3259,21 +3238,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>絶対お姉ちゃんじゃん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お姉ちゃん、冒険者になったんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "間違いない！"
+                                "\\n<Wadsworth>It's definitely our big sister! Our sister became an\nadventurer! No doubt about it!"
                             ]
                         },
                         {
@@ -3348,7 +3313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>それってさ、つまり・・・"
+                                "\\n<Rui-chan>That means, in other words..."
                             ]
                         },
                         {
@@ -3425,7 +3390,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>探しに行くしかないでしょうよ。"
+                                "\\n<Wadsworth>We have no choice but to go look for her."
                             ]
                         },
                         {
@@ -3458,7 +3423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>抜け出すしかないな！"
+                                "\\n<Rui-chan>We've got to sneak out!"
                             ]
                         },
                         {
@@ -3491,14 +3456,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>貯めたお小遣いと、何かいるもの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それだけばーっとかき集めて、今夜中に出よう！"
+                                "\\n<Wadsworth>Just gather up the pocket money we've saved and anything\nelse we need! Let's set out before the night is over!"
                             ]
                         },
                         {

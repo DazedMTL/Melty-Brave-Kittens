@@ -5490,21 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>どうやら薬を盛られたか、相打ちになったようだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのRuiとやらが怪盗を捕まえた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっぱれ、見事な働きであった！"
+                                "\\n<Count Noblesse>It seems either drugs were involved or it was a mutual\ntakedown, but that Rui managed to capture the phantom thief.\nSplendid, what an impressive feat!"
                             ]
                         },
                         {
@@ -5521,14 +5507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>報酬を上乗せしてやろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これを受け取れ。"
+                                "\\n<Count Noblesse>I'll add a bonus to your reward. Take this."
                             ]
                         },
                         {
@@ -5681,14 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは・・・\\C[14]呼狼石\\C[0]では？"
+                                "\\n<Guild Master>...Is this... a \\C[14]Call Wolf Stone\\C[0]?"
                             ]
                         },
                         {
@@ -5759,21 +5731,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>の、偽物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はなからそんなものは持っていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくら私と言えども、世界4大金剛石はな。"
+                                "\\n<Count Noblesse>No, it's a fake. I never had such a thing to begin with.\nEven I don't possess one of the world's four great diamonds."
                             ]
                         },
                         {
@@ -5837,21 +5795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>う・・・ぐ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "に、偽物・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、騙したのか・・・！？"
+                                "\\n<Ladro>Ugh... gah... a fake...? You tricked me...!?"
                             ]
                         },
                         {
@@ -5906,7 +5850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>おい、次にそいつが喋ったら腹を蹴り飛ばせ。"
+                                "\\n<Count Noblesse>Hey, if that guy speaks again, kick him in the stomach."
                             ]
                         },
                         {
@@ -5963,21 +5907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>だが偽物に価値がないわけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "100万G程度の価値はあるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くれてやる。遠慮はいらん。"
+                                "\\n<Count Noblesse>But just because it's a fake doesn't mean it's worthless. It\nshould be worth about 1 million G. I'll give it to you. No\nneed to hold back."
                             ]
                         },
                         {
@@ -6003,21 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>おいおい、随分と気前がいいじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこまでして、そいつが憎かったのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はっ。金持ちは余裕があるんだか、無いんだか。"
+                                "\\n<Guild Master>Hey now, aren't you being quite generous. Did you hate that\nguy that much? Hah. It's hard to tell if the rich are really\ngenerous or just pretending."
                             ]
                         },
                         {
@@ -6043,14 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>口の聞き方に気を付けろよ下民。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上からの好意は素直に受け取っておくべきだと思うが？"
+                                "\\n<Count Noblesse>Watch your mouth, commoner. I think you should gratefully\naccept kindness from those above you, don't you?"
                             ]
                         },
                         {
@@ -6076,14 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>へいへ～い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族様の優しさには頭が上げられねーわ。"
+                                "\\n<Guild Master>Yes, yes~ I can't help but bow to the nobility's generosity."
                             ]
                         },
                         {
@@ -6100,21 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（しかし、偽物とはいえこれを売り捌くのに時間がかかるな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鑑定士と売人、信用の出来るやつを厳選しなくては。）"
+                                "\\n<Guild Master>...(However, even if it's a fake, it will take time to sell\nthis off. I'll need to carefully select a trustworthy\nappraiser and dealer.)"
                             ]
                         },
                         {
@@ -6131,14 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>（ちっ。メンドクサイぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つか100万Gなんてホントかよ。嘘くせぇな。）"
+                                "\\n<Guild Master>(Tch. What a hassle. And is that 1 million G for real?\nSounds fishy.)"
                             ]
                         },
                         {
@@ -6171,14 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>では、我々は撤収する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャツを上の裁判所で裁いて、牢屋にぶち込まねばいけないからな。"
+                                "\\n<Count Noblesse>Then, we shall take our leave. We must judge Cats in the\nhigher court and throw him into prison."
                             ]
                         },
                         {
@@ -6234,14 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ぜ、\\C[14]絶対にはなさないでね！！\\C[0]"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "傷付けちゃうかもしれないから！"
+                                "\\n<Ladro>P-Please, \\C[14]don't let go of me!!\\C[0] I might get hurt!"
                             ]
                         },
                         {
@@ -6274,21 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>私、こう見えても乱暴な女なの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし連行中に手を離したら、あんた達なんかボコボコだよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、\\C[14]絶対にはなさないでね！\\C[0]"
+                                "\\n<Ladro>I may not look it, but I'm a rough woman♥ If you let go of\nme during the escort, I'll beat you all up♥ So, \\C[14]please\ndon't let go!\\C[0]"
                             ]
                         },
                         {
@@ -6381,14 +6234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<私兵>調子に乗るな！コソ泥め！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今の状況が分かっているのか？"
+                                "\\n<Private Soldier>Don't get cocky! You thief! Do you even understand the\nsituation you're in?"
                             ]
                         },
                         {
@@ -6414,14 +6260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>じゃあな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もうここに来ることはないだろう。"
+                                "\\n<Count Noblesse>Farewell then. It's unlikely you'll come here again."
                             ]
                         },
                         {
@@ -6454,7 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
+                                "\\n<Ladro>..."
                             ]
                         },
                         {
@@ -6536,21 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、いつかこういう日が来るってのは分かってたさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ラドロ。"
+                                "\\n<Guild Master>...Well, I knew a day like this would come eventually.\nLadro."
                             ]
                         },
                         {
@@ -6567,21 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>\\C[14]絶対に話さないで\\C[0]、か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪盗の正体を知ったら、Ruiは責任を感じるだろうからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かったよ。"
+                                "\\C[14]\\n<Guild Master>Not telling Rui\\C[0], huh. If they knew the true identity of\nthe phantom thief, Rui would feel responsible. Understood."
                             ]
                         },
                         {
@@ -6598,21 +6409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>しかし、この期に及んでRuiの心配とは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "タフな女だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・この宝石、どうすっかなぁ。"
+                                "\\n<Guild Master>But to worry about Rui at a time like this. You're a tough\nwoman indeed. Sigh... What to do with this gemstone now."
                             ]
                         },
                         {
@@ -6636,7 +6433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>高く売れたらガキ共に全部くれてやるよ。"
+                                "\\n<Guild Master>If it sells for a good price, I'll give it all to the kids."
                             ]
                         },
                         {
@@ -6842,14 +6639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>はいこれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつも通り、お願いね♥"
+                                "\\n<Radro>Here it is! As usual, please take care of it♥"
                             ]
                         },
                         {
@@ -7009,14 +6799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>\\C[14]呼狼石\\C[0]か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でけぇな。想像していた以上だ。"
+                                "\\C[14]\\n<Guild Master>A Howling Stone\\C[0], huh... It's huge. Bigger than I\nimagined."
                             ]
                         },
                         {
@@ -7103,14 +6886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>なるべく高く売ってよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大変だったんだから。色々と。"
+                                "\\n<Radro>Try to sell it for as much as possible, okay? It was quite a\nhassle to get. In various ways."
                             ]
                         },
                         {
@@ -7165,21 +6941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>あぁ、だがこれはちと時間がかかるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まともな鑑定士と口の堅い売人を厳選しねーと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっ・・・ここまでのお宝だと売るのも一苦労だ。"
+                                "\\n<Guild Master>Yeah, but this is going to take some time. I need to\ncarefully select a decent appraiser and a tight-lipped\nseller. Tch... It's a real pain to sell a treasure of this\ncaliber."
                             ]
                         },
                         {
@@ -7212,21 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>管理はしっかりしてよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここにあることバレたら、下手すりゃ殺し合いになっちゃう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知ってるのは私と、マスターと、Ruiだけ。"
+                                "\\n<Radro>Make sure you manage it properly, okay? If word gets out\nthat we have this, it could lead to a bloodbath. The only\nones who know about it are me, the Master, and Rui."
                             ]
                         },
                         {
@@ -7259,21 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>Ruiも知ってんのか。はーん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大方、Ruiに負けて命乞いしたってとこだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "違うか？"
+                                "\\n<Guild Master>Rui knows about it too, huh. Hmph... I bet you lost to Rui\nand begged for your life, didn't you? Am I wrong?"
                             ]
                         },
                         {
@@ -7306,21 +7040,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>まぁ、そんなとこ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マスターってたまに鋭いよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういうとこホント嫌い。"
+                                "\\n<Radro>Well, something like that. Master, you can be really sharp\nsometimes. I really hate that about you."
                             ]
                         },
                         {
@@ -7353,7 +7073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>先代からの付き合いだからな。"
+                                "\\n<Guild Master>It's because we go way back."
                             ]
                         },
                         {
@@ -7370,21 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>すぐ金にすることは出来ないが、なんとかしてみる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暫くコイツは俺が預かることになるが、いいな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーメンドクセェ。"
+                                "\\n<Guild Master>I can't turn it into cash immediately, but I'll see what I\ncan do. For the time being, I'll be keeping this thing. Is\nthat okay with you? Ah, what a hassle."
                             ]
                         },
                         {
@@ -7417,14 +7123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>うん。お願いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信頼してる。"
+                                "\\n<Radro>Yeah. Please do. I trust you."
                             ]
                         },
                         {
@@ -7488,14 +7187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>にしても、Ruiはなんでぐっすり眠ってんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "宿に運んどけよ。風邪ひくぞ邪魔だ。"
+                                "\\n<Guild Master>But why is Rui sleeping so soundly? Take them to the inn.\nThey'll catch a cold and they're in the way."
                             ]
                         },
                         {
@@ -7528,7 +7220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>寝顔可愛いでしょ。"
+                                "\\n<Radro>Their sleeping face is cute, isn't it?"
                             ]
                         },
                         {
@@ -7589,7 +7281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>むにゃむにゃ・・・ｚｚＺ"
+                                "\\n<Rui>Mumble mumble... zzzZ"
                             ]
                         },
                         {
@@ -7641,21 +7333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいからはよ連れてけ。"
+                                "\\n<Guild Master>...Well, yeah. But hurry up and take them away."
                             ]
                         },
                         {
@@ -7682,14 +7360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ヤローの寝顔なんて興味ねーよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はよ連れてけ。"
+                                "\\n<Guild Master>I'm not interested in the sleeping face of a bastard. Hurry\nup and take them away."
                             ]
                         },
                         {
@@ -7938,21 +7609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魚の薫製だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても・・・じゅるり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しそう。"
+                                "It's smoked fish. It looks very... *drools*... delicious."
                             ]
                         },
                         {

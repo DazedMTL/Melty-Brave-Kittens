@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～性具～",
+        "name": "~Sexual Equipment~",
         "note": "テスト性具",
         "params": [
             0,
@@ -35,11 +35,11 @@
     {
         "id": 2,
         "atypeId": 1,
-        "description": "男性器を模したもの\n性具",
+        "description": "A sex toy modeled after a male organ",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "ディルド",
+        "name": "Dildo",
         "note": "",
         "params": [
             0,
@@ -56,11 +56,11 @@
     {
         "id": 3,
         "atypeId": 1,
-        "description": "立派な男性器を模したもの\n性具",
+        "description": "A splendid sex toy modeled after a male organ",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "太いディルド",
+        "name": "Thick Dildo",
         "note": "",
         "params": [
             0,
@@ -77,11 +77,11 @@
     {
         "id": 4,
         "atypeId": 1,
-        "description": "腕を模したもの\n性具",
+        "description": "A sex toy modeled after an arm",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "極太ディルド",
+        "name": "Extra Thick Dildo",
         "note": "",
         "params": [
             0,
@@ -98,7 +98,7 @@
     {
         "id": 5,
         "atypeId": 1,
-        "description": "振動で快楽を与える道具\n性具　命中+5",
+        "description": "A tool that provides pleasure through vibration, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -108,7 +108,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バイブ",
+        "name": "Vibrator",
         "note": "",
         "params": [
             0,
@@ -125,7 +125,7 @@
     {
         "id": 6,
         "atypeId": 1,
-        "description": "太めの振動で快楽を与える道具\n性具　命中+5",
+        "description": "A tool that provides pleasure with thick vibrations, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -135,7 +135,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "太いバイブ",
+        "name": "Thick Vibrator",
         "note": "",
         "params": [
             0,
@@ -152,7 +152,7 @@
     {
         "id": 7,
         "atypeId": 1,
-        "description": "ぶっとい振動で快楽を与える道具\n性具　命中+5",
+        "description": "A tool that provides pleasure with intense vibrations, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -162,7 +162,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "極太バイブ",
+        "name": "Extra Thick Vibrator",
         "note": "",
         "params": [
             0,
@@ -179,7 +179,7 @@
     {
         "id": 8,
         "atypeId": 1,
-        "description": "燃えるように熱いディルド\n性具　TP増加+20%",
+        "description": "A dildo burning with intense heat, sex toy, TP Increase +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -189,7 +189,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "火のディルド",
+        "name": "Fire Dildo",
         "note": "<mat1:A2*1>\n<mat2:I78*1>\n<matG:500>\n",
         "params": [
             0,
@@ -206,7 +206,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "ひんやりと冷たいディルド\n性具　回復効果+20%",
+        "description": "A cool and chilly dildo, sex toy, Recovery Effect +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -216,7 +216,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "水のディルド",
+        "name": "Water Dildo",
         "note": "<mat1:A2*1>\n<mat2:I79*1>\n<matG:500>",
         "params": [
             0,
@@ -233,7 +233,7 @@
     {
         "id": 10,
         "atypeId": 1,
-        "description": "風のように素早いディルド\n性具　体力消費-10%",
+        "description": "A dildo as swift as the wind, sex toy, Stamina Consumption -10%",
         "etypeId": 2,
         "traits": [
             {
@@ -243,7 +243,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "風のディルド",
+        "name": "Wind Dildo",
         "note": "<mat1:A2*1>\n<mat2:I80*1>\n<matG:500>",
         "params": [
             0,
@@ -260,7 +260,7 @@
     {
         "id": 11,
         "atypeId": 1,
-        "description": "岩のように硬いディルド\n性具　防御効果+20%",
+        "description": "A dildo as hard as rock, sex toy, Defense Effect +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -270,7 +270,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "地のディルド",
+        "name": "Earth Dildo",
         "note": "<mat1:A2*1>\n<mat2:I81*1>\n<matG:500>",
         "params": [
             0,
@@ -287,7 +287,7 @@
     {
         "id": 12,
         "atypeId": 1,
-        "description": "燃え盛る炎を個体にしたディルド\n性具　TP増加+20%",
+        "description": "A dildo embodying blazing flames, sex toy, TP Increase +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -297,7 +297,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "火炎のディルド",
+        "name": "Flame Dildo",
         "note": "<mat1:A8*1>\n<mat2:I78*3>\n<matG:500>",
         "params": [
             0,
@@ -314,7 +314,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "溶けない氷でできたディルド\n性具　回復効果+50%",
+        "description": "A dildo made of unmelting ice, sex toy, Recovery Effect +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -324,7 +324,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "氷結のディルド",
+        "name": "Frost Dildo",
         "note": "<mat1:A9*1>\n<mat2:I79*3>\n<matG:500>",
         "params": [
             0,
@@ -341,7 +341,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "荒れ狂う風をまとったディルド\n性具　体力消費-20%",
+        "description": "A dildo clad in raging winds, sex toy, Stamina Consumption -20%",
         "etypeId": 2,
         "traits": [
             {
@@ -351,7 +351,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "暴風のディルド",
+        "name": "Storm Dildo",
         "note": "<mat1:A10*1>\n<mat2:I80*3>\n<matG:500>",
         "params": [
             0,
@@ -368,7 +368,7 @@
     {
         "id": 15,
         "atypeId": 1,
-        "description": "決して折れない頑強なディルド\n性具　防御効果+50%",
+        "description": "An unbreakable and sturdy dildo, sex toy, Defense Effect +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -378,7 +378,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "大地のディルド",
+        "name": "Earth Dildo",
         "note": "<mat1:A11*1>\n<mat2:I81*3>\n<matG:500>",
         "params": [
             0,
@@ -395,7 +395,7 @@
     {
         "id": 16,
         "atypeId": 1,
-        "description": "鉄でできたバイブ\n性具　命中+5",
+        "description": "A vibrator made of iron, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -405,7 +405,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "鉄のバイブ",
+        "name": "Iron Vibrator",
         "note": "<mat1:I76*2>\n<matG:300>",
         "params": [
             0,
@@ -422,7 +422,7 @@
     {
         "id": 17,
         "atypeId": 1,
-        "description": "鋼鉄でできたバイブ\n性具　命中+5",
+        "description": "A vibrator made of steel, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -432,7 +432,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "鋼鉄のバイブ",
+        "name": "Steel Vibrator",
         "note": "<mat1:I76*4>\n<matG:500>",
         "params": [
             0,
@@ -449,7 +449,7 @@
     {
         "id": 18,
         "atypeId": 1,
-        "description": "金で出来た成金バイブ\n性具　命中+5",
+        "description": "A gold vibrator for the nouveau riche, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -459,7 +459,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "金のバイブ",
+        "name": "Gold Vibrator",
         "note": "<mat1:I77*3>\n<matG:500>",
         "params": [
             0,
@@ -476,7 +476,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "ダイヤが散りばめられた贅沢なバイブ\n性具　命中+5",
+        "description": "A luxurious vibrator studded with diamonds, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -486,7 +486,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ダイヤのバイブ",
+        "name": "Diamond Vibrator",
         "note": "<mat1:I81*2>\n<mat2:I76*1>\n<mat3:I77*1>\n<matG:500>",
         "params": [
             0,
@@ -503,7 +503,7 @@
     {
         "id": 20,
         "atypeId": 1,
-        "description": "ちょうどいい形の木の棒\n性具　クリティカル+3",
+        "description": "A wooden stick of just the right shape, sex toy, Critical +3",
         "etypeId": 2,
         "traits": [
             {
@@ -513,7 +513,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ひのきのぼう",
+        "name": "Cypress Stick",
         "note": "<mat1:I202*1>\n<matG:100>",
         "params": [
             0,
@@ -530,7 +530,7 @@
     {
         "id": 21,
         "atypeId": 1,
-        "description": "いちもつの形をした自然の贈り物\n性具　クリティカル+5",
+        "description": "A gift from nature shaped like a penis, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -540,7 +540,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "きのこ",
+        "name": "Mushroom",
         "note": "",
         "params": [
             0,
@@ -557,7 +557,7 @@
     {
         "id": 22,
         "atypeId": 1,
-        "description": "硬くて食べられないにんじん\n性具　クリティカル+5",
+        "description": "A hard and inedible carrot, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -567,7 +567,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "にんじん",
+        "name": "Carrot",
         "note": "",
         "params": [
             0,
@@ -584,7 +584,7 @@
     {
         "id": 23,
         "atypeId": 1,
-        "description": "光の速さで振動するバイブ\n性具　クリティカル+5",
+        "description": "A vibrator that vibrates at the speed of light, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -594,7 +594,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "閃光",
+        "name": "Flash",
         "note": "",
         "params": [
             0,
@@ -611,7 +611,7 @@
     {
         "id": 24,
         "atypeId": 1,
-        "description": "巻き起こす風はやがて嵐となる\n性具　クリティカル+5",
+        "description": "The wind that rises will eventually become a storm, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -621,7 +621,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "風神",
+        "name": "Wind God",
         "note": "<mat1:A10*1>\n<mat2:A14*1>\n<mat3:A23*1>\n<matG:500>",
         "params": [
             0,
@@ -638,7 +638,7 @@
     {
         "id": 25,
         "atypeId": 1,
-        "description": "重たすぎて筋トレに使える\n性具　クリティカル-5",
+        "description": "Too heavy to be used for weight training, sex toy, Critical -5",
         "etypeId": 2,
         "traits": [
             {
@@ -648,7 +648,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ヘビーバイブ",
+        "name": "Heavy Vibrator",
         "note": "<mat1:A16*1>\n<mat2:A17*1>\n<matG:500>",
         "params": [
             0,
@@ -665,7 +665,7 @@
     {
         "id": 26,
         "atypeId": 1,
-        "description": "ゆっくりかつ大胆に急所をねらうディルドー\n性具　クリティカル+20　命中-50",
+        "description": "A dildo that targets the vital spots slowly yet boldly, sex toy, Critical +20\nAccuracy -50",
         "etypeId": 2,
         "traits": [
             {
@@ -680,7 +680,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "鈍亀",
+        "name": "Dull Turtle",
         "note": "<mat1:A25*1>\n<mat2:I76*1>\n<mat3:I77*1>\n<matG:500>",
         "params": [
             0,
@@ -697,11 +697,11 @@
     {
         "id": 27,
         "atypeId": 1,
-        "description": "防御を捨て攻撃に特化したディルドー\n性具　",
+        "description": "A dildo specialized for attack at the expense of defense, sex toy",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "諸刃のディルドー",
+        "name": "Double-Edged Dildo",
         "note": "",
         "params": [
             0,
@@ -718,7 +718,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "速い翼が転じて名付けられたバイブ\n性具　2回攻撃　命中-50",
+        "description": "A vibrator named after swift wings, sex toy, Double Attack Accuracy -50",
         "etypeId": 2,
         "traits": [
             {
@@ -733,7 +733,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "隼",
+        "name": "Falcon",
         "note": "<mat1:A5*1>\n<mat2:I107*1>\n<matG:300>",
         "params": [
             0,
@@ -750,7 +750,7 @@
     {
         "id": 29,
         "atypeId": 0,
-        "description": "隼を改良したバイブ\n性具　2回攻撃　命中-40",
+        "description": "An improved vibrator modeled after a falcon, sex toy, Double Attack Accuracy -40",
         "etypeId": 2,
         "traits": [
             {
@@ -765,7 +765,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "疾風",
+        "name": "Gale",
         "note": "<mat1:A29*1>\n<mat2:I107*2>\n<matG:300>",
         "params": [
             0,
@@ -782,7 +782,7 @@
     {
         "id": 30,
         "atypeId": 1,
-        "description": "かつてドラゴンをイカせたバイブ\n性具　命中-5　クリティカル+5",
+        "description": "A vibrator that once made a dragon climax, sex toy, Accuracy -5 Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -797,7 +797,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "屠龍",
+        "name": "Dragon Slayer",
         "note": "",
         "params": [
             0,
@@ -814,7 +814,7 @@
     {
         "id": 31,
         "atypeId": 1,
-        "description": "先端から雷撃を放つバイブ\n性具　機械特効",
+        "description": "A vibrator that releases thunderbolts from its tip, sex toy, Effective against\nmachines",
         "etypeId": 2,
         "traits": [
             {
@@ -824,7 +824,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "雷電",
+        "name": "Thunderbolt",
         "note": "",
         "params": [
             0,
@@ -841,7 +841,7 @@
     {
         "id": 32,
         "atypeId": 1,
-        "description": "雷で充電したバイブ　漏電注意\n性具　機械特効",
+        "description": "A vibrator charged with lightning, caution for electric leakage, sex toy,\nEffective against machines",
         "etypeId": 2,
         "traits": [
             {
@@ -851,7 +851,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "震電",
+        "name": "Quake Thunder",
         "note": "",
         "params": [
             0,
@@ -868,7 +868,7 @@
     {
         "id": 33,
         "atypeId": 1,
-        "description": "紫の雷を放つバイブ\n性具　機械特効",
+        "description": "A vibrator that emits purple lightning, sex toy, Effective against machines",
         "etypeId": 2,
         "traits": [
             {
@@ -878,7 +878,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "紫電",
+        "name": "Purple Lightning",
         "note": "",
         "params": [
             0,
@@ -895,7 +895,7 @@
     {
         "id": 34,
         "atypeId": 1,
-        "description": "紫電を改良したバイブ\n性具　機械特効",
+        "description": "An improved vibrator that emits purple lightning, sex toy, Effective against\nmachines",
         "etypeId": 2,
         "traits": [
             {
@@ -905,7 +905,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "紫電改",
+        "name": "Purple Lightning Kai",
         "note": "<mat1:A33*1>\n<mat2:I107*5>\n<matG:500>",
         "params": [
             0,
@@ -922,7 +922,7 @@
     {
         "id": 35,
         "atypeId": 1,
-        "description": "ぬるぬるするローター\n性具　敏感付与",
+        "description": "A slippery rotor, sex toy, Sensitivity Induced",
         "etypeId": 2,
         "traits": [
             {
@@ -932,7 +932,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ローションローター",
+        "name": "Lotion Rotor",
         "note": "",
         "params": [
             0,
@@ -949,7 +949,7 @@
     {
         "id": 36,
         "atypeId": 1,
-        "description": "妖精が優しく愛撫するようなディルドー\n性具　敏感付与",
+        "description": "A dildo as if caressed gently by a fairy, sex toy, Sensitivity Induced",
         "etypeId": 2,
         "traits": [
             {
@@ -959,7 +959,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "フェアリーワルツ",
+        "name": "Fairy Waltz",
         "note": "<mat1:A2*1>\n<mat2:I80*2>\n<mat3:I82*1>\n<matG:300>",
         "params": [
             0,
@@ -976,7 +976,7 @@
     {
         "id": 37,
         "atypeId": 1,
-        "description": "ローションがしみこませてある手袋\n性具　敏感付与",
+        "description": "Gloves soaked in lotion, sex toy, Sensitivity Induced",
         "etypeId": 2,
         "traits": [
             {
@@ -986,7 +986,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ぬるぬる手袋",
+        "name": "Slippery Gloves",
         "note": "<mat1:I82*1>\n<mat2:I103*1>\n<mat3:I105*1>\n<matG:300>",
         "params": [
             0,
@@ -1003,7 +1003,7 @@
     {
         "id": 38,
         "atypeId": 1,
-        "description": "急に飛び出してくる棒\n性具　怯み付与",
+        "description": "A rod that pops out suddenly, sex toy, Fear Induced",
         "etypeId": 2,
         "traits": [
             {
@@ -1013,7 +1013,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "やぶからスティック",
+        "name": "Bushwhack Stick",
         "note": "<mat1:I202*1>\n<mat2:I82*1>\n<matG:300>",
         "params": [
             0,
@@ -1030,7 +1030,7 @@
     {
         "id": 39,
         "atypeId": 1,
-        "description": "精霊の加護を受けたディルドー\n性具　防御効果+50%",
+        "description": "A dildo blessed by a spirit's protection, sex toy, Defense Effect +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -1040,7 +1040,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "守護のディルドー",
+        "name": "Guardian Dildo",
         "note": "<mat1:A4*1>\n<mat2:I794*1>\n<mat3:I793*1>\n<mat4:I795*1>\n<matG:300>",
         "params": [
             0,
@@ -1057,7 +1057,7 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "応援する時に降る光る棒\n性具　怯み付与",
+        "description": "A glowing stick that falls when cheering, sex toy, Fear Induced",
         "etypeId": 2,
         "traits": [
             {
@@ -1067,7 +1067,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ケミカルライト",
+        "name": "Chemical Light",
         "note": "<mat1:I81*1>\n<mat2:I78*1>\n<mat3:I79*1>\n<mat4:I80*1>\n<matG:300>",
         "params": [
             0,
@@ -1084,7 +1084,7 @@
     {
         "id": 41,
         "atypeId": 1,
-        "description": "魔力でアソコに埋め込む真珠\n性具　ゴム装備不可　クリティカル+10",
+        "description": "A pearl embedded in the genitals with magic power, sex toy, cannot equip rubber,\nCritical +10",
         "etypeId": 2,
         "traits": [
             {
@@ -1099,7 +1099,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "真珠",
+        "name": "Pearl",
         "note": "",
         "params": [
             0,
@@ -1116,7 +1116,7 @@
     {
         "id": 42,
         "atypeId": 1,
-        "description": "アソコに装着する小型バイブ\n性具　ゴム装備不可",
+        "description": "A small vibrator to be worn in the genitals, sex toy, cannot equip rubber",
         "etypeId": 2,
         "traits": [
             {
@@ -1126,7 +1126,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "装着式バイブ",
+        "name": "Wearable Vibrator",
         "note": "",
         "params": [
             0,
@@ -1143,7 +1143,7 @@
     {
         "id": 43,
         "atypeId": 1,
-        "description": "腰に巻き付けるディルドー\n性具　ゴム装備不可",
+        "description": "A dildo to wrap around the waist, sex toy, cannot equip rubber",
         "etypeId": 2,
         "traits": [
             {
@@ -1153,7 +1153,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ペニスバンド",
+        "name": "Penis Band",
         "note": "",
         "params": [
             0,
@@ -1170,7 +1170,7 @@
     {
         "id": 44,
         "atypeId": 1,
-        "description": "運が悪くなって当たりにくくなるバイブ\n性具　命中-80",
+        "description": "A vibrator that brings bad luck and makes it harder to hit, sex toy, Accuracy\n-80",
         "etypeId": 2,
         "traits": [
             {
@@ -1180,7 +1180,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ハードラック",
+        "name": "Hard Luck",
         "note": "",
         "params": [
             0,
@@ -1197,7 +1197,7 @@
     {
         "id": 45,
         "atypeId": 1,
-        "description": "お尻に入れるつぶつぶ\n性具　尻属性攻撃",
+        "description": "Beads to insert in the butt, sex toy, butt attribute attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1207,7 +1207,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アナルビーズ",
+        "name": "Anal Beads",
         "note": "<mat1:I82*2>\n<matG:300>",
         "params": [
             0,
@@ -1224,7 +1224,7 @@
     {
         "id": 46,
         "atypeId": 1,
-        "description": "お尻にねじ込むバイブ\n性具　尻属性攻撃",
+        "description": "A vibrator to screw into the butt, sex toy, butt attribute attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1234,7 +1234,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "アナルバイブ",
+        "name": "Anal Vibrator",
         "note": "<mat1:A45*1>\n<mat2:I82*3>\n<matG:300>",
         "params": [
             0,
@@ -1251,7 +1251,7 @@
     {
         "id": 47,
         "atypeId": 1,
-        "description": "医療器具\n性具　尻属性攻撃",
+        "description": "Medical instrument, sex toy, butt attribute attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1261,7 +1261,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "エネマグラ",
+        "name": "Enemagra",
         "note": "<mat1:A46*1>\n<mat2:I82*3>\n<matG:300>",
         "params": [
             0,
@@ -1278,7 +1278,7 @@
     {
         "id": 48,
         "atypeId": 1,
-        "description": "仕事をする時にはめる手袋\n性具　敵からの獲得金額2倍",
+        "description": "Gloves to wear when working, sex toy, double the amount of money gained from\nenemies",
         "etypeId": 2,
         "traits": [
             {
@@ -1288,7 +1288,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "盗賊手袋",
+        "name": "Thief Gloves",
         "note": "<mat1:I101*3>\n<mat2:I74*5>\n<matG:300>",
         "params": [
             0,
@@ -1305,11 +1305,11 @@
     {
         "id": 49,
         "atypeId": 1,
-        "description": "指先が器用になる手袋\n性具",
+        "description": "Gloves that make fingertips more dexterous, sex toy",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "鷹の爪",
+        "name": "Hawk's Claw",
         "note": "",
         "params": [
             0,
@@ -1326,11 +1326,11 @@
     {
         "id": 50,
         "atypeId": 1,
-        "description": "自分の指のように器用に動かせる棒\n性具",
+        "description": "A rod that moves as skillfully as one's own fingers, sex toy",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "マジックハンド",
+        "name": "Magic Hand",
         "note": "",
         "params": [
             0,
@@ -1347,7 +1347,7 @@
     {
         "id": 51,
         "atypeId": 1,
-        "description": "物理学的に最強\n性具　命中-50",
+        "description": "Physically the strongest, sex toy, Accuracy -50",
         "etypeId": 2,
         "traits": [
             {
@@ -1357,7 +1357,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バールのようなもの",
+        "name": "Something Like a Crowbar",
         "note": "",
         "params": [
             0,
@@ -1374,7 +1374,7 @@
     {
         "id": 52,
         "atypeId": 1,
-        "description": "かじられて固くとがったにんじん\n性具　クリティカル+5",
+        "description": "A carrot that has been chewed and sharpened, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -1384,7 +1384,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "かじられにんじん",
+        "name": "Gnawed Carrot",
         "note": "",
         "params": [
             0,
@@ -1401,7 +1401,7 @@
     {
         "id": 53,
         "atypeId": 1,
-        "description": "伝説のディルドーの偽物の偽物\n性具　クリティカル+5",
+        "description": "A fake of a fake of the legendary dildo, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -1411,7 +1411,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "エクスカリポー",
+        "name": "Excalipoor",
         "note": "<mat1:A57*1>\n<matG:5000>",
         "params": [
             0,
@@ -1428,7 +1428,7 @@
     {
         "id": 54,
         "atypeId": 1,
-        "description": "伝説のディルドーの偽物の偽物の偽物\n性具　回復効果+30%",
+        "description": "A fake of a fake of a fake of the legendary dildo, sex toy, Healing effect +30%",
         "etypeId": 2,
         "traits": [
             {
@@ -1438,7 +1438,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "エクスカリペー",
+        "name": "Excalipee",
         "note": "<mat1:A53*1>\n<matG:5000>",
         "params": [
             0,
@@ -1455,11 +1455,11 @@
     {
         "id": 55,
         "atypeId": 1,
-        "description": "伝説のディルドーの偽物の偽物の偽物の偽物\n性具",
+        "description": "A fake of a fake of a fake of a fake of the legendary dildo, sex toy",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "エクスカリプー",
+        "name": "Excalipoo",
         "note": "<mat1:A54*1>\n<matG:5000>",
         "params": [
             0,
@@ -1476,7 +1476,7 @@
     {
         "id": 56,
         "atypeId": 1,
-        "description": "伝説のディルドーの偽物の偽物の偽物の偽物の紛い物\n性具　クリティカル+30",
+        "description": "An imitation of a fake of a fake of a fake of a fake of the legendary dildo, sex\ntoy, Critical +30",
         "etypeId": 2,
         "traits": [
             {
@@ -1486,7 +1486,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "エクスカリバァァァアン",
+        "name": "Excalibaaaaaan",
         "note": "<mat1:A55*1>\n<matG:5000>",
         "params": [
             0,
@@ -1503,7 +1503,7 @@
     {
         "id": 57,
         "atypeId": 1,
-        "description": "伝説のディルドーの偽物\n性具　精力自動回復+1",
+        "description": "A fake of the legendary dildo, sex toy, automatic vitality recovery +1",
         "etypeId": 2,
         "traits": [
             {
@@ -1513,7 +1513,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "エクスカウパー",
+        "name": "Excalupper",
         "note": "<mat1:A56*1>\n<matG:5000>",
         "params": [
             0,
@@ -1530,7 +1530,7 @@
     {
         "id": 58,
         "atypeId": 1,
-        "description": "伝説のディルドー\n性具　体力消費0　2回攻撃",
+        "description": "The legendary dildo, sex toy, zero stamina consumption, 2 attacks",
         "etypeId": 2,
         "traits": [
             {
@@ -1545,7 +1545,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "エクスカリバー",
+        "name": "Excalibur",
         "note": "<mat1:A53*1>\n<mat2:A54*1>\n<mat3:A55*1>\n<mat4:A56*1>\n<mat5:A57*1>\n",
         "params": [
             0,
@@ -1562,7 +1562,7 @@
     {
         "id": 59,
         "atypeId": 1,
-        "description": "伸縮自在の棒\n性具　体力消費-10%",
+        "description": "An extendable rod, sex toy, stamina consumption -10%",
         "etypeId": 2,
         "traits": [
             {
@@ -1572,7 +1572,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "如意棒",
+        "name": "Ruyi Bang",
         "note": "",
         "params": [
             100,
@@ -1589,7 +1589,7 @@
     {
         "id": 60,
         "atypeId": 1,
-        "description": "人間の魂を食って作動するバイブ\n性具　人属性特効",
+        "description": "A vibrator that operates by consuming human souls, sex toy, human attribute\nspecial attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1599,7 +1599,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "マンイーター",
+        "name": "Man-Eater",
         "note": "<mat1:A5*1>\n<mat2:I100*3>\n<matG:500>",
         "params": [
             0,
@@ -1616,7 +1616,7 @@
     {
         "id": 61,
         "atypeId": 1,
-        "description": "人間の魂を食って作動するバイブ\n性具　人属性特効",
+        "description": "A vibrator that operates by consuming human souls, sex toy, human attribute\nspecial attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1626,7 +1626,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "マンイーターⅡ",
+        "name": "Man-Eater II",
         "note": "<mat1:A60*1>\n<mat2:I100*3>\n<matG:500>",
         "params": [
             100,
@@ -1643,7 +1643,7 @@
     {
         "id": 62,
         "atypeId": 1,
-        "description": "人間の魂を食って作動するバイブ\n性具　人属性特効",
+        "description": "A vibrator that operates by consuming human souls, sex toy, human attribute\nspecial attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1653,7 +1653,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "マンイーターⅢ",
+        "name": "Man-Eater III",
         "note": "<mat1:A61*1>\n<mat2:I100*3>\n<matG:500>",
         "params": [
             200,
@@ -1670,7 +1670,7 @@
     {
         "id": 63,
         "atypeId": 1,
-        "description": "人間の魂を食って作動するバイブ\n性具　人属性特効　敏感付与",
+        "description": "A vibrator that operates by consuming human souls, sex toy, human attribute\nspecial attack with sensitivity effect",
         "etypeId": 2,
         "traits": [
             {
@@ -1685,7 +1685,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "マンイーターⅣ",
+        "name": "Man-Eater IV",
         "note": "<mat1:A62*1>\n<mat2:I100*3>\n<mat3:I82*2>\n<matG:500>",
         "params": [
             200,
@@ -1702,7 +1702,7 @@
     {
         "id": 64,
         "atypeId": 1,
-        "description": "殺虫作用のある植物を練りこんだバイブ\n性具　虫属性特効",
+        "description": "A vibrator mixed with plants that have insecticidal effects, sex toy, insect\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1712,7 +1712,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バグスマッシャー",
+        "name": "Bug Smasher",
         "note": "<mat1:A5*1>\n<mat2:I105*3>\n<matG:500>",
         "params": [
             0,
@@ -1729,7 +1729,7 @@
     {
         "id": 65,
         "atypeId": 1,
-        "description": "殺虫作用のある植物を練りこんだバイブ\n性具　虫属性特効",
+        "description": "A vibrator mixed with plants that have insecticidal effects, sex toy, insect\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1739,7 +1739,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バグスマッシャーⅡ",
+        "name": "Bug Smasher II",
         "note": "<mat1:A64*1>\n<mat2:I105*3>\n<matG:500>",
         "params": [
             0,
@@ -1756,7 +1756,7 @@
     {
         "id": 66,
         "atypeId": 1,
-        "description": "殺虫作用のある植物を練りこんだバイブ\n性具　虫属性特効",
+        "description": "A vibrator mixed with plants that have insecticidal effects, sex toy, insect\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1766,7 +1766,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バグスマッシャーⅢ",
+        "name": "Bug Smasher III",
         "note": "<mat1:A65*1>\n<mat2:I105*3>\n<matG:500>",
         "params": [
             0,
@@ -1783,7 +1783,7 @@
     {
         "id": 67,
         "atypeId": 1,
-        "description": "殺虫作用のある植物を練りこんだバイブ\n性具　虫属性特効　怯み付与",
+        "description": "A vibrator mixed with plants that have insecticidal effects, sex toy, insect\nattribute special attack with flinch effect",
         "etypeId": 2,
         "traits": [
             {
@@ -1798,7 +1798,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バグスマッシャーⅣ",
+        "name": "Bug Smasher IV",
         "note": "<mat1:A66*1>\n<mat2:I105*3>\n<mat3:I80*2>\n<matG:500>",
         "params": [
             0,
@@ -1815,7 +1815,7 @@
     {
         "id": 68,
         "atypeId": 1,
-        "description": "超振動で水分を蒸発させるバイブ\n性具　水属性特効",
+        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1825,7 +1825,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "スライムバスター",
+        "name": "Slime Buster",
         "note": "<mat1:A5*1>\n<mat2:I103*3>\n<matG:500>",
         "params": [
             0,
@@ -1842,7 +1842,7 @@
     {
         "id": 69,
         "atypeId": 1,
-        "description": "超振動で水分を蒸発させるバイブ\n性具　水属性特効",
+        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1852,7 +1852,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "スライムバスターⅡ",
+        "name": "Slime Buster II",
         "note": "<mat1:A68*1>\n<mat2:I103*3>\n<matG:500>",
         "params": [
             50,
@@ -1869,7 +1869,7 @@
     {
         "id": 70,
         "atypeId": 1,
-        "description": "超振動で水分を蒸発させるバイブ\n性具　水属性特効",
+        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1879,7 +1879,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "スライムバスターⅢ",
+        "name": "Slime Buster III",
         "note": "<mat1:A69*1>\n<mat2:I103*3>\n<matG:500>",
         "params": [
             100,
@@ -1896,7 +1896,7 @@
     {
         "id": 71,
         "atypeId": 1,
-        "description": "超振動で水分を蒸発させるバイブ\n性具　水属性特効　消費体力-50%",
+        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack with 50% less stamina consumption",
         "etypeId": 2,
         "traits": [
             {
@@ -1911,7 +1911,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "スライムバスターⅣ",
+        "name": "Slime Buster IV",
         "note": "<mat1:A70*1>\n<mat2:I103*3>\n<mat3:I79*2>\n<matG:500>",
         "params": [
             100,
@@ -1928,7 +1928,7 @@
     {
         "id": 72,
         "atypeId": 1,
-        "description": "獣が怖がる匂いを放つディルドー\n性具　獣属性特効",
+        "description": "A dildo that emits a scent that scares beasts, sex toy, beast attribute special\nattack",
         "etypeId": 2,
         "traits": [
             {
@@ -1938,7 +1938,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ビーストスレイヤー",
+        "name": "Beast Slayer",
         "note": "<mat1:A2*1>\n<mat2:I102*3>\n<matG:500>",
         "params": [
             0,
@@ -1955,7 +1955,7 @@
     {
         "id": 73,
         "atypeId": 1,
-        "description": "獣が怖がる匂いを放つディルドー\n性具　獣属性特効",
+        "description": "A dildo that emits a scent that scares beasts, sex toy, beast attribute special\nattack",
         "etypeId": 2,
         "traits": [
             {
@@ -1965,7 +1965,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ビーストスレイヤーⅡ",
+        "name": "Beast Slayer II",
         "note": "<mat1:A72*1>\n<mat2:I102*3>\n<matG:500>",
         "params": [
             0,
@@ -1982,7 +1982,7 @@
     {
         "id": 74,
         "atypeId": 1,
-        "description": "獣が怖がる匂いを放つディルドー\n性具　獣属性特効",
+        "description": "A dildo that emits a scent that scares beasts, sex toy, beast attribute special\nattack",
         "etypeId": 2,
         "traits": [
             {
@@ -1992,7 +1992,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ビーストスレイヤーⅢ",
+        "name": "Beast Slayer III",
         "note": "<mat1:A73*1>\n<mat2:I102*3>\n<matG:500>",
         "params": [
             0,
@@ -2009,7 +2009,7 @@
     {
         "id": 75,
         "atypeId": 1,
-        "description": "獣が怖がる匂いを放つディルドー\n性具　獣属性特効　TP増加+20%",
+        "description": "A dildo that emits a scent that scares beasts, sex toy, beast attribute special\nattack with TP increase +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -2024,7 +2024,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ビーストスレイヤーⅣ",
+        "name": "Beast Slayer IV",
         "note": "<mat1:A74*1>\n<mat2:I102*3>\n<mat3:I795*2>\n<matG:500>",
         "params": [
             0,
@@ -2041,7 +2041,7 @@
     {
         "id": 76,
         "atypeId": 1,
-        "description": "悪魔を封印する聖なるバイブ\n性具　悪属性特効",
+        "description": "A holy vibrator that seals demons, sex toy, evil attribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -2051,7 +2051,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "デモンキラー",
+        "name": "Demon Killer",
         "note": "<mat1:A5*1>\n<mat2:I101*3>\n<matG:500>",
         "params": [
             0,
@@ -2068,7 +2068,7 @@
     {
         "id": 77,
         "atypeId": 1,
-        "description": "悪魔を封印する聖なるバイブ\n性具　悪属性特効",
+        "description": "A holy vibrator that seals demons, sex toy, evil attribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -2078,7 +2078,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "デモンキラーⅡ",
+        "name": "Demon Killer II",
         "note": "<mat1:A76*1>\n<mat2:I101*3>\n<matG:500>",
         "params": [
             -200,
@@ -2095,7 +2095,7 @@
     {
         "id": 78,
         "atypeId": 1,
-        "description": "悪魔を封印する聖なるバイブ\n性具　悪属性特効",
+        "description": "A holy vibrator that seals demons, sex toy, evil attribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -2105,7 +2105,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "デモンキラーⅢ",
+        "name": "Demon Killer III",
         "note": "<mat1:A77*1>\n<mat2:I101*3>\n<matG:500>",
         "params": [
             -300,
@@ -2122,7 +2122,7 @@
     {
         "id": 79,
         "atypeId": 1,
-        "description": "悪魔を封印する聖なるバイブ\n性具　悪属性特効　毎ターン精力-1%",
+        "description": "A holy vibrator that seals demons, sex toy, evil attribute special attack with\nvitality drain -1% per turn",
         "etypeId": 2,
         "traits": [
             {
@@ -2137,7 +2137,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "デモンキラーⅣ",
+        "name": "Demon Killer IV",
         "note": "<mat1:A78*1>\n<mat2:I101*3>\n<mat3:I794*2>\n<matG:500>",
         "params": [
             -666,
@@ -2154,7 +2154,7 @@
     {
         "id": 80,
         "atypeId": 1,
-        "description": "手に持つと当たり一面の風が止む\n性具　風属性特効",
+        "description": "When held in hand the wind on all sides stops blowing, sex toy, wind attribute\nspecial attack",
         "etypeId": 2,
         "traits": [
             {
@@ -2164,7 +2164,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドレス",
+        "name": "Windless",
         "note": "<mat1:A2*1>\n<mat2:I104*3>\n<matG:500>",
         "params": [
             0,
@@ -2181,7 +2181,7 @@
     {
         "id": 81,
         "atypeId": 1,
-        "description": "手に持つと当たり一面の風が止む\n性具　風属性特効",
+        "description": "Holding it stops the wind in all directions - a sexual device with wind\nattribute special effects",
         "etypeId": 2,
         "traits": [
             {
@@ -2191,7 +2191,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドレスⅡ",
+        "name": "Windless II",
         "note": "<mat1:A80*1>\n<mat2:I104*3>\n<matG:500>",
         "params": [
             0,
@@ -2208,7 +2208,7 @@
     {
         "id": 82,
         "atypeId": 1,
-        "description": "手に持つと当たり一面の風が止む\n性具　風属性特効",
+        "description": "Holding it stops the wind in all directions - a sexual device with wind\nattribute special effects",
         "etypeId": 2,
         "traits": [
             {
@@ -2218,7 +2218,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドレスⅢ",
+        "name": "Windless III",
         "note": "<mat1:A81*1>\n<mat2:I104*3>\n<matG:500>",
         "params": [
             0,
@@ -2235,7 +2235,7 @@
     {
         "id": 83,
         "atypeId": 1,
-        "description": "手に持つと当たり一面の風が止む\n性具　風属性特効　アイテムの回復効果+100",
+        "description": "Holding it stops the wind in all directions - a sexual device with wind\nattribute special effects, item recovery effect +100",
         "etypeId": 2,
         "traits": [
             {
@@ -2250,7 +2250,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ウィンドレスⅣ",
+        "name": "Windless IV",
         "note": "<mat1:A82*1>\n<mat2:I104*3>\n<mat3:I80*2>\n<matG:500>",
         "params": [
             0,
@@ -2267,7 +2267,7 @@
     {
         "id": 84,
         "atypeId": 1,
-        "description": "養分を吸い取る大樹の根っこ\n性具　草属性特効",
+        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects",
         "etypeId": 2,
         "traits": [
             {
@@ -2277,7 +2277,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ディスプラント",
+        "name": "Displant",
         "note": "<mat1:A2*1>\n<mat2:I106*3>\n<matG:500>",
         "params": [
             0,
@@ -2294,7 +2294,7 @@
     {
         "id": 85,
         "atypeId": 1,
-        "description": "養分を吸い取る大樹の根っこ\n性具　草属性特効",
+        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects",
         "etypeId": 2,
         "traits": [
             {
@@ -2304,7 +2304,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ディスプラントⅡ",
+        "name": "Displant II",
         "note": "<mat1:A84*1>\n<mat2:I106*3>\n<matG:500>",
         "params": [
             300,
@@ -2321,7 +2321,7 @@
     {
         "id": 86,
         "atypeId": 1,
-        "description": "養分を吸い取る大樹の根っこ\n性具　草属性特効",
+        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects",
         "etypeId": 2,
         "traits": [
             {
@@ -2331,7 +2331,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ディスプラントⅢ",
+        "name": "Displant III",
         "note": "<mat1:A85*1>\n<mat2:I106*3>\n<matG:500>",
         "params": [
             500,
@@ -2348,7 +2348,7 @@
     {
         "id": 87,
         "atypeId": 1,
-        "description": "養分を吸い取る大樹の根っこ\n性具　草属性特効　2連続攻撃",
+        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects, double consecutive attacks",
         "etypeId": 2,
         "traits": [
             {
@@ -2363,7 +2363,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ディスプラントⅣ",
+        "name": "Displant IV",
         "note": "<mat1:A86*1>\n<mat2:I106*3>\n<mat3:I202*2>\n<matG:500>",
         "params": [
             500,
@@ -2380,7 +2380,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "淫魔の尻尾を模したディルドー\n性具　精力自動回復+1　体力自動回復+1",
+        "description": "A dildo modeled after a succubus's tail - a sexual device with +1 automatic\nstamina recovery, +1 automatic health recovery",
         "etypeId": 2,
         "traits": [
             {
@@ -2395,7 +2395,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "サキュバステイル",
+        "name": "Succubus Tail",
         "note": "<mat1:A4*1>\n<mat2:I82*3>\n<mat3:I101*2>\n<matG:500>",
         "params": [
             0,
@@ -2412,7 +2412,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "持っているだけでやる気が失せる棒状の何か\n性具　TP増加-100%",
+        "description": "Just holding it makes you lose your motivation - a rod-shaped something, a\nsexual device with TP increase -100%",
         "etypeId": 2,
         "traits": [
             {
@@ -2422,7 +2422,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "なえぽよ",
+        "name": "Wobbly",
         "note": "",
         "params": [
             200,
@@ -2439,7 +2439,7 @@
     {
         "id": 90,
         "atypeId": 1,
-        "description": "うねうねと蠢く神話生物の触手\n性具　拘束付与　TP増加-100%",
+        "description": "Wriggling tentacles of a mythical creature - a sexual device with restraint\ninfliction, TP increase -100%",
         "etypeId": 2,
         "traits": [
             {
@@ -2454,7 +2454,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "クトゥルーの触手",
+        "name": "Cthulhu's Tentacle",
         "note": "",
         "params": [
             0,
@@ -2471,7 +2471,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "這い寄る混沌\n性具　拘束付与　TP増加-100%",
+        "description": "Crawling chaos - a sexual device with restraint infliction, TP increase -100%",
         "etypeId": 2,
         "traits": [
             {
@@ -2486,7 +2486,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ニャルラハンド",
+        "name": "Nyarlahand",
         "note": "",
         "params": [
             0,
@@ -2503,7 +2503,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "かば焼きにするととても美味しい\n性具　拘束付与　スタン付与",
+        "description": "Very delicious when grilled as skewered meat - a sexual device with restraint\ninfliction, stun infliction",
         "etypeId": 2,
         "traits": [
             {
@@ -2518,7 +2518,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "うなぎ",
+        "name": "Eel",
         "note": "",
         "params": [
             0,
@@ -2535,7 +2535,7 @@
     {
         "id": 93,
         "atypeId": 1,
-        "description": "笛を吹いて操る蛇\n性具　拘束付与　スタン付与",
+        "description": "A snake controlled by playing a flute - a sexual device with restraint\ninfliction, stun infliction",
         "etypeId": 2,
         "traits": [
             {
@@ -2550,7 +2550,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "レッドスネーク",
+        "name": "Red Snake",
         "note": "",
         "params": [
             -50,
@@ -2567,7 +2567,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "バターが大好き\n性具　怯み付与　TP増加-100%",
+        "description": "Loves butter - a sexual device with flinch infliction, TP increase -100%",
         "etypeId": 2,
         "traits": [
             {
@@ -2582,7 +2582,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "わんこ",
+        "name": "Puppy",
         "note": "",
         "params": [
             0,
@@ -2599,11 +2599,11 @@
     {
         "id": 95,
         "atypeId": 1,
-        "description": "装備すると無様腰振りワンちゃんになる\n性具　生意気特効　ロリ特効(嘘)",
+        "description": "Equipping it turns you into an awkwardly hip-swinging pup - a sexual device\neffective against impudence and lolis (not true)",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "わからせ棒",
+        "name": "Disciplinary Rod",
         "note": "<mat1:I202*1>\n<matG:10>",
         "params": [
             -5000,
@@ -2620,7 +2620,7 @@
     {
         "id": 96,
         "atypeId": 1,
-        "description": "\n性具　回復効果+20%",
+        "description": "A sexual device with recovery effect +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -2630,7 +2630,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "バックラー",
+        "name": "Buckler",
         "note": "<mat1:A2*1>\n<mat2:I79*1>\n<matG:500>",
         "params": [
             0,
@@ -2647,7 +2647,7 @@
     {
         "id": 97,
         "atypeId": 1,
-        "description": "おでんに、あるいはモザイクの代わりに使用する\n性具　精力自動回復+1　回復効果+50%",
+        "description": "Used in place of oden or as a mosaic substitute - a sexual device with +1\nautomatic vigor recovery, recovery effect +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -2667,7 +2667,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ちくわ",
+        "name": "Fish Cake",
         "note": "",
         "params": [
             0,
@@ -2748,7 +2748,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～ゴム～",
+        "name": "~Rubber~",
         "note": "デバッグ用ゴム（軽量化）",
         "params": [
             0,
@@ -2765,11 +2765,11 @@
     {
         "id": 101,
         "atypeId": 1,
-        "description": "0.01mmのコンドーム\nゴム　",
+        "description": "0.01mm condom - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "極薄ゴム",
+        "name": "Ultra-Thin Rubber",
         "note": "",
         "params": [
             10,
@@ -2786,11 +2786,11 @@
     {
         "id": 102,
         "atypeId": 1,
-        "description": "0.05mmの隔たり\nゴム",
+        "description": "0.05mm separation - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "ゴム",
+        "name": "Rubber",
         "note": "",
         "params": [
             40,
@@ -2807,11 +2807,11 @@
     {
         "id": 103,
         "atypeId": 1,
-        "description": "0.1mmのコンドーム\nゴム",
+        "description": "0.1mm condom - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "厚いゴム",
+        "name": "Thick Rubber",
         "note": "",
         "params": [
             80,
@@ -2828,11 +2828,11 @@
     {
         "id": 104,
         "atypeId": 1,
-        "description": "0.2mmのコンドーム\nゴム",
+        "description": "0.2mm condom - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "分厚いゴム",
+        "name": "Extra Thick Rubber",
         "note": "",
         "params": [
             100,
@@ -2849,11 +2849,11 @@
     {
         "id": 105,
         "atypeId": 1,
-        "description": "本来は指にはめてあかぎれ等を防ぐもの\nゴム",
+        "description": "Originally used to prevent chapped fingers - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "指サック",
+        "name": "Finger Cot",
         "note": "",
         "params": [
             0,
@@ -2870,11 +2870,11 @@
     {
         "id": 106,
         "atypeId": 1,
-        "description": "鉄でできたゴム（？）\nゴム",
+        "description": "Made of iron rubber (?) - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "鉄のゴム",
+        "name": "Iron Rubber",
         "note": "<mat1:I76*1>\n<matG:100>",
         "params": [
             0,
@@ -2891,11 +2891,11 @@
     {
         "id": 107,
         "atypeId": 1,
-        "description": "金メッキされた悪趣味なゴム\nゴム",
+        "description": "Gold-plated tacky rubber - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "金のゴム",
+        "name": "Gold Rubber",
         "note": "<mat1:I77*1>\n<matG:100>",
         "params": [
             50,
@@ -2912,11 +2912,11 @@
     {
         "id": 108,
         "atypeId": 1,
-        "description": "プライドが傷付かないように配慮されたゴム\nゴム",
+        "description": "Rubber designed to not hurt your pride - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "早漏用ゴム",
+        "name": "Premature Ejaculation Rubber",
         "note": "",
         "params": [
             200,
@@ -2933,7 +2933,7 @@
     {
         "id": 109,
         "atypeId": 1,
-        "description": "遅すぎるのも問題がある\nゴム　体力消費-10%",
+        "description": "Being too slow can also be problematic - Rubber, stamina consumption -10%",
         "etypeId": 3,
         "traits": [
             {
@@ -2943,7 +2943,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "遅漏用ゴム",
+        "name": "Delayed Ejaculation Rubber",
         "note": "",
         "params": [
             0,
@@ -2960,11 +2960,11 @@
     {
         "id": 110,
         "atypeId": 1,
-        "description": "IQが高いと見えるらしい\nゴム",
+        "description": "Seems to appear intelligent - Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "無色透明な膜",
+        "name": "Invisible Membrane",
         "note": "",
         "params": [
             1000,
@@ -2981,7 +2981,7 @@
     {
         "id": 111,
         "atypeId": 1,
-        "description": "ちょっと余裕のある指サック\nゴム　怯み無効",
+        "description": "A fingertip protector with a little extra room - Rubber, immune to flinching",
         "etypeId": 3,
         "traits": [
             {
@@ -2991,7 +2991,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "親指サック",
+        "name": "Thumb Cot",
         "note": "",
         "params": [
             0,
@@ -3008,7 +3008,7 @@
     {
         "id": 112,
         "atypeId": 1,
-        "description": "身体の疲れやコリがほぐれていく薬用ゴム\nゴム　体力自動回復+2",
+        "description": "Medicinal rubber that eases fatigue and stiffness in the body, automatic health\nrecovery +2",
         "etypeId": 3,
         "traits": [
             {
@@ -3018,7 +3018,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "リラックスゴム",
+        "name": "Relaxing Rubber",
         "note": "",
         "params": [
             0,
@@ -3035,7 +3035,7 @@
     {
         "id": 113,
         "atypeId": 1,
-        "description": "いい匂いで心も身体もリフレッシュするゴム\nゴム　精力自動回復+2　体力自動回復+2",
+        "description": "Rubber that refreshes both mind and body with a nice scent, automatic vigor\nrecovery +2, automatic health recovery +2",
         "etypeId": 3,
         "traits": [
             {
@@ -3050,7 +3050,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "アロマゴム",
+        "name": "Aroma Rubber",
         "note": "",
         "params": [
             0,
@@ -3067,7 +3067,7 @@
     {
         "id": 114,
         "atypeId": 1,
-        "description": "血流が良くなるらしいゴム\nゴム　精力自動回復+2　体力自動回復+2",
+        "description": "Rubber that is said to improve blood circulation, automatic vigor recovery +2,\nautomatic health recovery +2",
         "etypeId": 3,
         "traits": [
             {
@@ -3082,7 +3082,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "マグネティックゴム",
+        "name": "Magnetic Rubber",
         "note": "",
         "params": [
             50,
@@ -3099,7 +3099,7 @@
     {
         "id": 115,
         "atypeId": 1,
-        "description": "身体にいい毎日の健康を保ってくれるゴム\nゴム　体力自動回復+4",
+        "description": "Rubber that maintains daily health benefits for the body, automatic health\nrecovery +4",
         "etypeId": 3,
         "traits": [
             {
@@ -3109,7 +3109,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ヘルスケアゴム",
+        "name": "Health Care Rubber",
         "note": "",
         "params": [
             0,
@@ -3126,7 +3126,7 @@
     {
         "id": 116,
         "atypeId": 1,
-        "description": "リサイクル素材で作ったゴム\nゴム　精力自動回復+4",
+        "description": "Rubber made from recycled materials, automatic vigor recovery +4",
         "etypeId": 3,
         "traits": [
             {
@@ -3136,7 +3136,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "再生のゴム",
+        "name": "Regeneration Rubber",
         "note": "",
         "params": [
             0,
@@ -3153,7 +3153,7 @@
     {
         "id": 117,
         "atypeId": 1,
-        "description": "継続回復魔法がかけられたゴム\nゴム　精力自動回復+4",
+        "description": "Rubber enchanted with continuous healing magic, automatic vigor recovery +4",
         "etypeId": 3,
         "traits": [
             {
@@ -3163,7 +3163,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "リジェネゴム",
+        "name": "Regen Rubber",
         "note": "",
         "params": [
             100,
@@ -3180,7 +3180,7 @@
     {
         "id": 118,
         "atypeId": 1,
-        "description": "少し薬っぽい匂いのするゴム\nゴム　アイテム回復効果+20",
+        "description": "Rubber with a slightly medicinal smell, item recovery effect +20",
         "etypeId": 3,
         "traits": [
             {
@@ -3190,7 +3190,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "薬剤師のゴム",
+        "name": "Pharmacist's Rubber",
         "note": "",
         "params": [
             100,
@@ -3207,7 +3207,7 @@
     {
         "id": 119,
         "atypeId": 1,
-        "description": "賢者の石を作ろうとしたらうっかりできたゴム\nゴム　アイテム回復効果+50",
+        "description": "Rubber accidentally created while attempting to make the Philosopher's Stone,\nitem recovery effect +50",
         "etypeId": 3,
         "traits": [
             {
@@ -3217,7 +3217,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "錬金術師のゴム",
+        "name": "Alchemist's Rubber",
         "note": "<mat1:I81*1>\n<mat2:I82*1>\n<mat3:I78*1>\n<mat4:I79*1>\n<mat5:I80*1>\n<matG:500>",
         "params": [
             100,
@@ -3234,7 +3234,7 @@
     {
         "id": 120,
         "atypeId": 1,
-        "description": "自然にやさしい省エネゴム\nゴム　消費体力-20%　草風耐性",
+        "description": "Eco-friendly rubber that's kind to nature, stamina consumption -20%, grass and\nwind resistance",
         "etypeId": 3,
         "traits": [
             {
@@ -3254,7 +3254,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "エコロジーゴム",
+        "name": "Ecology Rubber",
         "note": "<mat1:I80*1>\n<mat2:I74*1>\n<mat3:I71*1>\n<mat4:I72*1>\n<mat5:I73*1>\n<matG:500>",
         "params": [
             100,
@@ -3271,7 +3271,7 @@
     {
         "id": 121,
         "atypeId": 1,
-        "description": "いちご味のゴム\nゴム　消費体力-20%　フェラ耐性-50%",
+        "description": "Strawberry-flavored rubber, stamina consumption -20%, fellatio resistance -50%",
         "etypeId": 3,
         "traits": [
             {
@@ -3286,7 +3286,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ストロベリーゴム",
+        "name": "Strawberry Rubber",
         "note": "",
         "params": [
             100,
@@ -3303,7 +3303,7 @@
     {
         "id": 122,
         "atypeId": 1,
-        "description": "ブルーベリー味のゴム\nゴム　消費体力-20%　フェラ耐性-100%",
+        "description": "Blueberry-flavored rubber, stamina consumption -20%, fellatio resistance -100%",
         "etypeId": 3,
         "traits": [
             {
@@ -3318,7 +3318,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ブルーベリーゴム",
+        "name": "Blueberry Rubber",
         "note": "",
         "params": [
             100,
@@ -3335,7 +3335,7 @@
     {
         "id": 123,
         "atypeId": 1,
-        "description": "ナニごと食べる人が続出する危険なゴム\nゴム　フェラ耐性-500%",
+        "description": "A dangerous rubber that causes people to eat anything, with a rubber blowjob\nresistance of -500%",
         "etypeId": 3,
         "traits": [
             {
@@ -3345,7 +3345,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "デリシャスゴム",
+        "name": "Delicious Rubber",
         "note": "<mat1:A121*1>\n<mat2:A122*1>\n<mat3:A139*1>\n<mat4:A140*1>\n<matG:500>",
         "params": [
             0,
@@ -3362,7 +3362,7 @@
     {
         "id": 124,
         "atypeId": 1,
-        "description": "テープでぐるぐる巻きにする\nゴム　消費体力-20%　脱力無効",
+        "description": "Wrap it up with tape, rubber stamina consumption -20%, paralysis invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3377,7 +3377,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "テーピング",
+        "name": "Taping",
         "note": "",
         "params": [
             0,
@@ -3394,7 +3394,7 @@
     {
         "id": 125,
         "atypeId": 1,
-        "description": "ゴムの代わりに魔力を薄く纏わりつかせる\nゴム　消費体力-20%",
+        "description": "Instead of rubber, thinly coat it with magic power, rubber stamina consumption\n-20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3404,7 +3404,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "マジックカーテン",
+        "name": "Magic Curtain",
         "note": "",
         "params": [
             100,
@@ -3421,7 +3421,7 @@
     {
         "id": 126,
         "atypeId": 1,
-        "description": "付けているだけで身体が熱くなるゴム\nゴム　TP増加+20　魅了無効",
+        "description": "Just wearing it makes the body heat up, rubber TP increase +20, charm invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3436,7 +3436,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "フレアオーラ",
+        "name": "Flare Aura",
         "note": "<mat1:I78*1>\n<matG:500>",
         "params": [
             0,
@@ -3453,7 +3453,7 @@
     {
         "id": 127,
         "atypeId": 1,
-        "description": "付けているだけで末端冷え性になるゴム\nゴム　回復効果+20　興奮無効",
+        "description": "Just wearing it causes cold extremities, rubber recovery effect +20, excitement\ninvalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3468,7 +3468,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "アイスオーラ",
+        "name": "Ice Aura",
         "note": "<mat1:I79*1>\n<matG:500>",
         "params": [
             0,
@@ -3485,7 +3485,7 @@
     {
         "id": 128,
         "atypeId": 1,
-        "description": "付けているだけで痺れるゴム\nゴム　クリティカル+2　怯み無効",
+        "description": "Just wearing it causes numbness, rubber critical hit +2, flinching invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3500,7 +3500,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "エレキオーラ",
+        "name": "Electric Aura",
         "note": "<mat1:I107*1>\n<matG:500>",
         "params": [
             0,
@@ -3517,7 +3517,7 @@
     {
         "id": 129,
         "atypeId": 1,
-        "description": "アソコにはめる何かケースのようなもの\nゴム　クリティカル+5　怯み無効",
+        "description": "Something like a case to fit over the genitals, rubber critical hit +5,\nflinching invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3532,7 +3532,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "コテカ",
+        "name": "Coteka",
         "note": "",
         "params": [
             0,
@@ -3549,7 +3549,7 @@
     {
         "id": 130,
         "atypeId": 1,
-        "description": "イボイボの付いたゴム\nゴム　本番耐性+20",
+        "description": "Rubber with bumps, rubber actual performance resistance +20",
         "etypeId": 3,
         "traits": [
             {
@@ -3559,7 +3559,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "イボイボゴム",
+        "name": "Nubby Rubber",
         "note": "",
         "params": [
             0,
@@ -3576,7 +3576,7 @@
     {
         "id": 131,
         "atypeId": 1,
-        "description": "トゲトゲの付いたゴム\nゴム　本番耐性+20",
+        "description": "Rubber with spikes, rubber actual performance resistance +20",
         "etypeId": 3,
         "traits": [
             {
@@ -3586,7 +3586,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "トゲトゲゴム",
+        "name": "Spiky Rubber",
         "note": "",
         "params": [
             0,
@@ -3603,7 +3603,7 @@
     {
         "id": 132,
         "atypeId": 1,
-        "description": "訓練を積むためのゴム\nゴム　経験値+20%",
+        "description": "Rubber for training purposes, rubber EXP +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3613,7 +3613,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "トレーニングゴム",
+        "name": "Training Rubber",
         "note": "",
         "params": [
             0,
@@ -3630,7 +3630,7 @@
     {
         "id": 133,
         "atypeId": 1,
-        "description": "付けると重力で下に引っ張られるゴム\nゴム　経験値+20%",
+        "description": "Rubber that is pulled down by gravity when worn, rubber EXP +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3640,7 +3640,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "グラビティゴム",
+        "name": "Gravity Rubber",
         "note": "",
         "params": [
             0,
@@ -3657,7 +3657,7 @@
     {
         "id": 134,
         "atypeId": 1,
-        "description": "シノビが使っていたと古事記にも記されている\nゴム　怯み無効",
+        "description": "Rubber that is recorded in the Kojiki as used by ninjas, flinching invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3667,7 +3667,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "秘忍具",
+        "name": "Secret Ninja Tool",
         "note": "",
         "params": [
             0,
@@ -3684,7 +3684,7 @@
     {
         "id": 135,
         "atypeId": 1,
-        "description": "明るく光る素材でできたゴム\nゴム　怯み無効　暗闇無効",
+        "description": "Rubber made of brightly glowing material, flinching invalid, darkness invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3699,7 +3699,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "フラッシュゴム",
+        "name": "Flash Rubber",
         "note": "",
         "params": [
             0,
@@ -3716,7 +3716,7 @@
     {
         "id": 136,
         "atypeId": 1,
-        "description": "ラメとかでデコってあるゴム\nゴム　怯み無効　暗闇無効　魅了無効",
+        "description": "Rubber decorated with glitter, flinching invalid, darkness invalid, charm\ninvalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3736,7 +3736,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "デコレーションゴム",
+        "name": "Decoration Rubber",
         "note": "",
         "params": [
             0,
@@ -3753,7 +3753,7 @@
     {
         "id": 137,
         "atypeId": 1,
-        "description": "亀頭しか隠れないゴム\nゴム　敏感無効",
+        "description": "Rubber that only covers the glans, sensitivity invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3763,7 +3763,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ソードオフゴム",
+        "name": "Sword of Rubber",
         "note": "",
         "params": [
             80,
@@ -3780,7 +3780,7 @@
     {
         "id": 138,
         "atypeId": 1,
-        "description": "しましま模様のゴム\nゴム　脱力無効",
+        "description": "Striped pattern rubber, paralysis invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3790,7 +3790,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ゼブラゴム",
+        "name": "Zebra Rubber",
         "note": "",
         "params": [
             222,
@@ -3807,7 +3807,7 @@
     {
         "id": 139,
         "atypeId": 1,
-        "description": "泡立てたメレンゲをそっと塗ってみる\nゴム　催淫毒無効",
+        "description": "Gently apply whipped meringue, rubber aphrodisiac poison invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3817,7 +3817,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "メレンゲ",
+        "name": "Meringue",
         "note": "",
         "params": [
             0,
@@ -3834,7 +3834,7 @@
     {
         "id": 140,
         "atypeId": 1,
-        "description": "とろっと甘いはちみつをそっと塗ってみる\nゴム　催淫毒無効　フェラ耐性-50%",
+        "description": "Gently apply sweet honey, rubber aphrodisiac poison invalid, blowjob resistance\n-50%",
         "etypeId": 3,
         "traits": [
             {
@@ -3849,7 +3849,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "はちみつ",
+        "name": "Honey",
         "note": "",
         "params": [
             0,
@@ -3866,7 +3866,7 @@
     {
         "id": 141,
         "atypeId": 1,
-        "description": "辛いわさびをこっそり塗ってみる\nゴム　催淫毒無効　フェラ耐性+20%",
+        "description": "Secretly apply spicy wasabi, rubber aphrodisiac poison invalid, blowjob\nresistance +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3881,7 +3881,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "わさび",
+        "name": "Wasabi",
         "note": "",
         "params": [
             0,
@@ -3898,11 +3898,11 @@
     {
         "id": 142,
         "atypeId": 1,
-        "description": "先端に穴が開いたとても危険なゴム\nゴム",
+        "description": "A very dangerous rubber with a hole at the tip",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "穴あきゴム",
+        "name": "Holed Rubber",
         "note": "",
         "params": [
             0,
@@ -3919,7 +3919,7 @@
     {
         "id": 143,
         "atypeId": 1,
-        "description": "捻じれていて付ける時大変\nゴム　拘束無効",
+        "description": "Twisted and difficult to put on, rubber restraint invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3929,7 +3929,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "スパイラルゴム",
+        "name": "Spiral Rubber",
         "note": "",
         "params": [
             0,
@@ -3946,7 +3946,7 @@
     {
         "id": 144,
         "atypeId": 1,
-        "description": "ぬるぬるしていてつるつる滑るゴム\nゴム　拘束無効",
+        "description": "Slippery and smooth rubber, restraint invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3956,7 +3956,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ローションゴム",
+        "name": "Lotion Rubber",
         "note": "",
         "params": [
             50,
@@ -3973,7 +3973,7 @@
     {
         "id": 145,
         "atypeId": 1,
-        "description": "ゴム人間になるゴム\nゴム　拘束無効　水耐性-100%",
+        "description": "Rubber that turns you into a rubber human, restraint invalid, water resistance\n-100%",
         "etypeId": 3,
         "traits": [
             {
@@ -3988,7 +3988,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ゴムゴムのゴム",
+        "name": "Gum-Gum Rubber",
         "note": "",
         "params": [
             200,
@@ -4005,7 +4005,7 @@
     {
         "id": 146,
         "atypeId": 1,
-        "description": "サキュバスの愛液が塗ってあるゴム\nゴム　興奮無効　誘惑耐性-100%",
+        "description": "Rubber coated with succubus love juice, excitement invalid, seduction resistance\n-100%",
         "etypeId": 3,
         "traits": [
             {
@@ -4020,7 +4020,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "フェロモンゴム",
+        "name": "Pheromone Rubber",
         "note": "",
         "params": [
             200,
@@ -4037,7 +4037,7 @@
     {
         "id": 147,
         "atypeId": 1,
-        "description": "防御魔法がかけられたゴム\nゴム　怯み無効　暗闇無効　魅了無効",
+        "description": "Rubber with defensive magic cast on it, flinching invalid, darkness invalid,\ncharm invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4057,7 +4057,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "シールド",
+        "name": "Shield",
         "note": "",
         "params": [
             100,
@@ -4074,7 +4074,7 @@
     {
         "id": 148,
         "atypeId": 1,
-        "description": "守護精霊の加護があるゴム\nゴム　興奮無効　暗闇無効　魅了無効",
+        "description": "Rubber with the blessing of a guardian spirit, excitement invalid, darkness\ninvalid, charm invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4094,7 +4094,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ガーディアン",
+        "name": "Guardian",
         "note": "<mat1:A147*1>\n<mat2:I76*3>\n<mat3:I77*1>\n<mat4:I81*1>\n<matG:500>",
         "params": [
             200,
@@ -4111,7 +4111,7 @@
     {
         "id": 149,
         "atypeId": 1,
-        "description": "滅菌消毒するクリーンなゴム\nゴム　催淫毒無効　暗闇無効",
+        "description": "Clean rubber sterilized and disinfected, aphrodisiac poison invalid, darkness\ninvalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4126,7 +4126,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "抗菌ゴム",
+        "name": "Antibacterial Rubber",
         "note": "",
         "params": [
             100,
@@ -4143,7 +4143,7 @@
     {
         "id": 150,
         "atypeId": 1,
-        "description": "毒を仕込んであるゴム\nゴム　催淫毒無効　催淫毒付与",
+        "description": "Rubber laced with poison, aphrodisiac poison invalid, aphrodisiac poison given",
         "etypeId": 3,
         "traits": [
             {
@@ -4158,7 +4158,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ポイズンゴム",
+        "name": "Poison Rubber",
         "note": "",
         "params": [
             20,
@@ -4175,7 +4175,7 @@
     {
         "id": 151,
         "atypeId": 1,
-        "description": "ヤバイ毒を仕込んでいるゴム　自分もヤバイ\nゴム　精力自動回復-1　催淫毒付与",
+        "description": "Dangerous rubber laced with a dangerous poison, self also in danger, rubber\nstamina auto-recovery -1, aphrodisiac poison given",
         "etypeId": 3,
         "traits": [
             {
@@ -4190,7 +4190,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "デッドリーポイズンゴム",
+        "name": "Deadly Poison Rubber",
         "note": "<mat1:A150*1>\n<mat2:I82*1>\n<mat3:I105*1>\n<mat4:I794*1>\n<matG:500>",
         "params": [
             -200,
@@ -4207,7 +4207,7 @@
     {
         "id": 152,
         "atypeId": 1,
-        "description": "母さんが夜なべをしてコンドーム編んでくれた\nゴム　敏感無効　暗闇無効　魅了無効",
+        "description": "Rubber knitted by mom staying up all night, sensitivity invalid, darkness\ninvalid, charm invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4227,7 +4227,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "手編みのゴム",
+        "name": "Hand-Knitted Rubber",
         "note": "",
         "params": [
             20,
@@ -4244,7 +4244,7 @@
     {
         "id": 153,
         "atypeId": 1,
-        "description": "サイバーワイフ社が作ったハイテクノロジーゴム\nゴム　敏感無効　暗闇無効　魅了無効　脱力無効",
+        "description": "High-tech rubber made by Cyber Wife Co., sensitivity invalid, darkness invalid,\ncharm invalid, paralysis invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4269,7 +4269,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "サイバーゴム",
+        "name": "Cyber Rubber",
         "note": "",
         "params": [
             100,
@@ -4286,7 +4286,7 @@
     {
         "id": 154,
         "atypeId": 1,
-        "description": "パイズリの気持ちよさを上げるゴム\nゴム　パイズリ耐性-500%",
+        "description": "Rubber that increases the pleasure of titjobs, titjob resistance -500%",
         "etypeId": 3,
         "traits": [
             {
@@ -4296,7 +4296,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "パイズリ用ゴム",
+        "name": "Paizuri Rubber",
         "note": "",
         "params": [
             0,
@@ -4313,7 +4313,7 @@
     {
         "id": 155,
         "atypeId": 1,
-        "description": "イチモツが二本に増えてしまうゴム\nゴム　攻撃回数+1　スキル使用不可",
+        "description": "Rubber that doubles the dick into two, attack count +1, skill use not possible",
         "etypeId": 3,
         "traits": [
             {
@@ -4328,7 +4328,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "奇遇なゴム",
+        "name": "Serendipitous Rubber",
         "note": "",
         "params": [
             0,
@@ -4345,7 +4345,7 @@
     {
         "id": 156,
         "atypeId": 1,
-        "description": "伝説のゴムのパチモノ\nゴム　魅了無効　拘束無効",
+        "description": "A counterfeit of the legendary rubber, charm invalid, restraint invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4360,7 +4360,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "イーヂス",
+        "name": "Eidys",
         "note": "",
         "params": [
             50,
@@ -4377,7 +4377,7 @@
     {
         "id": 157,
         "atypeId": 1,
-        "description": "伝説のゴム\nゴム　状態異常無効",
+        "description": "The legendary rubber, status abnormality invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4422,7 +4422,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "イージス",
+        "name": "Aegis",
         "note": "<mat1:A156*1>\n<mat2:I76*5>\n<mat3:I77*3>\n<mat4:I81*2>\n<mat5:I73*5>\n",
         "params": [
             300,
@@ -4439,7 +4439,7 @@
     {
         "id": 158,
         "atypeId": 1,
-        "description": "リリスの魔力が込められたゴム\nゴム　TP増加+30%　パイズリ耐性-100%",
+        "description": "Rubber imbued with Lilith's magic power, TP increase +30%, titjob resistance\n-100%",
         "etypeId": 3,
         "traits": [
             {
@@ -4454,7 +4454,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "リリスのゴム",
+        "name": "Lilith's Rubber",
         "note": "",
         "params": [
             222,
@@ -4471,7 +4471,7 @@
     {
         "id": 159,
         "atypeId": 1,
-        "description": "メンソールが塗ってあるひんやりゴム\nゴム　興奮無効　怯み無効",
+        "description": "Cooling rubber coated with menthol, excitement invalid, flinching invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4486,7 +4486,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "クールゴム",
+        "name": "Cool Rubber",
         "note": "",
         "params": [
             30,
@@ -4503,7 +4503,7 @@
     {
         "id": 160,
         "atypeId": 1,
-        "description": "冷気魔法がかけられたゴム\nゴム　興奮無効　怯み無効",
+        "description": "Rubber with cold magic cast on it, excitement invalid, flinching invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4518,7 +4518,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "スーパークールゴム",
+        "name": "Super Cool Rubber",
         "note": "<mat1:A159*1>\n<mat2:I79*1>\n<matG:500>",
         "params": [
             50,
@@ -4535,7 +4535,7 @@
     {
         "id": 161,
         "atypeId": 1,
-        "description": "液体窒素で瞬間冷凍したゴム\nゴム　興奮無効　怯み無効　魅了無効",
+        "description": "Rubber instantly frozen with liquid nitrogen, excitement invalid, flinching\ninvalid, charm invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4555,7 +4555,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "凍結ゴム",
+        "name": "Freezing Rubber",
         "note": "<mat1:A160*1>\n<mat2:I79*2>\n<matG:500>",
         "params": [
             70,
@@ -4572,7 +4572,7 @@
     {
         "id": 162,
         "atypeId": 1,
-        "description": "ほぼトイレットペーパーの芯\nゴム　怯み無効　尻コキ耐性+20%",
+        "description": "Almost just a toilet paper core, flinching invalid, assjob resistance +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -4587,7 +4587,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "紙製のゴム",
+        "name": "Paper Rubber",
         "note": "",
         "params": [
             50,
@@ -4604,11 +4604,11 @@
     {
         "id": 163,
         "atypeId": 1,
-        "description": "アザラシの皮で出来たコンドーム\nゴム",
+        "description": "A condom made from seal skin",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "シールスキン",
+        "name": "Seal Skin",
         "note": "",
         "params": [
             50,
@@ -4625,11 +4625,11 @@
     {
         "id": 164,
         "atypeId": 1,
-        "description": "猫の大好きなまたたびをまぶしてみた\nゴム",
+        "description": "A condom dusted with catnip, a cat's favorite",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
-        "name": "またたびゴム",
+        "name": "Silvervine Rubber",
         "note": "<mat1:A101*1>\n<mat2:I113*1>\n",
         "params": [
             50,
@@ -4646,7 +4646,7 @@
     {
         "id": 165,
         "atypeId": 1,
-        "description": "ハリガネがぐるぐる巻いてあるゴム\nゴム　興奮無効",
+        "description": "A condom wrapped with wire, excitement nullified",
         "etypeId": 3,
         "traits": [
             {
@@ -4656,7 +4656,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ハリガネゴム",
+        "name": "Steel Wire Rubber",
         "note": "<mat1:I76*1>\n<matG:100>",
         "params": [
             0,
@@ -4673,7 +4673,7 @@
     {
         "id": 166,
         "atypeId": 1,
-        "description": "触れず見ることもできないが質量と重力を持つゴム\nゴム　回復アイテムの効果1.5倍",
+        "description": "A condom that cannot be touched or seen, but has mass and gravity, healing item\neffectiveness increased by 1.5 times",
         "etypeId": 3,
         "traits": [
             {
@@ -4683,7 +4683,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ダークマターゴム",
+        "name": "Dark Matter Rubber",
         "note": "<mat1:A101*1>\n<mat2:I113*1>\n",
         "params": [
             500,
@@ -4700,7 +4700,7 @@
     {
         "id": 167,
         "atypeId": 1,
-        "description": "世界を作る素粒子のひとつ　何でも貫通する\nゴム　敏感付与　TP増加+10　クリティカル+3",
+        "description": "One of the elementary particles that make up the world, penetrates anything,\ncondom grants sensitivity and increases TP by +10, Critical +3",
         "etypeId": 3,
         "traits": [
             {
@@ -4720,7 +4720,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ニュートリノゴム",
+        "name": "Neutrino Rubber",
         "note": "<mat1:A101*1>\n<mat2:I113*1>\n",
         "params": [
             0,
@@ -5611,7 +5611,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～指輪～",
+        "name": "~Ring~",
         "note": "",
         "params": [
             0,
@@ -5628,7 +5628,7 @@
     {
         "id": 201,
         "atypeId": 1,
-        "description": "永遠を誓った指輪\n指輪　弾+1　ワイドショット",
+        "description": "A ring that vows eternity, Ring Bullet +1, Wide Shot",
         "etypeId": 4,
         "traits": [
             {
@@ -5638,7 +5638,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "約束の指輪",
+        "name": "Promise Ring",
         "note": "<shotWay:1>\n<shotSpace:0.7>",
         "params": [
             0,
@@ -5655,11 +5655,11 @@
     {
         "id": 202,
         "atypeId": 1,
-        "description": "鉄でできたシンプルな指輪\n指輪",
+        "description": "A simple ring made of iron, Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
-        "name": "鉄の指輪",
+        "name": "Iron Ring",
         "note": "<mat1:I76*1>\n<matG:100>",
         "params": [
             0,
@@ -5676,11 +5676,11 @@
     {
         "id": 203,
         "atypeId": 1,
-        "description": "金で出来た高級な指輪\n指輪",
+        "description": "A luxurious ring made of gold, Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
-        "name": "金の指輪",
+        "name": "Gold Ring",
         "note": "<mat1:I77*1>\n<matG:500>",
         "params": [
             0,
@@ -5697,11 +5697,11 @@
     {
         "id": 204,
         "atypeId": 1,
-        "description": "パンクなデザインの指輪\n指輪",
+        "description": "A ring with a punk design, Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
-        "name": "戦いの指輪",
+        "name": "Ring of Battle",
         "note": "",
         "params": [
             0,
@@ -5718,7 +5718,7 @@
     {
         "id": 205,
         "atypeId": 1,
-        "description": "さくらんぼがデザインされた可愛い指輪\n指輪　弾+1",
+        "description": "A cute ring designed with cherries, Ring Bullet +1",
         "etypeId": 4,
         "traits": [
             {
@@ -5728,7 +5728,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "チェリーリング",
+        "name": "Cherry Ring",
         "note": "<shotWay:1>\n",
         "params": [
             0,
@@ -5745,7 +5745,7 @@
     {
         "id": 206,
         "atypeId": 1,
-        "description": "小粒のダイヤがあしらってある指輪\n指輪　魅了無効",
+        "description": "A ring adorned with small diamonds, Ring charm nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -5755,7 +5755,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ダイヤの指輪",
+        "name": "Diamond Ring",
         "note": "<mat1:I81*1>\n<matG:1000>",
         "params": [
             0,
@@ -5772,7 +5772,7 @@
     {
         "id": 207,
         "atypeId": 1,
-        "description": "リリスの呪いが込められた小指用の指輪\n指輪　パイズリ耐性-500%",
+        "description": "A pinky ring cursed with Lilith's curse, Ring Paizuri resistance -500%",
         "etypeId": 4,
         "traits": [
             {
@@ -5782,7 +5782,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "リリスのピンキーリング",
+        "name": "Lilith's Pinky Ring",
         "note": "",
         "params": [
             100,
@@ -5799,7 +5799,7 @@
     {
         "id": 208,
         "atypeId": 1,
-        "description": "プラスチックでできた安っぽい指輪\n指輪　魅了耐性30　興奮耐性30",
+        "description": "A cheap-looking ring made of plastic, Ring Charm resistance 30, Excitement\nresistance 30",
         "etypeId": 4,
         "traits": [
             {
@@ -5814,7 +5814,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "おもちゃの指輪",
+        "name": "Toy Ring",
         "note": "",
         "params": [
             0,
@@ -5831,7 +5831,7 @@
     {
         "id": 209,
         "atypeId": 1,
-        "description": "アカシアの花の装飾がされた優雅な指輪\n指輪　魅了無効　興奮無効　催淫毒無効",
+        "description": "An elegant ring decorated with acacia flowers, Ring Charm nullified, Excitement\nnullified, Aphrodisiac poison nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -5851,7 +5851,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ミモザリング",
+        "name": "Mimosa Ring",
         "note": "",
         "params": [
             0,
@@ -5868,7 +5868,7 @@
     {
         "id": 210,
         "atypeId": 1,
-        "description": "妖精の腕輪　人間にとっては指輪\n指輪　魅了耐性30　催淫毒無効　体力消費-20%",
+        "description": "A fairy's bracelet, for humans it's a ring, Ring Charm resistance 30,\nAphrodisiac poison nullified, Stamina consumption -20%",
         "etypeId": 4,
         "traits": [
             {
@@ -5888,7 +5888,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "フェアリーリング",
+        "name": "Fairy Ring",
         "note": "<mat1:I78*1>\n<mat2:I79*1>\n<mat3:I80*1>\n<matG:500>",
         "params": [
             0,
@@ -5905,7 +5905,7 @@
     {
         "id": 211,
         "atypeId": 1,
-        "description": "磯の香がする指輪\n指輪　催淫毒無効　経験値+5%",
+        "description": "A ring that smells of the seashore, Ring Aphrodisiac poison nullified, EXP +5%",
         "etypeId": 4,
         "traits": [
             {
@@ -5920,7 +5920,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "インスマスリング",
+        "name": "Innsmouth Ring",
         "note": "<mat1:I79*1>\n<mat2:I103*1>\n<matG:100>",
         "params": [
             0,
@@ -5937,7 +5937,7 @@
     {
         "id": 212,
         "atypeId": 1,
-        "description": "情熱を表現した指輪\n指輪　脱力無効　TP増加+30%",
+        "description": "A ring that expresses passion, Ring Weakness nullified, TP increase +30%",
         "etypeId": 4,
         "traits": [
             {
@@ -5952,7 +5952,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ヒートリング",
+        "name": "Heat Ring",
         "note": "<mat1:I78*1>\n<matG:300>",
         "params": [
             0,
@@ -5969,7 +5969,7 @@
     {
         "id": 213,
         "atypeId": 1,
-        "description": "冷静を表現した指輪\n指輪　興奮無効　体力自動回復+3",
+        "description": "A ring that expresses calmness, Ring Excitement nullified, Automatic HP recovery\n+3",
         "etypeId": 4,
         "traits": [
             {
@@ -5984,7 +5984,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "スノーリング",
+        "name": "Snow Ring",
         "note": "<mat1:I79*1>\n<matG:300>",
         "params": [
             0,
@@ -6001,7 +6001,7 @@
     {
         "id": 214,
         "atypeId": 1,
-        "description": "閃きを表現した指輪\n指輪　怯み無効　クリティカル+3",
+        "description": "A ring that expresses inspiration, Ring Flinch nullified, Critical +3",
         "etypeId": 4,
         "traits": [
             {
@@ -6016,7 +6016,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "スパークリング",
+        "name": "Sparkling Ring",
         "note": "<mat1:I107*1>\n<matG:300>",
         "params": [
             0,
@@ -6033,7 +6033,7 @@
     {
         "id": 215,
         "atypeId": 1,
-        "description": "自由を表現した指輪\n指輪　拘束無効　精力自動回復+3",
+        "description": "A ring that expresses freedom, Ring Restraint nullified, Automatic Vigor\nrecovery +3",
         "etypeId": 4,
         "traits": [
             {
@@ -6048,7 +6048,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "フェザーリング",
+        "name": "Feather Ring",
         "note": "<mat1:I80*1>\n<matG:300>",
         "params": [
             0,
@@ -6065,7 +6065,7 @@
     {
         "id": 216,
         "atypeId": 1,
-        "description": "回復魔法がかけられた指輪\n指輪　催淫毒無効　精力自動回復+2",
+        "description": "A ring with healing magic applied, Ring Aphrodisiac poison nullified, Automatic\nVigor recovery +2",
         "etypeId": 4,
         "traits": [
             {
@@ -6080,7 +6080,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "回復の指輪",
+        "name": "Ring of Recovery",
         "note": "",
         "params": [
             100,
@@ -6097,7 +6097,7 @@
     {
         "id": 217,
         "atypeId": 1,
-        "description": "薬の効果を高める指輪\n指輪　催淫毒無効　アイテム回復効果+50%",
+        "description": "A ring that enhances the effects of medicine, Ring Aphrodisiac poison nullified,\nItem recovery effect +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -6112,7 +6112,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "メディカルリング",
+        "name": "Medical Ring",
         "note": "",
         "params": [
             200,
@@ -6129,7 +6129,7 @@
     {
         "id": 218,
         "atypeId": 1,
-        "description": "力が湧いてくる指輪\n指輪　脱力無効　拘束無効　体力自動回復+1",
+        "description": "A ring that makes power well up within you, Ring Weakness nullified, Restraint\nnullified, Automatic HP recovery +1",
         "etypeId": 4,
         "traits": [
             {
@@ -6149,7 +6149,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "力の指輪",
+        "name": "Ring of Power",
         "note": "",
         "params": [
             0,
@@ -6166,7 +6166,7 @@
     {
         "id": 219,
         "atypeId": 1,
-        "description": "錆びてしまっている\n指輪　魅了無効　興奮無効　アイテム回復効果+20%",
+        "description": "A rusted ring, Ring Charm nullified, Excitement nullified, Item recovery effect\n+20%",
         "etypeId": 4,
         "traits": [
             {
@@ -6186,7 +6186,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "涙の指輪",
+        "name": "Tear Ring",
         "note": "",
         "params": [
             0,
@@ -6203,7 +6203,7 @@
     {
         "id": 220,
         "atypeId": 1,
-        "description": "ドクロ模様のあからさまに呪われてそうな指輪\n指輪　敏感無効　精力減少-2",
+        "description": "A ring with a skull pattern that seems obviously cursed, Ring Sensitivity\nnullified, Vigor decrease -2",
         "etypeId": 4,
         "traits": [
             {
@@ -6218,7 +6218,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "呪いの指輪",
+        "name": "Cursed Ring",
         "note": "",
         "params": [
             0,
@@ -6235,7 +6235,7 @@
     {
         "id": 221,
         "atypeId": 1,
-        "description": "必要以上に力が入る魔法の指輪\n指輪　脱力無効　消費体力+50%",
+        "description": "A magical ring that makes you exert unnecessary strength, Ring Weakness\nnullified, Stamina consumption +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -6250,7 +6250,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "エナジーリング",
+        "name": "Energy Ring",
         "note": "",
         "params": [
             0,
@@ -6267,7 +6267,7 @@
     {
         "id": 222,
         "atypeId": 1,
-        "description": "メイドインアーコと書いてある\n指輪　アイテムドロップ率2倍　行動追加5%",
+        "description": "Made in Arco as written on the ring, Item drop rate doubled, Action addition 5%",
         "etypeId": 4,
         "traits": [
             {
@@ -6282,7 +6282,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "黒猫の指輪",
+        "name": "Black Cat Ring",
         "note": "",
         "params": [
             50,
@@ -6299,7 +6299,7 @@
     {
         "id": 223,
         "atypeId": 1,
-        "description": "趣味の悪い指輪\n指輪　獲得金額2倍",
+        "description": "A ring of poor taste, Ring Money earned doubled",
         "etypeId": 4,
         "traits": [
             {
@@ -6309,7 +6309,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "成金の指輪",
+        "name": "Nouveau Riche Ring",
         "note": "",
         "params": [
             0,
@@ -6326,7 +6326,7 @@
     {
         "id": 224,
         "atypeId": 1,
-        "description": "髪の毛がつやつやになる指輪\n指輪　回復効果+20%　敏感無効　暗闇無効",
+        "description": "A ring that makes hair glossy and shiny, Ring Recovery effect +20%, Sensitivity\nnullified, Darkness nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6346,7 +6346,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "エンジェルリング",
+        "name": "Angel Ring",
         "note": "",
         "params": [
             300,
@@ -6363,7 +6363,7 @@
     {
         "id": 225,
         "atypeId": 1,
-        "description": "黒い魔力が渦巻く指輪\n指輪　回復効果-20%　敏感無効　興奮無効",
+        "description": "A ring swirling with black magic power, Ring Recovery effect -20%, Sensitivity\nnullified, Excitement nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6383,7 +6383,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "デビルリング",
+        "name": "Devil Ring",
         "note": "",
         "params": [
             -200,
@@ -6400,7 +6400,7 @@
     {
         "id": 226,
         "atypeId": 1,
-        "description": "甘い匂いのする指輪\n指輪　アイテム回復効果+50%　精力自動回復+2",
+        "description": "A sweet-smelling ring, Ring Item recovery effect +50%, Automatic Vigor recovery\n+2",
         "etypeId": 4,
         "traits": [
             {
@@ -6415,7 +6415,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ポンデリング",
+        "name": "Pondering Ring",
         "note": "",
         "params": [
             20,
@@ -6432,7 +6432,7 @@
     {
         "id": 227,
         "atypeId": 1,
-        "description": "宇宙の電波を受信する指輪\n指輪　アイテム回復効果+50%　経験値+20%",
+        "description": "A ring that receives cosmic radio waves, Ring Item recovery effect +50%, EXP\n+20%",
         "etypeId": 4,
         "traits": [
             {
@@ -6447,7 +6447,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "チャネリング",
+        "name": "Channeling Ring",
         "note": "",
         "params": [
             5,
@@ -6464,11 +6464,11 @@
     {
         "id": 228,
         "atypeId": 1,
-        "description": "殴るための連結指輪\n指輪",
+        "description": "A connecting ring for punching purposes, Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
-        "name": "メリケンサック",
+        "name": "Sap Glove",
         "note": "",
         "params": [
             0,
@@ -6485,7 +6485,7 @@
     {
         "id": 229,
         "atypeId": 1,
-        "description": "高名な魔術師の魔力が込められた指輪\n指輪　体力自動回復+5",
+        "description": "A ring imbued with the magic power of a famous magician, Ring Automatic HP\nrecovery +5",
         "etypeId": 4,
         "traits": [
             {
@@ -6495,7 +6495,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "マジカーレリング",
+        "name": "Magic Circle Ring",
         "note": "<mat1:I793*1>\n<matG:5000>",
         "params": [
             0,
@@ -6512,7 +6512,7 @@
     {
         "id": 230,
         "atypeId": 1,
-        "description": "ヒッグス粒子で作られた指輪\n指輪　命中率+15%",
+        "description": "A ring made of Higgs particles, Ring Accuracy +15%",
         "etypeId": 4,
         "traits": [
             {
@@ -6522,7 +6522,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ヒッグスリング",
+        "name": "Higgs Ring",
         "note": "",
         "params": [
             100,
@@ -6539,7 +6539,7 @@
     {
         "id": 231,
         "atypeId": 1,
-        "description": "無事に帰ってくるよう祈りが込められた指輪\n指輪　TP持ち越し",
+        "description": "A ring with prayers for a safe return home imbued within it, Ring TP carryover",
         "etypeId": 4,
         "traits": [
             {
@@ -6549,7 +6549,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "旅人の指輪",
+        "name": "Traveler's Ring",
         "note": "",
         "params": [
             0,
@@ -6566,7 +6566,7 @@
     {
         "id": 232,
         "atypeId": 1,
-        "description": "キレイな赤い宝石があしらってある指輪\n指輪　TP持ち越し",
+        "description": "A beautiful ring adorned with a red gemstone, Ring TP carryover",
         "etypeId": 4,
         "traits": [
             {
@@ -6576,7 +6576,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ルビーの指輪",
+        "name": "Ruby Ring",
         "note": "<mat1:I78*1>\n<matG:500>",
         "params": [
             0,
@@ -6593,7 +6593,7 @@
     {
         "id": 233,
         "atypeId": 1,
-        "description": "キレイな青い宝石があしらってある指輪\n指輪　興奮無効　怯み無効　催淫毒無効",
+        "description": "A beautiful ring adorned with a blue gemstone, Ring Excitement nullified, Flinch\nnullified, Aphrodisiac poison nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6613,7 +6613,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "アクアマリンの指輪",
+        "name": "Aquamarine Ring",
         "note": "<mat1:I79*1>\n<matG:500>",
         "params": [
             0,
@@ -6630,7 +6630,7 @@
     {
         "id": 234,
         "atypeId": 1,
-        "description": "キレイな緑の宝石があしらってある指輪\n指輪　魅了無効　拘束無効　暗闇無効",
+        "description": "A beautiful ring adorned with a green gemstone, Ring Charm nullified, Restraint\nnullified, Darkness nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6650,7 +6650,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "エメラルドの指輪",
+        "name": "Emerald Ring",
         "note": "<mat1:I80*1>\n<matG:500>",
         "params": [
             0,
@@ -6667,7 +6667,7 @@
     {
         "id": 235,
         "atypeId": 1,
-        "description": "時を操る魔力が込められた指輪\n指輪　行動追加20%",
+        "description": "A ring imbued with the magical power to manipulate time. Ring Action Increase\n20%",
         "etypeId": 4,
         "traits": [
             {
@@ -6677,7 +6677,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "時の指輪",
+        "name": "Ring of Time",
         "note": "",
         "params": [
             0,
@@ -6694,7 +6694,7 @@
     {
         "id": 236,
         "atypeId": 1,
-        "description": "無限に続く表と裏\n指輪　行動追加40%",
+        "description": "A ring representing the infinite faces of heads and tails. Ring Action Increase\n40%",
         "etypeId": 4,
         "traits": [
             {
@@ -6704,7 +6704,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "メビウスの指輪",
+        "name": "Möbius Ring",
         "note": "<mat1:A235*1>\n<mat2:I790*5>\n<matG:500>",
         "params": [
             0,
@@ -6721,7 +6721,7 @@
     {
         "id": 237,
         "atypeId": 1,
-        "description": "身体が勝手に動いてしまう呪いの指輪\n指輪　自動行動",
+        "description": "A cursed ring that makes your body move on its own. Ring Automatic Action",
         "etypeId": 4,
         "traits": [
             {
@@ -6731,7 +6731,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "バーサークリング",
+        "name": "Berserk Ring",
         "note": "",
         "params": [
             0,
@@ -6748,7 +6748,7 @@
     {
         "id": 238,
         "atypeId": 1,
-        "description": "強力な悪魔を封印した呪いの指輪\n指輪　スキル封印　行動追加30%",
+        "description": "A cursed ring with a powerful demon sealed within. Ring Skill Seal Action\nIncrease 30%",
         "etypeId": 4,
         "traits": [
             {
@@ -6763,7 +6763,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "封印の指輪",
+        "name": "Seal Ring",
         "note": "",
         "params": [
             0,
@@ -6780,7 +6780,7 @@
     {
         "id": 239,
         "atypeId": 1,
-        "description": "多くの哲学者を悩ませたものの結論\n指輪　アイテム回復効果+50%　精力自動回復+3",
+        "description": "The conclusion that troubled many philosophers. Ring Item Recovery Effect +50%\nStamina Auto-Recovery +3",
         "etypeId": 4,
         "traits": [
             {
@@ -6795,7 +6795,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ドーナツの穴",
+        "name": "Donut Hole",
         "note": "<mat1:A226*1>\n<matG:3000>",
         "params": [
             50,
@@ -6812,7 +6812,7 @@
     {
         "id": 240,
         "atypeId": 1,
-        "description": "目を瞑っても前が見えるようになる指輪\n指輪　暗闇無効　アイテム入手率2倍",
+        "description": "A ring that allows you to see as if your eyes were open, even when they're\nclosed. Ring Darkness Nullification Item Drop Rate x2",
         "etypeId": 4,
         "traits": [
             {
@@ -6827,7 +6827,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "透視の指輪",
+        "name": "Clairvoyance Ring",
         "note": "",
         "params": [
             0,
@@ -6844,7 +6844,7 @@
     {
         "id": 241,
         "atypeId": 1,
-        "description": "六人分の命が凝縮された赤黒い石の指輪\n指輪　興奮/魅了/発情無効　深呼吸封印",
+        "description": "A ring with a red-black stone condensed with the lives of six people. Ring\nExcitement/Charm/Arousal Nullification Deep Breathing Seal",
         "etypeId": 4,
         "traits": [
             {
@@ -6869,7 +6869,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "六魂石の指輪",
+        "name": "Six-Soul Stone Ring",
         "note": "",
         "params": [
             6,
@@ -8462,7 +8462,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～装飾品～",
+        "name": "~Accessories~",
         "note": "",
         "params": [
             0,
@@ -8479,7 +8479,7 @@
     {
         "id": 301,
         "atypeId": 1,
-        "description": "戦いの無事を祈る思いが込められたお守り\n装飾品　防御効果+20%　剣装備可",
+        "description": "An amulet filled with prayers for safety in battle. Accessory Defense Effect\n+20% Sword Equipment Possible",
         "etypeId": 5,
         "traits": [
             {
@@ -8494,7 +8494,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "剣士のお守り",
+        "name": "Swordsman's Charm",
         "note": "",
         "params": [
             0,
@@ -8511,7 +8511,7 @@
     {
         "id": 302,
         "atypeId": 1,
-        "description": "急所を守る冒険者の必需品\n装飾品　防御効果+20%",
+        "description": "An essential adventurer's accessory to protect vital points. Accessory Defense\nEffect +20%",
         "etypeId": 5,
         "traits": [
             {
@@ -8521,7 +8521,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "膝当て",
+        "name": "Knee Pads",
         "note": "",
         "params": [
             100,
@@ -8538,7 +8538,7 @@
     {
         "id": 303,
         "atypeId": 1,
-        "description": "薬の効果を高める腕輪\n装飾品　アイテム回復効果+20%　薬装備可",
+        "description": "An armlet that enhances the effects of medicine. Accessory Item Recovery Effect\n+20% Medicine Equipment Possible",
         "etypeId": 5,
         "traits": [
             {
@@ -8553,7 +8553,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "錬金術師の腕輪",
+        "name": "Alchemist's Bracelet",
         "note": "",
         "params": [
             0,
@@ -8570,7 +8570,7 @@
     {
         "id": 304,
         "atypeId": 1,
-        "description": "秒針が不規則に動く不思議な懐中時計\n装飾品　行動追加20%",
+        "description": "A mysterious pocket watch with an irregular second hand. Accessory Action\nIncrease 20%",
         "etypeId": 5,
         "traits": [
             {
@@ -8580,7 +8580,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "白兎の懐中時計",
+        "name": "White Rabbit's Pocket Watch",
         "note": "",
         "params": [
             0,
@@ -8597,7 +8597,7 @@
     {
         "id": 305,
         "atypeId": 1,
-        "description": "魔力切れで動いたり動かなかったりする時計\n装飾品　興奮無効　行動追加10%",
+        "description": "A watch that moves erratically due to running out of magic power. Accessory\nExcitement Nullification Action Increase 10%",
         "etypeId": 5,
         "traits": [
             {
@@ -8612,7 +8612,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "トルテの腕時計",
+        "name": "Torte's Wristwatch",
         "note": "",
         "params": [
             0,
@@ -8629,7 +8629,7 @@
     {
         "id": 306,
         "atypeId": 1,
-        "description": "時を司る神の時計\n装飾品　行動追加40%",
+        "description": "A clock belonging to the god who governs time. Accessory Action Increase 40%",
         "etypeId": 5,
         "traits": [
             {
@@ -8644,7 +8644,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "クロノスの時計",
+        "name": "Chronos's Watch",
         "note": "<mat1:A304*1>\n<mat2:A305*1>\n<matG:10>",
         "params": [
             0,
@@ -8661,7 +8661,7 @@
     {
         "id": 307,
         "atypeId": 1,
-        "description": "様々な薬が入った鞄\n装飾品　アイテム回復効果+50%　薬装備可",
+        "description": "A bag filled with various medicines. Accessory Item Recovery Effect +50%\nMedicine Equipment Possible",
         "etypeId": 5,
         "traits": [
             {
@@ -8676,7 +8676,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "薬剤師の鞄",
+        "name": "Pharmacist's Bag",
         "note": "",
         "params": [
             0,
@@ -8693,7 +8693,7 @@
     {
         "id": 308,
         "atypeId": 1,
-        "description": "血圧を測定する腕輪\n装飾品　興奮無効　怯み耐性30",
+        "description": "An armlet for measuring blood pressure. Accessory Excitement Nullification\nFlinch Resistance 30",
         "etypeId": 5,
         "traits": [
             {
@@ -8708,7 +8708,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "血圧計",
+        "name": "Sphygmomanometer",
         "note": "",
         "params": [
             0,
@@ -8725,7 +8725,7 @@
     {
         "id": 309,
         "atypeId": 1,
-        "description": "磁力で血流をよくする健康器具\n装飾品　興奮無効　怯み耐性60",
+        "description": "A health device that improves blood circulation with magnetic force. Accessory\nExcitement Nullification Flinch Resistance 60",
         "etypeId": 5,
         "traits": [
             {
@@ -8740,7 +8740,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "磁気ネックレス",
+        "name": "Magnetic Necklace",
         "note": "",
         "params": [
             20,
@@ -8757,7 +8757,7 @@
     {
         "id": 310,
         "atypeId": 1,
-        "description": "冷静さを保てるようになる腕輪\n装飾品　興奮無効　怯み無効",
+        "description": "An armlet that helps maintain composure. Accessory Excitement Nullification\nFlinch Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -8772,7 +8772,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "カームブレスレット",
+        "name": "Calm Bracelet",
         "note": "",
         "params": [
             30,
@@ -8789,7 +8789,7 @@
     {
         "id": 311,
         "atypeId": 1,
-        "description": "可愛らしい腕輪\n装飾品　魅了無効　敏感耐性30",
+        "description": "A cute armlet. Accessory Charm Nullification Sensitivity Resistance 30",
         "etypeId": 5,
         "traits": [
             {
@@ -8804,7 +8804,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "チャームリスト",
+        "name": "Charm Wrist",
         "note": "",
         "params": [
             0,
@@ -8821,7 +8821,7 @@
     {
         "id": 312,
         "atypeId": 1,
-        "description": "ハート模様のキュートなチョーカー\n装飾品　魅了無効　敏感耐性60",
+        "description": "A cute choker with heart patterns. Accessory Charm Nullification Sensitivity\nResistance 60",
         "etypeId": 5,
         "traits": [
             {
@@ -8836,7 +8836,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ハートのチョーカー",
+        "name": "Heart Choker",
         "note": "",
         "params": [
             0,
@@ -8853,7 +8853,7 @@
     {
         "id": 313,
         "atypeId": 1,
-        "description": "人を魅了する魔力の込められたピアス\n装飾品　魅了無効　敏感無効",
+        "description": "Earrings imbued with magical power to charm people. Accessory Charm\nNullification Sensitivity Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -8868,7 +8868,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "インプのピアス",
+        "name": "Imp's Earrings",
         "note": "",
         "params": [
             10,
@@ -8885,7 +8885,7 @@
     {
         "id": 314,
         "atypeId": 1,
-        "description": "縄抜けの小道具が仕込まれた腕輪\n装飾品　拘束無効　脱力耐性30",
+        "description": "An armlet with a trick for escaping ropes. Accessory Restraint Nullification\nWeakness Resistance 30",
         "etypeId": 5,
         "traits": [
             {
@@ -8900,7 +8900,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "縄抜けの腕輪",
+        "name": "Rope Escape Bracelet",
         "note": "",
         "params": [
             0,
@@ -8917,7 +8917,7 @@
     {
         "id": 315,
         "atypeId": 1,
-        "description": "掴もうとしてもするりと滑る腕輪\n装飾品　拘束無効　脱力耐性60",
+        "description": "An armlet that slips away when you try to grab it. Accessory Restraint\nNullification Weakness Resistance 60",
         "etypeId": 5,
         "traits": [
             {
@@ -8932,7 +8932,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "スリップリスト",
+        "name": "Slip Wrist",
         "note": "",
         "params": [
             0,
@@ -8949,7 +8949,7 @@
     {
         "id": 316,
         "atypeId": 1,
-        "description": "石鹸の匂いがする泡の腕輪\n装飾品　拘束無効　脱力無効",
+        "description": "An armlet that smells like soap bubbles. Accessory Restraint Nullification\nWeakness Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -8964,7 +8964,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "バブルリスト",
+        "name": "Bubble Wrist",
         "note": "",
         "params": [
             0,
@@ -8981,7 +8981,7 @@
     {
         "id": 317,
         "atypeId": 1,
-        "description": "毒を防ぐネックレス\n装飾品　催淫毒無効",
+        "description": "A necklace that protects against poison. Accessory Aphrodisiac Poison\nNullification",
         "etypeId": 5,
         "traits": [
             {
@@ -8996,7 +8996,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "アンチトキシン",
+        "name": "Antitoxin",
         "note": "",
         "params": [
             0,
@@ -9013,7 +9013,7 @@
     {
         "id": 318,
         "atypeId": 1,
-        "description": "星型のキュートなチョーカー\n装飾品　怯み無効　興奮無効　行動追加2%",
+        "description": "A cute choker with a star shape. Accessory Flinch Nullification Excitement\nNullification Action Increase 2%",
         "etypeId": 5,
         "traits": [
             {
@@ -9033,7 +9033,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "星のチョーカー",
+        "name": "Star Choker",
         "note": "",
         "params": [
             0,
@@ -9050,7 +9050,7 @@
     {
         "id": 319,
         "atypeId": 1,
-        "description": "ダイヤ型のキュートなチョーカー\n装飾品　敏感無効　催淫毒無効　行動追加2%",
+        "description": "A cute choker with a diamond shape. Accessory Sensitivity Nullification\nAphrodisiac Poison Nullification Action Increase 2%",
         "etypeId": 5,
         "traits": [
             {
@@ -9070,7 +9070,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ダイヤのチョーカー",
+        "name": "Diamond Choker",
         "note": "",
         "params": [
             0,
@@ -9087,7 +9087,7 @@
     {
         "id": 320,
         "atypeId": 1,
-        "description": "クローバーのキュートなチョーカー\n装飾品　拘束無効　行動追加4%",
+        "description": "A cute choker with a clover shape. Accessory Restraint Nullification Action\nIncrease 4%",
         "etypeId": 5,
         "traits": [
             {
@@ -9102,7 +9102,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "クローバーのチョーカー",
+        "name": "Clover Choker",
         "note": "",
         "params": [
             0,
@@ -9119,7 +9119,7 @@
     {
         "id": 321,
         "atypeId": 1,
-        "description": "スペード型のキュートなチョーカー\n装飾品　怯み付与",
+        "description": "A cute choker with a spade shape. Accessory Flinch Infliction",
         "etypeId": 5,
         "traits": [
             {
@@ -9129,7 +9129,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "スペードのチョーカー",
+        "name": "Spade Choker",
         "note": "",
         "params": [
             0,
@@ -9146,11 +9146,11 @@
     {
         "id": 322,
         "atypeId": 1,
-        "description": "精奴隷に着ける屈辱の首輪\n装飾品",
+        "description": "A collar of humiliation to be worn by a sex slave. Accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "精奴隷の首輪",
+        "name": "Slave's Collar",
         "note": "",
         "params": [
             500,
@@ -9167,7 +9167,7 @@
     {
         "id": 323,
         "atypeId": 1,
-        "description": "ミルクタンク牧場の識別用の耳に着ける札\n装飾品　手コキ耐性-500%　精力+1000",
+        "description": "An identification tag worn on the ear at the Milk Tank Ranch. Accessory Handjob\nResistance -500% Stamina +1000",
         "etypeId": 5,
         "traits": [
             {
@@ -9177,7 +9177,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "識別番号",
+        "name": "Identification Number",
         "note": "",
         "params": [
             1000,
@@ -9194,7 +9194,7 @@
     {
         "id": 324,
         "atypeId": 1,
-        "description": "切れた時に願いが叶うらしい\n装飾品　魅了無効",
+        "description": "It is said that a wish will come true when it breaks. Accessory Charm\nNullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9204,7 +9204,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ミサンガ",
+        "name": "Misanga",
         "note": "",
         "params": [
             0,
@@ -9221,7 +9221,7 @@
     {
         "id": 325,
         "atypeId": 1,
-        "description": "しめ縄のようなミサンガ　切れる気配がない\n装飾品　防御効果+100%",
+        "description": "A bracelet like a Shimenawa rope that shows no sign of breaking. Accessory\nDefense Effect +100%",
         "etypeId": 5,
         "traits": [
             {
@@ -9231,7 +9231,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "エリヤのミサンガ",
+        "name": "Eliya's Misanga",
         "note": "",
         "params": [
             0,
@@ -9248,7 +9248,7 @@
     {
         "id": 326,
         "atypeId": 1,
-        "description": "自分の歌で自分が魅了されないようにする耳栓\n装飾品　魅了無効　防御効果+50%",
+        "description": "Earplugs to prevent being charmed by one's own singing. Accessory Charm\nNullification Defense Effect +50%",
         "etypeId": 5,
         "traits": [
             {
@@ -9263,7 +9263,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "セイレーンピアス",
+        "name": "Siren Earrings",
         "note": "",
         "params": [
             0,
@@ -9280,7 +9280,7 @@
     {
         "id": 327,
         "atypeId": 1,
-        "description": "魔力で水がネックレス状に連結している\n装飾品　敏感無効　拘束無効",
+        "description": "Water magically linked into a necklace form. Accessory Sensitivity Nullification\nRestraint Nullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9295,7 +9295,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "アクアネックレス",
+        "name": "Aqua Necklace",
         "note": "<mat1:I79*1>\n<matG:500>",
         "params": [
             100,
@@ -9312,7 +9312,7 @@
     {
         "id": 328,
         "atypeId": 1,
-        "description": "敏捷性がぐーんと上がる腕輪\n装飾品　拘束無効",
+        "description": "An armlet that greatly increases agility. Accessory Restraint Nullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9322,7 +9322,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "スピードリング",
+        "name": "Speed Ring",
         "note": "",
         "params": [
             0,
@@ -9339,7 +9339,7 @@
     {
         "id": 329,
         "atypeId": 1,
-        "description": "風の精霊が首に巻いているスカーフ\n装飾品　拘束無効",
+        "description": "A scarf worn around the neck by the spirit of wind. Accessory Restraint\nNullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9349,7 +9349,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "シルフスカーフ",
+        "name": "Sylph Scarf",
         "note": "<mat1:I80*3>\n<matG:500>",
         "params": [
             0,
@@ -9366,7 +9366,7 @@
     {
         "id": 330,
         "atypeId": 1,
-        "description": "水の精霊が首に巻いているスカーフ\n装飾品　敏感無効　催淫毒無効",
+        "description": "A scarf worn around the neck by the spirit of water. Accessory Sensitivity\nNullification Aphrodisiac Poison Nullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9381,7 +9381,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ウンディーネスカーフ",
+        "name": "Undine Scarf",
         "note": "<mat1:I79*3>\n<matG:500>",
         "params": [
             0,
@@ -9398,7 +9398,7 @@
     {
         "id": 331,
         "atypeId": 1,
-        "description": "炎の精霊が首に巻いているスカーフ\n装飾品　脱力無効　低速無効　暗闇無効",
+        "description": "A scarf worn around the neck by the spirit of fire. Accessory Weakness\nNullification Slowness Nullification Darkness Nullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9418,7 +9418,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "イフリートスカーフ",
+        "name": "Ifrit Scarf",
         "note": "<mat1:I78*3>\n<matG:500>",
         "params": [
             0,
@@ -9435,7 +9435,7 @@
     {
         "id": 332,
         "atypeId": 1,
-        "description": "大地の精霊が首に巻いているスカーフ\n装飾品　拘束無効　怯み無効　防御効果+50%",
+        "description": "A scarf worn around the neck by the spirit of earth. Accessory Restraint\nNullification Flinch Nullification Defense Effect +50%",
         "etypeId": 5,
         "traits": [
             {
@@ -9455,7 +9455,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ノームスカーフ",
+        "name": "Gnome Scarf",
         "note": "<mat1:I81*3>\n<matG:500>",
         "params": [
             0,
@@ -9472,7 +9472,7 @@
     {
         "id": 333,
         "atypeId": 1,
-        "description": "攻撃あるのみ！引くことは許されぬ\n装飾品　防御効果-100%　精力減少1",
+        "description": "Attack is the only option! Retreat is not allowed. Accessory Defense Effect\n-100% Vigor Reduction 1",
         "etypeId": 5,
         "traits": [
             {
@@ -9487,7 +9487,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "特攻隊の腕章",
+        "name": "Special Attack Squad Armband",
         "note": "",
         "params": [
             0,
@@ -9504,7 +9504,7 @@
     {
         "id": 334,
         "atypeId": 1,
-        "description": "誰かが愛を誓った指輪　無くすな\n装飾品　精力自動回復+1　魅了無効",
+        "description": "Someone's ring of sworn love. Don't lose it. Accessory Automatic Vigor Recovery\n+1 Charm Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -9519,7 +9519,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "婚約指輪",
+        "name": "Engagement Ring",
         "note": "",
         "params": [
             0,
@@ -9536,7 +9536,7 @@
     {
         "id": 335,
         "atypeId": 1,
-        "description": "風が吹くと緑に淡く光るネックレス\n装飾品　低速抵抗30　拘束抵抗30",
+        "description": "A necklace that glows faintly green when the wind blows. Accessory Slow\nResistance 30 Bind Resistance 30",
         "etypeId": 5,
         "traits": [
             {
@@ -9551,7 +9551,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "そよ風のピアス",
+        "name": "Breeze Earrings",
         "note": "<mat1:I80*1>\n<matG:500>",
         "params": [
             0,
@@ -9568,7 +9568,7 @@
     {
         "id": 336,
         "atypeId": 1,
-        "description": "三日月の夜に光るイヤリング\n装飾品　体力自動回復+1",
+        "description": "Earrings that shine on a crescent moon night. Accessory Automatic HP Recovery +1",
         "etypeId": 5,
         "traits": [
             {
@@ -9578,7 +9578,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "三日月のイヤリング",
+        "name": "Crescent Moon Earrings",
         "note": "",
         "params": [
             0,
@@ -9595,7 +9595,7 @@
     {
         "id": 337,
         "atypeId": 1,
-        "description": "半月の夜に光るイヤリング\n装飾品　体力自動回復+2",
+        "description": "Earrings that shine on a half-moon night. Accessory Automatic HP Recovery +2",
         "etypeId": 5,
         "traits": [
             {
@@ -9605,7 +9605,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "半月のイヤリング",
+        "name": "Half Moon Earrings",
         "note": "<mat1:A336*1>\n<mat2:I72*3>\n<matG:500>",
         "params": [
             0,
@@ -9622,7 +9622,7 @@
     {
         "id": 338,
         "atypeId": 1,
-        "description": "満月の夜に光るイヤリング\n装飾品　体力自動回復+3",
+        "description": "Earrings that shine on a full moon night. Accessory Automatic HP Recovery +3",
         "etypeId": 5,
         "traits": [
             {
@@ -9632,7 +9632,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "満月のイヤリング",
+        "name": "Full Moon Earrings",
         "note": "<mat1:A337*2>\n<matG:500>",
         "params": [
             0,
@@ -9649,7 +9649,7 @@
     {
         "id": 339,
         "atypeId": 1,
-        "description": "付けると運が良くなるらしい\n装飾品　クリティカル率+3",
+        "description": "Wearing this seems to bring good luck. Accessory Critical Rate +3",
         "etypeId": 5,
         "traits": [
             {
@@ -9659,7 +9659,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ハッピーイヤリング",
+        "name": "Happy Earrings",
         "note": "<mat1:I74*3>\n<matG:500>",
         "params": [
             0,
@@ -9676,7 +9676,7 @@
     {
         "id": 340,
         "atypeId": 1,
-        "description": "装備者に幸運が約束された腕輪\n装飾品　クリティカル率+5",
+        "description": "A bracelet that promises good fortune to the wearer. Accessory Critical Rate +5",
         "etypeId": 5,
         "traits": [
             {
@@ -9686,7 +9686,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "フォーチュンリスト",
+        "name": "Fortune Wristlet",
         "note": "<mat1:A339*3>\n<mat2:I74*3>\n<matG:2000>",
         "params": [
             0,
@@ -9703,7 +9703,7 @@
     {
         "id": 341,
         "atypeId": 1,
-        "description": "着実に平凡な人生を送るための腕輪\n装飾品　命中率+100　クリティカル率-100",
+        "description": "A bracelet for leading a steadily ordinary life. Accessory Accuracy +100\nCritical Rate -100",
         "etypeId": 5,
         "traits": [
             {
@@ -9718,7 +9718,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ステディリスト",
+        "name": "Steady Wristlet",
         "note": "",
         "params": [
             0,
@@ -9735,7 +9735,7 @@
     {
         "id": 342,
         "atypeId": 1,
-        "description": "手が一度の動作で二回動くようになる\n装飾品　命中率-40%　攻撃回数+1",
+        "description": "Your hand moves twice in one motion. Accessory Accuracy -40% Attack Frequency +1",
         "etypeId": 5,
         "traits": [
             {
@@ -9750,7 +9750,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "連撃の腕輪",
+        "name": "Combo Bracelet",
         "note": "",
         "params": [
             0,
@@ -9767,7 +9767,7 @@
     {
         "id": 343,
         "atypeId": 1,
-        "description": "手が一度の動作で三回動くようになる\n装飾品　命中率-70%　攻撃回数+2",
+        "description": "Your hand moves three times in one motion. Accessory Accuracy -70% Attack\nFrequency +2",
         "etypeId": 5,
         "traits": [
             {
@@ -9782,7 +9782,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ムササビの腕輪",
+        "name": "Flying Squirrel Bracelet",
         "note": "<mat1:A342*1>\n<mat2:I102*2>\n<matG:500>",
         "params": [
             0,
@@ -9799,7 +9799,7 @@
     {
         "id": 344,
         "atypeId": 1,
-        "description": "幸運の女神のピアス\n装飾品　クリティカル率+10",
+        "description": "Goddess of Fortune's earrings. Accessory Critical Rate +10",
         "etypeId": 5,
         "traits": [
             {
@@ -9809,7 +9809,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "フォルトゥーナピアス",
+        "name": "Fortuna Earrings",
         "note": "",
         "params": [
             0,
@@ -9826,7 +9826,7 @@
     {
         "id": 345,
         "atypeId": 1,
-        "description": "魂を削って力をもたらす呪いの腕輪\n装飾品　毎ターン精力減少1",
+        "description": "A cursed bracelet that whittles away the soul to grant power. Accessory Vigor\nReduction 1 per turn",
         "etypeId": 5,
         "traits": [
             {
@@ -9836,7 +9836,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ソウルバースト",
+        "name": "Soul Burst",
         "note": "",
         "params": [
             -200,
@@ -9853,7 +9853,7 @@
     {
         "id": 346,
         "atypeId": 1,
-        "description": "闇の魔力で呪われたチョーカー\n装飾品　毎ターン精力減少2",
+        "description": "A choker cursed with dark magic power. Accessory Vigor Reduction 2 per turn",
         "etypeId": 5,
         "traits": [
             {
@@ -9863,7 +9863,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "カースドチョーカー",
+        "name": "Cursed Choker",
         "note": "",
         "params": [
             0,
@@ -9880,7 +9880,7 @@
     {
         "id": 347,
         "atypeId": 1,
-        "description": "パンクな気分になるぜ\n装飾品　興奮耐性-1000%　TP増加+10%",
+        "description": "It makes you feel punk. Accessory Excitement Resistance -1000% TP Increase +10%",
         "etypeId": 5,
         "traits": [
             {
@@ -9895,7 +9895,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ドクロのネックレス",
+        "name": "Skull Necklace",
         "note": "",
         "params": [
             100,
@@ -9912,7 +9912,7 @@
     {
         "id": 348,
         "atypeId": 1,
-        "description": "花で作られた腕飾り\n装飾品　興奮無効　催淫毒無効　アイテム回復効果+30％",
+        "description": "A bracelet made of flowers. Accessory Excitement Immunity Aphrodisiac Poison\nImmunity Item Recovery Effect +30%",
         "etypeId": 5,
         "traits": [
             {
@@ -9932,7 +9932,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "フラワーブレスレット",
+        "name": "Flower Bracelet",
         "note": "<mat1:I71*2>\n<mat2:I72*2>\n<mat3:I72*2>\n<mat4:I74*2>\n<matG:2000>",
         "params": [
             30,
@@ -9949,11 +9949,11 @@
     {
         "id": 349,
         "atypeId": 1,
-        "description": "木の枝とかに不意に引っかけて死ぬ\n装飾品　",
+        "description": "You could die unexpectedly by getting caught on tree branches or something.\nAccessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "死の首飾り",
+        "name": "Death Necklace",
         "note": "",
         "params": [
             0,
@@ -9970,7 +9970,7 @@
     {
         "id": 350,
         "atypeId": 1,
-        "description": "オークが食べた人間の指の骨で作られた首飾り\n装飾品　毎ターン精力減少3",
+        "description": "A necklace made from the finger bones of humans eaten by orcs. Accessory Vigor\nReduction 3 per turn",
         "etypeId": 5,
         "traits": [
             {
@@ -9980,7 +9980,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "オークの首飾り",
+        "name": "Orc Necklace",
         "note": "",
         "params": [
             0,
@@ -9997,7 +9997,7 @@
     {
         "id": 351,
         "atypeId": 1,
-        "description": "ロックな気分になるぜ\n装飾品　魅了耐性-1000%　TP増加+30%",
+        "description": "It makes you feel rock 'n' roll. Accessory Charm Resistance -1000% TP Increase\n+30%",
         "etypeId": 5,
         "traits": [
             {
@@ -10012,7 +10012,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "シルバーチェーン",
+        "name": "Silver Chain",
         "note": "",
         "params": [
             0,
@@ -10029,7 +10029,7 @@
     {
         "id": 352,
         "atypeId": 1,
-        "description": "アンドロメダを縛り付けていた鎖\n装飾品　拘束付与　TP増加-20%",
+        "description": "The chains that bound Andromeda. Accessory Bind Infliction TP Increase -20%",
         "etypeId": 5,
         "traits": [
             {
@@ -10044,7 +10044,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ネビュラチェーン",
+        "name": "Nebula Chain",
         "note": "",
         "params": [
             0,
@@ -10061,7 +10061,7 @@
     {
         "id": 353,
         "atypeId": 1,
-        "description": "悪い事した人が手に付けられる輪っか\n装飾品　拘束付与　拘束耐性-1000%",
+        "description": "A ring put on those who have done bad things. Accessory Bind Infliction Bind\nResistance -1000%",
         "etypeId": 5,
         "traits": [
             {
@@ -10076,7 +10076,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "手錠",
+        "name": "Handcuffs",
         "note": "<mat1:I76*1>\n<matG:500>",
         "params": [
             0,
@@ -10093,7 +10093,7 @@
     {
         "id": 354,
         "atypeId": 1,
-        "description": "ラララ すばやさ あがって うれしいな\n装飾品　膣属性付与",
+        "description": "Lalala, my agility goes up, and I'm so happy. Accessory Vaginal Attribute\nGranted",
         "etypeId": 5,
         "traits": [
             {
@@ -10103,7 +10103,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "こしふるうでわ",
+        "name": "Hip-Shaking Arm Ring",
         "note": "",
         "params": [
             0,
@@ -10120,7 +10120,7 @@
     {
         "id": 355,
         "atypeId": 1,
-        "description": "悔しい気持ちが湧いてくる腕輪\n装飾品　脱力無効　低速抵抗30",
+        "description": "An armlet that brings up frustrating feelings. Accessory Weakness Immunity Slow\nResistance 30",
         "etypeId": 5,
         "traits": [
             {
@@ -10135,7 +10135,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ザ・バングル",
+        "name": "The Bangle",
         "note": "<mat1:I794*1>\n<mat2:I795*1>\n<mat3:I791*1>\n<matG:1>",
         "params": [
             0,
@@ -10152,7 +10152,7 @@
     {
         "id": 356,
         "atypeId": 1,
-        "description": "白金製の腕輪\n装飾品　低速無効",
+        "description": "A platinum bracelet. Accessory Slow Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -10162,7 +10162,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "プラチナバングル",
+        "name": "Platinum Bangle",
         "note": "",
         "params": [
             55,
@@ -10179,7 +10179,7 @@
     {
         "id": 357,
         "atypeId": 1,
-        "description": "時を止められるようになる学生帽子\n装飾品　行動追加20%　オラオラ",
+        "description": "A student cap that seems to stop time. Accessory Action Addition 20% Ora Ora",
         "etypeId": 5,
         "traits": [
             {
@@ -10194,7 +10194,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "時の学帽",
+        "name": "Time Scholar's Cap",
         "note": "",
         "params": [
             55,
@@ -10211,7 +10211,7 @@
     {
         "id": 358,
         "atypeId": 1,
-        "description": "メイドインアーコと書いてある\n装飾品　獲得金額2倍　行動追加5%",
+        "description": "Made in Arco is written on it. Accessory Earned Money Doubled Action Addition 5%",
         "etypeId": 5,
         "traits": [
             {
@@ -10226,7 +10226,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "黒猫の帽子",
+        "name": "Black Cat Hat",
         "note": "",
         "params": [
             55,
@@ -10243,7 +10243,7 @@
     {
         "id": 359,
         "atypeId": 1,
-        "description": "白黒チェック模様のシルクハット\n装飾品　精力自動回復+1　オーバードライブ",
+        "description": "A black and white checkered silk hat. Accessory Automatic Vigor Recovery +1\nOverdrive",
         "etypeId": 5,
         "traits": [
             {
@@ -10258,7 +10258,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "シルクハット",
+        "name": "Silk Hat",
         "note": "",
         "params": [
             55,
@@ -10275,7 +10275,7 @@
     {
         "id": 360,
         "atypeId": 1,
-        "description": "殺人以外は大体やった犯罪者のバンダナ\n装飾品　興奮耐性-100%　オーバードライブ",
+        "description": "A bandana of a criminal who has committed almost every crime except murder.\nAccessory Excitement Resistance -100% Overdrive",
         "etypeId": 5,
         "traits": [
             {
@@ -10290,7 +10290,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "バンダナ",
+        "name": "Bandana",
         "note": "",
         "params": [
             -100,
@@ -10307,7 +10307,7 @@
     {
         "id": 361,
         "atypeId": 1,
-        "description": "貸すと二度と帰って来ない気がする時計\n装飾品　怯み無効　オーバードライブ",
+        "description": "A watch that feels like it will never return once lent out. Accessory Flinch\nImmunity Overdrive",
         "etypeId": 5,
         "traits": [
             {
@@ -10322,7 +10322,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "懐中時計",
+        "name": "Pocket Watch",
         "note": "",
         "params": [
             0,
@@ -10339,7 +10339,7 @@
     {
         "id": 362,
         "atypeId": 1,
-        "description": "可憐さと強さを兼ね備えたデザインのブローチ\n装飾品　怯み無効　暗闇無効　オラオラ",
+        "description": "A brooch with a design that embodies both delicacy and strength. Accessory\nFlinch Immunity Darkness Immunity Ora Ora",
         "etypeId": 5,
         "traits": [
             {
@@ -10359,7 +10359,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "蝶のブローチ",
+        "name": "Butterfly Brooch",
         "note": "",
         "params": [
             0,
@@ -10376,7 +10376,7 @@
     {
         "id": 363,
         "atypeId": 1,
-        "description": "見ていると変な気持ちになる白い靴下\n装飾品　足コキ耐性-50%",
+        "description": "Looking at these white socks makes you feel strange. Accessory Footjob\nResistance -50%",
         "etypeId": 5,
         "traits": [
             {
@@ -10386,7 +10386,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "クラスタの靴下",
+        "name": "Cluster Socks",
         "note": "",
         "params": [
             50,
@@ -10403,7 +10403,7 @@
     {
         "id": 364,
         "atypeId": 1,
-        "description": "自分の歌でうっとりしないようにする耳栓\n装飾品　魅了無効 怯み無効 暗闇耐性-50%",
+        "description": "Earplugs to prevent being entranced by your own singing. Accessory Charm\nImmunity Flinch Immunity Darkness Resistance -50%",
         "etypeId": 5,
         "traits": [
             {
@@ -10423,7 +10423,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "セイレンの耳栓",
+        "name": "Siren's Earplugs",
         "note": "",
         "params": [
             100,
@@ -10440,7 +10440,7 @@
     {
         "id": 365,
         "atypeId": 1,
-        "description": "嗅ぐとIQが下がる\n装飾品　キス/誘惑耐性-50%",
+        "description": "Smelling this lowers your IQ. Accessory Kiss/Seduction Resistance -50%",
         "etypeId": 5,
         "traits": [
             {
@@ -10450,7 +10450,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "シィナのパンツ",
+        "name": "Shiina's Panties",
         "note": "",
         "params": [
             -100,
@@ -10467,7 +10467,7 @@
     {
         "id": 366,
         "atypeId": 1,
-        "description": "ゴスロリ系のヘアバンド\n装飾品　行動追加+100％",
+        "description": "A gothic lolita headband. Accessory Action Addition +100%",
         "etypeId": 5,
         "traits": [
             {
@@ -10477,7 +10477,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "リリバンド",
+        "name": "Lily Band",
         "note": "",
         "params": [
             0,
@@ -10494,7 +10494,7 @@
     {
         "id": 367,
         "atypeId": 1,
-        "description": "本当の価値を見定めるためのゴーグル\n装飾品　魅了無効　決意",
+        "description": "Goggles for discerning true value. Accessory Charm Immunity Determination",
         "etypeId": 5,
         "traits": [
             {
@@ -10509,7 +10509,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "親父のゴーグル",
+        "name": "Old Man's Goggles",
         "note": "",
         "params": [
             200,
@@ -10526,7 +10526,7 @@
     {
         "id": 368,
         "atypeId": 1,
-        "description": "どうしても捨てられなかったもの\n装飾品　魅了無効　決意",
+        "description": "Something you just couldn't throw away. Accessory Charm Immunity Determination",
         "etypeId": 5,
         "traits": [
             {
@@ -10541,7 +10541,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "後悔のブローチ",
+        "name": "Brooch of Regret",
         "note": "",
         "params": [
             200,
@@ -10558,7 +10558,7 @@
     {
         "id": 369,
         "atypeId": 1,
-        "description": "ハッピーハーピーの略らしい\n装飾品　行動追加10% クリティカル+5 興奮/拘束無効",
+        "description": "Apparently short for Happy Harpy. Accessory Action Addition 10% Critical +5\nExcitement/Bind Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -10583,7 +10583,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ハピハピスカーフ",
+        "name": "Hapi Hapi Scarf",
         "note": "",
         "params": [
             0,
@@ -10600,7 +10600,7 @@
     {
         "id": 370,
         "atypeId": 1,
-        "description": "頭にかぶって顔を隠す\n装飾品　刺激的絶命剣",
+        "description": "Wear it on your head to hide your face. Accessory Stimulating Death Sword",
         "etypeId": 5,
         "traits": [
             {
@@ -10610,7 +10610,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "紙袋",
+        "name": "Paper Bag",
         "note": "",
         "params": [
             0,
@@ -10627,7 +10627,7 @@
     {
         "id": 371,
         "atypeId": 1,
-        "description": "町の治安を守るガードの証\n装飾品　拘束無効",
+        "description": "The badge of a guard who protects the town's peace. Accessory Bind Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -10637,7 +10637,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ガードの腕章",
+        "name": "Guard Armband",
         "note": "",
         "params": [
             0,
@@ -10654,7 +10654,7 @@
     {
         "id": 372,
         "atypeId": 1,
-        "description": "血統を証明する飾り　何故か犬に好かれる\n装飾品　拘束/発情耐性-50　行動追加15%",
+        "description": "An ornament proving lineage, oddly liked by dogs. Accessory Bind/Arousal\nResistance -50 Action Addition 15%",
         "etypeId": 5,
         "traits": [
             {
@@ -10674,7 +10674,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "ペティグリーチャーム",
+        "name": "Pedigree Charm",
         "note": "",
         "params": [
             1,
@@ -10691,11 +10691,11 @@
     {
         "id": 373,
         "atypeId": 1,
-        "description": "お土産屋でよく売ってるやつ　かっこいい\n装飾品　",
+        "description": "The kind you often find at souvenir shops, a cool accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "剣のキーホルダー",
+        "name": "Sword Keyholder",
         "note": "",
         "params": [
             0,
@@ -10712,11 +10712,11 @@
     {
         "id": 374,
         "atypeId": 1,
-        "description": "お土産屋でよく売ってるやつ　すごい\n装飾品　",
+        "description": "The kind you often find at souvenir shops, an amazing accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "竜のキーホルダー",
+        "name": "Dragon Keyholder",
         "note": "",
         "params": [
             0,
@@ -10733,7 +10733,7 @@
     {
         "id": 375,
         "atypeId": 1,
-        "description": "学習机の引き出しに入ってるやつ　懐かしい\n装飾品　竜気法",
+        "description": "The one in the desk drawer, a nostalgic accessory, Dragon Spirit Technique",
         "etypeId": 5,
         "traits": [
             {
@@ -10743,7 +10743,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "竜剣のキーホルダー",
+        "name": "Dragon Sword Keyholder",
         "note": "",
         "params": [
             0,
@@ -10760,7 +10760,7 @@
     {
         "id": 376,
         "atypeId": 1,
-        "description": "時間が止まればいいのにと願ったあの夏の思い出\n装飾品　行動追加10%",
+        "description": "I wished time would stop, memories of that summer, accessory, Action Plus 10%",
         "etypeId": 5,
         "traits": [
             {
@@ -10770,7 +10770,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "クロノスタシス",
+        "name": "Chronostasis",
         "note": "",
         "params": [
             0,
@@ -11354,7 +11354,7 @@
     {
         "id": 398,
         "atypeId": 1,
-        "description": "装備中は魔物からの被ダメージが0になる\nその他　取得経験値3倍",
+        "description": "While equipped, damage from monsters is reduced to 0, others, EXP gained tripled",
         "etypeId": 6,
         "traits": [
             {
@@ -11369,7 +11369,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "イージーアズパイ",
+        "name": "Easy as Pie",
         "note": "",
         "params": [
             0,
@@ -11386,7 +11386,7 @@
     {
         "id": 399,
         "atypeId": 1,
-        "description": "魔物戦用救済装備\nその他　戦闘力3倍　取得経験値1.5倍",
+        "description": "Relief equipment for fighting monsters, others, Combat Power tripled, EXP gained\n1.5 times",
         "etypeId": 6,
         "traits": [
             {
@@ -11401,7 +11401,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ピースオブケーク",
+        "name": "Piece of Cake",
         "note": "",
         "params": [
             0,
@@ -11428,7 +11428,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～その他～",
+        "name": "～Others～",
         "note": "",
         "params": [
             0,
@@ -11445,7 +11445,7 @@
     {
         "id": 401,
         "atypeId": 1,
-        "description": "覗き込む星空\nその他　弾+3　ワイドショット7",
+        "description": "Gazing into the starry sky, others, Bullets +3, Wide Shot 7",
         "etypeId": 6,
         "traits": [
             {
@@ -11455,7 +11455,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "万華鏡",
+        "name": "Kaleidoscope",
         "note": "<shotWay:3>\n<shotSpace:0.7>",
         "params": [
             0,
@@ -11472,7 +11472,7 @@
     {
         "id": 402,
         "atypeId": 1,
-        "description": "世界が広がって見える\nその他　ワイドショット4",
+        "description": "Makes the world seem wider, others, Wide Shot 4",
         "etypeId": 6,
         "traits": [
             {
@@ -11482,7 +11482,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "広角レンズ",
+        "name": "Wide-Angle Lens",
         "note": "<shotSpace:0.4>",
         "params": [
             0,
@@ -11499,7 +11499,7 @@
     {
         "id": 403,
         "atypeId": 1,
-        "description": "動きにくくなるがフォームが良くなる\nその他　隙+40",
+        "description": "It's harder to move, but it improves form, others, Opening +40",
         "etypeId": 6,
         "traits": [
             {
@@ -11509,7 +11509,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "矯正ベルト",
+        "name": "Correction Belt",
         "note": "<shotInterval:40>",
         "params": [
             0,
@@ -11526,7 +11526,7 @@
     {
         "id": 404,
         "atypeId": 1,
-        "description": "武器に塗ると速度が上がる魔法の軟膏\nその他　弾速+1",
+        "description": "A magical ointment that increases speed when applied to weapons, others, Bullet\nSpeed +1",
         "etypeId": 6,
         "traits": [
             {
@@ -11536,7 +11536,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "スピードアップ",
+        "name": "Speed Up",
         "note": "<shotSpeed:0.1>",
         "params": [
             0,
@@ -11553,7 +11553,7 @@
     {
         "id": 405,
         "atypeId": 1,
-        "description": "しっかりと狙いを定められるスコープ\nその他　命中+5",
+        "description": "A scope that allows for precise targeting, others, Accuracy +5",
         "etypeId": 6,
         "traits": [
             {
@@ -11563,7 +11563,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "照準スコープ",
+        "name": "Aiming Scope",
         "note": "",
         "params": [
             0,
@@ -11580,7 +11580,7 @@
     {
         "id": 406,
         "atypeId": 1,
-        "description": "ブラのようでブラじゃないやつ\nその他　隙+30　持続+10",
+        "description": "It's like a bra but not a bra, others, Opening +30, Duration +10",
         "etypeId": 6,
         "traits": [
             {
@@ -11590,7 +11590,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "大胸筋強制サポーター",
+        "name": "Pectoral Muscle Supporter",
         "note": "<shotInterval:30>\n<shotCount:10>",
         "params": [
             0,
@@ -11607,7 +11607,7 @@
     {
         "id": 407,
         "atypeId": 1,
-        "description": "一時期やたら流行したブランドシューズ\nその他　持続+20",
+        "description": "Brand shoes that were all the rage for a while, others, Duration +20",
         "etypeId": 6,
         "traits": [
             {
@@ -11617,7 +11617,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "マクスエア",
+        "name": "Max Air",
         "note": "<shotCount:20>",
         "params": [
             0,
@@ -11634,7 +11634,7 @@
     {
         "id": 408,
         "atypeId": 1,
-        "description": "筋肉の代わりをしてくれる補助機械\nその他",
+        "description": "Auxiliary machinery that serves as a substitute for muscles, others",
         "etypeId": 6,
         "traits": [
             {
@@ -11644,7 +11644,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "パワードスーツ",
+        "name": "Powered Suit",
         "note": "",
         "params": [
             0,
@@ -11661,7 +11661,7 @@
     {
         "id": 409,
         "atypeId": 1,
-        "description": "スイカを指で連打して割る神様の加護\nその他　隙-20%",
+        "description": "The blessing of a god who can split watermelons with rapid finger taps, others,\nOpening -20%",
         "etypeId": 6,
         "traits": [
             {
@@ -11671,7 +11671,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "名人のお守り",
+        "name": "Expert's Charm",
         "note": "<shotIntervalRate:0.8>",
         "params": [
             0,
@@ -11688,7 +11688,7 @@
     {
         "id": 410,
         "atypeId": 1,
-        "description": "遠近法を利用した罠　弾が広がりにくくなる\nその他　ナローショット4.5",
+        "description": "A trap using perspective, bullets are less likely to spread out, others, Narrow\nShot 4.5",
         "etypeId": 6,
         "traits": [
             {
@@ -11698,7 +11698,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "デグチホソナール",
+        "name": "Deguchi Hosonaru",
         "note": "<shotSpace:-0.45>",
         "params": [
             0,
@@ -11715,7 +11715,7 @@
     {
         "id": 411,
         "atypeId": 1,
-        "description": "おまけにもう一発\nその他　弾+1",
+        "description": "An extra shot as a bonus, others, Bullets +1",
         "etypeId": 6,
         "traits": [
             {
@@ -11725,7 +11725,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "あたりくじ",
+        "name": "Lucky Lottery Ticket",
         "note": "<shotWay:1>\n<shotSpace:0.1>",
         "params": [
             0,
@@ -11742,11 +11742,11 @@
     {
         "id": 412,
         "atypeId": 1,
-        "description": "血に濡れたクマの可愛いストラップ\nその他　弾速-2",
+        "description": "A cute bear strap soaked in blood, others, Bullet Speed -2",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "ベアストラップ",
+        "name": "Bear Strap",
         "note": "<shotSpeed:-0.2>",
         "params": [
             0,
@@ -11763,11 +11763,11 @@
     {
         "id": 413,
         "atypeId": 1,
-        "description": "こめかみに挟むメガネ\nその他　ナローショット1",
+        "description": "Glasses that fit on the temples, others, Narrow Shot 1",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "カワバタグラス",
+        "name": "Riverbank Glasses",
         "note": "<shotSpace:-0.1>",
         "params": [
             0,
@@ -11784,11 +11784,11 @@
     {
         "id": 414,
         "atypeId": 1,
-        "description": "弾が散らばりにくくなるバレル\nその他　ナローショット2",
+        "description": "A barrel that makes bullets less likely to scatter, others, Narrow Shot 2",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "精密バレル",
+        "name": "Precision Barrel",
         "note": "<shotSpace:-0.2>",
         "params": [
             0,
@@ -11805,7 +11805,7 @@
     {
         "id": 415,
         "atypeId": 1,
-        "description": "長持ちする電池\nその他　持続+30",
+        "description": "Batteries that last a long time, others, Duration +30",
         "etypeId": 6,
         "traits": [
             {
@@ -11815,7 +11815,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "アルカリ乾電池",
+        "name": "Alkaline Battery",
         "note": "<shotCount:30>",
         "params": [
             0,
@@ -11832,11 +11832,11 @@
     {
         "id": 416,
         "atypeId": 1,
-        "description": "丸ごと飲み込まれた誰かの夢の残骸\nその他　弾速-4　持続+15",
+        "description": "The remnants of someone's dream that was swallowed whole, others, Bullet Speed\n-4, Duration +15",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "島の残骸",
+        "name": "Island Debris",
         "note": "<shotSpeed:-0.4>\n<shotCount:15>",
         "params": [
             0,
@@ -11853,11 +11853,11 @@
     {
         "id": 417,
         "atypeId": 1,
-        "description": "甘い匂いのするネックウォーマー\nその他　弾速-3　持続+60",
+        "description": "A neck warmer with a sweet scent, others, Bullet Speed -3, Duration +60",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "シープのもこもこ",
+        "name": "Sheep's Fluff",
         "note": "<shotSpeed:-0.3>\n<shotCount:60>",
         "params": [
             0,
@@ -11874,7 +11874,7 @@
     {
         "id": 418,
         "atypeId": 1,
-        "description": "悪夢から解放された猫の鈴\nその他　弾+2　ワイドショット3　命中率-3%",
+        "description": "A bell from a cat freed from nightmares, others, Bullets +2, Wide Shot 3,\nAccuracy Rate -3%",
         "etypeId": 6,
         "traits": [
             {
@@ -11884,7 +11884,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ニャントムベル",
+        "name": "Nyan Tom Bell",
         "note": "<shotWay:2>\n<shotSpace:0.3>",
         "params": [
             0,
@@ -11901,7 +11901,7 @@
     {
         "id": 419,
         "atypeId": 1,
-        "description": "魔物の退治方法が数十通り書いてある書物\nその他　持続+10　隙-10%　弾速+1",
+        "description": "A book with dozens of methods for slaying monsters written in it, others,\nDuration +10, Opening -10%, Bullet Speed +1",
         "etypeId": 6,
         "traits": [
             {
@@ -11911,7 +11911,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "戦闘指南書",
+        "name": "Combat Manual",
         "note": "<shotCount:10>\n<shotIntervalRate:0.9>\n<shotSpeed:0.1>",
         "params": [
             0,
@@ -11928,7 +11928,7 @@
     {
         "id": 420,
         "atypeId": 1,
-        "description": "持っていると経験値が増えたりする幸運のたまご\nその他　隙+25%　経験値+25% アイテム入手率2倍",
+        "description": "A lucky egg that increases experience points when held, others, Opening +25%,\nEXP +25%, Item Drop Rate doubled",
         "etypeId": 6,
         "traits": [
             {
@@ -11948,7 +11948,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "しあわせなたまご",
+        "name": "Lucky Egg",
         "note": "<shotIntervalRate:1.25>\n",
         "params": [
             0,
@@ -11965,7 +11965,7 @@
     {
         "id": 421,
         "atypeId": 1,
-        "description": "処理速度を加速させる機械の部品\nその他　隙-40%",
+        "description": "Machine parts that accelerate processing speed, others, Opening -40%",
         "etypeId": 6,
         "traits": [
             {
@@ -11975,7 +11975,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "アクセラレーター ",
+        "name": "Accelerator",
         "note": "<shotIntervalRate:0.6>\n",
         "params": [
             0,
@@ -11992,7 +11992,7 @@
     {
         "id": 422,
         "atypeId": 1,
-        "description": "多くの魂を凝縮して球状にしたもの\nその他　弾+4　弾速-2　持続-20",
+        "description": "A sphere made by condensing many souls, others, Bullets +4, Bullet Speed -2,\nDuration -20",
         "etypeId": 6,
         "traits": [
             {
@@ -12002,7 +12002,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "レギオン球",
+        "name": "Legion Sphere",
         "note": "<shotWay:4>\n<shotSpace:0.1>\n<shotSpeed:-0.2>\n<shotCount:-20>",
         "params": [
             0,
@@ -12019,7 +12019,7 @@
     {
         "id": 423,
         "atypeId": 1,
-        "description": "この世で最も勇ましい獅子の心\nその他　弾+1　弾速+1　持続+20　隙-20%",
+        "description": "The heart of the bravest lion in the world, others, Bullets +1, Bullet Speed +1,\nDuration +20, Opening -20%",
         "etypeId": 6,
         "traits": [
             {
@@ -12029,7 +12029,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ライオンハート",
+        "name": "Lionheart",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotSpeed:0.1>\n<shotCount:20>\n<shotIntervalRate:0.80>\n",
         "params": [
             0,
@@ -12046,7 +12046,7 @@
     {
         "id": 424,
         "atypeId": 1,
-        "description": "動く猫の絵\nその他　弾速+3　持続-30　隙-20%",
+        "description": "Moving picture of a cat, others, Bullet Speed +3, Duration -30, Opening -20%",
         "etypeId": 6,
         "traits": [
             {
@@ -12056,7 +12056,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "らくがき",
+        "name": "Graffiti",
         "note": "<shotSpeed:0.3>\n<shotCount:-30>\n<shotIntervalRate:0.80>\n",
         "params": [
             0,
@@ -12073,7 +12073,7 @@
     {
         "id": 425,
         "atypeId": 1,
-        "description": "とても高い魔力が込められたふわふわな羽\nその他　弾速-1 隙-60%",
+        "description": "Fluffy feathers filled with tremendous magical power, others, Bullet Speed -1,\nOpening -60%",
         "etypeId": 6,
         "traits": [
             {
@@ -12083,7 +12083,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ノノの羽",
+        "name": "Nono's Feather",
         "note": "<shotSpeed:-0.1>\n<shotIntervalRate:0.40>\n",
         "params": [
             0,
@@ -12100,7 +12100,7 @@
     {
         "id": 426,
         "atypeId": 1,
-        "description": "武器に破壊魔法をエンチャントする塗り薬\nその他",
+        "description": "An ointment for enchanting weapons with destructive magic, others",
         "etypeId": 6,
         "traits": [
             {
@@ -12110,7 +12110,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "マジックコート",
+        "name": "Magic Coat",
         "note": "",
         "params": [
             0,
@@ -12127,7 +12127,7 @@
     {
         "id": 427,
         "atypeId": 1,
-        "description": "狂った帽子屋が作った至って普通な帽子\nその他　弾+3　弾速-2　持続+30　ワイドショット6",
+        "description": "A perfectly normal hat made by a mad hatter, others, Bullets +3, Bullet Speed\n-2, Duration +30, Wide Shot 6",
         "etypeId": 6,
         "traits": [
             {
@@ -12137,7 +12137,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "マッドハット",
+        "name": "Mud Hat",
         "note": "<shotWay:3>\n<shotSpace:0.6>\n<shotSpeed:-0.2>\n<shotCount:20>",
         "params": [
             0,
@@ -12154,7 +12154,7 @@
     {
         "id": 428,
         "atypeId": 1,
-        "description": "この世界の全てを見てきた男の手記\nその他　弾+10 隙+20% ワイドショット4",
+        "description": "Memoirs of a man who has seen everything in this world, others, Bullets +10,\nOpening +20%, Wide Shot 4",
         "etypeId": 6,
         "traits": [
             {
@@ -12164,7 +12164,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "アカシックレコード",
+        "name": "Akashic Record",
         "note": "<shotWay:10>\n<shotSpace:0.4>\n<shotIntervalRate:1.20>",
         "params": [
             0,
@@ -12181,7 +12181,7 @@
     {
         "id": 429,
         "atypeId": 1,
-        "description": "光すら逃げられない重力\nその他　弾+1　ナローショット7　戦闘力1.2倍",
+        "description": "Gravity so strong not even light can escape it, others, Bullets +1, Narrow Shot\n7, Combat Power 1.2 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12196,7 +12196,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ブラックホール",
+        "name": "Black Hole",
         "note": "<shotWay:1>\n<shotSpace:-0.7>",
         "params": [
             0,
@@ -12213,7 +12213,7 @@
     {
         "id": 430,
         "atypeId": 10,
-        "description": "ハンドガンを強化するパーツ\nその他　弾+2",
+        "description": "Parts for enhancing handguns, others, Bullets +2",
         "etypeId": 6,
         "traits": [
             {
@@ -12223,7 +12223,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "カスタムパーツA",
+        "name": "Custom Parts A",
         "note": "<shotWay:2>\n",
         "params": [
             0,
@@ -12240,7 +12240,7 @@
     {
         "id": 431,
         "atypeId": 10,
-        "description": "ハンドガンを強化するパーツ\nその他　弾+10　持続-35　ワイドショット3",
+        "description": "Parts for enhancing handguns, others, Bullets +10, Duration -35, Wide Shot 3",
         "etypeId": 6,
         "traits": [
             {
@@ -12250,7 +12250,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "カスタムパーツB",
+        "name": "Custom Parts B",
         "note": "<shotWay:10>\n<shotSpace:0.3>\n<shotCount:-35>",
         "params": [
             0,
@@ -12267,7 +12267,7 @@
     {
         "id": 432,
         "atypeId": 10,
-        "description": "ハンドガンを強化するパーツ\nその他　隙-20　持続-25",
+        "description": "Parts for enhancing handguns, others, Opening -20, Duration -25",
         "etypeId": 6,
         "traits": [
             {
@@ -12277,7 +12277,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "カスタムパーツC",
+        "name": "Custom Parts C",
         "note": "<shotInterval:-20>\n<shotCount:-25>",
         "params": [
             0,
@@ -12294,7 +12294,7 @@
     {
         "id": 433,
         "atypeId": 1,
-        "description": "エイミー流戦闘術の奥義書\nその他　戦闘力2.5倍",
+        "description": "Amy's secret book of combat techniques, others, Combat Power 2.5 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12304,7 +12304,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "エイミーの極意",
+        "name": "Amy's Secret Technique",
         "note": "",
         "params": [
             0,
@@ -12321,7 +12321,7 @@
     {
         "id": 434,
         "atypeId": 1,
-        "description": "不思議な布で作られた不思議なリボン\nその他　戦闘力1.5倍　隙-20%",
+        "description": "A mysterious ribbon made from a mysterious fabric - Other - Combat power\nincreased by 1.5 times, vulnerability reduced by 20%",
         "etypeId": 6,
         "traits": [
             {
@@ -12331,7 +12331,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "アリスリボン",
+        "name": "Alice Ribbon",
         "note": "<shotIntervalRate:0.80>",
         "params": [
             0,
@@ -12348,7 +12348,7 @@
     {
         "id": 435,
         "atypeId": 1,
-        "description": "ぐっと強く押し込むと黄色い空気砲が出る\nその他　戦闘力1.3倍",
+        "description": "When pushed firmly, a yellow air cannon is released - Other - Combat power\nincreased by 1.3 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12358,7 +12358,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ピラティスリング",
+        "name": "Pilates Ring",
         "note": "",
         "params": [
             0,
@@ -12375,7 +12375,7 @@
     {
         "id": 436,
         "atypeId": 10,
-        "description": "撃たれると血管の中が沸騰する　カスタムパーツ\nその他　弾+10　隙-23　持続-20",
+        "description": "Being hit makes your blood boil - Custom Parts - Other - Bullets +10,\nvulnerability -23, duration -20",
         "etypeId": 6,
         "traits": [
             {
@@ -12385,7 +12385,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "リリマガジン",
+        "name": "Lilim Magazine",
         "note": "<shotInterval:-23>\n<shotWay:10>\n<shotCount:-20>",
         "params": [
             0,
@@ -12402,7 +12402,7 @@
     {
         "id": 437,
         "atypeId": 10,
-        "description": "撃たれると血管の中が沸騰する　カスタムパーツ\nその他　弾+5　隙-20　持続-35　ワイドショット1",
+        "description": "Being hit makes your blood boil - Custom Parts - Other - Bullets +5,\nvulnerability -20, duration -35, Wide Shot 1",
         "etypeId": 6,
         "traits": [
             {
@@ -12412,7 +12412,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ブルーバレット",
+        "name": "Blue Bullet",
         "note": "<shotInterval:-20>\n<shotWay:5>\n<shotSpace:0.1>\n<shotCount:-35>",
         "params": [
             0,
@@ -12429,7 +12429,7 @@
     {
         "id": 438,
         "atypeId": 1,
-        "description": "●\nその他　戦闘力1.7倍",
+        "description": "● Other - Combat power increased by 1.7 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12456,7 +12456,7 @@
     {
         "id": 439,
         "atypeId": 1,
-        "description": "半分に割れた銀貨の片方\nその他　弾+1 弾速+1",
+        "description": "One half of a split silver coin - Other - Bullets +1, bullet speed +1",
         "etypeId": 6,
         "traits": [
             {
@@ -12466,7 +12466,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "★《戦誓の銀貨》",
+        "name": "★ \"Oath of War Coin\"",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotSpeed:0.1>",
         "params": [
             0,
@@ -12483,7 +12483,7 @@
     {
         "id": 440,
         "atypeId": 1,
-        "description": "安物とは比べ物にならない気がする高級な粗悪品\nその他　持続+10",
+        "description": "A high-quality poor product that feels incomparable to cheap ones - Other -\nDuration +10",
         "etypeId": 6,
         "traits": [
             {
@@ -12493,7 +12493,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "高級サンダル",
+        "name": "Luxury Sandals",
         "note": "<shotCount:10>",
         "params": [
             0,
@@ -12510,7 +12510,7 @@
     {
         "id": 441,
         "atypeId": 1,
-        "description": "火力を高めて苦しまないように消失させる慈悲\nその他　戦闘力1.5倍",
+        "description": "Mercy that increases firepower to ensure a painless disappearance - Other -\nCombat power increased by 1.5 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12520,7 +12520,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "溶岩の慈悲",
+        "name": "Lava's Mercy",
         "note": "",
         "params": [
             0,
@@ -12537,11 +12537,11 @@
     {
         "id": 442,
         "atypeId": 1,
-        "description": "負も含めたあるがままの自分を受け入れる心\nその他　隙-30%",
+        "description": "The heart that accepts oneself as is, including the negatives - Other -\nVulnerability reduced by 30%",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "嵐の解放",
+        "name": "Storm's Release",
         "note": "<shotIntervalRate:0.70>",
         "params": [
             0,
@@ -12558,11 +12558,11 @@
     {
         "id": 443,
         "atypeId": 1,
-        "description": "取捨選択で最善を選ぶ瞬間的な判断力\nその他　速度+2 弾+2",
+        "description": "The momentary judgment to choose the best option from selection - Other - Speed\n+2, bullets +2",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "火花の閃光",
+        "name": "Spark's Flash",
         "note": "<shotWay:2>\n<shotSpace:0.1>\n<shotSpeed:0.2>\n",
         "params": [
             0,
@@ -12579,11 +12579,11 @@
     {
         "id": 444,
         "atypeId": 1,
-        "description": "高度の柔軟性を維持しつつ臨機応変に対応する見\nその他　速度+1 弾+1 隙-10%",
+        "description": "Maintaining high flexibility while responding adaptively to situations - Other -\nSpeed +1, bullets +1, vulnerability reduced by 10%",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "霧の静観",
+        "name": "Mist's Observation",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotSpeed:0.2>\n<shotIntervalRate:0.90>",
         "params": [
             0,
@@ -12600,11 +12600,11 @@
     {
         "id": 445,
         "atypeId": 6,
-        "description": "風と水の魔力が込められたお守り　主人公専用\nその他 弾+5 隙+50% 速度+1 持続-20 ワイドショット",
+        "description": "An amulet imbued with the magic of wind and water - Protagonist Exclusive -\nOther - Bullets +5, vulnerability +50%, speed +1, duration -20, Wide Shot",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "ラドロのお守り",
+        "name": "Ladro Amulet",
         "note": "<shotWay:5>\n<shotSpace:0.7>\n<shotIntervalRate:1.50>\n<shotSpeed:0.08>\n<shotCount:-10>",
         "params": [
             0,
@@ -12621,7 +12621,7 @@
     {
         "id": 446,
         "atypeId": 1,
-        "description": "あまりの強風でオールバックになってしまう風の魔力石\nその他　弾速-2",
+        "description": "A magic stone of wind that causes a strong gale enough to slick back your hair -\nOther - Bullet speed -2",
         "etypeId": 6,
         "traits": [
             {
@@ -12631,7 +12631,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "向かい風",
+        "name": "Headwind",
         "note": "<shotSpeed:-0.2>",
         "params": [
             0,
@@ -12648,7 +12648,7 @@
     {
         "id": 447,
         "atypeId": 1,
-        "description": "デグチホソナールの改良版　先が丸まっている\nその他　ナローショット5.5 持続+15",
+        "description": "An improved version of Deguchi Hosonaru with a rounded tip - Other - Narrow Shot\n5.5, duration +15",
         "etypeId": 6,
         "traits": [
             {
@@ -12658,7 +12658,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "デグチホソメターノ",
+        "name": "Deguchi Hosometano",
         "note": "<shotSpace:-0.55>\n<shotCount:15>",
         "params": [
             0,
@@ -12675,7 +12675,7 @@
     {
         "id": 448,
         "atypeId": 1,
-        "description": "九官鳥のくちばしに極稀に付いてる希少金属\nその他　弾+2",
+        "description": "A rare metal occasionally found on the beak of a myna bird - Other - Bullets +2",
         "etypeId": 6,
         "traits": [
             {
@@ -12685,7 +12685,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "白金のエンゼル",
+        "name": "Platinum Angel",
         "note": "<shotWay:1>\n<shotSpace:0.1>",
         "params": [
             0,
@@ -12702,7 +12702,7 @@
     {
         "id": 449,
         "atypeId": 1,
-        "description": "武器を急かしてちょっぱやにする\nその他　弾速+1.4",
+        "description": "Speeds up the weapon to make it super fast - Other - Bullet speed +1.4",
         "etypeId": 6,
         "traits": [
             {
@@ -12712,7 +12712,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "ケツカッチン",
+        "name": "Ketsu Katchin",
         "note": "<shotSpeed:0.14>",
         "params": [
             0,
@@ -12729,7 +12729,7 @@
     {
         "id": 450,
         "atypeId": 1,
-        "description": "はずれた悔しさを上乗せ　こんなもの売るな\nその他　弾-1",
+        "description": "Adds the frustration of missing to the weapon - Don't sell such things - Other -\nBullets -1",
         "etypeId": 6,
         "traits": [
             {
@@ -12739,7 +12739,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "はずれくじ",
+        "name": "Dud Prize",
         "note": "<shotWay:-1>\n",
         "params": [
             0,
@@ -12756,7 +12756,7 @@
     {
         "id": 451,
         "atypeId": 1,
-        "description": "出口が細すぎてまともに通れない\nその他　弾-4 ナローショット8.3",
+        "description": "The exit is too narrow to pass through properly - Other - Bullets -4, Narrow\nShot 8.3",
         "etypeId": 6,
         "traits": [
             {
@@ -12766,7 +12766,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "デグチデラレナイーノ",
+        "name": "Deguchi Derarenaino",
         "note": "<shotSpace:-0.83>\n<shotWay:-4>\n",
         "params": [
             0,
@@ -12783,11 +12783,11 @@
     {
         "id": 452,
         "atypeId": 9,
-        "description": "毒気弾をなんかその、めっちゃいい感じにする\nその他 弾+5 ワイドショット　毒気弾専用",
+        "description": "Makes poison bullets feel really good somehow - Other - Bullets +5, Wide Shot,\nexclusive for poison bullets",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "すーぱー毒気弾",
+        "name": "Super Poison Bullet",
         "note": "<shotWay:5>\n<shotSpace:0.4>\n\n",
         "params": [
             0,
@@ -14083,7 +14083,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～猫防具～",
+        "name": "~ Cat Armor ~",
         "note": "",
         "params": [
             0,
@@ -14100,7 +14100,7 @@
     {
         "id": 501,
         "atypeId": 1,
-        "description": "斬撃ダメージ20%軽減　薄い風の膜がある\n防具",
+        "description": "Reduces slash damage by 20% with a thin layer of wind - Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14110,7 +14110,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "風の服",
+        "name": "Wind Garb",
         "note": "",
         "params": [
             0,
@@ -14127,7 +14127,7 @@
     {
         "id": 502,
         "atypeId": 1,
-        "description": "打撃ダメージ20%軽減　人それを鎧と呼ぶ\n防具",
+        "description": "Reduces blunt damage by 20% with what people call armor - Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14137,7 +14137,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "鉄の服",
+        "name": "Iron Garb",
         "note": "",
         "params": [
             0,
@@ -14154,7 +14154,7 @@
     {
         "id": 503,
         "atypeId": 1,
-        "description": "炎ダメージ20%軽減　燃えない繊維で出来た服\n防具",
+        "description": "Reduces fire damage by 20% with clothes made from non-flammable fibers - Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14164,7 +14164,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "火の服",
+        "name": "Fire Garb",
         "note": "",
         "params": [
             0,
@@ -14181,7 +14181,7 @@
     {
         "id": 504,
         "atypeId": 1,
-        "description": "水、氷ダメージ20%軽減　水に触れると発熱する素材\n防具",
+        "description": "Reduces water and ice damage by 20% with material that heats up upon contact\nwith water - Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14191,7 +14191,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "水の服",
+        "name": "Water Garb",
         "note": "",
         "params": [
             0,
@@ -14208,7 +14208,7 @@
     {
         "id": 505,
         "atypeId": 1,
-        "description": "雷ダメージ20%軽減　コイルが巻き付けてある\n防具",
+        "description": "Reduces lightning damage by 20% with coils wrapped around it - Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14218,7 +14218,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "雷の服",
+        "name": "Thunder Garb",
         "note": "",
         "params": [
             0,
@@ -14235,7 +14235,7 @@
     {
         "id": 506,
         "atypeId": 1,
-        "description": "最大精力+20％　新婚がペアルックで着る服　ダサい\n防具",
+        "description": "Increases maximum stamina by 20% with clothes newlyweds wear in matching outfits\n– Tacky – Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14245,7 +14245,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ハートの服",
+        "name": "Heart Garb",
         "note": "",
         "params": [
             0,
@@ -14262,7 +14262,7 @@
     {
         "id": 507,
         "atypeId": 1,
-        "description": "食べ物、毒ダメージ20%軽減　ぽんぽんが丈夫になる\n防具",
+        "description": "Reduces food and poison damage by 20% with sturdy pompoms – Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14272,7 +14272,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "耐毒の服",
+        "name": "Poison Resist Garb",
         "note": "",
         "params": [
             0,
@@ -14289,7 +14289,7 @@
     {
         "id": 508,
         "atypeId": 1,
-        "description": "全てのダメージ20%軽減　硬すぎて着るのも一苦労\n防具",
+        "description": "Reduces all damage by 20% with armor that's too hard to wear comfortably – Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14329,7 +14329,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "カチカチスーツ",
+        "name": "Hardy Suit",
         "note": "",
         "params": [
             0,
@@ -14346,7 +14346,7 @@
     {
         "id": 509,
         "atypeId": 1,
-        "description": "斬撃、雷ダメージ20%軽減　最大精力-40%　ソエル着用済み\n防具",
+        "description": "Reduces slash and lightning damage by 20%, maximum stamina decreased by 40% –\nAlready worn by Soel – Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14366,7 +14366,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ストーム教信者の服",
+        "name": "Storm Believer's Garb",
         "note": "",
         "params": [
             0,
@@ -14383,7 +14383,7 @@
     {
         "id": 510,
         "atypeId": 1,
-        "description": "火、水ダメージ20%軽減　最大精力-40%　フェロモンがすごい\n防具",
+        "description": "Reduces fire and water damage by 20%, maximum stamina decreased by 40% – The\npheromones are strong – Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14403,7 +14403,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "ビジューの下着",
+        "name": "Bijou Underwear",
         "note": "",
         "params": [
             0,
@@ -14673,7 +14673,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～猫指輪～",
+        "name": "~ Cat Rings ~",
         "note": "",
         "params": [
             0,
@@ -14690,7 +14690,7 @@
     {
         "id": 521,
         "atypeId": 1,
-        "description": "斬撃ダメージ20%軽減　切り傷が浅くなる\n指輪",
+        "description": "Reduces slash damage by 20%, making cuts shallower – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14700,7 +14700,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "風の指輪",
+        "name": "Wind Ring",
         "note": "",
         "params": [
             0,
@@ -14717,7 +14717,7 @@
     {
         "id": 522,
         "atypeId": 1,
-        "description": "打撃ダメージ20%軽減　全身が硬くなる\n指輪",
+        "description": "Reduces blunt damage by 20%, hardening the entire body – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14727,7 +14727,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "鉄の指輪",
+        "name": "Iron Ring",
         "note": "",
         "params": [
             0,
@@ -14744,7 +14744,7 @@
     {
         "id": 523,
         "atypeId": 1,
-        "description": "炎ダメージ20%軽減　夏の暑さにも負けぬ\n指輪",
+        "description": "Reduces fire damage by 20%, unbeaten by the heat of summer – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14754,7 +14754,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "火の指輪",
+        "name": "Fire Ring",
         "note": "",
         "params": [
             0,
@@ -14771,7 +14771,7 @@
     {
         "id": 524,
         "atypeId": 1,
-        "description": "水、氷ダメージ20%軽減　防塵防水IP68\n指輪",
+        "description": "Reduces water and ice damage by 20%, dustproof and waterproof IP68 – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14781,7 +14781,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "水の指輪",
+        "name": "Water Ring",
         "note": "",
         "params": [
             0,
@@ -14798,7 +14798,7 @@
     {
         "id": 525,
         "atypeId": 1,
-        "description": "雷ダメージ20%軽減　アース線が付いてる\n指輪",
+        "description": "Reduces lightning damage by 20%, comes with an earth wire – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14808,7 +14808,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "雷の指輪",
+        "name": "Thunder Ring",
         "note": "",
         "params": [
             0,
@@ -14825,7 +14825,7 @@
     {
         "id": 526,
         "atypeId": 1,
-        "description": "最大精力+20%　とってもプリティ\n指輪",
+        "description": "Increases maximum stamina by 20%, very pretty – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14835,7 +14835,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ハートの指輪",
+        "name": "Heart Ring",
         "note": "",
         "params": [
             0,
@@ -14852,7 +14852,7 @@
     {
         "id": 527,
         "atypeId": 1,
-        "description": "食べ物、毒ダメージ20%軽減　これ、毒です\n指輪",
+        "description": "Reduces food and poison damage by 20%, this is poison – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14862,7 +14862,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "耐毒の指輪",
+        "name": "Poison Resist Ring",
         "note": "",
         "params": [
             0,
@@ -14879,7 +14879,7 @@
     {
         "id": 528,
         "atypeId": 1,
-        "description": "全てのダメージ20%軽減　ゾクゾクするやろ\n指輪",
+        "description": "Reduces all damage by 20%, gives you the chills – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14919,7 +14919,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "カチカチリング",
+        "name": "Hardy Ring",
         "note": "",
         "params": [
             0,
@@ -14936,7 +14936,7 @@
     {
         "id": 529,
         "atypeId": 1,
-        "description": "炎、斬撃ダメージ10%軽減　CFの刻印の指輪\n指輪",
+        "description": "Reduces fire and slash damage by 10%, ring engraved with CF – Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14951,7 +14951,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "猫の指輪",
+        "name": "Cat Ring",
         "note": "",
         "params": [
             0,
@@ -14968,7 +14968,7 @@
     {
         "id": 530,
         "atypeId": 1,
-        "description": "最大精力体力+20％ 優しい祈りが込められた指輪\n指輪",
+        "description": "Max Stamina and Energy +20% A ring imbued with a gentle prayer Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14983,7 +14983,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "ラドロの指輪",
+        "name": "Ladro's Ring",
         "note": "",
         "params": [
             0,
@@ -15253,7 +15253,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～猫装飾品～",
+        "name": "~Cat Ornaments~",
         "note": "",
         "params": [
             0,
@@ -15270,7 +15270,7 @@
     {
         "id": 541,
         "atypeId": 1,
-        "description": "斬撃、火、水ダメージ10%軽減　呼び方に地域差がある\n装飾品　",
+        "description": "Slash, Fire, Water damage reduced by 10% The name varies by region Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15290,7 +15290,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "絆創膏",
+        "name": "Band-Aid",
         "note": "",
         "params": [
             0,
@@ -15307,7 +15307,7 @@
     {
         "id": 542,
         "atypeId": 1,
-        "description": "全てのダメージ10%軽減してくれる　全身グルグル巻き\n装飾品",
+        "description": "Reduces all damage by 10% Full body wrap Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15347,7 +15347,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "包帯",
+        "name": "Bandage",
         "note": "",
         "params": [
             0,
@@ -15364,7 +15364,7 @@
     {
         "id": 543,
         "atypeId": 1,
-        "description": "全状態異常を防ぐ　可愛いなら男でも装備出来る\n装飾品",
+        "description": "Prevents all status abnormalities If it's cute, even men can equip it Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15404,7 +15404,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "リボン",
+        "name": "Ribbon",
         "note": "",
         "params": [
             0,
@@ -15421,7 +15421,7 @@
     {
         "id": 544,
         "atypeId": 1,
-        "description": "発情状態を防ぐ　嫌いな人の庭に埋えるのはやめよう\n装飾品",
+        "description": "Prevents the state of heat Don't bury it in the garden of someone you dislike\nAccessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15431,7 +15431,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ミント",
+        "name": "Mint",
         "note": "",
         "params": [
             0,
@@ -15448,7 +15448,7 @@
     {
         "id": 545,
         "atypeId": 1,
-        "description": "毒、猛毒状態を防ぐ　何でかは不明\n装飾品",
+        "description": "Prevents Poison and Deadly Poison status The reason why is unclear Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15463,7 +15463,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "皮の盾",
+        "name": "Leather Shield",
         "note": "",
         "params": [
             0,
@@ -15480,7 +15480,7 @@
     {
         "id": 546,
         "atypeId": 1,
-        "description": "脱力、減速状態を防ぐ　ついでに少し戦闘力も上がる\n装飾品",
+        "description": "Prevents Weakness and Slow status Also slightly increases combat power Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15495,7 +15495,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "力のスカーフ",
+        "name": "Power Scarf",
         "note": "",
         "params": [
             0,
@@ -15512,7 +15512,7 @@
     {
         "id": 547,
         "atypeId": 1,
-        "description": "痺れ、攻撃不能を防ぐ　勇気とは怖さを知ること\n装飾品",
+        "description": "Prevents Paralysis and Attack Disable Courage is knowing fear Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15522,7 +15522,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "勇気の証",
+        "name": "Medal of Courage",
         "note": "",
         "params": [
             0,
@@ -15539,7 +15539,7 @@
     {
         "id": 548,
         "atypeId": 1,
-        "description": "最大精力+20%　素数がプリントされている\n装飾品",
+        "description": "Max Energy +20% Primes are printed on it Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15549,7 +15549,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "冷静のスカーフ",
+        "name": "Scarf of Calm",
         "note": "",
         "params": [
             0,
@@ -15566,11 +15566,11 @@
     {
         "id": 549,
         "atypeId": 1,
-        "description": "最大体力+10　痛いの我慢できる\n装飾品",
+        "description": "Max Stamina +10 Can endure pain Accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 164,
-        "name": "耐久のスカーフ",
+        "name": "Scarf of Endurance",
         "note": "",
         "params": [
             0,
@@ -15587,7 +15587,7 @@
     {
         "id": 550,
         "atypeId": 1,
-        "description": "最大精力+40%　若干色っぽくなる\n装飾品",
+        "description": "Max Energy +40% Makes you slightly more sensual Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15597,7 +15597,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "プリティチャーム",
+        "name": "Pretty Charm",
         "note": "",
         "params": [
             0,
@@ -15614,11 +15614,11 @@
     {
         "id": 551,
         "atypeId": 1,
-        "description": "最大体力+20　若干ガタイが良くなる\n装飾品",
+        "description": "Max Stamina +20 Makes your build slightly better Accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 164,
-        "name": "ガッツチャーム",
+        "name": "Guts Charm",
         "note": "",
         "params": [
             0,
@@ -15635,7 +15635,7 @@
     {
         "id": 552,
         "atypeId": 1,
-        "description": "最大精力体力+20%　冬はこれが無いと辛い\n装飾品",
+        "description": "Max Stamina and Energy +20% It's tough without this in winter Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15650,7 +15650,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "猫耳カバー",
+        "name": "Cat Ear Cover",
         "note": "",
         "params": [
             0,
@@ -15667,7 +15667,7 @@
     {
         "id": 553,
         "atypeId": 1,
-        "description": "体力+40%　最大精力1　情けないマッチョ\n装飾品",
+        "description": "Stamina +40% Max Energy 1 Pathetic Macho Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15687,7 +15687,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "ムキムキ早漏バッジ",
+        "name": "Muscle Brute Premature Ejaculation Badge",
         "note": "",
         "params": [
             0,
@@ -15704,7 +15704,7 @@
     {
         "id": 554,
         "atypeId": 1,
-        "description": "戦闘力が1.2倍になる　ストレス発散になる\n装飾品",
+        "description": "Combat power is multiplied by 1.2 It's a stress reliever Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15714,7 +15714,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "爪とぎ",
+        "name": "Scratching Post",
         "note": "",
         "params": [
             0,
@@ -15731,7 +15731,7 @@
     {
         "id": 555,
         "atypeId": 1,
-        "description": "戦闘力が1.3倍になる　トゲトゲ付いてる\n装飾品",
+        "description": "Combat power is multiplied by 1.3 It's covered in spikes Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15741,7 +15741,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "パンクな首輪",
+        "name": "Punk Collar",
         "note": "",
         "params": [
             0,
@@ -15758,7 +15758,7 @@
     {
         "id": 556,
         "atypeId": 1,
-        "description": "斬撃ダメージ20％軽減 リンクスの結界術が凝固した石\n装飾品",
+        "description": "Slash damage reduced by 20% A stone solidified with Lynx's barrier magic\nAccessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15768,7 +15768,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "風の結界石",
+        "name": "Wind Barrier Stone",
         "note": "",
         "params": [
             0,
@@ -15785,7 +15785,7 @@
     {
         "id": 557,
         "atypeId": 1,
-        "description": "水、雷ダメージ20%軽減　夜なべして編んだぬるぬる手袋\n装飾品",
+        "description": "Water, Thunder damage reduced by 20% Gloves knitted overnight that are slimy to\nthe touch Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15800,7 +15800,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "メーレの手袋",
+        "name": "Maele's Gloves",
         "note": "",
         "params": [
             0,

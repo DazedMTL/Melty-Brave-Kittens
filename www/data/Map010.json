@@ -7329,21 +7329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "言語を選択してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Choose Your Language."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "※Automatic translation. "
+                                "Please select your language.※Automatic translation."
                             ]
                         },
                         {
@@ -7351,10 +7337,10 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "日本語",
+                                    "Japanese",
                                     "English",
-                                    "簡体字",
-                                    "한글"
+                                    "Simplified Chinese",
+                                    "Korean"
                                 ],
                                 -1,
                                 0,
@@ -7512,7 +7498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主人公を選択してください。"
+                                "Please select the protagonist."
                             ]
                         },
                         {
@@ -7520,8 +7506,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "男主人公",
-                                    "女主人公"
+                                    "Male Protagonist",
+                                    "Female Protagonist"
                                 ],
                                 -1,
                                 0,
@@ -7599,14 +7585,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "主人公の立ち絵を表示しますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（演出はオプションでいつでも変更できます）"
+                                "Would you like to display the protagonist's character\nsprite? (This setting can be changed at any time in the\noptions.)"
                             ]
                         },
                         {
@@ -7614,8 +7593,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "表示する",
-                                    "表示しない"
+                                    "Show",
+                                    "Do not show"
                                 ],
                                 1,
                                 0,
@@ -7654,7 +7633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "戦闘中に主人公のアニメを表示しますか？"
+                                "Would you like to display animations for the protagonist\nduring battle?"
                             ]
                         },
                         {
@@ -7662,8 +7641,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "表示する",
-                                    "表示しない"
+                                    "Show",
+                                    "Don't Show"
                                 ],
                                 1,
                                 0,
@@ -7775,14 +7754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "女主人公のボイスをONにしますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（被ダメージ時、射精時に音声が出ます）"
+                                "Would you like to turn ON the female protagonist's voice?\n(Voices will be played during damage and ejaculation.)"
                             ]
                         },
                         {
@@ -7790,8 +7762,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "ボイスON",
-                                    "ボイスOFF"
+                                    "Voice ON",
+                                    "Voice OFF"
                                 ],
                                 1,
                                 0,
@@ -7923,7 +7895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -8012,7 +7984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その昔、この世界には4つの大国があった。"
+                                "Long ago, there were four great nations in this world."
                             ]
                         },
                         {
@@ -8029,14 +8001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火の国、水の国、風の国、雷の国。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正式な名前もあるが・・・それは別にいいか。"
+                                "The Land of Fire, the Land of Water, the Land of Wind, and\nthe Land of Thunder. They have official names, but... that's\nnot important right now."
                             ]
                         },
                         {
@@ -8053,14 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火の民は明るく情熱的で、何よりも仲間を大切にした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水の民は公平を美徳とし、規律を守る正しさを持っていた。"
+                                "The people of Fire were bright and passionate, valuing their\ncomrades above all else. The people of Water cherished\nfairness as a virtue and possessed a righteousness that\nadhered to discipline."
                             ]
                         },
                         {
@@ -8077,14 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "風の民は慈悲深く穏やかで、自然を愛し自然と共に生きた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雷の民は賢く閃きに長け、その知性を活かし機械を作った。"
+                                "The people of Wind were deeply compassionate and gentle,\nloving nature and living in harmony with it. The people of\nThunder were intelligent and quick-witted, using their\nintellect to create machines."
                             ]
                         },
                         {
@@ -8101,7 +8052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何がきっかけで、誰が始めたかは重要ではない。"
+                                "What triggered it, or who started it, is not important."
                             ]
                         },
                         {
@@ -8118,14 +8069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人は『違うもの』を受け入れられるように出来ていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "当然のように、争いは起こるべくして起きた。"
+                                "Humans are not made to accept \"what is different.\" As such,\nconflict was inevitable and arose naturally."
                             ]
                         },
                         {
@@ -8142,14 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "己が為に他を排し、正義は押し付けられ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情けは悲劇を生み、機械は殺しの道具になった。"
+                                "For their own sake, they excluded others; justice was\nimposed, mercy led to tragedy, and machines became tools for\nkilling."
                             ]
                         },
                         {
@@ -8166,14 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それは何世代にも渡り、人はその数を減らし続けた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰もが心から『それぞれ』の平和を祈りながら。"
+                                "This went on for generations, as people continued to\ndecrease in number, each praying for their own version of\npeace from the bottom of their hearts."
                             ]
                         },
                         {
@@ -8311,21 +8241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "世界には魔王がいて、魔物がいて、勇者がいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして平和を守るために戦ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはとても、いや、一番大きなことなのかもしれないけど。"
+                                "In this world, there are Demon Lords, monsters, and heroes\nfighting to protect the peace. It may very well be the most\nsignificant thing of all."
                             ]
                         },
                         {
@@ -8342,21 +8258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなことは、その他大勢には知ったことではなくて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『そういう世界』でも、殆どの人は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "各々の悩みを抱えながら、ちっぽけに暮らしているものだ。"
+                                "But for the majority, such matters are of no concern... Even\nin \"such a world,\" most people live their modest lives, each\nburdened with their own worries."
                             ]
                         },
                         {
@@ -8373,21 +8275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お店を経営する人もいれば、畑を耕す人もいる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物から町を守る為に戦う人もいれば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "安全な場所でただただ、ふんぞり返ってるのん気もいる。"
+                                "Some run shops, others till the fields. There are those who\nfight to protect the town from monsters, and then there are\nthose who just laze about in safety."
                             ]
                         },
                         {
@@ -8404,21 +8292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "それぞれの『生き方』があって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来ることを精一杯やったり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日だけは、なんてサボったりしながら生きてる。"
+                                "Everyone has their own \"way of life,\" doing the best they\ncan, or maybe just slacking off for just today."
                             ]
                         },
                         {
@@ -8435,14 +8309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分の役目はなんだろう。"
+                                "...What is my role, I wonder."
                             ]
                         },
                         {
@@ -8459,14 +8326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『世界の命運』には関わってないだろうけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "研いだ爪の跡だけは、沢山残したい。"
+                                "I may not be involved in the \"fate of the world,\" but I want\nto leave behind many marks of my sharpened claws."
                             ]
                         },
                         {
@@ -8490,7 +8350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "オープニングを見ますか？"
+                                "Would you like to watch the opening?"
                             ]
                         },
                         {
@@ -8498,8 +8358,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "OPを見る",
-                                    "スキップする"
+                                    "Watch the OP",
+                                    "Skip"
                                 ],
                                 1,
                                 0,
@@ -8542,7 +8402,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "本当にオープニングをスキップしますか？"
+                                "Are you sure you want to skip the opening?"
                             ]
                         },
                         {
@@ -8550,8 +8410,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -8572,8 +8432,8 @@
                             "indent": 2,
                             "parameters": [
                                 [
-                                    "男主人公",
-                                    "女主人公"
+                                    "Male Protagonist",
+                                    "Female Protagonist"
                                 ],
                                 1,
                                 0,
@@ -8684,7 +8544,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "名前を入力してください。"
+                                "Please enter your name."
                             ]
                         },
                         {
@@ -8799,7 +8659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>『できない』って、そんなに悪いことなの？"
+                                "\\n<???>\"Is it really such a bad thing to be 'unable'?\""
                             ]
                         },
                         {

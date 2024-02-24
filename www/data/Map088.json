@@ -2249,21 +2249,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ソエル>Ruiさん♥アナタはもう立派なストーム教信者です♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さぁ、これをどうぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私のお古ですけど、そっちの方が嬉しいですよね？くすっ♥"
+                                "\\n<Soel>Rui-san♥ You've become a splendid follower of the Storm\nFaith♥ Here, take this. It's second-hand, but that makes you\nhappier, doesn't it? Hehe♥"
                             ]
                         },
                         {
@@ -2343,21 +2329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>おやおや。迷える子猫さん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "所持金が0になってしまったようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これでは懺悔を聞くことも出来ません。"
+                                "\\n<Soel>Oh my. Lost little kitten♥ It seems your wallet has hit\nzero. I can't listen to your confessions like this."
                             ]
                         },
                         {
@@ -2390,21 +2362,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>また教会に寄付がしたくなったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "懺悔しに来てくださいね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Soel>If you ever feel like making a donation to the church again,\ncome here to confess♥ Teehee♥"
                             ]
                         },
                         {
@@ -2465,21 +2423,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>懺悔したくなっちゃったんですね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日はどうやって罪を償いましょうか♥"
+                                "\\n<Soel>You've become eager to confess♥ Teehee♥ How shall we atone\nfor your sins today♥"
                             ]
                         },
                         {
@@ -2533,21 +2477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>え？懺悔室って別々の部屋に入るものだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ硬いことは言わないでください♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ストーム教ではこうなんです。（嘘）"
+                                "\\n<Soel>Eh? You think confessionals are supposed to be separate\nrooms? Please don't be so stiff♥ That's how it is in the\nStorm Faith. (Lie)"
                             ]
                         },
                         {
@@ -2601,21 +2531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>Ruiさん。みんなにごめんなさいしなきゃいけないこと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "沢山ありますもんね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふ♥なんでも聞いてあげますよ♥"
+                                "\\n<Soel>Rui-san. You have so many things to apologize for, don't\nyou♥ Ufufu♥ I'll listen to anything♥"
                             ]
                         },
                         {
@@ -2669,21 +2585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>今日はどれだけ『罪』を溜めていらしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全部私がすっきり浄化してあげます♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Soel>How much \"sin\" have you accumulated today? I'll cleanse it\nall away for you♥ Teehee♥"
                             ]
                         },
                         {
@@ -2737,21 +2639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>Ruiさん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタと私は運命共同体なんです♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう逃げられませんよ♥うふふ♥"
+                                "\\n<Soel>Rui-san♥ You and I are bound by fate♥ There's no escaping\nnow♥ Ufufu♥"
                             ]
                         },
                         {
@@ -2805,21 +2693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>私、結界術が得意なんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だからこの懺悔室も簡易結界で覆ってます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どういうことか、分かります？"
+                                "\\n<Soel>I'm skilled in barrier magic. That's why I've covered this\nconfessional with a simple barrier. Do you understand what\nthat means?"
                             ]
                         },
                         {
@@ -2852,21 +2726,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>どれだけ大きい声で喘いでも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "外には漏れないってこと♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いっぱい叫んでも大丈夫ですよ♥"
+                                "\\n<Soel>No matter how loudly you moan, the sound won't leak outside♥\nYou can scream as much as you want♥"
                             ]
                         },
                         {
@@ -2920,21 +2780,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>おやおや♥Ruiさん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "股間を大きくされてどうしました？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は懺悔を聞く為にいるのですが♥くすくす♥"
+                                "\\n<Soel>Oh my♥ Rui-san♥ What's happened to make your crotch swell up\nlike that? I'm here to hear your confession♥ Teehee♥"
                             ]
                         },
                         {
@@ -2988,21 +2834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>大丈夫ですよ♥心配しないで♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "鍵もかけたし、誰にもバレませんから♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "匂いもちゃんと取っておきます♥くすくす♥"
+                                "\\n<Soel>It's okay♥ Don't worry♥ I've locked the door, and no one\nwill find out♥ I'll even take care of the smell♥ Teehee♥"
                             ]
                         },
                         {
@@ -3056,21 +2888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>まぁ♥こんなに大きく腫らして・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "随分と穢れが溜まっているようですね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が全て搾り尽くして差し上げます♥"
+                                "\\n<Soel>My my♥ Swollen up so big...♥ It seems you've accumulated\nquite a bit of impurity♥ I'll drain it all out for you♥"
                             ]
                         },
                         {
@@ -3136,21 +2954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>んふふ♥ちゅっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "軽くキスしただけなのにもうビンビン♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "えっちなお方ですね。全く♥"
+                                "\\n<Soel>Nfufu♥ Smooch♥ Just a light kiss and you're already rock\nhard♥ Such a lewd person you are. Really♥"
                             ]
                         },
                         {
@@ -3184,14 +2988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ソエル>それでは清めさせて頂きますね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[14]（ソエルに奪われた金額　\\v[743]G）"
+                                "\\n<Soel>Now, let me purify you♥ \\C[14](The amount of money Soel took\n\\v[743]G)"
                             ]
                         },
                         {
@@ -3199,9 +2996,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "フェラ",
-                                    "パイズリ 10000G↑",
-                                    "えっち　20000G↑"
+                                    "Blowjob",
+                                    "Titty Fuck 10000G↑",
+                                    "Sex 20000G↑"
                                 ],
                                 -2,
                                 0,
@@ -3459,21 +3256,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "懺悔室の扉だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "懺悔することなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "It's the door to the confessional. What is there to\nconfess..."
                             ]
                         },
                         {
@@ -3490,14 +3273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれから謝ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりじいやの花瓶からかなぁ。"
+                                "Where should I start apologizing from... Maybe from\ngrandpa's vase, huh."
                             ]
                         },
                         {
@@ -3667,7 +3443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "懺悔を始めますか？"
+                                "Shall we begin the confession?"
                             ]
                         },
                         {
@@ -3675,8 +3451,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

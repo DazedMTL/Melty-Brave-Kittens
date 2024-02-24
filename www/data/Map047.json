@@ -4895,21 +4895,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>どーだ♥膝で挟んじゃったぞ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どーせこれでも気持ちよくなっちゃうんでしょー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "違うなら早く引き抜かなきゃ♥"
+                                "\\n<Enemy Succubus>How's that♥ I've got you trapped between my knees♥ You're\ngoing to feel good no matter what, right?♥ If not, you\nbetter pull out quickly♥"
                             ]
                         },
                         {
@@ -4977,21 +4963,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あれれー？動けなくなっちゃったぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "くすくす♥いいよ♥見ててあげる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "出・し・て♥"
+                                "\\n<Enemy Succubus>Oh my-? Can't move anymore? Teehee♥ That's fine♥ I'll watch♥\nCum♥"
                             ]
                         },
                         {
@@ -5015,21 +4987,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あー♥くくく♥やっぱりウブだねー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "力抜けちゃった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "じゃぁもう、仲良くしよ♥仲直り♥"
+                                "\\n<Enemy Succubus>Ah-♥ Teehee♥ You really are innocent♥ Lost your strength?\nThen let's get along♥ Make up♥"
                             ]
                         },
                         {
@@ -5536,21 +5494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あぐ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こ、ここまでしても勝てないなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ・・・"
+                                "\\n<Enemy_Succubus>Ugh...! To think I still can't win even after all this...\nugh..."
                             ]
                         },
                         {
@@ -5567,14 +5511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（こうなったら奥の手を使うしかない・・・！）"
+                                "\\n<Enemy_Succubus>...(I have no choice but to use my trump card now...!)"
                             ]
                         },
                         {
@@ -5689,21 +5626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（手錠を掛けられた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、近づいてる今がチャンス！）"
+                                "\\n<Enemy_Succubus>...(I've been handcuffed... but now that they're close, it's\nmy chance!)"
                             ]
                         },
                         {
@@ -5736,7 +5659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>（食らえ！またたび入り毒霧！）"
+                                "\\n<Enemy_Succubus>(Take this! Catnip-infused poison mist!)"
                             ]
                         },
                         {
@@ -5829,14 +5752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ぷはぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（効くか・・・？）"
+                                "\\n<Enemy_Succubus>Phew... (Did it work...?)"
                             ]
                         },
                         {
@@ -5908,21 +5824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うにゃぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なぁに？これぇ♥えへへ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変なもの吹きかけないでよ♥ふ♥ふへへへ♥"
+                                "\\n<Rui>Nyaa...? What's this? Hehe♥ Don't spray weird stuff at me♥\nFu♥ Fufufu♥"
                             ]
                         },
                         {
@@ -5984,21 +5886,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>お、おい・・・？な、何を・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは・・・♥んぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・♥はぁ・・・♥"
+                                "\\n<Rui>Hey...? Wh-what are you...♥ This is...♥ Nngh...? Haa...♥\nHaa...♥"
                             ]
                         },
                         {
@@ -6050,14 +5938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>よし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（やった！効いた♥じゃあ、ここから反撃だ！）"
+                                "\\n<Enemy_Succubus>Yes! (It worked!♥ Now it's time for a counterattack!)"
                             ]
                         },
                         {
@@ -6090,21 +5971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>よく頑張ったね♥Rui♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いいこいいこ♥ほら、こっちにおいで♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お顔の前に、大きくなったソレ♥差し出してごらん？"
+                                "\\n<Enemy_Succubus>You did well♥ Rui♥ Good boy, good boy♥ Now, come here♥\nPresent that big thing in front of your face, won't you?"
                             ]
                         },
                         {
@@ -6239,21 +6106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>れろぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ♥Rui・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっとこういうことしたかったんでしょ？"
+                                "\\n<Enemy_Succubus>Lick...♥ Hey♥ Rui...♥ You've always wanted to do this,\nhaven't you?"
                             ]
                         },
                         {
@@ -6270,21 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>見逃してくれたら、私がいっぱいご奉仕してあげるよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一生忘れられない思い出、作ってあげる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "れろ・・・♥"
+                                "\\n<Enemy_Succubus>If you let me go, I'll serve you plenty♥ I'll make you an\nunforgettable memory♥ Lick...♥"
                             ]
                         },
                         {
@@ -6301,21 +6140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あ・・・♥変な味のがとろって出てきた♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これって、我慢してる時に出るんでしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本で読んだことある♥えへへ♥"
+                                "\\n<Enemy_Succubus>Ah...♥ Something with a strange taste is oozing out♥ Is this\nwhat comes out when you hold back? I've read about it in\nbooks♥ Ehehe♥"
                             ]
                         },
                         {
@@ -6339,21 +6164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>我慢してるの？どうして？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我慢しなくていいよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって、気持ちいい事は、悪い事じゃないもの♥"
+                                "\\n<Enemy_Succubus>Are you holding back? Why? You don't have to hold back♥\nAfter all, pleasurable things aren't bad, right?♥"
                             ]
                         },
                         {
@@ -6377,21 +6188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>私だって恥ずかしいの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうの、キミ以外にしたりしないんだから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒に恥ずかしいこと、しよ♥"
+                                "\\n<Enemy_Succubus>I'm embarrassed too♥ I wouldn't do this with anyone but you.\nLet's be embarrassed together, shall we?♥"
                             ]
                         },
                         {
@@ -6448,8 +6245,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[1]見逃す　カルマ+1",
-                                    "\\C[10]見逃さない　カルマ-1"
+                                    "\\C[1]Overlook Karma +1",
+                                    "\\C[10]Don't overlook Karma -1"
                                 ],
                                 -1,
                                 0,
@@ -6493,14 +6290,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>うんうん♥やっぱりRuiはカワイイなぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Enemy_Succubus>Mhm mhm♥ Rui is definitely cute♥ Giggles♥"
                             ]
                         },
                         {
@@ -6785,14 +6575,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>そんな・・・離れないで・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やだ・・・！お願い・・・！Rui！"
+                                "\\n<Enemy_Succubus>Don't... don't go away...! No...! Please...! Rui!"
                             ]
                         },
                         {
@@ -6830,21 +6613,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（この手錠、前のとは違う・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全然外れない・・・！）"
+                                "\\n<Enemy_Succubus>...! (These handcuffs are different from before...! They\nwon't come off at all...!)"
                             ]
                         },
                         {
@@ -6877,14 +6646,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui・・・？"
+                                "\\n<Enemy_Succubus>...Rui...?"
                             ]
                         },
                         {
@@ -6940,21 +6702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "頭がくらくらする・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここってどこだっけ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何をしてた・・・？"
+                                "Dizzy Head: My head is spinning... where am I again...? What\nwas I doing...?"
                             ]
                         },
                         {
@@ -6980,21 +6728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "まぁいいや・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気持ちいいから寝ちゃおう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・"
+                                "Well, whatever... It feels good so I might as well sleep..."
                             ]
                         },
                         {
@@ -7039,21 +6773,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>し、しまった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またたびが効きすぎてる・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "て、手錠の鍵を・・・"
+                                "\\n<Enemy_Succubus>Damn it! The catnip is too effective...! Where's the key to\nthese handcuffs..."
                             ]
                         },
                         {
@@ -7089,14 +6809,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<私兵A>おい・・・！見ろ！あそこだ！見つけたぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怪盗だ！！"
+                                "\\n<Private Soldier A>Hey...! Look over there! We found them!! It's the phantom\nthief!!"
                             ]
                         },
                         {
@@ -7113,14 +6826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<私兵B>冒険者が倒されてる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "急げ！みんな！集まれ！！"
+                                "\\n<Private Soldier B>An adventurer has been defeated! Hurry! Everyone, gather\naround!!"
                             ]
                         },
                         {
@@ -7156,21 +6862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>さ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最悪だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "終わった・・・"
+                                "\\n<Enemy_Succubus>This is the worst... It's over..."
                             ]
                         },
                         {
@@ -7346,21 +7038,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Self-Targeting Shot"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "FullShot All-Around Firing"
                             ]
                         },
                         {
@@ -7374,7 +7066,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "格闘"
+                                "Brawler"
                             ]
                         },
                         {
@@ -7757,7 +7449,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "カード手裏剣"
+                                "Card Shuriken"
                             ]
                         },
                         {
@@ -7771,14 +7463,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Aimed Shot at Player's Position"
                             ]
                         },
                         {
@@ -9544,7 +9236,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "徐々に疲れる"
+                                "Gradually Getting Tired"
                             ]
                         },
                         {
@@ -11234,21 +10926,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Self-Targeting Shot"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -12504,10 +12196,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦闘開始！",
-                                    "セーブ",
-                                    "解説を見る",
-                                    "攻略のヒント"
+                                    "Battle Start!",
+                                    "Save",
+                                    "View Explanation",
+                                    "Strategy Tips"
                                 ],
                                 -1,
                                 0,
@@ -12586,21 +12278,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アクションRPGボス戦です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃を避けながらAキーで攻撃してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Dキーを押している間は向きを固定して移動できます。"
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding the D key, you can\nmove while keeping your direction fixed."
                             ]
                         },
                         {
@@ -12617,21 +12295,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵の攻撃で精力、体力のどちらかが0になると敗北です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "基本的に遠距離攻撃は体力が減り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "接触すると精力が減ります。"
+                                "If either your stamina or health reaches 0 from the enemy's\nattacks, you will be defeated. Generally, ranged attacks\nwill decrease health, and contact will decrease stamina."
                             ]
                         },
                         {
@@ -12648,21 +12312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵に接触するとホールドされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タイミングバーを成功させるまでダメージを受け続けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タイミングバーを出してみますね。"
+                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let's try out the timing bar."
                             ]
                         },
                         {
@@ -12686,21 +12336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黄色で止めると成功、赤で止めるとクリティカルです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "黄色の場合はダメージを受けて解放され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "赤の場合はダメージを半減して解放されます。"
+                                "Stopping on yellow is a success, stopping on red is a\ncritical. If you stop on yellow, you'll take damage and be\nreleased, while stopping on red will halve the damage and\nrelease you."
                             ]
                         },
                         {
@@ -12717,21 +12353,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、敵から精力にダメージを受けると\\C[14]発情状態\\C[0]になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃時の斬撃の数が減ってしまいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発情中はステータスに♡マークがつきます。"
+                                "Furthermore, taking damage to your stamina from the enemy\nwill put you in a [Color_14]state of arousal\\C[0], reducing\nthe number of slashes during your attacks. A heart mark will\nappear on your status during arousal."
                             ]
                         },
                         {
@@ -12748,21 +12370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "発情は一定数歩き回ることで解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クリティカルで振り払った場合にも発情状態が解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "余裕があれば赤で止めるようにしましょう。"
+                                "Arousal can be removed by walking around a set number of\nsteps. It can also be removed by achieving a critical. If\npossible, aim to stop on red."
                             ]
                         },
                         {
@@ -12799,21 +12407,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・敵の攻撃パターンを覚える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃にはパターンがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずは避けることに集中して覚えましょう。"
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on dodging first to learn them."
                             ]
                         },
                         {
@@ -12830,21 +12424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・Dキーの向き固定を活用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向きを固定することで攻撃と回避がしやすくなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下がりながら攻撃をすると戦いやすくなります。"
+                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile backing away can make the fight easier."
                             ]
                         },
                         {
@@ -12861,21 +12441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・回復アイテム、スキルを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復アイテム、スキル（深呼吸など）に使用制限はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復してゴリ押しすることも可能です。"
+                                "Use healing items and skills. There are no usage\nrestrictions on healing items and skills (like deep\nbreaths). It's possible to heal up and push through."
                             ]
                         },
                         {
@@ -12892,21 +12458,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・アクションイージーを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オプションからアクションイージーをONにすることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難易度が大幅に下がります。デメリットはありません。"
+                                "Use Action Ease. By turning on Action Ease from the options,\nthe difficulty level will significantly decrease. There are\nno downsides."
                             ]
                         },
                         {

@@ -10644,21 +10644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>では、貴様らも既に知っているとは思うがぁ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、知っていないやつは今ここで帰ってもらうがぁ～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今一度、説明をさせてもらぉ～う。"
+                                "\\n<Count Noblesse>\"Well, I presume you all are already aware of this? No? If\nthere's anyone who isn't, they can leave right now. Let me\nexplain once more.\""
                             ]
                         },
                         {
@@ -10721,7 +10707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>兵長～ぅ！！！"
+                                "\\n<Count Noblesse>\"Captain~!!!\""
                             ]
                         },
                         {
@@ -10747,7 +10733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>はっ！"
+                                "\\n<Captain>\"Sir!\""
                             ]
                         },
                         {
@@ -10764,14 +10750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>先日、あの忌々しき、低俗極まりない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[14]怪盗『L』\\C[0]から予告状が届いた。"
+                                "\\n<Captain>\"The other day, we received a notice from that detestable,\nvulgar thief \\C[14]Phantom Thief \"L\"\\C[0].\""
                             ]
                         },
                         {
@@ -10788,21 +10767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>私兵の諸君は既に何度か相対したことがあると思うが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回は冒険者ギルドからの人員もいる為"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "改めて怪盗『L』について説明をさせて頂こう。"
+                                "\\n<Captain>\"I believe our private soldiers have faced him several times\nbefore, but since we also have personnel from the\nAdventurers' Guild here today, let me explain about Phantom\nThief \"L\" once again.\""
                             ]
                         },
                         {
@@ -10819,21 +10784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>『L』は窃盗行為の前に予告状を出すほどの自信と傲慢さを持つ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の財を盗み、そして嘲る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自己顕示欲の塊にして下劣な悪党だ。"
+                                "\\n<Captain>\"\"L\" is so confident and arrogant that he sends a notice\nbefore his thefts. He steals people's wealth and then mocks\nthem. He is nothing but a lump of exhibitionism and a\ndespicable villain.\""
                             ]
                         },
                         {
@@ -10850,21 +10801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ノブレス伯爵のお屋敷だけでも既に15回の被害を受け、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族街全体に至っては"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゆうに30を越えるほどの盗難にあっている。"
+                                "\\n<Captain>\"Count Noblesse's mansion alone has already suffered 15\nincidents, and the entire noble district has experienced\nwell over 30 thefts.\""
                             ]
                         },
                         {
@@ -10890,7 +10827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>ここだけ盗まれ過ぎじゃ・・・？"
+                                "\\n<Adventurer A>\"Isn't this place getting robbed too much...?\""
                             ]
                         },
                         {
@@ -10916,7 +10853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>私兵が無能なんじゃないの？"
+                                "\\n<Adventurer B>\"Aren't the private soldiers incompetent?\""
                             ]
                         },
                         {
@@ -10979,7 +10916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>今、無駄口を叩いたのは誰だ？"
+                                "\\n<Captain>\"Who just spoke out of turn?\""
                             ]
                         },
                         {
@@ -11030,14 +10967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>情けない話、その通りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々は何度も『L』にしてやられ、金品を奪われた。"
+                                "\\n<Captain>\"It's a shameful truth. We've been outwitted by \"L\" time and\nagain, having our money and valuables stolen.\""
                             ]
                         },
                         {
@@ -11054,21 +10984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>だが今回は違う！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "堀で囲む大改築に加え、結界、罠、増員！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "以前より警備を更に強化して万全の状態を期してある。"
+                                "\\n<Captain>\"But this time it's different! We've fortified the mansion\nwith a moat, added barriers, traps, and more personnel!\nWe've strengthened our security even more than before to\nensure everything is foolproof.\""
                             ]
                         },
                         {
@@ -11085,21 +11001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>これで万が一盗まれることがあったのであれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私をスプルースの木の下に埋めてもらっても構わない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それぐらいの覚悟で挑んでいる。"
+                                "\\n<Captain>\"If by any chance something gets stolen again, you may as\nwell bury me under a spruce tree. That's how prepared I am\nfor this challenge.\""
                             ]
                         },
                         {
@@ -11116,21 +11018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>さて、配置に関してだが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私兵は館内の警備を、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドからの派遣は屋外の見張りを担当してもらう。"
+                                "\\n<Captain>\"Now, regarding the assignments, our private soldiers will\nhandle the security inside the mansion, while those\ndispatched from the Guild will take care of the outdoor\nwatch.\""
                             ]
                         },
                         {
@@ -11163,21 +11051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>そして予告どぉりであるのならば～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弓張の月。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つぅ～まり！今宵に犯行が行われるのであるぅ～。"
+                                "\\n<Count Noblesse>\"And if the notice is to be believed~? The bow moon. In\nother words! The crime will take place tonight~.\""
                             ]
                         },
                         {
@@ -11194,21 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>キャツをひっ捕らえた者には更に～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、更にぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別報奨として金一封を包むぅ！"
+                                "\\n<Count Noblesse>\"To the one who captures the cat, furthermore~? Ah,\nfurthermore! A special reward of a bag of gold will be\ngiven!\""
                             ]
                         },
                         {
@@ -11225,14 +11085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>励めよぉ～！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして励めぇ～！！"
+                                "\\n<Count Noblesse>\"Be encouraged~!! And keep up the spirit~!!\""
                             ]
                         },
                         {
@@ -11281,21 +11134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（なんか楽しそう！わくわく♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が捕まえてお金いっぱい貰うぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふひひ♥）"
+                                "\\n<Rui>\"(This seems fun! I'm getting excited♥ I'll catch them and\nget lots of money! Fufufu♥)\""
                             ]
                         },
                         {
@@ -11322,21 +11161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（怪盗か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どんなやつかは分からないけど、人の物を盗ったらダメだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よし。とっ捕まえてやる！）"
+                                "\\n<Rui>\"(A phantom thief, huh... I don't know what kind of person\nthey are, but stealing from others is wrong. Alright. I'll\ncatch them!)\""
                             ]
                         },
                         {
@@ -11593,7 +11418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>・・・"
+                                "\\n<Count Noblesse>..."
                             ]
                         },
                         {
@@ -11641,14 +11466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵長。頼む。"
+                                "\\n<Count Noblesse>...Captain. I'm counting on you."
                             ]
                         },
                         {
@@ -11674,7 +11492,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>はっ！"
+                                "\\n<Captain>Yes, sir!"
                             ]
                         },
                         {
@@ -11691,21 +11509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>先日、スプルースの木の下に埋められた兵長に代わり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が新しく兵長に就任しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっそく、怪盗『L』からの予告状を読み上げます。"
+                                "\\n<Captain>As the previous captain was buried under the spruce tree, I\nhave been appointed as the new captain. Without further ado,\nI will read the advance notice from the phantom thief \"L\"."
                             ]
                         },
                         {
@@ -11722,21 +11526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>\\C[14]黄色に輝くのは月だけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "月に吠えるのは狼だけではない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "円鏡の夜に。貴殿の面が水面に映るよう。　怪盗『L』"
+                                "\\C[14]\\n<Captain>Not only the moon shines yellow. Not only wolves howl at the\nmoon. On a night of a full circle mirror. Just as your face\nreflects upon the water's surface. Phantom thief \"L\""
                             ]
                         },
                         {
@@ -11753,21 +11543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>この予告状から推察するに、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界4大金剛石のひとつ\\C[14]『呼狼石』\\C[0]を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狙っているものと思われます。"
+                                "\\n<Captain>Based on this notice, it seems that one of the world's four\ngreat diamonds, \\C[14]\"The Howling Wolf Stone\"\\C[0], is\nbeing targeted."
                             ]
                         },
                         {
@@ -11784,21 +11560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>\\C[14]『呼狼石（ころうせき）』\\C[0]は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "狼が月と間違え吠えるほど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美しく黄色い光を放つことからそう名付けられました。"
+                                "\\C[14]\\n<Captain>The \"Howling Wolf Stone\" is so named because it emits a\nbeautiful yellow light that wolves mistake for the moon and\nhowl at."
                             ]
                         },
                         {
@@ -11815,14 +11577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>本来であればノブレス伯爵が所持していることすら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "秘密にしなければいけない程の代物です。"
+                                "\\n<Captain>Normally, even the fact that Count Noblesse possesses it\nshould be kept a secret of such magnitude."
                             ]
                         },
                         {
@@ -11839,21 +11594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>今回、あえて怪盗『L』を呼び出す為の餌として"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼狼石の情報を流しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、見事に食いついたわけです。"
+                                "\\n<Captain>This time, we deliberately leaked information about the\nHowling Wolf Stone as bait to lure out phantom thief \"L\".\nAnd he took the bait splendidly."
                             ]
                         },
                         {
@@ -11879,21 +11620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>世界4大金剛石・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクも図鑑で見たことがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当に存在していたとは・・・"
+                                "\\n<Adventurer A>The world's four great diamonds... I've seen them in an\nencyclopedia before. I can't believe they really exist..."
                             ]
                         },
                         {
@@ -11919,7 +11646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>盗まれたら首が飛ぶんじゃ・・・"
+                                "\\n<Adventurer B>If it gets stolen, heads will roll..."
                             ]
                         },
                         {
@@ -11945,14 +11672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>そうですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、それだけ本気だということ。"
+                                "\\n<Captain>Indeed. But that just shows how serious this is."
                             ]
                         },
                         {
@@ -11969,21 +11689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>円鏡の夜。つまりは満月のことですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "月が満ちるにはまだ数日かかります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、物が物ですので今晩から警備に当たってもらいます。"
+                                "\\n<Captain>A night of a full circle mirror refers to a full moon night,\nwhich is still a few days away. However, given the\nimportance of the item, we will start guarding it from\ntonight."
                             ]
                         },
                         {
@@ -12000,21 +11706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>配置についてですが、顔の知れた私兵は館内、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ギルドからの応援は屋外を担当してもらいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと、元兵長も外です。"
+                                "\\n<Captain>Regarding the positions, known private soldiers will be\ninside the mansion, while guild reinforcements will handle\nthe outside. Also, the former captain will be outside as\nwell."
                             ]
                         },
                         {
@@ -12040,14 +11732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元兵長>はい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頑張ります・・・"
+                                "\\n<Former Sergeant>Yes... I'll do my best..."
                             ]
                         },
                         {
@@ -12080,21 +11765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>これは一種の賭けだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "意地と意地のぶつかり合いと言っても良い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼狼石を盗まれたとなれば、私もタダでは済まないだろう。"
+                                "\\n<Count Noblesse>This is a kind of gamble. It could even be called a clash of\nwills. If the Howling Wolf Stone is stolen, I won't get off\nlightly either."
                             ]
                         },
                         {
@@ -12111,21 +11782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>だが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ずキャツを牢屋にぶち込み、然るべき報いを受けさせる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで最後にしよう。"
+                                "\\n<Count Noblesse>But... I will definitely throw Cats into jail and make him\nreceive his due punishment. Let's make this the last time."
                             ]
                         },
                         {
@@ -12182,7 +11839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>・・・"
+                                "\\n<Count Noblesse>..."
                             ]
                         },
                         {
@@ -12231,14 +11888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（伯爵おじさん、様子が前回と違う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何だか妙な胸騒ぎがする・・・）"
+                                "\\n<Rui>(Uncle Count seems different from last time? I have a\nstrange feeling in my chest...)"
                             ]
                         },
                         {
@@ -12265,21 +11915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（伯爵、険しい顔をしているな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "前回ボクが捕まえていれば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "前回・・・）"
+                                "\\n<Rui>(The Count has a stern look on his face. If only I had\ncaught him last time... last time...)"
                             ]
                         },
                         {
@@ -12310,14 +11946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あまり思い出さないようにしよう・・・）"
+                                "\\n<Rui>(Ugh... Let's try not to remember too much...)"
                             ]
                         },
                         {

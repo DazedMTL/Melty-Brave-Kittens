@@ -2833,21 +2833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>であるからして、キャットフィールド家は代々"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我々獣人の地位の向上、維持することを使命とし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間とは対等であり、良き友であり続けることの大切さを・・・"
+                                "\\n<Grandpa>Therefore, the Catfield family has always taken it upon\nthemselves to elevate and maintain the status of our\nbeastkin, to be equal to humans, and to continue being good\nfriends..."
                             ]
                         },
                         {
@@ -2936,7 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>・・・"
+                                "\\n<Rui-Chan>..."
                             ]
                         },
                         {
@@ -2978,7 +2964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>・・・"
+                                "\\n<Wadsworth>..."
                             ]
                         },
                         {
@@ -3073,7 +3059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>坊ちゃま！！お嬢様！！"
+                                "\\n<Grandpa>Young master!! Young lady!!"
                             ]
                         },
                         {
@@ -3124,14 +3110,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>私の話を聞いておられましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が今、何をしているのか、お分かりですかな？"
+                                "\\n<Grandpa>Were you listening to my story? Do you understand what I am\ndoing right now?"
                             ]
                         },
                         {
@@ -3180,21 +3159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>はい。じぃや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名誉ある『キャットフィールド家』の将来を担う"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人としての心構えを説いているところです。"
+                                "\\n<Rui-Chan>Yes, Grandpa. You are explaining the mindset that we, as\nbeastkin who will carry on the honorable Catfield family's\nfuture, should have."
                             ]
                         },
                         {
@@ -3227,21 +3192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>違います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の大切な花瓶を割ったいたずら子猫達に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "説教をしているところです。"
+                                "\\n<Grandpa>No, I am scolding the naughty kittens who broke my precious\nvase."
                             ]
                         },
                         {
@@ -3267,21 +3218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>せめてこっちか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下を向いて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "反省の意思を見せたらどうでしょう？"
+                                "\\n<Grandpa>At least, how about looking down here and showing some\nremorse?"
                             ]
                         },
                         {
@@ -3401,21 +3338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>ごめんなさい。じぃや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許してぇ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お尻尾が当たっちゃったの♥"
+                                "\\n<Wadsworth>I'm sorry, Grandpa. Please forgive me♥ My tail accidentally\nhit it♥"
                             ]
                         },
                         {
@@ -3455,14 +3378,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近、どうも生活態度に問題があるようですね。"
+                                "\\n<Grandpa>Sigh... It seems there have been some problems with your\nbehavior lately."
                             ]
                         },
                         {
@@ -3479,21 +3395,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>今月に入って割った窓は、皿は、壺はいくつでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "引っ掻いた壁紙は、へし折った柱は、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "修繕費にいくら掛かったか、お分かりですか？"
+                                "\\n<Grandpa>How many windows, plates, and pots have you broken this\nmonth? How many wallpapers have you scratched, how many\npillars have you snapped, and do you know how much the\nrepair costs have been?"
                             ]
                         },
                         {
@@ -3535,21 +3437,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>ルイシャムとお稽古をしていただけなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "割ろうと思ったわけじゃないのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じぃや、わざとじゃないの♥分かってくれる？"
+                                "\\n<Wadsworth>I was just practicing with Rui-Sham. I didn't mean to break\nthem. Grandpa, it wasn't on purpose♥ Do you understand?"
                             ]
                         },
                         {
@@ -3582,21 +3470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>訓練中の事故であり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分を高めるという行為の結果。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言わば、この家の跡取りとして自覚を持った故の代償です。"
+                                "\\n<Rui-Chan>It was an accident during training, a result of the act of\nself-improvement. In other words, it's a consequence of\nhaving the awareness of being the heir to this house."
                             ]
                         },
                         {
@@ -3659,21 +3533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お坊ちゃま、お嬢様。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなにチェルシー嬢の事が気になるのですか？"
+                                "\\n<Grandpa>Sigh... Young master, young lady. Are you that concerned\nabout Miss Chelsea?"
                             ]
                         },
                         {
@@ -3750,21 +3610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>父上はお姉ちゃんのこと『出来損ない』って言った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法も出来ない、『一族の恥』だって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、家から追い出したんでしょ？"
+                                "\\n<Wadsworth>Father called sister a \"failure.\" She couldn't do magic, a\n\"disgrace to the family.\" That's why he kicked her out of\nthe house, right?"
                             ]
                         },
                         {
@@ -3804,14 +3650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>チェルシー嬢は自らこの家を出て行ったのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女には、彼女なりの考えがあってのこと。"
+                                "\\n<Grandpa>Miss Chelsea left this house of her own accord. She had her\nown reasons for doing so."
                             ]
                         },
                         {
@@ -3870,21 +3709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>わかるもん！出て行くように仕向けたって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "父上は家を守っていくことしか考えてない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私たちのことだって、跡継ぎとしか思ってない！"
+                                "\\n<Wadsworth>I know! She was pushed to leave! Father only thinks about\nprotecting the house. He doesn't think of us as anything\nmore than heirs!"
                             ]
                         },
                         {
@@ -3927,21 +3752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>そんなことは・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり当主様のことを悪く言わないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴方たちのこと、そして獣人の未来のことも考えて・・・"
+                                "\\n<Grandpa>That's not true...! Please don't speak ill of the head of\nthe family. He is thinking about you and the future of the\nbeastkin..."
                             ]
                         },
                         {
@@ -4034,14 +3845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>お姉ちゃんはあんまり頭良くなかったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょっと暴れん坊なとこもあったけど・・・"
+                                "\\n<Wadsworth>Sister wasn't very smart, and she was a bit of a\ntroublemaker..."
                             ]
                         },
                         {
@@ -4074,21 +3878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>でもね、誰よりも優しいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔法なんかより、勉強なんかより、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そっちの方がずっと難しいよ。"
+                                "\\n<Wadsworth>But you know, she was kinder than anyone else. Being kind is\nmuch harder than magic or studying."
                             ]
                         },
                         {
@@ -4138,21 +3928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>チェルシー嬢がここを去って数か月。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も心配しております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もちろん、当主様も心を痛めております。"
+                                "\\n<Grandpa>It's been several months since Miss Chelsea left. I am\nworried as well. Of course, the head of the family is also\ndistressed."
                             ]
                         },
                         {
@@ -4185,14 +3961,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>しかし、天賦の才を持ち、なおかつ双子である"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "坊ちゃまとお嬢様は特別なのです。"
+                                "\\n<Grandpa>However, as twins with innate talent, you young master and\nyoung lady are special."
                             ]
                         },
                         {
@@ -4209,14 +3978,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>勉強や訓練に身が入らないのは分かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、これでは亡くなられた奥様に顔向けが出来ない・・・"
+                                "\\n<Grandpa>I understand that it's hard to focus on your studies and\ntraining. But if this continues, we won't be able to face\nyour late mother..."
                             ]
                         },
                         {
@@ -4281,14 +4043,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう行こう。ワンズワース。"
+                                "\\n<Rui-Chan>...Let's go already. Wadsworth."
                             ]
                         },
                         {
@@ -4435,14 +4190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>はぁ・・・\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の・・・\\.花瓶・・・"
+                                "\\n<Grandpa>Sigh... My... vase..."
                             ]
                         },
                         {
@@ -4499,14 +4247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じぃや>チェルシー嬢・・・\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体、今どこに・・・"
+                                "\\n<Grandpa>Miss Chelsea... where are you now..."
                             ]
                         },
                         {

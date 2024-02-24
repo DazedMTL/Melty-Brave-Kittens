@@ -9765,14 +9765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "質の悪い油は変な臭いがするけどこの油は臭みがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家のランプもそうだった。"
+                                "Poor quality oil has a strange smell, but this oil is\nodorless. It was the same with the lamp at home."
                             ]
                         },
                         {
@@ -9856,21 +9849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫の獣人は夜目が利くから灯りは無くてもいいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったらあったでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか落ち着く。"
+                                "Beastfolk with cat traits have good night vision, so they\ndon't need light, but having it is still nice. It's somehow\ncalming."
                             ]
                         },
                         {
@@ -10735,14 +10714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>もう、ここの窓直すのやめなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ毎回ぶち破られるんだからさ！"
+                                "\\n<Thief>Come on, stop fixing this window already! It's gonna get\nsmashed again anyway!"
                             ]
                         },
                         {
@@ -10923,7 +10895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>まてぇ～い！！！"
+                                "\\n<Captain>Wait up~~~!!!"
                             ]
                         },
                         {
@@ -11045,7 +11017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ン\"ン\"ン\"ン\"ン\"ン\"！！！"
+                                "\\n<Captain>Nnnngh! Nnnngh! Nnnngh!"
                             ]
                         },
                         {
@@ -11208,7 +11180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ン\"ン\"ン\"ン\"ン\"ン\"！！！"
+                                "\\n<Captain>Nnnngh! Nnnngh! Nnnngh!"
                             ]
                         },
                         {
@@ -11232,7 +11204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>あ、ごめん！"
+                                "\\n<Rui>Oh, sorry!"
                             ]
                         },
                         {
@@ -11402,7 +11374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ン\"ン\"ン\"ン\"ン\"ン\"！！！"
+                                "\\n<Captain>Nnnngh! Nnnngh! Nnnngh!"
                             ]
                         },
                         {
@@ -11444,7 +11416,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あ、ごめん！"
+                                "\\n<Rui>Ah, sorry!"
                             ]
                         },
                         {
@@ -11487,7 +11459,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>あ、ごめん！"
+                                "\\n<Ones>Ah, sorry!"
                             ]
                         },
                         {
@@ -11530,14 +11502,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>お、おのれら毎回毎回・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい加減にしろ！！"
+                                "\\n<Captain>You lot, every single time...! Cut it out already!!"
                             ]
                         },
                         {
@@ -11570,21 +11535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>えー？だっていいじゃん！アイツ捕まったんだし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとり占めせず、富は分配しないと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃ、そゆことで～♪ちゃお！"
+                                "\\n<Thief>Eh-? But it's fine, isn't it? They've been caught! We can't\njust hog it all to ourselves, we have to share the wealth!\nWell, that's that~♪ Ciao!"
                             ]
                         },
                         {
@@ -12025,21 +11976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>くっくっくっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回は強力な助っ人を用意しているのだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お願いします！先生！"
+                                "\\n<Captain>Heh heh heh...! This time I've prepared a powerful ally!\nPlease, I beg of you! Sensei!"
                             ]
                         },
                         {
@@ -12081,14 +12018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>おや、また猫の獣人か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く、誰かさんの時を思い出すな。"
+                                "\\n<Moo>Oh my, another cat beastman. Really reminds me of someone\nelse's time."
                             ]
                         },
                         {
@@ -12139,7 +12069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<勇者シオン>くくく♥"
+                                "\\n<Hero Shion>Hehehe♥"
                             ]
                         },
                         {
@@ -12182,7 +12112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<勇者シオン>確かに。"
+                                "\\n<Hero Shion>Indeed."
                             ]
                         },
                         {
@@ -12234,7 +12164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルナ>獣人ってまともなやついないの？"
+                                "\\n<Luna>Are there any decent beastmen at all?"
                             ]
                         },
                         {
@@ -12283,7 +12213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>ルイシャム！？ワンズワース！？"
+                                "\\n<Chelsea>Rui-sham!? Ones-worth!?"
                             ]
                         },
                         {
@@ -12332,7 +12262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>お姉ちゃん！？"
+                                "\\n<Rui>Big sis!?"
                             ]
                         },
                         {
@@ -12375,7 +12305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>おねーちゃん！？"
+                                "\\n<Ones>Big sis!?"
                             ]
                         },
                         {
@@ -12427,21 +12357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>はぁ！？マジで！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ていうか、ドラゴンと大剣・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者ぁ！？"
+                                "\\n<Thief>Hah!? Seriously!? I mean, dragons and greatswords...!?\nHero!?"
                             ]
                         },
                         {
@@ -12495,14 +12411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>おい、キョウダイだって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうする？"
+                                "\\n<Moo>Hey, they're siblings after all. What will you do?"
                             ]
                         },
                         {
@@ -12553,7 +12462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<勇者シオン>・・・"
+                                "\\n<Hero Shion>..."
                             ]
                         },
                         {
@@ -12596,7 +12505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<勇者シオン>・・・"
+                                "\\n<Hero Shion>..."
                             ]
                         },
                         {
@@ -12648,7 +12557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルナ>アホしかおらんのかキャットフィールド家は。"
+                                "\\n<Luna>Are all the Catfield family idiots?"
                             ]
                         },
                         {
@@ -12690,21 +12599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>おいこら！チビども！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたしがいない間にずいぶんと不良になって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪い事しちゃダメだよ！"
+                                "\\n<Chelsea>Hey you brats! You've turned into quite the delinquents\nwhile I was away! You mustn't do bad things!"
                             ]
                         },
                         {
@@ -12728,7 +12623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>いや、これには色々と事情が・・・"
+                                "\\n<Rui>No, there's a lot of circumstances to this..."
                             ]
                         },
                         {
@@ -12770,21 +12665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>どろぼーの事情なんて知らないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "名誉あるキャットフィールド家の名を汚す行為！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おてんとうさまも許さないし、わたしも許さない！"
+                                "\\n<Chelsea>I don't care about a thief's circumstances. It's an act that\ntarnishes the honorable name of the Catfield family! Neither\nthe sun god nor I will forgive this!"
                             ]
                         },
                         {
@@ -12826,7 +12707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムー>一番汚したのはぬしぞ。"
+                                "\\n<Moo>The one who tarnished it the most is you."
                             ]
                         },
                         {
@@ -12868,7 +12749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルナ>ルナもう帰って寝ます。"
+                                "\\n<Luna>Luna is going back to sleep."
                             ]
                         },
                         {
@@ -13072,21 +12953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>さて、久々の再会を記念して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねーちゃんが根性叩き直してやる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かかってこい！"
+                                "\\n<Chelsea>Now then, to commemorate our long-awaited reunion, big sis\nis going to straighten out your guts! Bring it on!"
                             ]
                         },
                         {
@@ -13122,7 +12989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>\\C[14]\\{『ちからくらべ』だッ！"
+                                "\\C[14]\\n<Chelsea>It's a \"test of strength\"!"
                             ]
                         },
                         {
@@ -13170,14 +13037,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>あっ！こら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げるなひきょうものぉ！！！逃げるなァ！！！"
+                                "\\n<Chelsea>Ah! Hey! Don't run away, you coward!!! Don't run awayyy!!!"
                             ]
                         },
                         {
@@ -13215,14 +13075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>やってられるか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui！ルイ！行くよ！"
+                                "\\n<Thief>Like hell I can deal with this!! Rui! Let's go!"
                             ]
                         },
                         {
@@ -13249,14 +13102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>やってられるか！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui！ワンズ！行くよ！"
+                                "\\n<Thief>Like hell I can deal with this!! Rui! Ones! Let's go!"
                             ]
                         },
                         {
@@ -13290,14 +13136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                ""
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "　　　　　　\\C[14]ED2　『怪盗キトゥンズ』"
+                                "\\C[14]ED2 \"Phantom Thieves Kittens\""
                             ]
                         },
                         {
@@ -13381,14 +13220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアのデザインひとつでドリーネとの違いが分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凝った意匠は豊さがあってこそ生まれる。"
+                                "The difference between this place and Dreamy can be told\njust by the design of the door. Elaborate designs are born\nfrom richness."
                             ]
                         },
                         {
@@ -13467,14 +13299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓から空のケースが見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝になったら美味しい焼きたてのパンが並ぶのだろう。"
+                                "Through the window, I can see the empty cases. I bet they'll\nbe lined with delicious freshly baked bread in the morning."
                             ]
                         },
                         {
@@ -13551,21 +13376,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人が多いと警備の手間が増えるとかで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の酒場は臨時休業のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪盗が与える影響の大きさが分かる。"
+                                "It seems the tavern is temporarily closed today because\nhaving too many people increases the security hassle. You\ncan tell the extent of the impact that the phantom thief\nhas."
                             ]
                         },
                         {
@@ -13633,14 +13444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "灯りを消した酒場に複数人が息をひそめている気配がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼狼石を狙っているのは怪盗だけでは無いのかもしれない。"
+                                "In the tavern with the lights out, there seems to be a\npresence of several people holding their breath. It might\nnot only be the phantom thief who's after the Howling Stone."
                             ]
                         },
                         {
@@ -13719,21 +13523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上流階級御用達！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふわふわモチモチの高級食パン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手土産にもぴったり！"
+                                "Favored by the upper class! Fluffy and chewy premium bread!\nPerfect for a gift!"
                             ]
                         },
                         {
@@ -13766,7 +13556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>じいやの焼いたパンケーキが食べたい・・・"
+                                "\\n<Rui>I want to eat the pancakes that Jiiya baked..."
                             ]
                         },
                         {
@@ -13800,14 +13590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（高級食パンブームはもう終わりそうだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫か？）"
+                                "\\n<Rui>(Is it okay though? The premium bread boom seems to be\nending...)"
                             ]
                         },
                         {
@@ -14047,14 +13830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見張り>こっちは異常なし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんはしっかり門の警備をしてくれよー！"
+                                "\\n<Lookout>All clear on this side! Make sure you guard the gate\nproperly!"
                             ]
                         },
                         {

@@ -10029,21 +10029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は、梯子登って逃げる元気すらねーわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ははは！"
+                                "\\n<Dodon>Haah... haah... I don't even have the energy to climb a\nladder and escape. Hahaha!"
                             ]
                         },
                         {
@@ -10069,21 +10055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラクラ>う、魔力切れ・・・か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまでみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わりぃ！俺死んだ。"
+                                "\\n<Rakura>Ugh, out of magical power... Looks like this is it for me.\nSorry! I'm dead."
                             ]
                         },
                         {
@@ -10109,21 +10081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アニー>あ、あたしももうダメだ。力が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかアンタらとここで心中とはね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、割と楽しかったよドドン。ラクラ。"
+                                "\\n<Annie>Ah, I can't go on either. I'm out of strength... To think\nI'd end up dying here with you guys. Well, it was pretty\nfun, Dodon. Rakura."
                             ]
                         },
                         {
@@ -10195,14 +10153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<プリム>ん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか禍々しい気配しませんか？"
+                                "\\n<Prim>Hmm...? Do you feel a sinister presence?"
                             ]
                         },
                         {
@@ -10228,7 +10179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<プラム>テラ様でしょ。"
+                                "\\n<Plum>It must be Lady Terra."
                             ]
                         },
                         {
@@ -10277,14 +10228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>Rui・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？ひょっとしてそれ・・・"
+                                "\\n<Terra>Rui...! Huh? Could that be..."
                             ]
                         },
                         {
@@ -10437,21 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>なーんだ！最初っからアナタが持っていたのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界を張って魔力を封じ込めていたとは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はー、木っ端みじんになったのかと思って心配した。"
+                                "\\n<Terra>What! So you had it from the start. To think you were\ncasting a barrier and sealing away the magical power. Haah,\nI was worried you were blown to smithereens."
                             ]
                         },
                         {
@@ -10544,7 +10474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>それじゃ、とりあえず残りの住民を皆殺しに・・・"
+                                "\\n<Terra>Well then, let's go ahead and massacre the rest of the\nvillagers..."
                             ]
                         },
                         {
@@ -11681,21 +11611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アニー>Rui！町が大変なんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦えるヤツは以外は避難させた！でも居住区にも魔物が・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちくしょう！なんだってんだ急に！！"
+                                "\\n<Annie>Rui! The town's in chaos! We've evacuated everyone who can't\nfight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -11835,7 +11751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -11953,14 +11869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラクラ>ちっ！これでもくらえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雷槍！"
+                                "\\n<Rakura>Tch! Take this! Lightning Spear!"
                             ]
                         },
                         {
@@ -12012,14 +11921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラクラ>なんで死んでねーんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "化け物が・・・！"
+                                "\\n<Rakura>Why won't you die already! You monster...!"
                             ]
                         },
                         {
@@ -12132,7 +12034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -12257,14 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>クソッ！何なんだ急に！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい！Rui！襲撃だ！魔物を殺せ！！"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey! Rui!\nIt's an attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -12290,21 +12185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ドドン>あぁ！？ルイ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見てねぇよ！アイツもどっかで戦ってんじゃねーのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前も町を守れ！"
+                                "\\n<Dodon>Ahh!? Rui!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -12331,21 +12212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ドドン>あぁ！？ワンズ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見てねぇよ！アイツもどっかで戦ってんじゃねーのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前も町を守れ！"
+                                "\\n<Dodon>Ahh!? Ones!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -12495,7 +12362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -12613,7 +12480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない。既に事切れているようだ。"
+                                "There's no response. It seems they've already passed away."
                             ]
                         },
                         {
@@ -13275,7 +13142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13415,7 +13282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13555,7 +13422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13695,7 +13562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13835,7 +13702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13975,7 +13842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -14278,7 +14145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -14967,7 +14834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -15107,7 +14974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15247,7 +15114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15387,7 +15254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15690,7 +15557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15830,7 +15697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15970,7 +15837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -16599,7 +16466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -16739,7 +16606,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -16879,7 +16746,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -17019,7 +16886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -17159,7 +17026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -17299,7 +17166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -17439,7 +17306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -17579,7 +17446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -17719,7 +17586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -17859,7 +17726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -18088,7 +17955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない。既に事切れているようだ。"
+                                "There's no response. It seems they've already passed away."
                             ]
                         },
                         {
@@ -18179,7 +18046,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない。既に事切れているようだ。"
+                                "There's no response. It seems they've already passed away."
                             ]
                         },
                         {
@@ -18292,7 +18159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -18432,7 +18299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -18572,7 +18439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -18712,7 +18579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -18852,7 +18719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -18992,7 +18859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -19132,7 +18999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -19272,7 +19139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -19412,7 +19279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {

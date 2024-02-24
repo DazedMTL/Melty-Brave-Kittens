@@ -9653,21 +9653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>はいはーい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "掘ったらちゃんと埋める！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誰か落ちて怪我しちゃいけないでしょー？"
+                                "\\n<Radro>Yes, yes! If you dig a hole, make sure to fill it back in!\nWe can't have someone falling in and getting hurt, right?"
                             ]
                         },
                         {
@@ -9721,14 +9707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>アベンタスは最近来た子でね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まだ心の傷が癒えてないみたいなの。"
+                                "\\n<Radro>Aventus is a child who recently arrived, and it seems like\ntheir emotional wounds haven't healed yet."
                             ]
                         },
                         {
@@ -9761,21 +9740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>親に捨てられた子供の気持ち・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私もかつてはそうだったけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうやったら救ってあげられるだろう。"
+                                "\\n<Radro>The feelings of a child abandoned by their parents... I've\nbeen there before, but I wonder how I can save them."
                             ]
                         },
                         {
@@ -9829,21 +9794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>こんなところで孤児院経営なんて変わってるって思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなところだから必要なんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ruiには、まだ難しい話かな？"
+                                "\\n<Radro>Do you think it's strange to run an orphanage in a place\nlike this? It's precisely because it's here that it's\nneeded. Maybe it's still a difficult topic for Rui?"
                             ]
                         },
                         {
@@ -9897,21 +9848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>大変なこと、いっぱいあるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この子たちの元気な姿見てたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全部どうでも良くなっちゃう。"
+                                "\\n<Radro>There are so many tough things to deal with, but when I see\nthe children's energetic faces, all those troubles seem to\nfade away."
                             ]
                         },
                         {
@@ -9944,14 +9881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>疲れてる場合じゃないっていうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分にしか出来ないことがあるって、幸せなんだなって思う。"
+                                "\\n<Radro>It's not the time to be tired. Having something that only I\ncan do makes me feel happy."
                             ]
                         },
                         {
@@ -10005,14 +9935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>この町、ドリーネは『ゴミ捨て場』なんて言われてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "上に住んでる人が、要らなくなった物を捨てるの。"
+                                "\\n<Radro>This town, Dri-Ne, is called a \"dumping ground.\" People\nliving above throw away things they no longer need."
                             ]
                         },
                         {
@@ -10045,21 +9968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>彼らには、私達なんて『零したアイスに群がる蟻』としか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "思われて無いのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "実際、使えるものが落ちて来るのを待ってることもあるし。"
+                                "\\n<Radro>To them, we might just be \"ants swarming around spilled ice\ncream.\" In reality, we sometimes wait for usable things to\nfall down."
                             ]
                         },
                         {
@@ -10113,21 +10022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>この子たちはどんな大人になるんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "治安も悪いし、汚いし、まともな教育も受けさせてあげられないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもね、期待してるんだ。"
+                                "\\n<Radro>I wonder what kind of adults these children will become. The\npublic order is bad, it's dirty, and I can't provide them\nwith a proper education, but still, I have hope."
                             ]
                         },
                         {
@@ -10160,21 +10055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>私は『ママ』から沢山優しさを教えてもらったから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから、この子たちにも、こんな場所でも、どれだけ汚れても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それだけは伝えていこうと思ってる。"
+                                "\\n<Radro>I was taught a lot of kindness by \"Mama.\" So, even in a\nplace like this, no matter how dirty it gets, I want to pass\nthat on to these children."
                             ]
                         },
                         {
@@ -10228,21 +10109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>ねぇねぇ、猫の獣人って可愛いよね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いいなぁ。私もそういう耳が良かったなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "尻尾もいいなぁ。触っていい？"
+                                "\\n<Radro>Hey hey, cat beastfolk are cute, aren't they♥ I wish I had\nears like that. And a tail would be nice too. Can I touch\nit?"
                             ]
                         },
                         {
@@ -10296,21 +10163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>あんまりツッコんでほしくないなら突き詰めないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "キミって名門の家の出だよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当にこんなところにいていいの？"
+                                "\\n<Radro>I won't pry if you don't want me to, but you come from a\nprestigious family, right? Are you really okay with being in\na place like this?"
                             ]
                         },
                         {
@@ -10343,21 +10196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>帰れるところがあるなら、ちゃんと帰った方がいいよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、色々と事情もあるだろうから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これ以上は何も言わないけど。"
+                                "\\n<Radro>If you have a place to return to, you should go back\nproperly, you know? Well, I'm sure there are various\ncircumstances so I won't say anything more."
                             ]
                         },
                         {
@@ -10411,21 +10250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>この前さ、上から振って来たゴミが子供に当たりそうになって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私もうプッツーンってきちゃってさ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "文句言いに行ったわけ！上に！"
+                                "\\n<Radro>The other day, trash falling from above almost hit a child\nand I just snapped! I went up there to complain!"
                             ]
                         },
                         {
@@ -10458,21 +10283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>そしたら本気で謝られてお金まで渡されてさ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "凄く良い人で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんか、怒るに怒れなくなっちゃった。"
+                                "\\n<Radro>Then I was sincerely apologized to and even given money...\nThey were really nice people, and somehow, I couldn't stay\nmad at them."
                             ]
                         },
                         {
@@ -10505,14 +10316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>住んでる場所で差別してたのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ひょっとしたら私の方だったのかもしれないなぁって。"
+                                "\\n<Radro>Maybe the one discriminating based on where we live was me\nafter all."
                             ]
                         },
                         {
@@ -10566,21 +10370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>飲んだくれとか犯罪者も多い治安の悪い町だけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "孤児院に関してはみんな優しいんだよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "先代の『ママ』が凄くいい人だったから。"
+                                "\\n<Radro>This town has a lot of drunks and criminals and the public\norder is terrible, but when it comes to the orphanage,\neveryone is kind. It's because the previous \"Mama\" was such\na wonderful person."
                             ]
                         },
                         {
@@ -10613,21 +10403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>ママも結構飲んだくれだったけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "結局、肝臓悪くして死んじゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでも、意志は私が継ぐから。"
+                                "\\n<Radro>Mama was quite the drinker too. In the end, she died from\nliver problems. But still, I will carry on her will."
                             ]
                         },
                         {
@@ -10728,21 +10504,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<サミュエル>ほじほじほじ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここ穴掘ったらすげーキモい虫出てくるんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出てきたらお前にも見せてやるよ。"
+                                "\\n<Samuel>Dig dig dig... If I dig a hole here, some really gross bugs\ncome out. I'll show them to you when they do."
                             ]
                         },
                         {
@@ -10833,21 +10595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コンスタンス>ラドロママはね、料理が上手なの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残さずに食べたらいっぱい褒めてくれるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "残したくても残せないの！美味しいから！"
+                                "\\n<Constance>Radlo-mama is really good at cooking! She praises me a lot\nif I finish my meal, but I can't leave any leftovers even if\nI wanted to! Because it's so delicious!"
                             ]
                         },
                         {
@@ -10864,21 +10612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<コンスタンス>でもね、そしたらサミュエルが「太るぞ」って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バカにしてくるから、いっつも喧嘩になる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は喧嘩なんかしたくないのに！"
+                                "\\n<Constance>But then, Samuel would mock me saying, \"You'll get fat,\" and\nthat always leads to a fight. I don't want to fight at all!"
                             ]
                         },
                         {
@@ -10969,7 +10703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アベンタス>・・・"
+                                "\\n<Aventus>..."
                             ]
                         },
                         {
@@ -11352,14 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構走ったね・・・"
+                                "\\n<Rui-chan>*pant*...*pant*... We sure ran a lot..."
                             ]
                         },
                         {
@@ -11392,21 +11119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>ルイシャム・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息切れてるじゃん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
+                                "\\n<Wadsworth>Rui-chan... You're out of breath... *pant*...*pant*..."
                             ]
                         },
                         {
@@ -11439,21 +11152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そ、そっちだって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぅ・・・"
+                                "\\n<Rui-chan>*pant*...*pant*... So, so are you... *sigh*..."
                             ]
                         },
                         {
@@ -11486,21 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>じゃ、引き分けって・・・ことで・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・ふぅー・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで離れれば、しばらくは大丈夫かな？"
+                                "\\n<Wadsworth>So, it's a tie... then...! *pant*...*sigh*... We should be\nsafe for a while if we've come this far, right?"
                             ]
                         },
                         {
@@ -11533,14 +11218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>あぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それにしても・・・・"
+                                "\\n<Rui-chan>Ahh... Even so..."
                             ]
                         },
                         {
@@ -11573,7 +11251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -11599,7 +11277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -11625,7 +11303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -11651,7 +11329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -11677,7 +11355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -11735,21 +11413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>き・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまり綺麗な町じゃないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（ちょっと変な臭いする・・・）"
+                                "\\n<Wadsworth>Ew... This town isn't very pretty, is it. (It smells a bit\nweird...)"
                             ]
                         },
                         {
@@ -11782,14 +11446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>うーん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者ギルドと宿屋はあるみたいだ。"
+                                "\\n<Rui-chan>Mmm... It looks like there's an adventurers' guild and an\ninn."
                             ]
                         },
                         {
@@ -11822,14 +11479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>隠れるには、いい感じの町かも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くちゃいけど。"
+                                "\\n<Wadsworth>It might be a good town to hide in. It stinks though."
                             ]
                         },
                         {
@@ -11862,7 +11512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>とりあえず、やるだけやってみよっか。"
+                                "\\n<Rui-chan>For now, let's just do what we can."
                             ]
                         },
                         {

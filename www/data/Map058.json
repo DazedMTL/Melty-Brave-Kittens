@@ -13021,21 +13021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>ルマーレって広いね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町を出るまでに凄く迷っちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外に出て、そっから森まで来てからお仕事始まるのに。"
+                                "\\n<Ones>Rumahle is so vast. I got terribly lost just trying to get\nout of town. And to think, my work only starts after I get\nout and make it to the forest."
                             ]
                         },
                         {
@@ -13068,14 +13054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>Rui♥帰りは一緒に帰ろ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね♥"
+                                "\\n<Ones>Rui♥ Let's go home together on the way back♥ Okay♥"
                             ]
                         },
                         {
@@ -13083,8 +13062,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいよ",
-                                    "でも噂とかされると恥ずかしいし"
+                                    "Sure",
+                                    "But it would be embarrassing if rumors started to spread"
                                 ],
                                 1,
                                 0,
@@ -13130,14 +13109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>手も繋ご♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（あーよかった。絶対迷子になるとこだった。）"
+                                "\\n<Ones>Let's hold hands too♥ (Ah, that's a relief. I was definitely\nabout to get lost.)"
                             ]
                         },
                         {
@@ -13183,21 +13155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>何ソレ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ていうか、よく考えたら双子で貴族街歩くのはちょっと目立つね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "家にバレちゃうかも。道覚えるしかないかぁ。"
+                                "\\n<Ones>What's that? But come to think of it, walking through the\nnoble district as twins might be a bit conspicuous. We might\nget found out by our family. Guess I have no choice but to\nmemorize the way."
                             ]
                         },
                         {
@@ -13305,21 +13263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ルマーレの守衛は森の方までは来ないんだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の周辺の魔物は駆除してるみたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまで来ると管轄外なのか。"
+                                "\\n<Rui>The guards of Rumare don't come as far as the forest, huh.\nIt seems like they exterminate the monsters around the town,\nbut beyond here must be out of their jurisdiction."
                             ]
                         },
                         {
@@ -13352,21 +13296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>町を脅かすほどじゃないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれ危険になるかもしれない場所の魔物退治。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがボクたち冒険者の管轄って感じだね。"
+                                "\\n<Rui>It's not threatening the town yet, but it might become\ndangerous eventually. Taking care of monsters in such places\nfeels like it's within our adventurers' purview, doesn't it?"
                             ]
                         },
                         {
@@ -13390,7 +13320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>まじめく～ん。"
+                                "\\n<Rui>Mr. Serious~"
                             ]
                         },
                         {
@@ -13423,21 +13353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>だって冒険者。いい響きじゃないか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ロマンを感じる。女の子には分からないかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ♥"
+                                "\\n<Rui>But I mean, adventurer. It has a nice ring to it, doesn't\nit? It feels romantic. Maybe girls don't understand? Fufufu♥"
                             ]
                         },
                         {
@@ -14138,21 +14054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>森の出口わかんなくなっちゃった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiが来てくれて良かった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐすん。"
+                                "\\n<Ones>I got lost at the forest exit... I'm glad Rui came...\n*sniffle*."
                             ]
                         },
                         {
@@ -14160,8 +14062,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もう帰ろっか",
-                                    "出口はあっちの方だよ"
+                                    "Shall we head back?",
+                                    "The exit is in that direction."
                                 ],
                                 1,
                                 0,
@@ -14207,14 +14109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>やだ。まだがんばる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だってお小遣い貯めてルマーレショコラ食べるもん。"
+                                "\\n<Ones>No way. I'll keep trying. After all, I'm saving up my\nallowance to eat some Luma-Ré Chocolat."
                             ]
                         },
                         {
@@ -14260,21 +14155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>ん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あぁ、ホントだ。なるほど、あの木は見た記憶がある！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふむふむ。覚えた。"
+                                "\\n<Ones>Hm...? Ah, that's right. I see, I remember seeing that tree!\nHmm hmm. Got it memorized."
                             ]
                         },
                         {
@@ -14298,14 +14179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>森で木を目印にしちゃダメだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "爪でも研いでおけばいいんじゃない？"
+                                "\\n<Rui>You shouldn't use trees as landmarks in the forest. Maybe\nyou should sharpen your claws instead?"
                             ]
                         },
                         {
@@ -14413,21 +14287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>うぁっ！ヤバい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お、お腹がゴロゴロいってきた・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あいててて・・・"
+                                "\\n<Rui>Ugh! This is bad... My, my stomach is starting to rumble...!\nOuch ouch ouch..."
                             ]
                         },
                         {
@@ -14451,7 +14311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>なんか変なものでも食べた？"
+                                "\\n<Rui>Did I eat something weird?"
                             ]
                         },
                         {
@@ -14484,21 +14344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>宿のばーさんがクッキーくれたんだよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マズくてすぐ吐き出したけど絶対毒かなんか入ってた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのクソばばあ！やりやがったな！"
+                                "\\n<Rui>The innkeeper gave me a cookie... It tasted awful and I spat\nit out immediately, but it must have been poisoned or\nsomething... That damn hag! She did it on purpose!"
                             ]
                         },
                         {
@@ -14522,21 +14368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ばばあ料理下手とかの次元じゃないからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "劇物製造機だよ知ってたでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく食べたね逆に。"
+                                "\\n<Rui>It's not just that the old lady's cooking is bad. She's a\nveritable poison factory, you know. I can't believe I even\ntried it."
                             ]
                         },
                         {
@@ -14576,21 +14408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>孫が焼いたって言ったんだよぉぉぉ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛いラッピングまでしやがってぇぇぇ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁぁぁぁ！！もうちょっとゴメン！森に栄養やってくる！"
+                                "\\n<Rui>She said her grandchild baked them, ahhhh!! And they were\nwrapped so cutely tooooo!! Ahhhhh!! Sorry, I need a moment!\nI'm going to fertilize the forest!"
                             ]
                         },
                         {
@@ -14614,7 +14432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>草も枯れるよ。"
+                                "\\n<Rui>Even the grass will wither."
                             ]
                         },
                         {
@@ -14839,14 +14657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>やぁRui。森の掃除任務かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は生態系の調査に来たんだ。"
+                                "\\n<Lintei>Hey Rui. Are you on forest cleaning duty? I've come to\nsurvey the ecosystem."
                             ]
                         },
                         {
@@ -14863,21 +14674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>魔物は人間を優先して襲ってくるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間だけを食べて生きているわけじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "植物や、鹿やウサギだって食料にしている。"
+                                "\\n<Lintei>Monsters prioritize attacking humans, but they don't live\nsolely on human flesh. They also feed on plants, deer, and\nrabbits."
                             ]
                         },
                         {
@@ -14894,21 +14691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>周辺にどんな動植物がいるか、というのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物の繁殖のメカニズムを解明するうえで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても重要なことになってくるのさ。"
+                                "\\n<Lintei>Understanding what kind of flora and fauna are in the\nvicinity is very important for unraveling the breeding\nmechanisms of monsters."
                             ]
                         },
                         {
@@ -15050,21 +14833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>貴族街からの依頼を受けた時は"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上等なお酒を買って帰るようにしているよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分で嗜むのもいいんだけど、仲間のためだね。"
+                                "\\n<Lintei>Whenever I take on a request from the nobles' district, I\nmake sure to buy some fine liquor to bring back. It's nice\nto enjoy it myself, but it's really for the sake of my\ncompanions."
                             ]
                         },
                         {
@@ -15081,21 +14850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>みんなが飲んでいる安いアルコールは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり身体に良い成分が含まれているとは言えないからさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体を壊して倒れるのは、冒険者としてちょっとね。"
+                                "\\n<Lintei>The cheap alcohol everyone drinks doesn't exactly contain\nhealthy ingredients, you know. Collapsing from ruining your\nhealth is not exactly becoming of an adventurer."
                             ]
                         },
                         {
@@ -15460,7 +15215,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰還しますか？"
+                                "Will you return?"
                             ]
                         },
                         {
@@ -15468,8 +15223,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,

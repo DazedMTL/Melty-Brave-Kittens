@@ -5028,14 +5028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>忘れ物はないな。ワンズワース。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらく家には帰ってこれないぞ。"
+                                "\\n<Rui-chan>\"I haven't forgotten anything. Wadsworth, we won't be able\nto return home for a while.\""
                             ]
                         },
                         {
@@ -5068,21 +5061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>うん。大丈夫。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行こう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バレないうちに。"
+                                "\\n<Wadsworth>\"Yeah, it's all good. Let's go before we get caught.\""
                             ]
                         },
                         {
@@ -5875,21 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>なるべく遠くへ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクらの名前が知られてない町がいいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人が珍しい地域の方がいいね。"
+                                "\\n<Rui-chan>\"We should head as far away as possible. It would be best to\nfind a town where our names aren't known. A region where\nbeastfolk are rare would be ideal.\""
                             ]
                         },
                         {
@@ -5918,21 +5883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>そして冒険者ギルドにいこう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうすれば、お姉ちゃんの話もきっと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耳に入ってくるはず！"
+                                "\\n<Wadsworth>\"Then let's head to the Adventurers' Guild! That way, we're\nsure to hear news about my sister!\""
                             ]
                         },
                         {
@@ -5961,14 +5912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>父上はカンカンになるだろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どんな顔するか見てみたい！"
+                                "\\n<Rui-chan>\"Father is going to be furious. I'd love to see the look on\nhis face!\""
                             ]
                         },
                         {
@@ -5997,21 +5941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、じぃやは大丈夫かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じぃやが怒られたら、私やだな。"
+                                "\\n<Wadsworth>\"Yeah. But, I wonder if grandpa will be okay? I wouldn't\nlike it if he got scolded because of us.\""
                             ]
                         },
                         {
@@ -6040,7 +5970,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>新しい花瓶を買って帰ろう。"
+                                "\\n<Rui-chan>\"Let's buy a new vase on our way back.\""
                             ]
                         },
                         {
@@ -6078,7 +6008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {

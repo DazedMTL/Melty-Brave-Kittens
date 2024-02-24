@@ -12919,7 +12919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰還しますか？"
+                                "Will you return?"
                             ]
                         },
                         {
@@ -12927,8 +12927,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -14114,21 +14114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>おう。お前もゴミ掃除か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっから湧いて出てくんだろうなコイツら魔物は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構、空洞とかあってどっかと繋がってんのかね。"
+                                "\\n<Dodon>Oh, you're on trash duty too, huh? I wonder where all these\nmonsters keep popping up from. There are quite a few caverns\naround; maybe they're connected to somewhere else."
                             ]
                         },
                         {
@@ -14145,21 +14131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>地盤沈下したぐらいだもんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、地盤の調査もしてるし"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にこれ以上ルマーレが崩落することは無いと思うが。"
+                                "\\n<Dodon>The ground's sunk that much, after all. Well, we're\nsurveying the ground too, so I doubt Lumare will collapse\nany further than this."
                             ]
                         },
                         {
@@ -14301,21 +14273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>おう。Ruiか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地下水洞からスラミーが流れてきたぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなとこから来てんのか気持ちわりぃ生き物だぜ。"
+                                "\\n<Dodon>Oh, it's Rui. Slimeys have been flowing in from the\nunderground water cavern. Creatures coming from such a place\ngive me the creeps."
                             ]
                         },
                         {
@@ -14457,21 +14415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アニー>お♥Ruiじゃーん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっすー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "元気ぃ？"
+                                "\\n<Annie>Oh♥ Rui-chan♥ Hey there! How are you?"
                             ]
                         },
                         {
@@ -14488,14 +14432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アニー>なんか変なもん拾ったからやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あたしこういうの使えねーから。"
+                                "\\n<Annie>I picked up something weird, so I'll give it to you. I can't\nuse this kind of stuff."
                             ]
                         },
                         {
@@ -14614,21 +14551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アニー>やっぱ鈍器っしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "オークの頭蓋骨粉砕するのマジ楽しい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiもそう思うよな！"
+                                "\\n<Annie>Blunt weapons are the best! Smashing an orc's skull is just\nso satisfying! You think so too, right Rui?"
                             ]
                         },
                         {
@@ -14643,8 +14566,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "たぶんそう",
-                                    "部分的にそう"
+                                    "Maybe so",
+                                    "Partially so"
                                 ],
                                 1,
                                 0,
@@ -14681,21 +14604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アニー>魔法使いのイメージあるけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "割と何でもイケる口か！いいねぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早くオーク潰して帰って飲もうぜ！"
+                                "\\n<Annie>You've got the image of a mage, but you're pretty versatile,\nhuh! Nice! Let's crush those orcs quickly and go back for\nsome drinks!"
                             ]
                         },
                         {
@@ -14732,21 +14641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<アニー>部分的ってどういうこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "粉砕する部位によって気持ちよさが違うってことか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まじ分かってんなぁ♥"
+                                "\\n<Annie>What do you mean by 'partial'? Does it mean that the\npleasure varies depending on the part you smash? You really\nget it♥"
                             ]
                         },
                         {
@@ -14872,21 +14767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>あっ！依頼被った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の方が多くのオークを倒すんだからね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん？多くのオーク・・・？"
+                                "\\n<Ones>Ah! I've accepted the quest! I'm going to defeat more orcs\nthan you! Huh? More orcs...?"
                             ]
                         },
                         {
@@ -14926,21 +14807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>ドッ！あははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多くのオークだってぇ♥あはははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおくが♥おおく♥うへへへへへへ♥"
+                                "\\n<Ones>Thump! Ahahaha! So many orcs♥ Ahahahaha! So many♥ So many♥\nUhehehehehe♥"
                             ]
                         },
                         {
@@ -14973,7 +14840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>よく考えたらそんなに面白くなかった。"
+                                "\\n<Ones>Upon further thought, it wasn't that funny."
                             ]
                         },
                         {
@@ -15080,21 +14947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>Ruiならこんなところで怪我したりとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しないと思うけど、油断せずに頑張ろうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、今日帰ったら何食べよっか？"
+                                "\\n<Rui>I don't think Rui would get hurt in a place like this, but\nlet's stay alert and do our best. By the way, what should we\neat when we get home today?"
                             ]
                         },
                         {
@@ -15118,14 +14971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ルイ油断してる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事中に食べ物のこと考えてる。"
+                                "\\n<Rui>Rui is being careless. Thinking about food during work."
                             ]
                         },
                         {
@@ -15158,14 +15004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>これは余裕というものさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところでスラミーって食べれるのかな？"
+                                "\\n<Rui>This is what you call being at ease. By the way, I wonder if\nwe can eat salami?"
                             ]
                         },
                         {
@@ -15332,21 +15171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>いち、にー、さん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？何匹倒したっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分からなくなっちゃった。"
+                                "\\n<Ones>One, two-, three... Huh? How many did I defeat? I've lost\ncount."
                             ]
                         },
                         {
@@ -15379,14 +15204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>ちょっと多めに申告してもいいかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ100Gだし。"
+                                "\\n<Ones>Maybe I could report a few extra? It's just 100G after all."
                             ]
                         },
                         {
@@ -15394,8 +15212,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "いいんじゃない？",
-                                    "ダメなんじゃない？"
+                                    "Why not?",
+                                    "Isn't that bad?"
                                 ],
                                 1,
                                 0,
@@ -15441,21 +15259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>にひひ♥じゃあ、気持ち多めに言お♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "1億匹ぐらい倒した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私の腕が覚えてる。"
+                                "\\n<Ones>Nihihi♥ Then, I'll say a bit more♥ About a hundred million\ndefeated. My arms remember."
                             ]
                         },
                         {
@@ -15501,21 +15305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>んー、忘れちゃったもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "損するのもやー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもズルもよくないよねぇ。"
+                                "\\n<Ones>Hmm, I forgot. It's not good to lose out! But cheating isn't\ngood either."
                             ]
                         },
                         {
@@ -15632,21 +15422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>なんかこうやって人の役に立つ仕事するのって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちいいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクらずっと勉強と訓練ばっかりだったでしょ？"
+                                "\\n<Rui>Doing work that helps people like this feels good, doesn't\nit? We've always been focused solely on studying and\ntraining, right?"
                             ]
                         },
                         {
@@ -15679,14 +15455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>汚い町だけど、外の世界で自立するって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なかなかいい経験だよね。"
+                                "\\n<Rui>It's a dirty town, but becoming independent in the outside\nworld is quite an experience, isn't it?"
                             ]
                         },
                         {
@@ -15710,7 +15479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>まじめく～ん。"
+                                "\\n<Rui>Mr. Serious~"
                             ]
                         },
                         {
@@ -15743,21 +15512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>そうでも思わないとあの汚いベッドに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耐えられないんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "硬いし、布団重いし、重い癖に暖かくないし。"
+                                "\\n<Rui>If I don't think that way, I can't stand that dirty bed.\nIt's hard, the futon is heavy, and despite being heavy, it's\nnot even warm."
                             ]
                         },
                         {

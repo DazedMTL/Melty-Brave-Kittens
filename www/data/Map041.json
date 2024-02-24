@@ -4586,21 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ロアー>ボクは学者になりたいんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界の仕組みの10000ある謎の1つでも解き明かせれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクの勝ちなんだ！"
+                                "\\n<Roar>I want to become a scholar. If I can solve even one of the\n10,000 mysteries of how this world works, then it's my\nvictory!"
                             ]
                         },
                         {
@@ -4617,21 +4603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ロアー>この場所は勉強に向いてないって言う人もいるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここじゃなきゃ学べないものも絶対にあるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "学問に生まれも育ちも関係ないんだって、知らしめてやる！"
+                                "\\n<Roar>Some people say this place isn't suited for studying, but\nthere must be things that can only be learned here. I'll\nshow them that one's birth and upbringing have nothing to do\nwith scholarship!"
                             ]
                         },
                         {
@@ -4713,21 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ロアー>この世界には火、水、風、雷の基本4属性がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてその組み合わせでさらに4C2の6通りがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "単属性と合わせると10種類の属性があるってこと。"
+                                "\\n<Roar>In this world, there are four basic elements: fire, water,\nwind, and lightning. And with their combinations, there are\nsix more, making it 4C2. Including the single elements, that\nmeans there are ten types of elements in total."
                             ]
                         },
                         {
@@ -4744,21 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ロアー>大体の人は属性が髪の色に出るみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミは火と風属性みたいだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "赤い髪だから火の属性の方が強いのかもね。"
+                                "\\n<Roar>It seems like most people's elements are reflected in their\nhair color. You appear to have both fire and wind elements,\nbut your red hair might mean your fire element is stronger."
                             ]
                         },
                         {
@@ -4775,14 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ロアー>ボクみたいに茶髪の人は水と雷の属性の人が多いみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんで水と雷で茶色なのかは分からないけど。"
+                                "\\n<Roar>People with brown hair like me often have the water and\nlightning elements. I'm not sure why water and lightning\nresult in brown, though."
                             ]
                         },
                         {
@@ -4873,21 +4810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ロアー>あの、別にいいんですけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少しだけ静かにしてもらえますか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク耳がいいので勉強の邪魔になるんですよね。"
+                                "\\n<Roar>Um, it's not a big deal, but could you please be a little\nquieter? I have good ears, so it's disturbing my studies."
                             ]
                         },
                         {
@@ -4913,21 +4836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ロアー>もうちょっと音を押さえてくださいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レスリングでしょ？ママ、格闘技好きなんですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ああ見えて結構、肉体派っていうか。"
+                                "\\n<Roar>Please keep the noise down a bit. Wrestling, right? Mama,\nyou're into martial arts, aren't you? Despite appearances,\nquite the physical type."
                             ]
                         },
                         {
@@ -4963,21 +4872,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ロアー>ボクは雷の血が入ってるから、機械に詳しくなりたいなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "機械の町エンバーランド、知ってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そこではドアが自動で開いたり、機械が料理を作ったりするんだって！"
+                                "\\n<Roar>I have the blood of thunder in me, so I want to become\nknowledgeable about machines. Do you know the town of\nEmberland? They say doors open automatically there, and\nmachines do the cooking!"
                             ]
                         },
                         {
@@ -4994,21 +4889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ロアー>ドアぐらい自分で開けたら良いのにって思うけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "料理や洗濯までして、野菜も育てたりするんだとか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いつか行ってみたいなぁ。"
+                                "\\n<Roar>I think it's better to open doors by yourself, but I've\nheard they do everything from cooking to laundry, and even\ngrow vegetables! I'd love to visit someday."
                             ]
                         },
                         {
@@ -5025,21 +4906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ロアー>そしたらこの町にも機械を沢山持って帰って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんなの生活を豊かにするんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "豊かになれば、奪い合うこともなくなるもの！"
+                                "\\n<Roar>Then I'll bring back lots of machines to this town and\nenrich everyone's lives! When life is abundant, there will\nbe no need to fight over things!"
                             ]
                         },
                         {
@@ -5131,21 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ロアー>ボク達だけではここで生活を続けるのは難しい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く知識と力を付けて、どうにしかしてお金を稼がないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママが居ない間に、孤児院を潰すわけにはいかない。"
+                                "\\n<Roar>It's difficult for just us to keep living here. We need to\nquickly gain knowledge and strength, and somehow earn money.\nWe can't let the orphanage fall apart while Mama is away."
                             ]
                         },
                         {
@@ -5236,21 +5089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フェア>私が一番年長なの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから一番偉いのよ！ラドロママの次に偉いの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "敬いなさい！"
+                                "\\n<Fair>I'm the eldest here! That means I'm the most important!\nSecond only to Lady Radlo! Show some respect!"
                             ]
                         },
                         {
@@ -5267,21 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フェア>あ、でも偉い人は自分のこと自分で偉いって言わないって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本に書いてあったんだった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は偉くないけど、一番年長なの！偉くないのよ！本当よ！"
+                                "\\n<Fair>Ah, but I read in a book that important people don't say\nthey're important themselves! I'm not saying I'm important,\nbut I am the eldest! It's true, really!"
                             ]
                         },
                         {
@@ -5363,21 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フェア>ママに新しい服を買ってもらったの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもね、汚したくないからまだ着てないの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって宝物だから！ふふん♥"
+                                "\\n<Fair>Mama bought me a new dress! But you know, I haven't worn it\nyet because I don't want to get it dirty! After all, it's my\ntreasure! Ehehe♥"
                             ]
                         },
                         {
@@ -5459,21 +5270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フェア>ママがいなくなっちゃったの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも私が一番お姉さんだから、お姉さんだから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一番頑張らないといけないの！"
+                                "\\n<Fair>Mommy is gone... But since I'm the eldest sister, the eldest\nsister... I have to try the hardest!"
                             ]
                         },
                         {
@@ -5555,21 +5352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フェア>オバケが怖くて眠れない時は、ママがぎゅっとしてくれるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたらぽかぽかって暖かくなって、とろーんってなって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が付いたら朝になるの！"
+                                "\\n<Fair>When I can't sleep because I'm scared of ghosts, Mama hugs\nme tight! Then I feel all warm and fuzzy, and before I know\nit, it's morning!"
                             ]
                         },
                         {
@@ -5586,21 +5369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フェア>魔法じゃないっていうけど、あれが魔法じゃないなら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は何故あんなにとろーんってなるのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優しくて、凄くいい匂いがするの。"
+                                "\\n<Fair>They say it's not magic, but if that's not magic, then why\ndo I get so blissfully relaxed? It's so gentle and smells\nreally nice."
                             ]
                         },
                         {
@@ -5691,14 +5460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フランソワ>俺な、ラドロママのことな、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "け、結構カワイイって思ってる！"
+                                "\\n<Francois>You know, I think Radlo's mom is, well, pretty cute!"
                             ]
                         },
                         {
@@ -5715,21 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フランソワ>な、内緒だぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対他のやつに言うなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "言ったらつねるからな！"
+                                "\\n<Francois>Hey, keep it a secret, alright! Don't you dare tell anyone\nelse! If you do, I'll pinch you!"
                             ]
                         },
                         {
@@ -5811,21 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フランソワ>ラドロママ、たまに夜出ていくんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠れないのかな？ひとりで頑張ってるもんな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺もママを助けられるようになりたい。"
+                                "\\n<Francois>\"Ladro Mama sometimes goes out at night. I wonder if she\ncan't sleep? She's always working so hard by herself. I want\nto be able to help Mama too.\""
                             ]
                         },
                         {
@@ -5907,21 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フランソワ>ラドロママ、最近Ruiの話ばっかりする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前、なんかママにプレゼントとかして好感度上げたろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずるいぞ！"
+                                "\\n<Francois>Radlo's mom has been talking about Rui all the time lately.\nYou must have given her a gift or something to raise her\naffection! That's sneaky!"
                             ]
                         },
                         {
@@ -5938,21 +5658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フランソワ>でも俺はママから新しいおもちゃ貰ったもんね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前は何かママから貰ったのかよ！"
+                                "\\n<Francois>But I got a new toy from mom! Hmph! Did you get anything\nfrom mom?"
                             ]
                         },
                         {
@@ -6034,21 +5740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<フランソワ>ラドロママ、どこに行っちゃったんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "な、泣くもんか。泣く暇があるなら何かしなきゃ。"
+                                "\\n<Francois>\"I wonder where Lady Radroma has gone. Ugh... No, I won't\ncry. If I have time to cry, I should be doing something.\""
                             ]
                         },
                         {
@@ -6139,21 +5831,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロの本だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "算数の教科書みたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何人がこの本で勉強したんだろう。"
+                                "It's a tattered book... looks like a math textbook. I wonder\nhow many people have studied with this book."
                             ]
                         },
                         {
@@ -6244,21 +5922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロの本だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "社会の教科書のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも古いから、最近の出来事は書いて無さそう。"
+                                "It's a tattered book... looks like a social studies\ntextbook. But it's old, so it probably doesn't cover recent\nevents."
                             ]
                         },
                         {
@@ -6349,21 +6013,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロの本だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "化学の教科書だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し古い理論が載っているが、正しい物も多い。"
+                                "It's a tattered book... a chemistry textbook. It contains\nsome outdated theories, but many are still correct."
                             ]
                         },
                         {
@@ -6445,21 +6095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最新の化学の本だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔法を使った機械についても記載されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度読ませてもらおう！"
+                                "It's the latest book on chemistry! It even includes\ninformation on machines that use magic. I'll have to read it\nnext time!"
                             ]
                         },
                         {
@@ -6550,21 +6186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロの本だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "料理のレシピがびっしり書いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先代のママから受け継がれてきた大切な味！"
+                                "It's a tattered book... filled with densely written recipes.\nThe precious taste passed down from the previous Mama!"
                             ]
                         },
                         {
@@ -6655,21 +6277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供向けの絵本が並べてあるけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ページが破れていたり、汚れていたり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "綺麗なものは一冊もない。"
+                                "There are children's picture books lined up, but... not a\nsingle one is clean; the pages are torn or dirty."
                             ]
                         },
                         {
@@ -6760,14 +6368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "欠けた食器が綺麗に洗ってある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大事に使えば、まだまだ使える。"
+                                "The chipped dishes are washed clean. If handled with care,\nthey can still be used for a long time."
                             ]
                         },
                         {
@@ -6858,14 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洗濯物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "石鹸のいい匂いがする。"
+                                "It's the laundry. It smells nicely of soap."
                             ]
                         },
                         {
@@ -6956,14 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ラドロの荷物だと思う。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に触っちゃ悪いよね。"
+                                "I think this is Radro's stuff. It'd be bad to touch it\nwithout permission, right?"
                             ]
                         },
                         {
@@ -7054,7 +6641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "クローゼットは開けちゃダメ。"
+                                "You mustn't open the closet."
                             ]
                         },
                         {
@@ -7145,14 +6732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "裁縫道具や工具の棚のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分で何かを作るのが好きなのかも。"
+                                "It seems to be a shelf for sewing supplies and tools.\nPerhaps they enjoy making things themselves."
                             ]
                         },
                         {
@@ -7328,21 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やんちゃな子が壁に穴を開けたようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "板で雑に塞いである。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり人のことを言えないので触れないでおこう。"
+                                "It seems a mischievous child has made a hole in the wall.\nIt's crudely covered with a board. I shouldn't throw stones,\nso I'll leave it be."
                             ]
                         },
                         {
@@ -7433,14 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロのおもちゃがしまってある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボロボロだけど大切にしてるのが一目でわかる。"
+                                "A tattered toy is stored away. It's worn out, but you can\ntell at a glance that it's well cherished."
                             ]
                         },
                         {
@@ -7531,21 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "色が変わってしまったぬいぐるみだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も何度もちぎれては縫われた、つぎはぎだらけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと子供の成長を見守って来たんだろう。"
+                                "It's a stuffed animal that has changed color. It's been torn\nand sewn back together so many times, it's full of patches.\nIt must have watched over a child's growth for a long time."
                             ]
                         },
                         {
@@ -7636,21 +7181,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "落書き帳に絵がびっしりと描いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下手糞だけど、味があっていい感じ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと将来、画家になる子がいる。"
+                                "The sketchbook is filled with drawings. They're poorly done,\nbut they have a certain charm to them! Surely, there's a\nfuture artist among them."
                             ]
                         },
                         {
@@ -7741,14 +7272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ネジ式の時計だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "動いてない。"
+                                "It's a wind-up clock. It's not moving."
                             ]
                         },
                         {
@@ -7839,14 +7363,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手入れされた花が綺麗に咲いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この町では珍しい色。"
+                                "The well-tended flowers are blooming beautifully. It's a\nrare color for this town."
                             ]
                         },
                         {
@@ -7937,14 +7454,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "手入れされた花が綺麗に咲いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この町では珍しい色。"
+                                "The well-tended flowers are blooming beautifully. It's a\nrare color for this town."
                             ]
                         },
                         {
@@ -8119,7 +7629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "床に開いた穴から冷たい風が吹き込んで来る。"
+                                "A cold breeze blows in from the hole opened in the floor."
                             ]
                         },
                         {
@@ -8201,7 +7711,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "床の穴が床下収納に改造されている・・・"
+                                "The hole in the floor has been remodeled into an underfloor\nstorage..."
                             ]
                         },
                         {
@@ -8292,7 +7802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ボロボロのおもちゃ箱にボロボロのおもちゃが入っている。"
+                                "A tattered toy box contains tattered toys."
                             ]
                         },
                         {
@@ -8383,14 +7893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓からは壁しか見えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも少しだけ光が入ってくるから、無いよりマシだ。"
+                                "Nothing can be seen from the window but a wall. But it's\nbetter than nothing since a little light comes in."
                             ]
                         },
                         {
@@ -8481,14 +7984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓からは壁しか見えない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも少しだけ光が入ってくるから、無いよりマシだ。"
+                                "Nothing can be seen from the window but a wall. But it's\nbetter than nothing since a little light comes in."
                             ]
                         },
                         {
@@ -8579,14 +8075,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しいぬいぐるみだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでつぎはぎの子も寂しくないだろう。"
+                                "A new stuffed toy! Now the patchwork child won't be lonely\nanymore."
                             ]
                         },
                         {
@@ -8677,14 +8166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新鮮なリンゴだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウサギ型に切ってもらおう！"
+                                "It's a fresh apple! Let's have it cut into a rabbit shape!"
                             ]
                         },
                         {
@@ -8775,14 +8257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供用の絵本だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ新しいけど、1か月後ぐらいにはボロボロになってそう！"
+                                "It's a children's picture book! It's still new, but it looks\nlike it'll be worn out in about a month!"
                             ]
                         },
                         {
@@ -8873,7 +8348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "美味しそうなパンだ！"
+                                "That bread looks delicious!"
                             ]
                         },
                         {
@@ -9038,14 +8513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛らしい帽子だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の子なら誰でも被って出かけたくなる。"
+                                "What a cute hat! Any girl would want to wear it and go out."
                             ]
                         },
                         {
@@ -9136,14 +8604,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新しい食器だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お皿がキレイだと食べ物も美味しく見える！"
+                                "New dishes! When the plates are clean, the food looks even\nmore delicious!"
                             ]
                         },
                         {
@@ -9308,14 +8769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供向け魔法学の本だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これから始める入門魔法！"
+                                "It's a book on magic for children. Introductory magic to\nstart with!"
                             ]
                         },
                         {
@@ -9406,21 +8860,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "医療キットだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "治療系魔法の小瓶も入ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで子供が怪我をしても大丈夫！"
+                                "It's a medical kit. It even includes small bottles of\nhealing magic. With this, even if a child gets injured,\nthey'll be okay!"
                             ]
                         },
                         {
@@ -9511,14 +8951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫の獣人と人間がペアを組んで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貧しい人達の為に貴族からお宝を盗む義賊の漫画だ。"
+                                "It's a manga about a pair of a cat beastperson and a human\nwho steal treasures from nobles for the sake of the poor as\nrighteous thieves."
                             ]
                         },
                         {
@@ -9609,14 +9042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "サミュエルが捕まえたと思われる虫の入った小瓶だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もぞもぞと暇そうに蠢いている。"
+                                "It's a small bottle with insects that Samuel seems to have\ncaught. They're wriggling around listlessly."
                             ]
                         },
                         {
@@ -9707,14 +9133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最終奥義の方法・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだこれ。"
+                                "The method for the ultimate secret technique...? What's\nthis."
                             ]
                         },
                         {
@@ -9731,21 +9150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その１：キスしろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やりキスしたら大概はイチコロだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余裕があったら舌もねじ込め！以上！"
+                                "Step 1: Kiss! A forceful kiss will usually do the trick! If\nyou can, twist your tongue in too! That's all!"
                             ]
                         },
                         {
@@ -9762,21 +9167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その２：フェチ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手のフェチを見抜け！そして自分の武器を活かせ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたは足！乳が無いからな！以上！"
+                                "Step 2: Fetish! Figure out their fetish! Then use your own\nassets! You have legs! Since you don't have breasts! That's\nall!"
                             ]
                         },
                         {
@@ -9793,21 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その３：口を使え！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ずしも両手が自由とは限らん！言葉で誘え！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついでにしゃぶれ！以上！"
+                                "Step 3: Use your mouth! You can't always use both hands!\nSeduce with words! And while you're at it, give it a suck!\nThat's all!"
                             ]
                         },
                         {
@@ -9824,21 +9201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恥を捨てろ！背負ってるものを思い出せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたは色気はないがなんとかなるさ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが最終奥義だ！胸に刻んでおけ！"
+                                "Shed your shame! Remember what you're carrying! You might\nnot have sex appeal, but you'll manage somehow! This is the\nultimate secret technique! Etch it into your heart!"
                             ]
                         },
                         {
@@ -9871,21 +9234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく分からないけど、大人な内容だ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "み、見なかったことにしよう。"
+                                "...I don't really get it, but this is adult content...!\nI-I'll pretend I didn't see this."
                             ]
                         },
                         {
@@ -9967,14 +9316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最終奥義の方法・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだこれ。"
+                                "The method for the ultimate secret technique...? What's\nthis."
                             ]
                         },
                         {
@@ -9991,21 +9333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その１：キスしろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無理やりキスしたら大概はイチコロだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "余裕があったら舌もねじ込め！以上！"
+                                "Step 1: Kiss! A forceful kiss will usually do the trick! If\nyou can, twist your tongue in too! That's all!"
                             ]
                         },
                         {
@@ -10022,21 +9350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その２：フェチ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "相手のフェチを見抜け！そして自分の武器を活かせ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたは足！乳が無いからな！以上！"
+                                "Step 2: Fetish! Figure out their fetish! Then use your own\nassets! You've got legs! Since you don't have boobs! That's\nall!"
                             ]
                         },
                         {
@@ -10053,21 +9367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その３：口を使え！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必ずしも両手が自由とは限らん！言葉で誘え！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ついでにしゃぶれ！以上！"
+                                "Step 3: Use your mouth! You can't always use both hands!\nSeduce with words! And while you're at it, give a suck!\nThat's all!"
                             ]
                         },
                         {
@@ -10084,21 +9384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "恥を捨てろ！背負ってるものを思い出せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたは色気はないがなんとかなるさ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが最終奥義だ！胸に刻んでおけ！"
+                                "Shed your shame! Remember what you're carrying on your back!\nYou may not have sex appeal, but you'll manage somehow! This\nis the ultimate secret technique! Etch it into your heart!"
                             ]
                         },
                         {
@@ -10131,21 +9417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これが先代ママからの教え・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるほど、怪盗の最終奥義が色仕掛け。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おおざっぱな人だなぁ。"
+                                "This is the teaching from the previous Mama... I see, the\nthief's ultimate secret technique is seduction. Such a broad\napproach."
                             ]
                         },
                         {
@@ -10178,21 +9450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まんまとしてやられたってことかぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さ、流石先代ママ・・・恐れ入りました・・・"
+                                "Uh...! So I've been completely taken in, huh... Well, as\nexpected of the previous Mama... I'm in awe..."
                             ]
                         },
                         {
@@ -10895,21 +10153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>Rui・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え、えーと・・・"
+                                "\\n<Radro>Rui...♥...uh, um..."
                             ]
                         },
                         {
@@ -10942,14 +10186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>あのね・・・えっと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Radro>You know...um..."
                             ]
                         },
                         {
@@ -10982,21 +10219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>そ、そうだ！お礼だよお礼！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私のこと見逃してくれたお礼♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ね♥意味わかるでしょ？"
+                                "\\n<Radro>That's right! It's a thank you! A thank you for letting me\ngo♥ You understand what I mean, right?"
                             ]
                         },
                         {
@@ -11029,21 +10252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>してほしいこと、ある？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、Ruiがしてほしいことだったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何でもしてあげたい♥"
+                                "\\n<Radro>Is there something you want me to do? If it's something you\nwant Rui to do, I'll do anything♥"
                             ]
                         },
                         {
@@ -11085,21 +10294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>で、でも・・・アレってその・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見逃したワケじゃなくて、おちんちん我慢できなくなって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふにゃぁ・・・///"
+                                "\\n<Rui>But... that's not it... It wasn't that I let you go, I just\ncouldn't hold back my dick anymore... fufu...///"
                             ]
                         },
                         {
@@ -11133,21 +10328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>いや、そんな・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見逃したっていうか、我慢できなくなっちゃったっていうか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "え、えっと・・・その・・・"
+                                "\\n<Rui>No, it's not like that...! It's not that I let you go, it's\nmore like I couldn't hold back... uh, um... that..."
                             ]
                         },
                         {
@@ -11190,7 +10371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>いやなの？"
+                                "\\n<Radro>You don't like it?"
                             ]
                         },
                         {
@@ -11223,21 +10404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>い、嫌じゃないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "したい・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもお礼とかじゃなくて・・・"
+                                "\\n<Rui>I-I don't dislike it! I want to...! But not as a thank you\nor anything..."
                             ]
                         },
                         {
@@ -11271,14 +10438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>そ、そういうわけでは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お礼されるようなものじゃないから・・・！"
+                                "\\n<Rui>It's not like that... It's not something to be thanked\nfor...!"
                             ]
                         },
                         {
@@ -11330,21 +10490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>分かった！じゃあ寄付して♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "孤児院の為に寄付♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それで私がお礼する♥それならいいでしょ？"
+                                "\\n<Radro>Got it! Then make a donation♥ A donation for the orphanage♥\nThen I'll thank you♥ That's good, right?"
                             ]
                         },
                         {
@@ -11377,14 +10523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うん・・・♥それがいい♥"
+                                "\\n<Rui>Ah...♥ Yeah...♥ That's good♥"
                             ]
                         },
                         {
@@ -11418,14 +10557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それなら・・・ぜひ・・・♥"
+                                "\\n<Rui>Uh...♥ If that's the case... definitely...♥"
                             ]
                         },
                         {
@@ -11468,21 +10600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>んふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（素直じゃないんだから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って、それは私も同じか。）"
+                                "\\n<Radro>Nfufu♥ (You're not honest... but then again, neither am I.)"
                             ]
                         },
                         {
@@ -11622,7 +10740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ラドロ>Rui、指出して♥"
+                                "\\n<Radro>Rui, hold out your hand♥"
                             ]
                         },
                         {
@@ -11689,21 +10807,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ラドロ>うん、ぴったり♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "Ruiがお仕事で無理しないように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "力が湧くような魔力を込めておいたの。良かったら使ってね♥"
+                                "\\n<Radro>Yes, perfect♥ I've infused it with magical power that will\nhelp you work without overdoing it. Feel free to use it♥"
                             ]
                         },
                         {
@@ -11802,14 +10906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ラドロ>Rui♥これ持って行って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私の水と風の魔力を込めたお守りだよ。"
+                                "\\n<Radro>Rui♥ Take this with you. It's a charm filled with my water\nand wind magic."
                             ]
                         },
                         {
@@ -11876,21 +10973,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ラドロ>ちょっと攻撃が散らばっちゃうようになるけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どんな武器でも性能が変わっちゃうと思うよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "その浮いてる手でも装備出来るから。試してみて♥"
+                                "\\n<Radro>It might scatter your attacks a bit, but I think it'll\nchange the performance of any weapon. You can even equip it\nwith that floating hand of yours. Give it a try♥"
                             ]
                         },
                         {
@@ -11968,21 +11051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>あ！だ、大丈夫？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お金・・・無くなっちゃってるけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あの、私はお金なんてなくてもいいんだからね？"
+                                "\\n<Radro>Oh! Are you okay? Your money... it's all gone... But, you\nknow, I don't need money or anything, okay?"
                             ]
                         },
                         {
@@ -12015,21 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>す、好きだからしてあげたいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "甘えて欲しいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui・・・♥"
+                                "\\n<Radro>I-I want to do it because I like you. I want you to depend\non me. Rui...♥"
                             ]
                         },
                         {
@@ -12090,21 +11145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>Rui・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私、言っとくけど変態じゃないからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ああいうの、やむ負えずしただけだから。"
+                                "\\n<Radro>Rui...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no other choice."
                             ]
                         },
                         {
@@ -12137,14 +11178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>Ruiだから、いいかなって思っただけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誤解しないでね？"
+                                "\\n<Radro>I thought it was okay because it's you, Rui. Don't get the\nwrong idea, okay?"
                             ]
                         },
                         {
@@ -12198,21 +11232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>しー・・・♥だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おっきい声出したらだめだからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "分かった？"
+                                "\\n<Radro>Sh-...♥ Right? You can't make a loud noise, okay?\nUnderstand?"
                             ]
                         },
                         {
@@ -12266,21 +11286,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>はぁ・・・ほんと私、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "めっちゃくちゃ恥ずかしかったんだからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんか痴女とか変態とか思われてたらやだ。"
+                                "\\n<Radro>Sigh... I was really, really embarrassed, you know? I'd hate\nto be thought of as a slut or a pervert."
                             ]
                         },
                         {
@@ -12334,14 +11340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>Rui・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これ、ふたりだけの秘密だからね♥"
+                                "\\n<Radro>Rui...♥ This is our little secret, okay?♥"
                             ]
                         },
                         {
@@ -12395,21 +11394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>あの、お金無理しなくていいからね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は別にただでも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（いやむしろこっちがお金払ってもいいぐらい・・・）"
+                                "\\n<Radro>Look, you don't have to strain yourself over money, okay? I\nmean, I don't mind doing it for free... (Actually, I\nwouldn't mind paying you instead...)"
                             ]
                         },
                         {
@@ -12463,21 +11448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>最初に出会った時から、実はちょっと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "運命的なもの感じてたんだよね。えへへ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんか、不思議な感じ。"
+                                "\\n<Radro>Ever since we first met, I actually felt something like\nfate. Ehehe♥ It's a strange feeling."
                             ]
                         },
                         {
@@ -12531,21 +11502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>遠慮しないでね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私だって恥ずかしいところいっぱい見られたんだもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ruiの恥ずかしいところもいっぱい見たい♥"
+                                "\\n<Radro>Don't hold back♥ I've been seen in plenty of embarrassing\nsituations myself. I want to see all of Rui's embarrassing\nsides too♥"
                             ]
                         },
                         {
@@ -12599,21 +11556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>ちょ、ちょっとそれ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうおっきくしてんじゃん・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "えっち♥"
+                                "\\n<Radro>Wait, wait... that's already getting big...♥ Naughty♥"
                             ]
                         },
                         {
@@ -12667,14 +11610,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>んふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おねーさんに任せなさい♥"
+                                "\\n<Radro>Nfufu♥ Leave it to your big sis♥"
                             ]
                         },
                         {
@@ -12728,21 +11664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うわぁ・・・♥どうしよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui・・・♥私やっぱりまだ恥ずかしい♥）"
+                                "\\n<Radro>...♥ (Wow...♥ What should I do♥ Rui...♥ I'm still so\nembarrassed♥)"
                             ]
                         },
                         {
@@ -12776,14 +11698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ねぇ、Rui♥どうしてほしい？言って♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[14]（孤児院に寄付した額　\\v[742]G）"
+                                "\\n<Radro>Hey, Rui♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
                             ]
                         },
                         {
@@ -12791,9 +11706,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "足コキ",
-                                    "オナニー 7000G↑",
-                                    "えっち　15000G↑"
+                                    "Footjob",
+                                    "Masturbation 7000G↑",
+                                    "Sex 15000G↑"
                                 ],
                                 -2,
                                 0,
@@ -13058,21 +11973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛らしいぬいぐるみが増えてる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寄付したお金で買ったみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喜んでくれたら嬉しいな！"
+                                "The number of cute stuffed animals has increased! It seems\nthey were bought with the money donated. I'd be happy if\nthey're pleased with them!"
                             ]
                         },
                         {
@@ -13163,21 +12064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "おもちゃが沢山入っている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寄付したお金で買ったのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか嬉しい！"
+                                "There are so many toys inside! I wonder if they were bought\nwith the money donated? Somehow, it makes me happy!"
                             ]
                         },
                         {
@@ -13268,14 +12155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like we bought beds for the children! A child who\nsleeps well grows up healthy!"
                             ]
                         },
                         {
@@ -13366,14 +12246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like we bought beds for the children! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {
@@ -13464,14 +12337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like we bought beds for the children! A child who\nsleeps well, grows well!"
                             ]
                         },
                         {
@@ -13562,14 +12428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like I bought beds for the children! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {
@@ -13660,14 +12519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like I bought beds for the children! They say a\nsleeping child grows well!"
                             ]
                         },
                         {
@@ -13758,14 +12610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like you bought beds for the children! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {
@@ -13856,14 +12701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like we bought beds for the children! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {
@@ -13954,14 +12792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like I bought beds for the children! A child who\nsleeps well grows up healthy!"
                             ]
                         },
                         {
@@ -14052,14 +12883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like you bought beds for the children! They say\nkids who sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -14150,14 +12974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちにベッドを買ってあげたみたい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寝る子は良く育つ！"
+                                "It seems like I bought beds for the children! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {
@@ -14848,21 +13665,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちに新しい服を買ってあげたみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これがあれば寒い冬でも外で遊べる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寄付して良かった！"
+                                "It seems like I bought new clothes for the children. With\nthese, they can play outside even in the cold winter. I'm\nglad I donated!"
                             ]
                         },
                         {
@@ -14953,21 +13756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "子供たちに新しい服を買ってあげたみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これがあれば寒い冬でも外で遊べる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "寄付して良かった！"
+                                "It seems like I bought new clothes for the children. With\nthese, they can play outside even in the cold winter. I'm\nglad I donated!"
                             ]
                         },
                         {

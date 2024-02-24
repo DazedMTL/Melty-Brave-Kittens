@@ -10320,21 +10320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>あら・・・！猫耳のお方・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めての方ですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入信ですか？入信ですか！？"
+                                "\\n<Sister>Oh...! You with the cat ears...! You must be new here! Are\nyou here to join our faith? To join us!?"
                             ]
                         },
                         {
@@ -10367,21 +10353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>あ、入信じゃないんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはそれで人が来てくれただけでも嬉しいです♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めまして。ストーム教シスターのソエルです。"
+                                "\\n<Sister>Ah, you're not here to convert. Well, I'm just happy to have\nvisitors♥ Nice to meet you. I'm Soel, a sister of the Storm\nChurch."
                             ]
                         },
                         {
@@ -10453,14 +10425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>Ruiさんですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よろしくお願いします。"
+                                "\\n<Sister>You're Rui-san, right? It's a pleasure to meet you."
                             ]
                         },
                         {
@@ -10493,21 +10458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>ここにはあまり信心深い方がいなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "礼拝に来る方が少ないので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シスターというよりは、墓守と言う方が適切かもしれませんが・・・"
+                                "\\n<Sister>There aren't many devout people here, and few come to\nworship, so rather than a sister, it might be more fitting\nto call me a gravekeeper..."
                             ]
                         },
                         {
@@ -10540,14 +10491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>いつでもこの教会に来てくださいね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かったら教義などもお話させてください。"
+                                "\\n<Sister>Please come to this church anytime♥ If you'd like, I would\nbe happy to talk to you about our doctrine."
                             ]
                         },
                         {
@@ -10664,21 +10608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>ここは四賢者のひとり、ストーム様の教えを伝える教会です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたにも風の加護があるようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全てと言わずとも、半分は心に響くものがあるかもしれません。"
+                                "\\n<Sister>This is the church where we convey the teachings of one of\nthe Four Sages, Lord Storm. It seems you too are blessed\nwith the wind's protection. Even if not all, perhaps half of\nit will resonate with your heart."
                             ]
                         },
                         {
@@ -10732,21 +10662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>あなたのような方がこの町に流れて来るなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "とても辛く複雑な事情があったことと存じます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せめて安寧を祈らせてください。"
+                                "\\n<Sister>That someone like you has drifted into this town... I\nunderstand there must have been very painful and complex\ncircumstances. Please allow me to at least pray for your\npeace."
                             ]
                         },
                         {
@@ -10800,21 +10716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>人の心は常に綺麗であることが出来ません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怒り、悲しみ、嫉妬、憎悪・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "耐えがたい感情が湧くこともあるでしょう。"
+                                "\\n<Sister>The human heart cannot always be pure. Anger, sorrow,\njealousy, hatred... unbearable emotions may arise."
                             ]
                         },
                         {
@@ -10847,21 +10749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>時に、あるがままに解き放つことも大切です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嵐のように、荒れ狂った後にしか見れない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "静かで透き通った世界があるはず。"
+                                "\\n<Sister>Sometimes, it's important to let things be as they are.\nAfter a storm rages, there must be a quiet and clear world\nthat can only be seen then."
                             ]
                         },
                         {
@@ -10915,21 +10803,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>火の民は情熱的で、風の民は自由を愛していました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたに宿る火種も、いつか風によって大きく燃え上がるはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良い属性をお持ちですね。"
+                                "\\n<Sister>The people of fire are passionate, and the people of wind\nloved freedom. The spark within you will someday be fanned\ninto a great flame by the wind. You possess good attributes."
                             ]
                         },
                         {
@@ -10983,21 +10857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>下民、という言い方は好きではありませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『しもじもの方々にも祈りは必要だろう』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ということで、この教会は建てられました。"
+                                "\\n<Sister>I do not like to say 'lower class,' but it was built on the\nbelief that \"even those from the lower strata need prayers.\""
                             ]
                         },
                         {
@@ -11030,14 +10890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>この教会は上からの寄付によって成り立っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "慈悲は全ての人に届けられるべきだと。"
+                                "\\n<Sister>This church is sustained by donations from above. Mercy\nshould be extended to all people."
                             ]
                         },
                         {
@@ -11091,21 +10944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>ここは教会ですが、それと同時に墓地でもあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どちらかと言うと、墓地としての役割の方が強いかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念ながら、信心深い方はあまりいませんから。"
+                                "\\n<Sister>This place is a church, but at the same time, it is also a\ngraveyard. If anything, its role as a graveyard might be\nstronger since, unfortunately, there aren't many devout\nbelievers."
                             ]
                         },
                         {
@@ -11159,21 +10998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>それにしてもこう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "猫の耳というのは何と言いますか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さ、触ってみたくなりますね。"
+                                "\\n<Sister>But still... what do you call it... cat ears... I really\nwant to touch them."
                             ]
                         },
                         {
@@ -11206,14 +11031,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>ふふ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "可愛いですね。"
+                                "\\n<Sister>Hehe...♥ How cute."
                             ]
                         },
                         {
@@ -11267,14 +11085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>さぁ、私と一緒に祈りましょう・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さぁ！さぁ！"
+                                "\\n<Sister>Now, let us pray together...! Come! Come!"
                             ]
                         },
                         {
@@ -11328,21 +11139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>何を罪として、何を罰とするか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "守るべき基準を与え、道から外れないようにすること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが『教え』です。"
+                                "\\n<Sister>What to consider a sin, and what to punish. Providing\nstandards to uphold and ensuring one does not stray from the\npath. That is the \"teaching.\""
                             ]
                         },
                         {
@@ -11396,7 +11193,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>・・・"
+                                "\\n<Sister>..."
                             ]
                         },
                         {
@@ -11429,7 +11226,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>・・・"
+                                "\\n<Sister>..."
                             ]
                         },
                         {
@@ -11471,7 +11268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>すぅ・・・すぅ・・・"
+                                "\\n<Sister>Zzz... Zzz..."
                             ]
                         },
                         {
@@ -11513,14 +11310,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んぁ・・・"
+                                "\\n<Sister>...! Ah..."
                             ]
                         },
                         {
@@ -11553,14 +11343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シスター>寝てません寝てません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "祈ってました。"
+                                "\\n<Sister>I wasn't sleeping, I wasn't sleeping. I was praying."
                             ]
                         },
                         {
@@ -11679,21 +11462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>ここは四賢者のひとり、ストーム様の教えを伝える教会です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あなたにも風の加護があるようですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "全てと言わずとも、半分は心に響くものがあるかもしれません。"
+                                "\\n<Soel>This is the church where the teachings of one of the Four\nSages, Lord Storm, are passed on. It seems you too are\nblessed by the wind. Not everything may resonate with you,\nbut perhaps half of it will touch your heart."
                             ]
                         },
                         {
@@ -11726,14 +11495,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>私の考えも、少しは分かってもらえたようですし♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Soel>It seems you've come to understand my thoughts a little as\nwell♥ Teehee♥"
                             ]
                         },
                         {
@@ -11787,21 +11549,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>どうされましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か『懺悔』されたいことがあるのでしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "懺悔室の方までどうぞ♥"
+                                "\\n<Soel>What brings you here? If there's something you wish to\n\"confess,\" please head to the confessional♥"
                             ]
                         },
                         {
@@ -11855,21 +11603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>人の心は常に綺麗であることが出来ません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怒り、悲しみ、嫉妬、憎悪・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "耐えがたい感情が湧くこともあるでしょう。"
+                                "\\n<Soel>The human heart cannot always be pure. Anger, sadness,\njealousy, hatred... unbearable emotions may arise."
                             ]
                         },
                         {
@@ -11902,21 +11636,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>時に、あるがままに解き放つことも大切です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嵐のように、荒れ狂った後にしか見れない"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "静かで透き通った世界があるはず。"
+                                "\\n<Soel>Sometimes, it's important to let things out as they are.\nAfter a storm rages, there must be a quiet and clear world\nthat can only be seen then."
                             ]
                         },
                         {
@@ -11970,21 +11690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>Ruiさん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私に会いに来たんですか？ふふ♥"
+                                "\\n<Soel>Rui-san♥ What's the matter? Did you come to see me? Fufu♥"
                             ]
                         },
                         {
@@ -12026,14 +11732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>あっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今、お腹・・・蹴った・・・♥"
+                                "\\n<Soel>Ahh♥ My stomach... it kicked...♥"
                             ]
                         },
                         {
@@ -12089,21 +11788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>なんちゃって♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冗談ですよ冗談♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなに早く育つわけないじゃないですか♥くすくす♥"
+                                "\\n<Soel>Just kidding♥ It's a joke, a joke♥ It can't grow that fast,\ncan it? Teehee♥"
                             ]
                         },
                         {
@@ -12173,21 +11858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>下民、という言い方は好きではありませんが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "『しもじもの方々にも祈りは必要だろう』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ということで、この教会は建てられました。"
+                                "\\n<Soel>I don't like the term \"lower class,\" but this church was\nbuilt on the idea that \"even those from the lower echelons\nneed prayer.\""
                             ]
                         },
                         {
@@ -12220,21 +11891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>これは本当の話ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は少し趣味にそれを利用させて頂いただけで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本物のシスターなのは間違いありませんから。"
+                                "\\n<Soel>This is a true story. I've just used it a bit for my hobby,\nbut there's no mistake that I'm a real sister."
                             ]
                         },
                         {
@@ -12288,21 +11945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>ここは教会ですが、それと同時に墓地でもあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どちらかと言うと、墓地としての役割の方が強いかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "残念ながら、信心深い方はあまりいませんから。"
+                                "\\n<Soel>This place is a church, but at the same time, it's also a\ngraveyard. If anything, its role as a graveyard might be\nstronger since, unfortunately, there aren't many devout\npeople."
                             ]
                         },
                         {
@@ -12335,14 +11978,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>おかげで私の研究も捗ります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "町も綺麗に保てて、一石二鳥ですね♥"
+                                "\\n<Soel>Thanks to that, my research is progressing well. It also\nkeeps the town clean, killing two birds with one stone♥"
                             ]
                         },
                         {
@@ -12396,21 +12032,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>それにしてもこう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "猫の耳というのは何と言いますか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さ、触ってみたくなりますね。"
+                                "\\n<Soel>But really... cat ears... how should I put it... they make\nyou want to touch them, don't they?"
                             ]
                         },
                         {
@@ -12443,21 +12065,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>ふふ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "可愛いですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あとで、もっと可愛がってあげてもいいですよ♥"
+                                "\\n<Soel>Hehe...♥ They're cute. Later on, I might give them even more\nlove♥"
                             ]
                         },
                         {
@@ -12511,21 +12119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>ねぇ♥Ruiさん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良かったら寄付をして頂けませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "寄付♥"
+                                "\\n<Soel>Hey♥ Rui-san♥ Would you consider making a donation? A\ndonation♥"
                             ]
                         },
                         {
@@ -12558,21 +12152,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>寄付してくれたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いっぱい懺悔を聞いて差し上げます♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Soel>If you donate, I'll listen to lots of confessions for you♥\nTeehee♥"
                             ]
                         },
                         {
@@ -12626,21 +12206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>何を罪として、何を罰とするか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "守るべき基準を与え、道から外れないようにすること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが『教え』です。"
+                                "\\n<Soel>What to consider as sin, and what to punish. Providing\nstandards to adhere to and keeping one from straying off the\npath. That is the \"teaching.\""
                             ]
                         },
                         {
@@ -12673,21 +12239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>ストーム様は現実主義の考えをお持ちでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私もその教えにしたがった行動をしているまでです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "時に、それは倫理からハズレてしまうこともありますが。"
+                                "\\n<Soel>Lord Storm had a realistic view of things. I'm just acting\naccording to his teachings. Sometimes, that means stepping\noutside of ethics."
                             ]
                         },
                         {
@@ -12741,7 +12293,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>・・・"
+                                "\\n<Soel>..."
                             ]
                         },
                         {
@@ -12774,7 +12326,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>・・・"
+                                "\\n<Soel>..."
                             ]
                         },
                         {
@@ -12816,7 +12368,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>すぅ・・・すぅ・・・"
+                                "\\n<Soel>Zzz... Zzz..."
                             ]
                         },
                         {
@@ -12858,14 +12410,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "んぁ・・・"
+                                "\\n<Soel>...! Nnh..."
                             ]
                         },
                         {
@@ -12898,21 +12443,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ソエル>何ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わたくしは実験で寝不足なのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "少しくらい寝てたって、いいじゃないですかぁ・・・"
+                                "\\n<Soel>What is it? I'm sleep-deprived from experiments. It's fine\nif I sleep a little bit, isn't it..."
                             ]
                         },
                         {
@@ -13071,14 +12602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>はい。どうされましたか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Sister>Yes. How may I assist you?..."
                             ]
                         },
                         {
@@ -13132,21 +12656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>この肖像画の方は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい。覚えております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か病気で亡くなられた・・・"
+                                "\\n<Sister>This person in the portrait... Yes, I remember. They passed\naway from an illness..."
                             ]
                         },
                         {
@@ -13211,21 +12721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>この方が歩いておられたと・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やだ、そんな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖い話をしないでください。"
+                                "\\n<Sister>You saw this person walking around...? Oh no, please don't\ntell such a scary story."
                             ]
                         },
                         {
@@ -13258,21 +12754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>似たような人物かもしれないと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたくしには心当たりがありませんが・・・・"
+                                "\\n<Sister>It might have been someone who looks similar. Hmm... I can't\nthink of anyone, though..."
                             ]
                         },
                         {
@@ -13305,21 +12787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>教会周辺の調査、ですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はい。もちろん大丈夫ですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は礼拝の方もおられませんから。"
+                                "\\n<Sister>An investigation around the church, you say? Yes, of course,\nthat's fine. There are no services today, after all."
                             ]
                         },
                         {
@@ -13352,14 +12820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>お好きに見て回ってくださいませ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もしオバケが出たら、助けてくださいね♥"
+                                "\\n<Sister>Please feel free to look around. And if you encounter any\nghosts, please save me♥"
                             ]
                         },
                         {
@@ -13465,21 +12926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>Ruiさんが来てくれると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嬉しい気分になります♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "例えお仕事だったとしても♥んふふ♥"
+                                "\\n<Sister>I feel so happy when Rui-san comes to see me♥ Even if it's\njust for work♥ Nfufu♥"
                             ]
                         },
                         {
@@ -13563,7 +13010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "敗北シーンのBGMを変更できます。"
+                                "You can change the BGM for the defeat scene."
                             ]
                         },
                         {
@@ -13571,8 +13018,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "変える",
-                                    "このままでいい"
+                                    "Change it",
+                                    "Keep it as it is"
                                 ],
                                 1,
                                 0,
@@ -13715,14 +13162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スラムには似つかわしくない感じのステンドグラス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに立派な窓は割るのに抵抗がある。"
+                                "Stained glass that seems out of place in the slums. I feel\nreluctant to break such a grand window."
                             ]
                         },
                         {
@@ -13829,14 +13269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スラムには似つかわしくない感じのステンドグラス。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなに立派な窓は割るのに抵抗がある。"
+                                "Stained glass that seems out of place in the slums. I feel\nreluctant to break such a grand window."
                             ]
                         },
                         {
@@ -13927,21 +13360,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪しい男>この町には似つかわしくねぇ、立派な教会だよな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上の奴らの金で建てられたらしいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんな金があるなら食い物をよこせってんだ偽善者どもめ。"
+                                "\\n<Suspicious Man>This town's got a church that doesn't quite fit, all fancy\nand stuff. Seems it was built with the money from those\nhigher-ups. If they've got that kind of cash, they should be\nhanding out food instead, damn hypocrites."
                             ]
                         },
                         {
@@ -13958,21 +13377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪しい男>おっと、こんなことを言ったら罰が当たるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信仰で腹が膨らむなら俺は一生祈り続けるがね。"
+                                "\\n<Suspicious Man>Oops, maybe I'll be punished for saying such things... If\nfaith could fill my stomach, I'd pray for the rest of my\nlife."
                             ]
                         },
                         {
@@ -14105,14 +13510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪しい男>シスターが居なくなってこの教会もおしまいだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それか、また誰か代理みたいなやつが来るのか？"
+                                "\\n<Suspicious Man>\"With the sister gone, this church is finished, huh. Or\nmaybe someone else will come to take her place as a stand-\nin?\""
                             ]
                         },
                         {
@@ -14194,21 +13592,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪しい男>死霊術でもなんでもいいが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体だけはちゃんと片付けてくりゃいいさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何よりも厄介なゴミだからなあんなもん。"
+                                "\\n<Suspicious Man>Necromancy or whatever is fine, but just make sure to clean\nup the corpses properly. After all, they're the most\ntroublesome kind of trash."
                             ]
                         },
                         {
@@ -14225,21 +13609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪しい男>信仰なんてクソくらえと思ってるが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "墓地だけは役に立ってるからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "たまには寄付でもしてやるか。"
+                                "\\n<Suspicious Man>I think faith can go to hell, but graveyards do serve a\npurpose. Maybe I'll make a donation once in a while."
                             ]
                         },
                         {
@@ -14330,21 +13700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>祈りを捧げることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しずつ心に生え広がる黒カビを落とすことが出来ます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さぁ、アナタも祈りなさい。"
+                                "\\n<Believer?>By offering prayers, you can gradually remove the black mold\nthat spreads in your heart. Come, you must pray as well."
                             ]
                         },
                         {
@@ -14368,21 +13724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>（祈るような仕草をしているが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "薄目を開けて何かを探している。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "盗めそうなものを物色しているようだ・・・）"
+                                "\\n<Rui>(While they seem to be praying, their eyes are half-open,\nsearching for something. It looks like they're scoping out\nsomething to steal...)"
                             ]
                         },
                         {
@@ -14515,21 +13857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>やっぱり怪しいと思ったんだよなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんな立派な教会なんてさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のうちに盗めるもん盗んどこっと。"
+                                "\\n<Believer?>\"I knew it was suspicious. Such a grand church like this...\nI should steal whatever I can while I have the chance.\""
                             ]
                         },
                         {
@@ -14611,21 +13939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>なんか盗めるもんねーかなと思って通ってたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シスターの健気さに心打たれたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰だよマジで。ひでーデマ流したカスは。"
+                                "\\n<Believer?>\"I thought I might find something to steal passing by, but I\nwas truly moved by the Sister's earnestness. Who the hell\nstarted that awful rumor, seriously? What a scumbag.\""
                             ]
                         },
                         {
@@ -14725,21 +14039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>最初は教会なんて必要ないと思っていたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死者の鎮魂や墓地の管理をして貰えるのは助かるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体がそのままだと疫病を広げてしまうもの。"
+                                "\\n<Follower>At first, I didn't think we needed a church, but having\nsomeone to perform services for the dead and manage the\ncemetery is a relief. If bodies are left as they are, they\ncan spread disease."
                             ]
                         },
                         {
@@ -14756,21 +14056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>それにシスターはいい人よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "親身になって悩みを聞いてくれたり、穏やかで心の綺麗な子。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話していると、こっちまで心が洗われるよう。"
+                                "\\n<Follower>And the sister is such a good person. She listens to our\ntroubles with compassion, she's gentle and pure-hearted.\nTalking to her feels like it cleanses your own soul."
                             ]
                         },
                         {
@@ -14903,21 +14189,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>ソエルさんが遺体を弄んでいたなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は今でも信じられないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か理由があったんじゃないかしら。"
+                                "\\n<Follower>I still can't believe that Soel-san was tampering with a\ncorpse. I wonder if there was a reason for it."
                             ]
                         },
                         {
@@ -14934,21 +14206,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>いえ、理由があってもダメよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひょっとすると、ここに来た時からもう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼女は心が壊れていたのかもしれないわね。"
+                                "\\n<Follower>No, even if there was a reason, it's not acceptable.\nPerhaps... she was already broken inside when she came here."
                             ]
                         },
                         {
@@ -15030,21 +14288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>墓守までしてもらっているのに、死霊術だなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪質なデマをばら撒かれて、可哀想なシスター。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体誰がこんなことを・・・"
+                                "\\n<Follower>Even though they've been taking care of the graves, to be\naccused of necromancy... It's a cruel rumor to spread, poor\nSister. Who would do such a thing..."
                             ]
                         },
                         {
@@ -15077,21 +14321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（わーたーしーだーよ！私だよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "デマじゃないのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うー・・・）"
+                                "\\n<Rui>(It's me! It's me! It's not a rumor... Ugh...)"
                             ]
                         },
                         {
@@ -15125,21 +14355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（デマ・・・ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この人たちは、これでも良かったのかも・・・）"
+                                "\\n<Rui>(A rumor, huh... Maybe it was better for these people this\nway...)"
                             ]
                         },
                         {
@@ -15240,21 +14456,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>ソエルちゃん、いいよなぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "穢れを知らない淑女って感じなのに、あの胸だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そりゃ祈りに来るってもんよ。"
+                                "\\n<Believer?>Soel-chan is so lovely♥ She has the air of a pure lady, yet\nthose breasts are just divine. It's no wonder people come to\npray."
                             ]
                         },
                         {
@@ -15271,7 +14473,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>捧げてぇよなぁ？"
+                                "\\n<Believer?>Wouldn't you just want to offer something up?"
                             ]
                         },
                         {
@@ -15295,7 +14497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>何を？"
+                                "\\n<Rui>Offer what?"
                             ]
                         },
                         {
@@ -15428,21 +14630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>あれ？ソエルちゃんは？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねぇ、ソエルちゃん見に来たんだけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこ行ったか知らない？定休日とかある？"
+                                "\\n<Believer?>Huh? Where's Soel-chan? Hey, I came to see Soel-chan. Do you\nknow where they went? Do they have a day off or something?"
                             ]
                         },
                         {
@@ -15524,21 +14712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者？>ソエルちゃん、なんか変な噂立てられて可哀想だったなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘かホントか知らないけどさぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の死体ならいくらでもいじってくれていいけどなぁ。ふふ♥"
+                                "\\n<Believer?>Poor Soel-chan, it's sad that such weird rumors are being\nspread about her. I don't know if they're true or not, but\nhey, you can play with my corpse as much as you want. Fufu♥"
                             ]
                         },
                         {
@@ -15571,14 +14745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>きっしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（死んだら側に置いてもらえるよ・・・）"
+                                "\\n<Rui>Gross! (You can keep it by your side when you're dead...)"
                             ]
                         },
                         {
@@ -15612,14 +14779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（彼女の正体を知っても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この人なら何とも思わなそうだ・・・）"
+                                "\\n<Rui>(Even if he knew her true identity, this person probably\nwouldn't care...)"
                             ]
                         },
                         {
@@ -15720,14 +14880,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>あたしゃ雷と水の属性だけん、教会が無いんぞな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教会があるのは火水、火雷、水風、風雷の混合属性だけじゃ。"
+                                "\\n<Follower>I'm of the lightning and water attributes, so there's no\nchurch for me. Churches only exist for the mixed attributes\nof fire-water, fire-lightning, water-wind, and wind-\nlightning."
                             ]
                         },
                         {
@@ -15744,14 +14897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>おチビちゃん、あんた火と風だぁね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんたも苦労しちょるのぉ。"
+                                "\\n<Follower>Hey little one, you're fire and wind, aren't you? You must\nhave your own struggles too."
                             ]
                         },
                         {
@@ -15768,21 +14914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>ま、属性なんてぇのは、人の本質じゃねが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生まれより経験ぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう生きるか、じいさんの口癖じゃ。もう死んだが。"
+                                "\\n<Follower>Well, attributes like that aren't the essence of a person.\nIt's experiences that matter more than birth. \"It's how you\nlive,\" my grandpa always used to say. He's dead now though."
                             ]
                         },
                         {
@@ -15915,21 +15047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>シスターが捕まってしもうたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、あたしもじいさんに先立たれて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度生き返って欲しいと願ったことか。"
+                                "\\n<Follower>The sister's been captured. Well, I've lost my old man too,\nand I can't count how many times I've wished he could come\nback to life."
                             ]
                         },
                         {
@@ -15946,21 +15064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>死霊術に取り憑かれるようなもんは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしても生き返らせたかった人がおったんじゃろうねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しらんけど。"
+                                "\\n<Follower>Someone who gets obsessed with necromancy must have had\nsomeone they desperately wanted to bring back to life, I\nreckon. But I don't know."
                             ]
                         },
                         {
@@ -16042,21 +15146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>シスターが死霊術を使っとるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いデマを広げたやつがいるもんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほれ、あのキラキラした目を見てみぃ。"
+                                "\\n<Follower>Whoever spread the nasty rumor that the Sister is using\nnecromancy must be mistaken. Just look at those sparkling\neyes."
                             ]
                         },
                         {
@@ -16073,21 +15163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<信者>ありゃぁ、純真無垢そのものぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長いこと生きとりゃぁ分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪い子じゃあない。"
+                                "\\n<Follower>Ah, she's the very picture of innocence. You can tell when\nyou've lived as long as I have. She's not a bad child."
                             ]
                         },
                         {
@@ -16120,7 +15196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（見る目ないよおばあちゃん・・・）"
+                                "\\n<Rui>(You're not seeing clearly, granny...)"
                             ]
                         },
                         {
@@ -16154,7 +15230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（長く生きても分からないことはあるんだなぁ・・・）"
+                                "\\n<Rui>(Even with age, there are things you just don't\nunderstand...)"
                             ]
                         },
                         {
@@ -16323,7 +15399,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もう少し調査をしてみよう。"
+                                "Let's investigate a little more."
                             ]
                         },
                         {
@@ -17027,21 +16103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "懺悔室の扉だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "懺悔することなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "It's the door to the confessional. What is there to\nconfess..."
                             ]
                         },
                         {
@@ -17058,14 +16120,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "どれから謝ろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱりじいやの花瓶からかなぁ。"
+                                "Where should I start apologizing from... Maybe from\ngrandpa's vase, I guess."
                             ]
                         },
                         {

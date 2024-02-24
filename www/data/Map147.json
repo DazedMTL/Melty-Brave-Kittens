@@ -4988,14 +4988,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫魔>何キミ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メグナになんか用？"
+                                "\\n<Succubus>What do you want with Megna?"
                             ]
                         },
                         {
@@ -5060,21 +5053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メグナ>はぁ？キミみたいなチビが冒険者ぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メグナのこと退治しに来たってわけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウケるー♥"
+                                "\\n<Megna>Huh? A little squirt like you, an adventurer? You came to\ndefeat Megna? That's hilarious-♥"
                             ]
                         },
                         {
@@ -5107,21 +5086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メグナ>メグナが書いた依頼書に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まんまとおびき寄せられてんの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おつむよわよわー♥"
+                                "\\n<Megna>You've been lured here by the request form Megna wrote! Your\nbrain must be so tiny-♥"
                             ]
                         },
                         {
@@ -5172,21 +5137,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メグナ>くんくん・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メスの癖に結構美味しそうな匂い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あー、なるほどね♥"
+                                "\\n<Megna>Sniff sniff...♥ Despite being a female, you have quite a\ndelicious scent. Ah-, I see♥"
                             ]
                         },
                         {
@@ -5229,21 +5180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メグナ>くんくん・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あはっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "チビの癖に結構美味しそうな匂いしてんじゃん。"
+                                "\\n<Megna>Sniff sniff...♥ Ahaha♥ Despite being a little squirt, you\nsmell pretty tasty."
                             ]
                         },
                         {
@@ -5355,21 +5292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃんか・・・力が・・・♥はぅ・・・♥"
+                                "\\n<Rui>Mmm...haah...haah...somehow...my strength is...♥ hau...♥"
                             ]
                         },
                         {
@@ -5396,14 +5319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
+                                "\\n<Rui>Ugh...! Haah...haah..."
                             ]
                         },
                         {
@@ -5453,21 +5369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メグナ>淫魔がどうやって人間を食べるか、分かる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひょっとして、そーゆーことも知らないまま"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここに来たって感じぃ？"
+                                "\\n<Megna>Do you know how a succubus devours a human? Or did you come\nhere without even knowing that sort of thing?"
                             ]
                         },
                         {
@@ -5507,21 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メグナ>ねぇ♥ムズムズしてきたでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メグナのフェロモン、効いてきたかな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "淫魔の近くにいると、人間はそーなっちゃうんだよねー。"
+                                "\\n<Megna>Hey♥ You're starting to feel itchy, right? Megna's\npheromones are taking effect. When humans are near a\nsuccubus, they become like that."
                             ]
                         },
                         {
@@ -5561,21 +5449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メグナ>あはぁ♥そんな状態でまともに戦えるかなー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やるだけやってみればぁ？くすくす♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "チビはチビなりにさー♥"
+                                "\\n<Megna>Ahaa♥ Can you really fight properly in such a state? Why\ndon't you try as much as you can? Teehee♥ Even a squirt has\nto do what they can-♥"
                             ]
                         },
                         {

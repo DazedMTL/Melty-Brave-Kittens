@@ -11150,21 +11150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレのギルドの入口だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下に比べて、あまりお酒の匂いがしない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちに登録すれば良かった。"
+                                "This is the entrance to the Rumare Guild. It doesn't smell\nas much of alcohol compared to downstairs... I should have\nregistered here."
                             ]
                         },
                         {
@@ -11646,21 +11632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>これ以上は無理だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先ほどの冒険者ギルドの爆発を見るに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『幹部クラス』の魔物がいることは確定した！"
+                                "\\n<Commander>We can't go on any longer! The explosion at the Adventurer's\nGuild earlier confirms the presence of a \"high-ranking\"\nmonster!"
                             ]
                         },
                         {
@@ -11686,21 +11658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>下は必死に交戦中だが、押されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、更に強力な魔物の増援が到着した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てる見込みは万に一つもない！"
+                                "\\n<Commander>Our forces are desperately engaged in battle below, but\nwe're being overpowered. And now, even more powerful\nmonsters have arrived as reinforcements. There's not even a\none in ten thousand chance of victory!"
                             ]
                         },
                         {
@@ -11717,14 +11675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>まだ生きている住民が多数いることも分かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、もはや時間の問題・・・"
+                                "\\n<Commander>We're also aware that there are still many residents alive.\nHowever, it's only a matter of time..."
                             ]
                         },
                         {
@@ -11773,7 +11724,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>只今を持って、ドリーネは陥落したと判断する！"
+                                "\\n<Commander>As of this moment, I declare that Driane has fallen!"
                             ]
                         },
                         {
@@ -11836,21 +11787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>火薬の配置は既に終了している！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術師隊！ありったけの魔力をぶつけろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界師は結界でルマーレへの飛散を防げ！！"
+                                "\\n<Commander>The gunpowder has already been set up! Mage squad! Unleash\nall your magical power!! Barrier mages, prevent the spread\nto Lumare with your barriers!!"
                             ]
                         },
                         {
@@ -11913,21 +11850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>魔物を一掃するチャンスは今しかない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "防壁ごと、崖を崩落させろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴らを生き埋めにしてしまえぇぇぇぇ！！"
+                                "\\n<Commander>This is our only chance to wipe out the monsters!! Collapse\nthe cliff along with the barricades!! Bury them aliveeeee!!"
                             ]
                         },
                         {
@@ -12127,21 +12050,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（幹部クラスの魔物、凝血晶、スラムの問題が一度に片付く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほど効率の良い方法があるだろうか。）"
+                                "\\n<Count Noblesse>...(The high-ranking monsters, the coagulation crystals, the\nslum problem—all resolved at once. Could there be a more\nefficient method?)"
                             ]
                         },
                         {
@@ -12158,21 +12067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>（冷血な判断だと責める者もいるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、これが最善手だったと称賛される日が必ず来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尊い犠牲の上に、勝ち取った人類の勝利だと。）"
+                                "\\n<Count Noblesse>(Some may condemn this as a cold-hearted decision. However,\nthere will surely come a day when this is hailed as the best\ncourse of action. A victory for humanity, won upon the noble\nsacrifices.)"
                             ]
                         },
                         {
@@ -12488,21 +12383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>これ以上は無理だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先ほどの冒険者ギルドの爆発を見るに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『幹部クラス』の魔物がいることは確定した！"
+                                "\\n<Commander>We can't go on any longer! Given the explosion at the\nAdventurer's Guild earlier, it's certain that there are\n\"executive class\" monsters present!"
                             ]
                         },
                         {
@@ -12528,21 +12409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>下は必死に交戦中だが、押されている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、更に強力な魔物の増援が到着した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てる見込みは万に一つもない！"
+                                "\\n<Commander>The forces below are desperately engaged in battle, but\nthey're being pushed back. And now, even more powerful\nmonster reinforcements have arrived. There's not even a one\nin ten thousand chance of victory!"
                             ]
                         },
                         {
@@ -12559,14 +12426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>まだ生きている住民が多数いることも分かっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、もはや時間の問題・・・"
+                                "\\n<Commander>We also know that there are still many residents alive.\nHowever, it's only a matter of time..."
                             ]
                         },
                         {
@@ -12615,7 +12475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>只今を持って、ドリーネは陥落したと判断する！"
+                                "\\n<Commander>As of now, I declare that Driane has fallen!"
                             ]
                         },
                         {
@@ -12678,21 +12538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>火薬の配置は既に終了している！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術師隊！ありったけの魔力をぶつけろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界師は結界でルマーレへの飛散を防げ！！"
+                                "\\n<Commander>The explosives have already been set! Magician squad! Throw\nall your magical power at them!! Barrier mages, prevent the\nspread to Lumare with your barriers!!"
                             ]
                         },
                         {
@@ -12755,21 +12601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>魔物を一掃するチャンスは今しかない！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "防壁ごと、崖を崩落させろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奴らを生き埋めにしてしまえぇぇぇぇ！！"
+                                "\\n<Commander>This is our only chance to wipe out the monsters!! Collapse\nthe cliff along with the barricade!! Bury them aliveeeee!!"
                             ]
                         },
                         {
@@ -12969,21 +12801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（幹部クラスの魔物、凝血晶、スラムの問題が一度に片付く。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほど効率の良い方法があるだろうか。）"
+                                "\\n<Count Noblesse>...(Executive class monsters, coagulation crystals, and the\nslum problem all taken care of at once. Could there be a\nmore efficient method?)"
                             ]
                         },
                         {
@@ -13000,21 +12818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>（冷血な判断だと責める者もいるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、これが最善手だったと称賛される日が必ず来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尊い犠牲の上に、勝ち取った人類の勝利だと。）"
+                                "\\n<Count Noblesse>(Some may condemn this as a cold-hearted decision. However,\nthe day will come when this will be praised as the best\nmove. A victory for humanity, won on the noble sacrifices.)"
                             ]
                         },
                         {
@@ -13031,21 +12835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>（くくく・・・はははははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと忌々しかった貧民ども、最期に名誉ある死を与えてやろう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これで私の地位は揺るがないものとなった！）"
+                                "\\n<Count Noblesse>(Kukuku... Hahahahaha! Those detestable poor people, I'll\ngrant them an honorable death in the end! With this, my\nposition is secured forever!)"
                             ]
                         },
                         {
@@ -13143,21 +12933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>ご報告です！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "火薬が！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "火薬が全て湿気ていて、使い物になりません！！"
+                                "\\n<Lumare Gatekeeper B>Report!! The gunpowder!! All the gunpowder is damp and\nunusable!!"
                             ]
                         },
                         {
@@ -13199,7 +12975,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>なんだと！？"
+                                "\\n<Count Noblesse>What did you say!?"
                             ]
                         },
                         {
@@ -13225,21 +13001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>このまま爆発を起こしたとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "崖が崩れるほどの威力にはなりません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ防壁を失うだけです！"
+                                "\\n<Lumare Gatekeeper B>Even if we cause an explosion now, it won't be powerful\nenough to collapse the cliff! We'll only lose the barricade!"
                             ]
                         },
                         {
@@ -13301,14 +13063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔術師A>うわっ！なんだこれ！何か地面がぬるぬるするぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつの間に！？"
+                                "\\n<Magician A>Whoa! What's this? The ground is all slippery! When did this\nhappen!?"
                             ]
                         },
                         {
@@ -13370,14 +13125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔術師B>うわ、ちょ！すべ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これじゃ、詠唱が・・・！！"
+                                "\\n<Magician B>Whoa, wait! Slip...! This will mess up our chanting...!!"
                             ]
                         },
                         {
@@ -13449,21 +13197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>作戦は中止！！中止だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔術師隊、詠唱をやめて下がれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中止！！中止ー！！！"
+                                "\\n<Commander>Abort the plan!! Abort!! Magician squad, stop chanting and\nfall back! Abort!! ABORT-!!!"
                             ]
                         },
                         {
@@ -13503,21 +13237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>もうダメだ！見てられない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どけ！ボクは下に行って戦うぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戻って来られなくなっても知るか！！"
+                                "\\n<Adventurer A>It's no use! I can't watch this anymore! Move! I'm going\ndown to fight! I don't care if I can't come back!!"
                             ]
                         },
                         {
@@ -13550,14 +13270,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士C>俺もこんな作戦反対だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が尊い犠牲だ！！胸糞悪い！！"
+                                "\\n<Soldier C>I'm against this plan too!! What noble sacrifice!? It makes\nme sick!!"
                             ]
                         },
                         {
@@ -13590,14 +13303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士D>俺も戦うぞ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドリーネもルマーレもあるか！！"
+                                "\\n<Soldier D>I'm going to fight too!! Who cares about Driane or Lumare!!"
                             ]
                         },
                         {
@@ -13630,14 +13336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士E>今こそ50年前の穴を塞ぐ時だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "土じゃなく、心で埋めんだ！！！"
+                                "\\n<Soldier E>Now is the time to fill the hole from 50 years ago!! Not\nwith dirt, but with our hearts!!!"
                             ]
                         },
                         {
@@ -13670,21 +13369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士F>誰だ！今うまいこと言ったヤツは！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これが終わったらビールをおごってやる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前ら！行くぞおおおおお！！！"
+                                "\\n<Soldier F>Who was that! Who just said something clever!? When this is\nover, I'll buy you a beer!! Men! Let's goooooo!!!"
                             ]
                         },
                         {
@@ -15092,7 +14777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士たち>うおおおおおおおおおおおおお！！！！"
+                                "\\n<Soldiers>Uooooooohhhhhhhhhhhhhhhhhhhhhh!!!!"
                             ]
                         },
                         {
@@ -15141,14 +14826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（メーレさんに伝えて正解だった。）"
+                                "\\n<Lumare Gatekeeper B>...(It was right to inform Mele-san.)"
                             ]
                         },
                         {
@@ -15174,21 +14852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>（『ドリーネの人を憎むな』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遺言は守ったぞ、親友。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の妻は人間じゃなくなっても、心は誰よりも人間だ。）"
+                                "\\n<Lumare Gatekeeper B>(\"Do not hate the people of Driane,\" I've kept your last\nwish, my friend. Even though your wife is no longer human,\nher heart is more human than anyone else's.)"
                             ]
                         },
                         {
@@ -15255,21 +14919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>ふふ♥見ててくれた？アナタ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタが最初の火を付けたのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう大丈夫。"
+                                "\\n<Mele>Fufu♥ Did you see that? My love. You were the one who lit\nthe first fire. It's all right now."
                             ]
                         },
                         {
@@ -15302,21 +14952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>それに、Ruiがいるんですもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子ならきっと、ドリーネもルマーレも救ってくれる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私には分かるの。"
+                                "\\n<Mele>Besides, Rui is here. That child will surely save both\nDriane and Lumare. I can tell."
                             ]
                         },
                         {
@@ -15368,21 +15004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士D>おい！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫の獣人がすごい勢いで上ってくる！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か持ってるぞ！！"
+                                "\\n<Soldier D>Hey!! A beastperson cat is climbing up here at an incredible\nspeed!! They're carrying something!!"
                             ]
                         },
                         {
@@ -15434,14 +15056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士E>なんだあのデカい宝石は！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黄色く光ってる！！"
+                                "\\n<Soldier E>What's that huge gem!? It's glowing yellow!!"
                             ]
                         },
                         {
@@ -15490,21 +15105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>しまった・・・！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "馬鹿者！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凝血晶をこっちに持ってくるんじゃあないッ！！！"
+                                "\\n<Count Noblesse>Damn it...!!! Idiots!!! Don't bring the coagulation crystal\nhere!!!"
                             ]
                         },
                         {
@@ -15530,21 +15131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>凝血晶？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノブレス伯爵、今、凝血晶と・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "黄色く光っているのに？"
+                                "\\n<Commander>Coagulation crystal? Count Noblesse, did you just say\ncoagulation crystal...? The one that's glowing yellow?"
                             ]
                         },
                         {
@@ -15561,7 +15148,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ノブレス伯爵>あ・・・"
+                                "\\n<Count Noblesse>Ah..."
                             ]
                         },
                         {
@@ -15587,21 +15174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>なるほど、火薬に魔術師。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "随分と手配が良かったわけです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "詳しい話はまた後日聞きますよ。"
+                                "\\n<Commander>I see, gunpowder and magicians. You've arranged things quite\nwell. We'll have a detailed discussion about this later."
                             ]
                         },
                         {
@@ -16106,21 +15679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<指揮官>魔物の目的が分かった！！凝血晶だ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だがそれはさっきの獣人に任せる！！信じろ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下に降りてひとりでも多くの人を救え！！"
+                                "\\n<Commander>We've figured out the monsters' objective!! It's the\ncoagulation crystal!! But leave that to the beastperson from\nearlier!! Trust them!! Go down and save as many people as\nyou can!!"
                             ]
                         },
                         {
@@ -16162,7 +15721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>ほらね♥"
+                                "\\n<Mele>See♥"
                             ]
                         },
                         {
@@ -16771,21 +16330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝るのが楽しみになるほど、心地の良いベッドに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起きるのが楽しみになるほど、美味しい朝食付きの宿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご宿泊の際は受付にて♪"
+                                "A lodging with beds so comfortable you look forward to\nsleeping, and a delicious breakfast that makes waking up a\ndelight! Please inquire at the reception when you stay♪"
                             ]
                         },
                         {
@@ -16802,21 +16347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（寝れないベッドに、ゲロマズな朝食を作るばあさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下の宿とは大違いだ。）"
+                                "\\n<Rui>...(A bed you can't sleep in, and a breakfast so awful it\nmakes you want to vomit. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -18382,21 +17913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>ごきげんよう。あなたもこの宿にお泊りかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたくしは旅の途中で立ち寄ったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが一番素敵なお宿でしたわ。"
+                                "\\n<Mage>Greetings. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the most charming\nlodging I've found."
                             ]
                         },
                         {
@@ -18413,21 +17930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>裏にちょっとした温泉も付いてますの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天然ではありませんが、回復術師が魔力を溶かしているので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お肌もつやつや♥"
+                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so your skin will be glowing♥"
                             ]
                         },
                         {
@@ -18444,21 +17947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>お料理も素材にこだわった素晴らしいものでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッドなんて雲の上に寝るよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浮遊感まで与えられてしまいました。"
+                                "\\n<Mage>The food was also exquisite, with a focus on quality\ningredients. The bed felt like sleeping on clouds, giving a\nsense of floating."
                             ]
                         },
                         {
@@ -18482,14 +17971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この人は悪くないのに。引っ掻いてやりたくなってきた。）"
+                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18573,21 +18055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレのギルドの入口だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下に比べて、あまりお酒の匂いがしない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちに登録すれば良かった。"
+                                "This is the entrance to the Rumare Guild. It doesn't smell\nas much of alcohol compared to downstairs... I should have\nregistered here."
                             ]
                         },
                         {
@@ -18671,21 +18139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>ごきげんよう。あなたもこの宿にお泊りかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたくしは旅の途中で立ち寄ったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが一番素敵なお宿でしたわ。"
+                                "\\n<Mage>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the most charming\nlodging I've found."
                             ]
                         },
                         {
@@ -18702,21 +18156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>裏にちょっとした温泉も付いてますの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天然ではありませんが、回復術師が魔力を溶かしているので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お肌もつやつや♥"
+                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has infused it with magic, so it\nleaves your skin glowing♥"
                             ]
                         },
                         {
@@ -18733,21 +18173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>お料理も素材にこだわった素晴らしいものでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッドなんて雲の上に寝るよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浮遊感まで与えられてしまいました。"
+                                "\\n<Mage>The cuisine is also exquisite, with a focus on quality\ningredients. The beds are like sleeping on clouds, they even\ngive you a sense of floating."
                             ]
                         },
                         {
@@ -18771,14 +18197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この人は悪くないのに。引っ掻いてやりたくなってきた。）"
+                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -19109,21 +18528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>ごきげんよう。あなたもこの宿にお泊りかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたくしは旅の途中で立ち寄ったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが一番素敵なお宿でしたわ。"
+                                "\\n<Mage>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the loveliest lodging\nI've found."
                             ]
                         },
                         {
@@ -19140,21 +18545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>裏にちょっとした温泉も付いてますの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天然ではありませんが、回復術師が魔力を溶かしているので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お肌もつやつや♥"
+                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magic into it, so\nit leaves your skin glowing♥"
                             ]
                         },
                         {
@@ -19171,21 +18562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>お料理も素材にこだわった素晴らしいものでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッドなんて雲の上に寝るよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浮遊感まで与えられてしまいました。"
+                                "\\n<Mage>The food was also exquisite, with a focus on quality\ningredients. The bed was like sleeping on a cloud, they even\nmanaged to give it a sense of floating."
                             ]
                         },
                         {
@@ -19209,14 +18586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この人は悪くないのに。引っ掻いてやりたくなってきた。）"
+                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -19427,21 +18797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>お前は下の冒険者か。通っていいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者は扱い的に『どこにも属さない者』だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的に依頼があれば、何処へでも立ち入りが可能だ。"
+                                "\\n<Soldier>Are you an adventurer from below? You may pass. Adventurers\nare treated as \"those who belong nowhere.\" Basically, if\nthere's a request, you can enter anywhere."
                             ]
                         },
                         {
@@ -19458,21 +18814,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>だがそれは『常に味方がいない』ことと同じだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か不都合があれば、私達ルマーレのガードは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前達を徹底的に排除する。分かったな？"
+                                "\\n<Soldier>But that also means \"you always have no allies.\" If there's\nany inconvenience, we, the guards of Lumare, will thoroughly\neliminate you. Understood?"
                             ]
                         },
                         {
@@ -20177,14 +19519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>お、キミはいつぞやの！元気？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は仕事で上に来たのかい？"
+                                "\\n<Adventurer A>Oh, it's you from the other day! How are you? Did you come\nup here for work today?"
                             ]
                         },
                         {
@@ -20395,14 +19730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<重装備の冒険者>猫の獣人の冒険者の噂・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、知っているとも。双子だろ？"
+                                "\\n<Heavily Armored Adventurer>Rumors about a cat beastman adventurer...? Ah, I know of\nthem. They're twins, right?"
                             ]
                         },
                         {
@@ -20419,21 +19747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<重装備の冒険者>あ、それキミか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以外で？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん・・・すまない。心当たりがない。"
+                                "\\n<Heavily Armored Adventurer>Oh, it's you. Anything else? Hmm... sorry, I can't think of\nanything."
                             ]
                         },
                         {
@@ -20524,21 +19838,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>猫の獣人で強いヤツ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、一応心当たりはあるが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者じゃないぞ。"
+                                "\\n<Longsword Adventurer>A strong cat beastperson...? Hmm, I do have someone in mind,\nbut... they're not an adventurer."
                             ]
                         },
                         {
@@ -20555,21 +19855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>以前オレガノの辺りで暴れまわってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫の獣人がいるって噂があってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりに手に負えないんで、討伐依頼まで出されてたとかなんとか。"
+                                "\\n<Longsword Adventurer>There were rumors about a cat beastperson causing a ruckus\naround the Oregano area. They were so out of control that a\nsubjugation request was even issued."
                             ]
                         },
                         {
@@ -20586,21 +19872,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>強いヤツ出てこい！って言いながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "木はへし折るわ、冒険者はボコボコにするわで大騒ぎだったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレが解決したのかどうかは知らん。"
+                                "\\n<Longsword Adventurer>They were shouting \"Come out, strong ones!\" while snapping\ntrees and beating up adventurers, causing quite the\ncommotion. I don't know if that situation was ever resolved."
                             ]
                         },
                         {
@@ -20633,21 +19905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>討伐依頼まで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うーん。それはお姉ちゃんじゃなさそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがと！"
+                                "\\n<Rui>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -20674,21 +19932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あ、それはきっと別人ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（頼む！別人であってくれぇ！）"
+                                "\\n<Rui>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {
@@ -20722,7 +19966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>お姉さん、見つかるといいな。"
+                                "\\n<Longsword Adventurer>I hope you find your sister."
                             ]
                         },
                         {

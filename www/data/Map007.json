@@ -2990,14 +2990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血のような液体・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや・・・これは・・・"
+                                "A liquid that looks like blood... no... this is..."
                             ]
                         },
                         {
@@ -3088,14 +3081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "エンバーミングツールだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体の防腐処理に使う・・・"
+                                "Embalming tools... used for preserving corpses..."
                             ]
                         },
                         {
@@ -3186,14 +3172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血のような液体・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや・・・これは・・・"
+                                "A liquid that looks like blood... no... this is..."
                             ]
                         },
                         {
@@ -3284,14 +3263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "古臭い本・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "埃と血の混じったような臭いがする。"
+                                "An old book... It smells like a mix of dust and blood."
                             ]
                         },
                         {
@@ -3382,21 +3354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本より先に気になるものがある・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも気になり過ぎる人が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そちらを調べよう。"
+                                "There's something more intriguing than the book... someone\nwho's far too captivating... Let's investigate that."
                             ]
                         },
                         {
@@ -3494,21 +3452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは死霊術の魔導書だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさか・・・"
+                                "This is a necromancy grimoire! ...Could it be..."
                             ]
                         },
                         {
@@ -3884,14 +3828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>困りますよRuiさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に入られては・・・"
+                                "\\n<Sister>It's troubling, Rui-san. You can't just enter as you\nplease..."
                             ]
                         },
                         {
@@ -3924,14 +3861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>その様子だと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう言い逃れは出来ないようですね。"
+                                "\\n<Sister>From the looks of it... it seems you can no longer talk your\nway out of this."
                             ]
                         },
                         {
@@ -3964,21 +3894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>お察しの通り、私は死霊術の研究をしております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、勘違いしないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは善意からの行動なのですよ。"
+                                "\\n<Sister>As you've guessed, I am researching necromancy. But please\ndon't misunderstand. This is an act of goodwill."
                             ]
                         },
                         {
@@ -4011,21 +3927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>誰しもが、もう一度会いたい人がいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "過ぎ去った時を、どうしてもっと大切にしなかったのかを、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後悔しながら生きています。"
+                                "\\n<Sister>Everyone has someone they wish to meet again. Living in\nregret for not cherishing the time that has passed."
                             ]
                         },
                         {
@@ -4058,21 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>例えば、1000万Gを払って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんの1時間話せるだけだとしても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "亡くなった方との時間を取り戻せるなら惜しくはないでしょう。"
+                                "\\n<Sister>For example, even if it costs 10 million G for just an hour\nof conversation, if you could reclaim that time with a\ndeceased person, it wouldn't be too much to ask, would it?"
                             ]
                         },
                         {
@@ -4105,21 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>お金にがめついわけではありませんよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『生きて同じ時間を過ごすこと』には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけの価値がある、というお話です。"
+                                "\\n<Sister>I'm not greedy for money. It's just that \"living and\nspending time together\" has that much value, that's what I\nmean."
                             ]
                         },
                         {
@@ -4152,21 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>しかし、それに気が付くのは全てが終わってから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりに残酷ではありませんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変わらぬ日常が、何よりも掛け替えのないものだなんて。"
+                                "\\n<Sister>However, one only realizes this after everything is over.\nIsn't it too cruel? To think that an unchanging daily life\nis the most irreplaceable thing."
                             ]
                         },
                         {
@@ -4199,21 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>死を越えて、再び相まみえること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全ての人が夢に見て、そして諦めたことです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだあなたには難しい話でしょうか？"
+                                "\\n<Sister>To meet again beyond death. It's something everyone dreams\nof and then gives up on. Is this still a difficult concept\nfor you to grasp?"
                             ]
                         },
                         {
@@ -4269,21 +4115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>だからって、勝手に実験に使っていいわけじゃないよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死霊術なんてそんな良いものじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ゾンビになっちゃうんだよ！"
+                                "\\n<Rui>But that doesn't mean you can just use people for\nexperiments as you please! Necromancy isn't such a good\nthing! You'll turn into a zombie!"
                             ]
                         },
                         {
@@ -4310,14 +4142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>死霊術は魔法律で禁止されてる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それに、蘇ってもゾンビになるだけだ。"
+                                "\\n<Rui>Necromancy is banned by magical law. Besides, even if they\ncome back, they'll only be zombies."
                             ]
                         },
                         {
@@ -4367,21 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>だから実験が必要なのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禁忌にするから完成しないのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "倫理観は時に目を曇らせます。"
+                                "\\n<Sister>That's why experiments are necessary. It's unfinished\nbecause it's taboo. Ethics can sometimes cloud our vision."
                             ]
                         },
                         {
@@ -4414,21 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>それに、この町は命の価値が低い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喧嘩で死ぬ者、お酒に溺れる者、ドラッグ、空腹、病気・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死に慣れ過ぎて、弔う余裕もない。"
+                                "\\n<Sister>Moreover, this town places little value on life. People die\nin brawls, drown in alcohol, drugs, hunger, disease... Death\nis so commonplace that there's no room to mourn."
                             ]
                         },
                         {
@@ -4468,7 +4265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>だからここを選んだのですよ。"
+                                "\\n<Sister>That's why I chose this place."
                             ]
                         },
                         {
@@ -4524,21 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>んゃ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（嫌な魔力・・・！尻尾がピリピリする・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "正気じゃない・・・？）"
+                                "\\n<Rui>Nyah...! (This malevolent magic...! My tail is tingling...!\nIs she out of her mind...?)"
                             ]
                         },
                         {
@@ -4565,21 +4348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（死霊術が禁止されたのにはちゃんと理由がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死に取り憑かれるからだ。シスターはもう正気じゃない。）"
+                                "\\n<Rui>...(There's a good reason why necromancy is banned. It's\nbecause it's possessed by death. The Sister is no longer\nsane.)"
                             ]
                         },
                         {
@@ -4622,21 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>私が墓地を管理しなければ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "放置された遺体は腐り、やがては疫病が蔓延するでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "感謝こそされても、糾弾される覚えはありません。"
+                                "\\n<Sister>If I didn't manage the graveyard, the abandoned corpses\nwould rot and eventually spread disease. I should be\nthanked, not condemned."
                             ]
                         },
                         {
@@ -4669,21 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シスター>Ruiさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここを荒されたくはありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外に出ましょう。"
+                                "\\n<Sister>Rui-san. I do not wish for this place to be disturbed. Let's\ngo outside."
                             ]
                         },
                         {
@@ -4821,21 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "白骨化した遺体だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一部ボロボロに砕けていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや性別すら判別できない。"
+                                "It's a skeletonized corpse. Parts of it are so badly\ncrumbled that even the gender is indistinguishable."
                             ]
                         },
                         {
@@ -4926,21 +4653,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "白骨化した遺体だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一部ボロボロに砕けていて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もはや性別すら判別できない。"
+                                "It's a skeletonized corpse. Parts of it are so badly\ncrumbled that even the gender is indistinguishable."
                             ]
                         },
                         {
@@ -5404,7 +5117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ゾンビ>あ～・・・"
+                                "\\n<Zombie>Ahh..."
                             ]
                         },
                         {
@@ -5421,14 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "柱に繋がれて動けないゾンビだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見ていると哀れになってくる。"
+                                "It's a zombie tied to a pillar, unable to move... It's\npitiful to watch."
                             ]
                         },
                         {
@@ -5553,14 +5259,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力灯が光っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雷魔法と機械の融合した便利な代物。"
+                                "The magic lamp is shining. It's a convenient device that\ncombines thunder magic with machinery."
                             ]
                         },
                         {
@@ -5644,14 +5343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔力灯が光っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雷魔法と機械の融合した便利な代物。"
+                                "The magic lamp is shining. It's a convenient device that\ncombines thunder magic with machinery."
                             ]
                         },
                         {
@@ -5735,14 +5427,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "血のような液体・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや・・・これは・・・"
+                                "A liquid that looks like blood... no... this is..."
                             ]
                         },
                         {
@@ -5833,21 +5518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても綺麗な女性だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身体は冷たくなっている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まるで人形のように動かない・・・"
+                                "Such a beautiful woman... Her body has gone cold, not moving\nat all, just like a doll..."
                             ]
                         },
                         {
@@ -5942,14 +5613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "防腐処理をされた死体だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは・・・"
+                                "It's an embalmed corpse. This is..."
                             ]
                         },
                         {
@@ -5975,14 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "依頼書の肖像画の男性にそっくりだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、何故こんなところに・・・"
+                                "He looks just like the man in the portrait from the request!\nBut why here..."
                             ]
                         },
                         {

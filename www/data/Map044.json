@@ -5075,21 +5075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>捕まえました♥れろぉ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここを舐められると力が抜けちゃいますよね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちゅる・・・♥"
+                                "\\n<Enemy_Succubus>Got you♥ Lick...♥ Being licked here makes you lose your\nstrength, doesn't it?♥ Slurp...♥"
                             ]
                         },
                         {
@@ -5157,21 +5143,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>んぁ♥れろれろ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そろそろ達してしまいますか？ふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "こんな状況でよく興奮出来ますね♥くすくす♥"
+                                "\\n<Enemy_Succubus>Ah♥ Lick, lick...♥ Are you about to reach climax? Hehe♥\nYou're getting excited even in this situation, huh?♥\nGiggles♥"
                             ]
                         },
                         {
@@ -5195,21 +5167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>きゃぁ♥びゅるびゅる飛び出してます♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "足ガクガクさせちゃってますね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "でも、まだ倒れちゃダメですよ？"
+                                "\\n<Enemy_Succubus>Kyaa♥ It's spurting out♥ Your legs are trembling♥ But you\ncan't fall just yet, okay?"
                             ]
                         },
                         {
@@ -5930,21 +5888,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Self-Targeting Fire"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Around Shooter"
                             ]
                         },
                         {
@@ -5958,7 +5916,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "雷の矢"
+                                "Arrow of Thunder"
                             ]
                         },
                         {
@@ -6384,7 +6342,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "雷球"
+                                "Thunderball"
                             ]
                         },
                         {
@@ -6398,14 +6356,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Self-Targeting Shot"
                             ]
                         },
                         {
@@ -6716,7 +6674,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "旋風"
+                                "Whirlwind"
                             ]
                         },
                         {
@@ -8481,21 +8439,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "nwayShot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Direct Fire"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -9920,10 +9878,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦闘開始！",
-                                    "セーブ",
-                                    "解説を見る",
-                                    "攻略のヒント"
+                                    "Battle Start!",
+                                    "Save",
+                                    "View Explanation",
+                                    "Strategy Tips"
                                 ],
                                 -1,
                                 0,
@@ -10002,21 +9960,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アクションRPGボス戦です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃を避けながらAキーで攻撃してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Dキーを押している間は向きを固定して移動できます。"
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding the D key, you can\nmove while keeping your direction fixed."
                             ]
                         },
                         {
@@ -10033,21 +9977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵の攻撃で精力、体力のどちらかが0になると敗北です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "基本的に遠距離攻撃は体力が減り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "接触すると精力が減ります。"
+                                "If either your energy or health reaches 0 from the enemy's\nattacks, you will be defeated. Generally, ranged attacks\nwill decrease your health, and contact will decrease your\nenergy."
                             ]
                         },
                         {
@@ -10064,21 +9994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵に接触するとホールドされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タイミングバーを成功させるまでダメージを受け続けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タイミングバーを出してみますね。"
+                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let me show you the timing bar."
                             ]
                         },
                         {
@@ -10102,21 +10018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黄色で止めると成功、赤で止めるとクリティカルです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "黄色の場合はダメージを受けて解放され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "赤の場合はダメージを半減して解放されます。"
+                                "Stopping on yellow is a success, stopping on red is a\ncritical. If you stop on yellow, you'll take damage and be\nreleased, while stopping on red will halve the damage and\nrelease you."
                             ]
                         },
                         {
@@ -10133,21 +10035,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、敵から精力にダメージを受けると\\C[14]発情状態\\C[0]になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃時の斬撃の数が減ってしまいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発情中はステータスに♡マークがつきます。"
+                                "Furthermore, taking damage to your energy from the enemy\nwill put you in a [Color_14]state of arousal\\C[0], reducing\nthe number of slashes during your attacks. A heart mark will\nappear on your status while you are aroused."
                             ]
                         },
                         {
@@ -10164,21 +10052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "発情は一定数歩き回ることで解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クリティカルで振り払った場合にも発情状態が解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "余裕があれば赤で止めるようにしましょう。"
+                                "Arousal can be removed by walking around a certain number of\nsteps. It can also be removed if you achieve a critical to\nshake off the enemy. If possible, try to stop on red to\nremove arousal."
                             ]
                         },
                         {
@@ -10215,21 +10089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・敵の攻撃パターンを覚える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃にはパターンがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずは避けることに集中して覚えましょう。"
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on dodging first to learn them."
                             ]
                         },
                         {
@@ -10246,21 +10106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・Dキーの向き固定を活用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向きを固定することで攻撃と回避がしやすくなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下がりながら攻撃をすると戦いやすくなります。"
+                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile moving backwards can make the fight easier."
                             ]
                         },
                         {
@@ -10277,21 +10123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・回復アイテム、スキルを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復アイテム、スキル（深呼吸など）に使用制限はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復してゴリ押しすることも可能です。"
+                                "Use healing items and skills. There are no usage limits for\nhealing items and skills (like deep breathing). You can heal\nand push through with brute force if necessary."
                             ]
                         },
                         {
@@ -10308,21 +10140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・アクションイージーを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オプションからアクションイージーをONにすることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難易度が大幅に下がります。デメリットはありません。"
+                                "Utilize Action Ease. Turning on Action Ease from the options\nwill significantly lower the difficulty level. There are no\ndownsides to this."
                             ]
                         },
                         {
@@ -10987,14 +10805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あ・・・う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ・・・♥"
+                                "\\n<Enemy_Succubus>Ah...uh...ah...♥"
                             ]
                         },
                         {
@@ -11062,21 +10873,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>ほら、その子が温もりを求めていますよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "暖めてあげたらいかがですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Soel>Look, that child is seeking warmth♥ Why not warm them up?\nTeehee♥"
                             ]
                         },
                         {
@@ -11100,21 +10897,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>出してしまったのですね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "死者に生命の源を注ぎ込んでしまうとは・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "うふふ♥"
+                                "\\n<Soel>You've let it out, haven't you♥ To pour the source of life\ninto the dead...♥ Ufufu♥"
                             ]
                         },
                         {
@@ -11825,14 +11608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あ・・・う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ・・・♥"
+                                "\\n<Enemy_Succubus>Ah...uh...ah...♥"
                             ]
                         },
                         {
@@ -11900,21 +11676,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>ほら、その子が温もりを求めていますよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "暖めてあげたらいかがですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Soel>Look, that child is seeking warmth♥ Why not warm them up?\nTeehee♥"
                             ]
                         },
                         {
@@ -11938,21 +11700,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>出してしまったのですね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "死者に生命の源を注ぎ込んでしまうとは・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "うふふ♥"
+                                "\\n<Soel>You've let it out, haven't you♥ To pour the source of life\ninto the dead...♥ Ufufu♥"
                             ]
                         },
                         {
@@ -12508,28 +12256,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1斬　2打撃　3水　4火　5雷"
+                                "1 Slash 2 Strike 3 Water 4 Fire 5 Thunder"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "6誘惑　7食べ物"
+                                "6 Temptations 7 Foods"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "特殊206（個別攻撃種類）"
+                                "Special 206 (Individual Attack Type)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1リンゴ　2皿　3卵"
+                                "1 Apple 2 Plates 3 Eggs"
                             ]
                         },
                         {
@@ -12899,14 +12647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>う・・・♥あ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あぁ・・・♥"
+                                "\\n<Enemy_Succubus>Ugh...♥ Ah...♥ Aah...♥"
                             ]
                         },
                         {
@@ -12974,21 +12715,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>どうして振り払わないんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "くすくす♥分かりますよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "快楽は痛みより抗い難いことですから♥"
+                                "\\n<Soel>Why don't you shake me off? Teehee♥ I understand♥ Pleasure\nis harder to resist than pain♥"
                             ]
                         },
                         {
@@ -13012,21 +12739,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>よくやりましたね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そのまま搾り取って差し上げて♥"
+                                "\\n<Soel>You did well♥ Thank you. Now, continue to milk it for me♥"
                             ]
                         },
                         {
@@ -13852,14 +13565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>う・・・♥あ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あぁ・・・♥"
+                                "\\n<Enemy_Succubus>Ugh...♥ Ah...♥ Aah...♥"
                             ]
                         },
                         {
@@ -13927,21 +13633,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>どうして振り払わないんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "くすくす♥分かりますよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "快楽は痛みより抗い難いことですから♥"
+                                "\\n<Soel>Why don't you shake me off? Teehee♥ I understand♥ Pleasure\nis harder to resist than pain♥"
                             ]
                         },
                         {
@@ -13965,21 +13657,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>よくやりましたね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ありがとうございます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "そのまま搾り取って差し上げて♥"
+                                "\\n<Soel>You've done well♥ Thank you. Now, continue to milk me dry♥"
                             ]
                         },
                         {
@@ -14639,28 +14317,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1斬　2打撃　3水　4火　5雷"
+                                "1 Slash 2 Strike 3 Water 4 Fire 5 Thunder"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "6誘惑　7食べ物"
+                                "6 Temptations, 7 Delicacies"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "特殊206（個別攻撃種類）"
+                                "Special 206 (Individual Attack Type)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1リンゴ　2皿　3卵"
+                                "1 Apple 2 Plates 3 Eggs"
                             ]
                         },
                         {
@@ -15015,21 +14693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あぅ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゅる♥じゅるウ♥ぢゅぱっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゅるるるるる♥"
+                                "\\n<Enemy_Succubus>Ah...♥ slurp♥ slurp♥ *suck*♥ *slurping noises*♥"
                             ]
                         },
                         {
@@ -15106,14 +14770,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>その子は食欲旺盛なんです♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いっぱい食べさせてあげてくださいね♥"
+                                "\\n<Soel>That child is very hungry♥ Please feed them plenty♥"
                             ]
                         },
                         {
@@ -15137,14 +14794,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>あらあら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "まだ全然足りないみたいです♥くすくす♥"
+                                "\\n<Soel>Oh my... It seems they're still not satisfied at all♥\nteehee♥"
                             ]
                         },
                         {
@@ -15931,21 +15581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あぅ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゅる♥じゅるウ♥ぢゅぱっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゅるるるるる♥"
+                                "\\n<Enemy_Succubus>Ah...♥ slurp♥ slurp♥ *suck*♥ slurping sounds♥"
                             ]
                         },
                         {
@@ -16022,14 +15658,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>その子は食欲旺盛なんです♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "いっぱい食べさせてあげてくださいね♥"
+                                "\\n<Soel>That child is very hungry♥ Please feed them plenty♥"
                             ]
                         },
                         {
@@ -16053,14 +15682,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<ソエル>あらあら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "まだ全然足りないみたいです♥くすくす♥"
+                                "\\n<Soel>Oh my... It seems they're still not satisfied at all♥\nteehee♥"
                             ]
                         },
                         {
@@ -16696,28 +16318,28 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1斬　2打撃　3水　4火　5雷"
+                                "1 Slash 2 Strike 3 Water 4 Fire 5 Thunder"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "6誘惑　7食べ物"
+                                "6 Temptations 7 Foods"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "特殊206（個別攻撃種類）"
+                                "Special 206 (Individual Attack Type)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1リンゴ　2皿　3卵"
+                                "1 Apple 2 Plates 3 Eggs"
                             ]
                         },
                         {
@@ -17043,7 +16665,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "5射精 6吹っ飛ばす 7逃げこけ　8潰れる"
+                                "5 Ejaculations 6 Blown Away 7 Escape Failure 8 Crushed"
                             ]
                         },
                         {

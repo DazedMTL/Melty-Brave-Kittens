@@ -3686,21 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>これは勇者さ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと、失礼しました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここでは悟られないようにでしたね。"
+                                "\\n<Guild Master>Ah, the hero... Oops, my apologies. We must keep your\nidentity a secret here, right?"
                             ]
                         },
                         {
@@ -3717,21 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>話は伺っております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピリカ様の捜索はお任せください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報が入るまでの間はこの町の依頼を手伝って頂けると助かります。"
+                                "\\n<Guild Master>I have heard about your situation. Please leave the search\nfor Lady Pirika to us. In the meantime, it would be a great\nhelp if you could assist with the requests from this town."
                             ]
                         },
                         {
@@ -3748,21 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>あと、宿の代金は全額"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピリカ様のお父様が負担して下さるそうです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お気になさらぬよう、とのこと。"
+                                "\\n<Guild Master>Also, I've been informed that Lady Pirika's father will\ncover all of your lodging expenses. Please do not worry\nabout it."
                             ]
                         },
                         {
@@ -3844,21 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>インプ洞窟に淫魔が？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼内容が間違っていたのでしょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こちらでも原因を調査してみます。"
+                                "\\n<Guild Master>Succubi in the Imp Cave? Was there a mistake in the request\ndetails? We'll investigate the cause on our end as well."
                             ]
                         },
                         {
@@ -3875,21 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>それとピリカ様の件ですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "商人から特徴の一致する人物と取引をしたと情報が入りました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "装飾品の買い取りをしたとのこと。"
+                                "\\n<Guild Master>Regarding Lady Pirika's matter, we've received information\nfrom a merchant who had dealings with a person matching her\ndescription. It seems they purchased some jewelry."
                             ]
                         },
                         {
@@ -3906,21 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>滞在費を稼がれてしまいましたね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかの宿か、空き家か・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いずれにせよ、確かにアニスに潜伏しているようです。"
+                                "\\n<Guild Master>She must have earned enough for her lodging expenses.\nWhether it's at an inn or a vacant house... either way, it\nseems she's definitely hiding out in Anis."
                             ]
                         },
                         {
@@ -4002,21 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>ピリカ様の目撃情報は未だありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "門番にも伝えてあるのでこの町を出たら分かるはず。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだ潜伏している可能性が高いです。"
+                                "\\n<Guild Master>There's still no sighting information on Lady Pirika. We've\ninformed the gatekeeper, so we should know if she leaves\ntown. It's highly likely she's still in hiding."
                             ]
                         },
                         {
@@ -4033,21 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルド長>ゆう・・・Rui様はもうしばらく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼をこなしていてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ピリカ様は私達が必ず見つけ出しますから。"
+                                "\\n<Guild Master>Yuu... Please continue to handle requests for a while\nlonger, Rui-sama. We will certainly find Lady Pirika."
                             ]
                         },
                         {
@@ -4138,21 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>勇者様ってどんな人なんだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな剣を振り回して魔物を一刀両断にするんですって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとムキムキマッチョマンに違いないわ。"
+                                "\\n<Adventurer>I wonder what kind of person the hero is. They say they\nswing a huge sword and cut monsters in two with a single\nstroke. They must be a muscular macho man, no doubt about\nit."
                             ]
                         },
                         {
@@ -4243,14 +4117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>碌な依頼がないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "難易度に比べ報酬が割りにあってない。"
+                                "\\n<Adventurer>There are no decent requests. The rewards aren't worth the\ndifficulty."
                             ]
                         },
                         {
@@ -4341,21 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>俺たちが魔物を退治して回っているおかげで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この町は安全なんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なのにバカ王と来たら予算をケチりやがって。"
+                                "\\n<Adventurer>Thanks to us going around defeating monsters, this town is\nsafe, you know? And yet, that idiot king goes and skimps on\nthe budget."
                             ]
                         },
                         {
@@ -4372,21 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>1年前と比べて報酬が半分になりやがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちっ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちは命を賭けて仕事しているっつーのによ。"
+                                "\\n<Adventurer>The reward has been halved compared to a year ago. Tch. As\nif we're not risking our lives working here."
                             ]
                         },
                         {
@@ -4477,21 +4316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>もぐもぐ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐびぐび。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ぷはー。"
+                                "\\n<Adventurer>Munch munch. Gulp gulp... Ahh-."
                             ]
                         },
                         {
@@ -4508,14 +4333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>やっぱアニスの酒は美味しいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒飲むために仕事してるようなもんだわ。"
+                                "\\n<Adventurer>Anis's liquor really is delicious. It's almost like I work\njust to drink."
                             ]
                         },
                         {
@@ -4606,21 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>いくら町の中まで魔物が入って来ないと言っても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "周辺の掃除はしておかなきゃな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつ魔物が群れを成して襲って来るか分からん。"
+                                "\\n<Adventurer>Even if monsters don't come into town, we still need to\nclean up the surroundings. You never know when they might\ngather and attack."
                             ]
                         },
                         {
@@ -4711,21 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>仕事前の一杯は最高だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事終わりの一杯はもっと最高だぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕事中にも飲むがな！"
+                                "\\n<Adventurer>A drink before work is the best. A drink after work is even\nbetter. And I drink during work too!"
                             ]
                         },
                         {
@@ -4916,14 +4706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>はくしょぉぉぉいッ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちくしょーッ！！"
+                                "\\n<Chelsea>Achoo!!! Damn it!!"
                             ]
                         },
                         {
@@ -4956,14 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>ずびびびび・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かわたしのこと噂したぁ？"
+                                "\\n<Chelsea>Zzz... Did someone just talk about me?"
                             ]
                         },
                         {
@@ -5008,14 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<大男>おうおう！戦いの前にくしゃみたぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い度胸してんじゃねーか猫の姉ちゃん！"
+                                "\\n<Big Man>Oh ho! Sneezing before a fight, you've got guts, cat lady!"
                             ]
                         },
                         {
@@ -5078,14 +4847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>俺は猫の嬢ちゃんに1000G賭けるぜぇ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やったれやったれ！"
+                                "\\n<Adventurer A>I'm betting 1000G on the cat chick! Go for it, go for it!"
                             ]
                         },
                         {
@@ -5148,14 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>俺は手堅く大男に1000Gだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女相手だろうと容赦は要らねぇ！やっちまえ！"
+                                "\\n<Adventurer B>I'm playing it safe with 1000G on the big guy! No mercy,\neven if it's a woman! Take her down!"
                             ]
                         },
                         {
@@ -5218,14 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>顔は殴っちゃダメだぞー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大男に1000G！"
+                                "\\n<Adventurer C>Just don't hit the face, alright? 1000G on the big man!"
                             ]
                         },
                         {
@@ -5258,21 +5006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<大男>お嬢ちゃんから吹っ掛けてきたんだぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『ちからくらべ』しようってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺が勝ったら、片乳ぐらい揉ませてもらうぜ。ぐへへ♥"
+                                "\\n<Big Man>The little lady challenged me, see? Said \"let's have a test\nof strength\". If I win, I get to grope at least one of her\ntits. Ghehehe♥"
                             ]
                         },
                         {
@@ -5305,14 +5039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>両乳でいいよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝てたらね！"
+                                "\\n<Chelsea>You can have both if you win!"
                             ]
                         },
                         {
@@ -5413,14 +5140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者D>ははは！最高だぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫のねーちゃんに1000G！いや、2000だ！"
+                                "\\n<Adventurer D>Hahaha! Awesome! 1000G on the cat lady! No, make that 2000!"
                             ]
                         },
                         {
@@ -5446,21 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<大男>ふん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最初から全力で行かせてもらうぜ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪く思うな！"
+                                "\\n<Big Man>Hmph! I'll go all out from the start! Don't take it\npersonally!"
                             ]
                         },
                         {
@@ -5531,21 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<大男>身体が熱い\\.・\\.・\\.・\\.！\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "力が目覚める\\.・\\.・\\.・\\.！！\\.\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "奥義！！\\.\\.\\.\\.ドラゴン\\.\\^"
+                                "\\n<Big Man>My body is heating up...! Power awakening...!! Ultimate\ntechnique!! Dragon"
                             ]
                         },
                         {
@@ -5818,7 +5510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>どーん！"
+                                "\\n<Chelsea>Boom!"
                             ]
                         },
                         {
@@ -5851,7 +5543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>むぅぅ・・・面白くないなぁ・・・"
+                                "\\n<Chelsea>Mmm... This isn't fun at all..."
                             ]
                         },
                         {
@@ -5884,14 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>もっと、手ごたえ？歯ごたえ？口ごたえ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どれでもいいから、ある人出て来てよぉ。"
+                                "\\n<Chelsea>I want more resistance... bite... or talk back... Anything\nwill do, someone step up."
                             ]
                         },
                         {
@@ -6018,14 +5703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>あ？なんだテメーは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはテメーみたいなナヨナヨしたやつが来るところじゃねー。"
+                                "\\n<Adventurer>Huh? Who the hell are you? This ain't a place for wimps like\nyou."
                             ]
                         },
                         {
@@ -6051,21 +5729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<冒険者>ん？よく見ると可愛い顔してんじゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一緒に飲もうぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は仕事はやめだ。飲もう飲もう。"
+                                "\\n<Adventurer>Hmm? On a closer look, you've got a pretty cute face. Let's\nhave a drink together. Work's off for today. Let's drink,\nlet's drink."
                             ]
                         },
                         {
@@ -6092,14 +5756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<冒険者>そのでけー剣もどうせ見せかけだけだろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "中にスポンジでも詰まってんだろ。"
+                                "\\n<Adventurer>That big sword of yours is just for show, right? It's\nprobably stuffed with sponge on the inside."
                             ]
                         },
                         {
@@ -6200,21 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>いい仕事があるかと思ってわざわざ王都まで来たが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃ失敗だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだオレガノの方がマシだった。"
+                                "\\n<Adventurer>I came all the way to the royal capital thinking there would\nbe good work, but this was a mistake. Oregano was still\nbetter."
                             ]
                         },
                         {
@@ -6231,21 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>早く他所に行きてーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅費を稼ぐのも難しいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ。"
+                                "\\n<Adventurer>I want to go somewhere else quickly, but earning travel\nexpenses is tough too. Sheesh."
                             ]
                         },
                         {
@@ -6336,21 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>いい仕事があるかと思ってわざわざ王都まで来たが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こりゃ失敗だったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだオレガノの方がマシだった。"
+                                "\\n<Adventurer>I came all the way to the royal capital thinking there would\nbe good work, but this was a mistake. Oregano was still\nbetter."
                             ]
                         },
                         {
@@ -6367,21 +5982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>早く他所に行きてーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅費を稼ぐのも難しいぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ。"
+                                "\\n<Adventurer>I want to go somewhere else quickly, but it's tough to earn\ntravel expenses. Good grief."
                             ]
                         },
                         {
@@ -6472,21 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>勇者様ってどんな人なんだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな剣を振り回して魔物を一刀両断にするんですって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとムキムキマッチョマンに違いないわ。"
+                                "\\n<Adventurer>I wonder what kind of person the hero is. They say he swings\na big sword and cuts monsters in two with a single stroke.\nHe must be a muscular macho man, no doubt about it."
                             ]
                         },
                         {
@@ -6593,21 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>Rui、看守の仕事なんてやってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪いことした人を見張るだけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまんなそー！"
+                                "\\n<Chelsea>Rui, are you really doing a guard's job? Just watching over\npeople who've done bad things? Sounds boring!"
                             ]
                         },
                         {
@@ -6781,14 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>悪いやつは殴ってもいいんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しゅっ！しゅっ！"
+                                "\\n<Chelsea>You can punch the bad guys, you know! Swoosh! Swoosh!"
                             ]
                         },
                         {
@@ -6852,21 +6418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<チェルシー>さーてと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これ食べたら魔物退治でも行ってこよっかなー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パワー！"
+                                "\\n<Chelsea>Alrighty! After I eat this, maybe I'll go defeat some\nmonsters! Power!"
                             ]
                         },
                         {
@@ -6967,21 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>もぐもぐ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐびぐび。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・ぷはー。"
+                                "\\n<Adventurer>Munch munch. Gulp gulp... Ahh-."
                             ]
                         },
                         {
@@ -6998,14 +6536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>やっぱアニスの酒は美味しいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "酒飲むために仕事してるようなもんだわ。"
+                                "\\n<Adventurer>Anis's liquor really is delicious. It's almost like I work\njust to drink this."
                             ]
                         },
                         {

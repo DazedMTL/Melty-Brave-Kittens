@@ -9998,21 +9998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]※戦闘の仕方（アクションRPG）"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[0]Aキーで攻撃を発射します。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "与えるダメージはステータスの『戦闘力』で決まります。"
+                                "\\C[1]※How to Fight (Action RPG)\\C[0] Press the A key to launch an\nattack. The damage dealt is determined by your \"Attack\" stat\nin your status."
                             ]
                         },
                         {
@@ -10029,21 +10015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Dキーを押している間は向きを固定して移動できます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "体力、もしくは精力が0になると敗北です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（通常の攻撃→体力　快楽攻撃→精力　にダメージ）"
+                                "While holding down the D key, you can move while keeping\nyour direction fixed. If your health or energy reaches 0,\nyou are defeated. (Normal attack → Pleasure attack on health\n→ Damage to energy)"
                             ]
                         },
                         {

@@ -3866,21 +3866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>アナタ冒険者？見ない顔ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "居住区には近寄らない方が身のためよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らない顔は警戒されるの。ここまでにしておきなさい。"
+                                "\\n<Female>Are you an adventurer? I haven't seen your face before. It's\nbetter for your own good not to get too close to the\nresidential area. Unfamiliar faces are met with caution. You\nshould stop here."
                             ]
                         },
                         {
@@ -3897,14 +3883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>教会で祈りを捧げてくるといいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かしらの加護はあるでしょ。知らないけど。"
+                                "\\n<Female>It would be good for you to offer prayers at the church.\nThere might be some kind of divine protection for you. Not\nthat I know of, though."
                             ]
                         },
                         {
@@ -4011,14 +3990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壁の一部がなんか怪しい気がする・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触ってみよう。"
+                                "Part of the wall seems suspicious... Let's try touching it."
                             ]
                         },
                         {
@@ -4081,14 +4053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアが現れた・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "表面を砂や石で偽装してあったようだ。"
+                                "A door appeared...! It looks like it was camouflaged with\nsand and stones."
                             ]
                         },
                         {
@@ -4307,7 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうここには入りたくない。"
+                                "I don't want to enter here anymore."
                             ]
                         },
                         {
@@ -4407,7 +4372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓を掘り返した後のようだ・・・"
+                                "It looks like a grave has been dug up..."
                             ]
                         },
                         {
@@ -4507,7 +4472,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "墓を掘り返した後のようだ・・・"
+                                "It looks like a grave has been dug up..."
                             ]
                         },
                         {
@@ -4607,21 +4572,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "お酒が供えてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んだ後も飲みたくなったりするのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分からない・・・"
+                                "There's alcohol offered here. I wonder if one would want to\ndrink even after death? I don't know..."
                             ]
                         },
                         {

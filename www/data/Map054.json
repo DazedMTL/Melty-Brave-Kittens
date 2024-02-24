@@ -7808,21 +7808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>ぐはッ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、ダメだ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソ・・・！"
+                                "\\n<Sheika>Guh...! No, I can't...! Damn it...!"
                             ]
                         },
                         {
@@ -7864,14 +7850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>シェイカ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう絶対許さない・・・！！"
+                                "\\n<Barley>Sheika!! I will never forgive you...!!"
                             ]
                         },
                         {
@@ -8095,21 +8074,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "nwayShot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Self-Targeting Fire"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -8123,7 +8102,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "雷の矢"
+                                "Arrow of Thunder"
                             ]
                         },
                         {
@@ -8572,21 +8551,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "Twin Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -11651,10 +11630,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦闘開始！",
-                                    "セーブ",
-                                    "解説を見る",
-                                    "攻略のヒント"
+                                    "Battle Start!",
+                                    "Save",
+                                    "View Explanation",
+                                    "Strategy Tips"
                                 ],
                                 -1,
                                 0,
@@ -11733,21 +11712,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アクションRPGボス戦です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃を避けながらAキーで攻撃してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Dキーを押している間は向きを固定して移動できます。"
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding the D key, you can\nmove while keeping your direction fixed."
                             ]
                         },
                         {
@@ -11764,14 +11729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵の攻撃で精力、体力のどちらかが0になると敗北です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誘惑攻撃の場合はタイミングバーが表示されます。"
+                                "If either your energy or health reaches 0 from the enemy's\nattacks, you will be defeated. In the case of seductive\nattacks, a timing bar will be displayed."
                             ]
                         },
                         {
@@ -11788,21 +11746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、敵から精力にダメージを受けると\\C[14]発情状態\\C[0]になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃時の斬撃の数が減ってしまいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発情中はステータスに♡マークがつきます。"
+                                "Furthermore, if you take damage to your energy from the\nenemy, you will enter a \\C[14]state of arousal\\C[0], and the\nnumber of slashes during your attack will decrease. A heart\nmark will appear on your status while in arousal."
                             ]
                         },
                         {
@@ -11819,21 +11763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "発情は一定数歩き回ることで解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クリティカルで振り払った場合にも発情状態が解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "余裕があれば赤で止めるようにしましょう。"
+                                "Arousal can be dispelled by walking around a certain number\nof steps. It can also be dispelled by shaking off a critical\nhit. If you can afford it, try to stop it when it's red."
                             ]
                         },
                         {
@@ -11870,21 +11800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・敵の攻撃パターンを覚える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃にはパターンがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずは避けることに集中して覚えましょう。"
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. First, focus on avoiding them to learn their\npatterns."
                             ]
                         },
                         {
@@ -11901,21 +11817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・Dキーの向き固定を活用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向きを固定することで攻撃と回避がしやすくなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下がりながら攻撃をすると戦いやすくなります。"
+                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and evade. Attacking\nwhile backing away can make the fight easier."
                             ]
                         },
                         {
@@ -11932,21 +11834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・回復アイテム、スキルを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復アイテム、スキル（深呼吸など）に使用制限はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復してゴリ押しすることも可能です。"
+                                "Use healing items and skills. There are no usage\nrestrictions on healing items and skills (such as deep\nbreathing). It's possible to heal and push through\naggressively."
                             ]
                         },
                         {
@@ -11963,21 +11851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・アクションイージーを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オプションからアクションイージーをONにすることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難易度が大幅に下がります。デメリットはありません。"
+                                "Use the Action Easer option. By turning on the Action Easer\nfrom the options, the difficulty level will significantly\ndecrease. There are no disadvantages."
                             ]
                         },
                         {
@@ -13204,21 +13078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>あぐうぅぅ・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご、ごめんシェイカ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチ・・・もう・・・"
+                                "\\n<Barley>Ughhh...!! I-I'm sorry, Sheika...! I... I can't anymore..."
                             ]
                         },
                         {
@@ -13260,21 +13120,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>バーリィ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・テメェよくもやってくれたな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死ぬ準備は出来てんだろーな？"
+                                "\\n<Sheika>Barley!!... You really did it now, huh? You ready to die?"
                             ]
                         },
                         {
@@ -13511,7 +13357,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "フレイム発射"
+                                "Flame Emission"
                             ]
                         },
                         {
@@ -13525,14 +13371,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
@@ -19576,14 +19422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>だぁ～！クソが！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何なんだよコイツ！強すぎんだろ！"
+                                "\\n<Sheika>Darn it! What the hell is this guy?! Too strong!"
                             ]
                         },
                         {
@@ -19616,14 +19455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>もうダメ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
+                                "\\n<Barley>I can't... anymore... *pant*... *pant*..."
                             ]
                         },
                         {
@@ -19665,14 +19497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（泣いても笑ってもこれが最後だ。いくぞ。）"
+                                "\\n<Sheika>...(Whether I cry or laugh, this is the end. Here I go.)"
                             ]
                         },
                         {
@@ -19714,14 +19539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（全魔力を込めて・・・！）"
+                                "\\n<Barley>...(Pouring all my magic power into this...!)"
                             ]
                         },
                         {
@@ -19962,7 +19780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>ちゅっ★ちゅっ★ちゅっ★"
+                                "\\n<Sheika>Smooch★ Smooch★ Smooch★"
                             ]
                         },
                         {
@@ -19991,21 +19809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ちゅぅ♥ちゅぅぅ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おねがぁい・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう悪い事しないからぁ・・・♥"
+                                "\\n<Barley>Mmm♥ Mmmm♥ Please...♥ I won't do anything bad anymore...♥"
                             ]
                         },
                         {
@@ -20022,14 +19826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>見逃してくれねーかなぁ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んちゅっ★"
+                                "\\n<Sheika>Could you let me off the hook...? Mwah★"
                             ]
                         },
                         {
@@ -20058,21 +19855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ウチら、そもそも無理やり人間さん襲ったり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "してないんだよ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅっ♥ちゅぅ♥"
+                                "\\n<Barley>We never forced humans to do anything against their will,\nyou know...? Smooch♥ Mmmm♥"
                             ]
                         },
                         {
@@ -20101,21 +19884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>あーしらが犯したのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分からちんぽ差し出してくるやつらだけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お互い合意の上でえっちして、何か悪いのか？"
+                                "\\n<Sheika>The only ones we've been with are those who offered their\ncocks willingly. What's wrong with having consensual sex?"
                             ]
                         },
                         {
@@ -20197,21 +19966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ちゅっ♥ちゅっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "向こうが搾り取ってくださいってお願いしてくるからぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチらは答えてあげただけなの♥ほんとだよ？"
+                                "\\n<Barley>Smooch♥ Smooch♥ They're the ones begging us to milk them\ndry...♥ We just obliged♥ Really!"
                             ]
                         },
                         {
@@ -20240,21 +19995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>確かに、ちょっとやり過ぎたところはある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅっ★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今後は、ちゃんと加減して搾るようにするからさ・・・"
+                                "\\n<Sheika>Sure, we might have gone a bit too far. Smooch★ From now on,\nwe'll be careful to milk in moderation..."
                             ]
                         },
                         {
@@ -20290,21 +20031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>おねがぁい♥許してぇ♥ちゅっ♥ちゅぅぅ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミだって、おちんちんおっきして辛そうだよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おせーし、ぴゅっぴゅしたくなぁい？くすくす♥"
+                                "\\n<Barley>Please♥ Forgive me♥ Smooch♥ Mmmm♥ You look like you're in\npain with that hard dick, don't you want to cum? Teehee♥"
                             ]
                         },
                         {
@@ -20340,21 +20067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>これは約束だ。ちゅっ★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしは絶対に約束は破らねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲直りしようぜ？な？ちゅぅぅ★"
+                                "\\n<Sheika>This is a promise. Smooch★ I never break my promises. Let's\nmake up, okay? Huh? Mmmm★"
                             ]
                         },
                         {
@@ -20378,21 +20091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ウチらとえっちなこと、しよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちゅっ♥ちゅっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい、いちゃいちゃしよーよ♥ちゅぅぅぅ♥"
+                                "\\n<Barley>Wanna do naughty things with us? Smooch♥ Smooch♥ Let's get\nall lovey-dovey♥ Mmmmm♥"
                             ]
                         },
                         {
@@ -20455,8 +20154,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[10]誘惑に負ける カルマ-1",
-                                    "\\C[1]トドメを刺す カルマ+1",
+                                    "\\C[10]Succumb to temptation Karma-1",
+                                    "\\C[1]Deliver the final blow Karma+1",
                                     "<random><timer>"
                                 ],
                                 -1,
@@ -20519,21 +20218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>んふっ♥目がハート♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっとウチらの気持ち、分かってくれたみたい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Barley>Nfufu♥ Love-struck eyes♥ It seems like you finally\nunderstand how we feel♥ Teehee♥"
                             ]
                         },
                         {
@@ -21060,14 +20745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>がハッ・・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "く・・・クソガキが・・・"
+                                "\\n<Sheika>Gahah... ugh... You little shit..."
                             ]
                         },
                         {
@@ -21093,14 +20771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>あ・・・は・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "も、もう流石に・・・ダメ・・・みたい・・・"
+                                "\\n<Barley>Ah... ha... I'm really... done for... it seems..."
                             ]
                         },
                         {
@@ -21126,21 +20797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>良い気になってんじゃ、ねーぞ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "テメェ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぜってぇ・・・殺して・・・や・・・"
+                                "\\n<Sheika>Don't get too cocky... You bastard... I'll definitely...\nkill you..."
                             ]
                         },
                         {
@@ -21166,21 +20823,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>今際の際だよ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう・・・怒るのやめよ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ね・・・♥"
+                                "\\n<Barley>It's the end of the line... Let's stop being angry, okay...?\nHuh...♥"
                             ]
                         },
                         {
@@ -21206,14 +20849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そう・・・だな・・・"
+                                "\\n<Sheika>...Yeah... that's right..."
                             ]
                         },
                         {
@@ -21239,14 +20875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>楽しかった・・・シェイカ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大好き・・・♥"
+                                "\\n<Barley>It was fun... Sheika... I love you...♥"
                             ]
                         },
                         {
@@ -21272,14 +20901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>バーリィ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あーし・・・も・・・"
+                                "\\n<Sheika>Barley... I... too..."
                             ]
                         },
                         {

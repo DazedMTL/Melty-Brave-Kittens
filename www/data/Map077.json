@@ -3602,14 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここまでくれば・・・！"
+                                "\\n<Rui>Haa... haa... If I've made it this far...!"
                             ]
                         },
                         {
@@ -3642,21 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（何の気配もしない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "完全に振り切った！後は凝血晶を・・・）"
+                                "\\n<Rui>...(There's no sign of anything... I've completely shaken\nthem off! Now, to deal with the coagulation crystal...)"
                             ]
                         },
                         {
@@ -3820,21 +3799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>完全に結界が！！もう海に捨てるしか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、海にだって魔物がいる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なるべく遠くに投げないと、すぐに見つかる・・・"
+                                "\\n<Rui>The barrier is completely gone!! I have no choice but to\nthrow it into the sea... No, there are monsters in the sea\ntoo! I have to throw it as far away as possible, or it'll be\nfound immediately..."
                             ]
                         },
                         {
@@ -3874,21 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>う・・・うぇぇぇぇぇ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、ダメだ！こ、こんなのもう・・・触れない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吐き気が・・・！！"
+                                "\\n<Rui>Ugh... uweeeeh!!! No, I can't! I can't touch this anymore...\nI feel nauseous...!!"
                             ]
                         },
                         {
@@ -3935,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>（よく頑張りましたね。Rui。）"
+                                "\\n<???>(You've done well, Rui.)"
                             ]
                         },
                         {
@@ -3975,14 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>だ・・・だれ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰の声・・・"
+                                "\\n<Rui>Wh... who...? Whose voice..."
                             ]
                         },
                         {
@@ -4015,7 +3959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（私です。）"
+                                "\\n<Cat Borrower>(It's me.)"
                             ]
                         },
                         {
@@ -4070,21 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>え・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫借手？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手が・・・しゃべった・・・？"
+                                "\\n<Rui>Eh...? Cat Borrower? The hand... spoke...?"
                             ]
                         },
                         {
@@ -4117,21 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（手を借りているんですから、もちろん貸している人がいるでしょう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかから、勝手に手が生まれるとでも思っていましたか？）"
+                                "\\n<Cat Borrower>(Since you're borrowing a hand, of course there's someone\nlending it, right? Fufufu♥ Did you think hands just sprouted\nfrom nowhere?)"
                             ]
                         },
                         {
@@ -4148,21 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（凝血晶は私が、遥か遠くの海の底まで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物の居ない深海に沈めてきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから、もう心配しないで。）"
+                                "\\n<Cat Borrower>(I will take the coagulation crystal and sink it to the\nbottom of the distant sea, in a deep sea where no monsters\ndwell. So, don't worry anymore.)"
                             ]
                         },
                         {
@@ -4179,21 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（魔力は水に溶けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これだけの悪意の塊ですら、長い時間をかければ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "広大な海の一部となって、自然と消えていくでしょう。）"
+                                "\\n<Cat Borrower>(Magical power dissolves in water. Even a mass of malice\nlike this will eventually become part of the vast ocean and\nnaturally fade away over time.)"
                             ]
                         },
                         {
@@ -4575,21 +4463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（う・・・これはなかなか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え、えげつない代物ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちわる・・・）"
+                                "\\n<Cat Borrower>(Ugh... this is quite a nasty piece of work. It feels\ndisgusting...)"
                             ]
                         },
                         {
@@ -4622,21 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（チェルシーが猫借手を使えなかったのは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの子には必要ないと思ったからです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "真っすぐで、迷わない強い子だから。）"
+                                "\\n<Cat Borrower>(The reason Chelsea couldn't use the Cat Borrower was that I\nthought she didn't need it. She's straightforward and\nstrong, never wavering.)"
                             ]
                         },
                         {
@@ -4653,21 +4513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（しかし、アナタたち双子は違います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特別な双子。天性の才能。生まれ持った地位。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人より秀でたことで甘え、驕り高ぶり、道を踏み外す危険もある。）"
+                                "\\n<Cat Borrower>(However, you twins are different. Special twins. Innate\ntalent. Born status. You've been pampered and grown arrogant\ndue to your superiority over others, and there's a danger of\nstraying from the path.)"
                             ]
                         },
                         {
@@ -4693,14 +4539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<猫借手>（Rui・・・いえ、ワンズワース。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタはとても手のかかる娘でした。）"
+                                "\\n<Cat Borrower>(Rui... no, Wanzworth. You were a very troublesome\ndaughter.)"
                             ]
                         },
                         {
@@ -4727,14 +4566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<猫借手>（Rui・・・いえ、ルイシャム。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタはとても手のかかる息子でした。）"
+                                "\\n<Cat Borrower>(Rui... no, Luisham. You were a very troublesome son.)"
                             ]
                         },
                         {
@@ -4784,14 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>お・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お母さん・・・？"
+                                "\\n<Rui>Mo... mother...?"
                             ]
                         },
                         {
@@ -4831,21 +4656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（でも、もう大丈夫ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "外に出て、人と触れ合って、ぶつかって、惑わされても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "間違わずにここまで来れました。）"
+                                "\\n<Cat Borrower>(But now you're fine. You've gone outside, interacted with\npeople, clashed with them, been led astray, but you've come\nthis far without making mistakes.)"
                             ]
                         },
                         {
@@ -4862,14 +4673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（何の心配もない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルイシャムもワンズワースも、私の自慢の子。）"
+                                "\\n<Cat Borrower>(There's nothing to worry about. Both Luisham and Wanzworth\nare my pride and joy.)"
                             ]
                         },
                         {
@@ -4886,14 +4690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（未来は自分の手で掴み取りなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手を貸すのはこれで最後です。）"
+                                "\\n<Cat Borrower>(Seize your future with your own hands. This is the last\ntime I lend you a hand.)"
                             ]
                         },
                         {
@@ -4919,14 +4716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫借手>（でも、いつでも見守っていますよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の可愛い子供たち。）"
+                                "\\n<Cat Borrower>(But I'm always watching over you. My dear children.)"
                             ]
                         },
                         {
@@ -5265,14 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>あ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いかな・・・"
+                                "\\n<Rui>Ah... don't go..."
                             ]
                         },
                         {
@@ -5328,7 +5111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -5462,21 +5245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>いままでありがとう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私だって！お母さんの子だもん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頑張れる！頑張るから！！"
+                                "\\n<Rui>Thank you for everything!! I can do it too! Because I'm your\nchild, mom! I can do it! I will do it!!"
                             ]
                         },
                         {
@@ -5503,21 +5272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>いままでありがとう！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボク、もっと頑張るよ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誇り高い、キャットフィールド家の人間だから！"
+                                "\\n<Rui>Thank you for everything!! I'll try even harder!! Because\nI'm a proud member of the Catfield family!"
                             ]
                         },
                         {
@@ -5579,7 +5334,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -5603,21 +5358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "その後、テラ含む魔物の大群は凝血晶を見失ったこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしてルマーレ守衛隊の活躍により大半を撃退され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生き残りは諦めて去って行った。"
+                                "Afterwards, the horde of monsters including Terra lost sight\nof the coagulation crystal and were mostly repelled by the\nefforts of the Lumare Guard, with the survivors giving up\nand leaving."
                             ]
                         },
                         {
@@ -5634,14 +5375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドリーネの被害は甚大だったが、ルマーレとの協力により"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "復興は順調に進んでいる。"
+                                "The damage to Dreen was severe, but reconstruction is\nprogressing smoothly with cooperation from Lumare."
                             ]
                         },
                         {
@@ -5658,21 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ノブレス伯爵は陰謀がバレて投獄。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スラムの住民を生き埋めにしようとしたことを公表された。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、貴族街の住民たちには彼を支持する人も少なくない。"
+                                "Count Noblesse was imprisoned after his conspiracy was\nexposed. The fact that he tried to bury the slum dwellers\nalive was made public. However, there are still not a few\namong the residents of the noble district who support him."
                             ]
                         },
                         {
@@ -5689,21 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "習慣とは恐ろしいもので、アレだけのことがあっても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まだスラムの住民は昼間から酒を飲んだり、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族街の住民はゴミを捨てている。"
+                                "Custom is a frightening thing; despite everything that\nhappened, slum dwellers still drink during the day and\nresidents of the noble district continue to litter."
                             ]
                         },
                         {
@@ -5720,14 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "一度、共に戦ったからと言って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長年のわだかまりが一気に解消される、なんてことはなかった。"
+                                "Just because they fought together once doesn't mean that\nyears of resentment were instantly resolved."
                             ]
                         },
                         {
@@ -5744,21 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "だけど、着実に変わってきている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それは上の人も、下の人も、みんなが感じ取っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほんの少しだけど、お互いをちゃんと知ろうとしている。"
+                                "But things are steadily changing. Everyone, both high and\nlow, can feel it. Even if it's just a little, they're trying\nto truly understand each other."
                             ]
                         },
                         {
@@ -5784,7 +5469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そして私たちはというと・・・"
+                                "And as for us..."
                             ]
                         },
                         {
@@ -5811,7 +5496,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "そしてボクらはというと・・・"
+                                "And as for us boys..."
                             ]
                         },
                         {

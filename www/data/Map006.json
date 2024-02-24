@@ -3875,21 +3875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<女性>ん？何？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "調査依頼中・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この男性に見覚えはないかって？"
+                                "\\n<Female>Hm? What? You're on an investigation...? Asking if I\nrecognize this man?"
                             ]
                         },
                         {
@@ -3918,14 +3904,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<女性>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見覚えも何も、もう死んでるわよ。"
+                                "\\n<Female>...Recognize him? He's already dead."
                             ]
                         },
                         {
@@ -3942,21 +3921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<女性>幽霊かもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "成仏する前に妻の顔が見たかったんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メイソン夫妻は仲が良かったからねぇ。"
+                                "\\n<Female>Could be a ghost, right? Maybe he wanted to see his wife's\nface before passing on. The Mason couple were quite close,\nafter all."
                             ]
                         },
                         {
@@ -3983,21 +3948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<女性>アナタ冒険者？見ない顔ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "居住区には近寄らない方が身のためよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "知らない顔は警戒されるの。ここまでにしておきなさい。"
+                                "\\n<Female>Are you an adventurer? I haven't seen your face before. It's\nbetter for you not to approach the residential area.\nUnfamiliar faces are met with suspicion. You should stop\nhere."
                             ]
                         },
                         {
@@ -4014,14 +3965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<女性>暇なら教会で祈りを捧げてくるといいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何かしらの加護はあるでしょ。知らないけど。"
+                                "\\n<Female>If you're free, you might as well offer a prayer at the\nchurch. There might be some kind of blessing for you. Not\nthat I would know."
                             ]
                         },
                         {
@@ -4113,21 +4057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>シスターが死霊術を使ってたって本当なのかねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はあんな良い子がそんなことをするなんて思えないけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪質なデマだわ。"
+                                "\\n<Female>Is it true that the sister was using necromancy? I can't\nimagine such a good child doing that. It must be a nasty\nrumor."
                             ]
                         },
                         {
@@ -4144,21 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>今はシスターが張ったのか、誰が張ったのか分からないけれど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教会には入れないようになってるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な噂が流されちゃ、身を守るのも大変でしょうし。"
+                                "\\n<Female>Right now, whether it was the sister who put it up or\nsomeone else, we can't enter the church. With strange rumors\ngoing around, it must be hard to protect oneself."
                             ]
                         },
                         {
@@ -4240,21 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>やっぱりシスターが死霊術を使っているなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悪質なデマだったみたいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "教会がいつも通りに戻って良かったわ。"
+                                "\\n<Female>It seems like it was just a nasty rumor that the sister was\nusing necromancy. I'm glad the church is back to normal."
                             ]
                         },
                         {
@@ -4271,21 +4173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>誰がそんなデマを流したのかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最低のクズ野郎だわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "罰が当たりますように！"
+                                "\\n<Female>I wonder who spread such a rumor. They're the scum of the\nearth. May they be cursed!"
                             ]
                         },
                         {
@@ -4367,21 +4255,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>シスターが死霊術を使っていたのが本当だったなんて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ最初からあの女、怪しいと思ったのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何が全ての人々に慈悲を、よ。"
+                                "\\n<Female>To think that the Sister was really using necromancy...\nWell, I suspected that woman was shady from the start. So\nmuch for her \"mercy to all people.\""
                             ]
                         },
                         {
@@ -4398,14 +4272,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>死体が手に入りやすいから来ただけだったなんて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなに死体が好きなら自分がなりゃいいのに。"
+                                "\\n<Female>She came here just because it was easy to get corpses. If\nshe likes dead bodies so much, she should just become one\nherself."
                             ]
                         },
                         {
@@ -4664,21 +4531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "『ストーム教ドリーネ支部』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地の底にも穏やかな風と救いの稲光を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "葬儀、霊園の管理もお任せください。"
+                                "\"Storm Sect Drine Branch\" - Bringing gentle breezes and the\nsaving flash of lightning even to the depths of the earth.\nEntrust us with funerals and cemetery management as well."
                             ]
                         },
                         {
@@ -4788,21 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かなり強力な緑色の結界が掛けられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐らく風の魔力で作られたものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解除するには時間がかかりそう・・・"
+                                "A considerably powerful green barrier has been erected. It's\nlikely made with the power of wind magic. It seems it will\ntake some time to dispel..."
                             ]
                         },
                         {
@@ -5007,21 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "かなり強力な緑色の結界が掛けられている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恐らく風の魔力で作られたものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "解除するには時間がかかりそう・・・"
+                                "A considerably powerful green barrier has been cast. It's\nlikely made with the power of wind magic. It seems it will\ntake time to dispel..."
                             ]
                         },
                         {
@@ -5468,21 +5293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ひげモジャ>うへ・・・へへへへ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お？お？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふへへ！へっ！へへへへへ！！"
+                                "\\n<Bearded Moja>Uhe... hehehehe...! O? O? Fufuhehe! Heh! Hehehehehe!!"
                             ]
                         },
                         {
@@ -5499,14 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ひとりで笑い続けている・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖いので近寄らないようにしよう。"
+                                "They keep laughing to themselves... It's scary, so I should\nstay away."
                             ]
                         },
                         {
@@ -5648,7 +5452,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<猫>くるる。"
+                                "\\n<Cat>Purr."
                             ]
                         },
                         {
@@ -5665,14 +5469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ご先祖様だ！気持ちよさそうに寝ている・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっとしておいてあげよう。"
+                                "It's the ancestor! They seem to be sleeping comfortably...\nLet's leave them be quietly."
                             ]
                         },
                         {

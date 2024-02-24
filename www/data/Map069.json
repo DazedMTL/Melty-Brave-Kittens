@@ -10911,21 +10911,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>ゴミを下に捨てるのは慈善行為なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "決して悪い事などではないのよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "必要な物を、必要な人に渡す。"
+                                "\\n<Female>Throwing trash down below is an act of charity. It's\ncertainly not a bad thing. It's about giving what's needed\nto those who need it."
                             ]
                         },
                         {
@@ -10942,21 +10928,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>私は一度着ると同じ服は着ないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからよく服を捨てるんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと下の住民は喜んで受け取ってくれているはずだわ。"
+                                "\\n<Female>I never wear the same clothes twice. That's why I often\nthrow them away, but I'm sure the people living below must\nbe happy to receive them."
                             ]
                         },
                         {
@@ -11047,21 +11019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>危ないから近寄るなよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここから下にゴミを捨てるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり身を乗り出すと自分が落ちてしまうぞ。"
+                                "\\n<Man>Don't come too close, it's dangerous. We throw trash down\nfrom here. If you lean out too much, you might fall\nyourself."
                             ]
                         },
                         {
@@ -11078,21 +11036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ここから落ちて、仮に命が助かったとしても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身ぐるみはがされて素っ裸にされるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪我人だろうと引っぺがす悪魔のようなやつらさ。"
+                                "\\n<Man>Even if you survive a fall from here, you'd be stripped to\nthe skin and left naked. They're like demons, peeling\neverything off, even if you're injured."
                             ]
                         },
                         {
@@ -11183,21 +11127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>流石にこのベッドはもういらないな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下に落せば薪の代わりぐらいにはなるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は下の住人のことも考えられる人間だからね。"
+                                "\\n<Man>I guess I don't need this bed anymore. If I drop it down, it\ncould at least serve as firewood. I'm someone who can\nconsider the people living below, after all."
                             ]
                         },
                         {
@@ -11288,21 +11218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>この先はゴミ捨て場だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下に物を捨てる時は気を付けて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミって、気にするタイプ？"
+                                "\\n<Man>This area ahead is a garbage dump. Be careful when you throw\nthings down there. Are you the type to care?"
                             ]
                         },
                         {
@@ -11319,21 +11235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ああ、ごめん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もし捨てたものが当たって誰か死んじゃったら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気にするタイプかってこと。"
+                                "\\n<Man>Ah, sorry. I mean, would you care if something you threw hit\nsomeone and they died?"
                             ]
                         },
                         {
@@ -11341,8 +11243,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "当たり前！",
-                                    "別に・・・"
+                                    "Of course!",
+                                    "Not really..."
                                 ],
                                 1,
                                 0,
@@ -11372,21 +11274,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<男性>だよね。時々いるんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下を確認せずに物を捨てるタイプの人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "万が一誰かに当たってみろ。寝つきが悪くなるタイプだろう。"
+                                "\\n<Man>Right. There are people like that sometimes. The type who\nthrow things without checking below. Imagine if it hit\nsomeone. You'd be the type to lose sleep over it, wouldn't\nyou?"
                             ]
                         },
                         {
@@ -11416,21 +11304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<男性>あのねぇ、キミはドリーネの住民をなんだと思ってるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ、人の形した魔物とかでも平気で斬れるタイプ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なるほどね。そういうの抵抗ないタイプか。嫌なタイプ。"
+                                "\\n<Man>You know, what do you think of the residents of Dori-ne? Oh,\nare you the type who can easily cut down a monster that\nlooks like a person? I see. So you're the type with no\nqualms about that. An unpleasant type."
                             ]
                         },
                         {
@@ -11531,14 +11405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>お、キミはいつぞやの！元気？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は仕事で上に来たのかい？"
+                                "\\n<Adventurer A>Oh, it's you from that time! How are you? Are you here on\nbusiness today?"
                             ]
                         },
                         {
@@ -11555,21 +11422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>前の怪盗の警備の仕事は楽だったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結局のところ、ただ突っ立ってただけだし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "報酬は普通に貰えたし。"
+                                "\\n<Adventurer A>The security job for the phantom thief before was easy,\nwasn't it? After all, we just stood around, and we got paid\nas usual."
                             ]
                         },
                         {
@@ -11586,14 +11439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>あの後、私兵長がこっぴどく叱られてたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ありゃ降格処分だな。"
+                                "\\n<Adventurer A>After that, the captain of the guards got a serious\nscolding. That's definitely a demotion."
                             ]
                         },
                         {
@@ -11668,14 +11514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>やぁ、Rui・・・だったよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "調子はどうだい？"
+                                "\\n<Adventurer A>Hey, Rui... that was your name, right? How are you doing?"
                             ]
                         },
                         {
@@ -11692,21 +11531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>あれから、ノブレス伯爵の様子が変なんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か大掛かりな準備をしているみたいだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大きな荷馬車がよく通るよ。"
+                                "\\n<Adventurer A>Ever since then, there's been something odd about Count\nNoblesse. It seems like he's preparing for something big. A\nlot of large carriages have been passing through."
                             ]
                         },
                         {
@@ -11723,21 +11548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>まぁ別にボクには関係ないんだけどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者だし。仕事以外で内政には不干渉、これ原則。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "好きに生きたいしね。"
+                                "\\n<Adventurer A>Well, it's not really any of my business. I'm an adventurer,\nafter all. Non-interference in domestic affairs unless it's\nwork-related, that's the principle. I just want to live\nfreely, you know."
                             ]
                         },
                         {
@@ -11814,21 +11625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレのギルドの入口だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下に比べて、あまりお酒の匂いがしない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちに登録すれば良かった。"
+                                "This is the entrance to the Rumare Guild. It doesn't smell\nas much of alcohol compared to downstairs... I should have\nregistered here."
                             ]
                         },
                         {
@@ -11905,21 +11702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "高級そうな宿だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと布団もベッドも柔らかくて暖かい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "受付も、あのばあさんより愛想がいいことだろう。"
+                                "It looks like a high-class inn... I'm sure the futons and\nbeds are soft and warm. The receptionist must be more\npleasant than that old lady too."
                             ]
                         },
                         {
@@ -11945,14 +11728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "じいやが泊ってる宿は多分ここ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うーん、なんか腹が立ってきた。"
+                                "This is probably the inn where the old man is staying. Hmm,\nit's starting to make me angry."
                             ]
                         },
                         {
@@ -12039,21 +11815,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "訓練用の丸太。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはとても丈夫な木だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "剣で斬ってもちょっと傷が付くだけ。"
+                                "Training log. This is a very sturdy wood. Even if you slash\nit with a sword, it only gets slightly scratched."
                             ]
                         },
                         {
@@ -12070,21 +11832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上のギルドの人たちは、ちゃんと訓練してるんだろうな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下のみんなは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲んでるところ以外、あんまり見たことない。"
+                                "I bet the people in the upper guild are properly training.\nAs for everyone below... I haven't really seen them doing\nmuch other than drinking."
                             ]
                         },
                         {
@@ -12161,21 +11909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "訓練用の丸太。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これはとても丈夫な木だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界術で補強してあるので魔法も気持ちよく撃てそうだ。"
+                                "Training log. This is a very sturdy wood. It's been\nreinforced with a barrier spell, so it seems like it would\nfeel great to cast magic on it."
                             ]
                         },
                         {
@@ -12192,21 +11926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガードの詰所が近いので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の守衛さんもちゃんと鍛えているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下の守衛さんは・・・下に守衛さんいたっけ？"
+                                "The guard station is close by, so it seems the town guards\nare properly training. The guard below... was there a guard\nbelow?"
                             ]
                         },
                         {
@@ -12283,21 +12003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女神の像だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰がモデルなんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄く綺麗だ。"
+                                "It's a statue of a goddess. I wonder who the model was. It's\nincredibly beautiful."
                             ]
                         },
                         {
@@ -12374,21 +12080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "女神の像だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰がモデルなんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄く綺麗だ。"
+                                "It's a statue of a goddess. I wonder who the model was. It's\nincredibly beautiful."
                             ]
                         },
                         {
@@ -12465,21 +12157,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "カッコイイ鎧。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもサイズが大きすぎる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのうち着れるようになるのかな。"
+                                "Cool armor, but the size is too big. I wonder if I'll be\nable to wear it eventually."
                             ]
                         },
                         {
@@ -12556,21 +12234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "素材のいい服。着心地が良さそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長持ちするし、シンプルだけどこういうのは買いだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尻尾の穴さえ開いていれば・・・"
+                                "Quality material for clothes. They seem comfortable to wear.\nDurable and simple, but definitely worth buying. If only\nthere was a hole for the tail..."
                             ]
                         },
                         {
@@ -12647,21 +12311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔術師用のローブだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に魔術師が鎧を着てもいいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何となくローブの方がしっくりくる。"
+                                "It's a robe for magicians. Although magicians can wear\narmor, somehow robes just seem to fit better."
                             ]
                         },
                         {
@@ -12738,21 +12388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "可愛らしさと実用性を兼ね備えた服。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これなら冒険にもぴったり！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度買おう。"
+                                "A garment that combines cuteness with practicality. Perfect\nfor an adventure! I'll buy it next time."
                             ]
                         },
                         {
@@ -12829,21 +12465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "貴族街『ルマーレ』のシンボル、水龍の泉です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泉に願い事をしながらコインを投げ入れると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "投入金額に応じて叶う確率がUPします。"
+                                "The symbol of the noble district \"Luma-Le,\" the Water Dragon\nFountain. It is said that if you make a wish and throw coins\ninto the fountain, the probability of your wish coming true\nincreases with the amount of money you throw in."
                             ]
                         },
                         {
@@ -12869,14 +12491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "うーん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて現金な。"
+                                "Hmm... how mercenary."
                             ]
                         },
                         {
@@ -12953,21 +12568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "洋服、アクセサリーのお店『ヴェトゥモ』"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタにぴったりな一着が必ず見つかります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鎧も置いてありますので、旅のお方もどうぞ！"
+                                "The clothing and accessories store \"Vetumo\" guarantees\nyou'll find the perfect outfit. We also have armor, so\ntravelers are welcome too!"
                             ]
                         },
                         {
@@ -12993,14 +12594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ヴぇ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変な名前だ。"
+                                "Huh...? What a strange name."
                             ]
                         },
                         {
@@ -13077,21 +12671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今焼きましたって感じのパンだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "久しぶりに見た！いい匂い・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうだよ、これがパンだった。"
+                                "It's bread that feels like it was just baked! It's been a\nwhile since I've seen one! Smells good... Yes, this is what\nbread was supposed to be."
                             ]
                         },
                         {
@@ -13117,21 +12697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドリーネのパンは石のように硬いもの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭をぶつけると死ねるパンなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "パンじゃないもの・・・"
+                                "The bread from Dori-ne is as hard as a rock! Bread that\ncould kill you if you hit your head on it isn't really bread\nat all..."
                             ]
                         },
                         {
@@ -13208,21 +12774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "リンゴだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "許されるのならかじりつきたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怒られてもいいからかじりつきたい。"
+                                "It's an apple. If it's allowed, I want to take a bite. Even\nif I get scolded, I still want to bite into it."
                             ]
                         },
                         {
@@ -13313,7 +12865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>たーる！"
+                                "\\n<Rui>It's dripping!"
                             ]
                         },
                         {
@@ -13404,21 +12956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "寝るのが楽しみになるほど、心地の良いベッドに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "起きるのが楽しみになるほど、美味しい朝食付きの宿！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ご宿泊の際は受付にて♪"
+                                "A lodging with beds so comfortable you look forward to\nsleeping, and a delicious breakfast that makes waking up a\njoy! Please inquire at the reception when you stay♪"
                             ]
                         },
                         {
@@ -13435,21 +12973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（寝れないベッドに、ゲロマズな朝食を作るばあさん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下の宿とは大違いだ。）"
+                                "\\n<Rui>...(A bed you can't sleep in, and a breakfast so awful it's\nmade by an old lady. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -13547,7 +13071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>たーる！"
+                                "\\n<Rui>T-take this!"
                             ]
                         },
                         {
@@ -13638,14 +13162,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "壺の中には水が入っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メダカが涼し気に泳いでいる・・・"
+                                "The jar is filled with water. The medaka fish are swimming\naround, looking so cool..."
                             ]
                         },
                         {
@@ -13743,7 +13260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>たーる！"
+                                "\\n<Rui>It's dripping!"
                             ]
                         },
                         {
@@ -13834,21 +13351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かのゴミ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これも下に捨てるのだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "臭いし誰も要らなそう。"
+                                "Some kind of trash. I guess this should be thrown away too.\nIt smells and seems like no one would want it."
                             ]
                         },
                         {
@@ -13939,21 +13442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少しくたびれたベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下の汚いベッドよりはマシそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "持って帰りたい・・・"
+                                "It's a slightly worn-out bed. It seems better than the dirty\none below. I want to take it home..."
                             ]
                         },
                         {
@@ -14044,14 +13533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "丸太が置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "虫が食ってところどころ穴が開いている。"
+                                "A log is placed here. It has holes here and there where bugs\nhave eaten through it."
                             ]
                         },
                         {
@@ -14142,21 +13624,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "誕生日なのだろうか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誕生日だとしてもちょっとおおげさなケーキだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食べたい。"
+                                "Is it a birthday? Even if it is, that's quite an extravagant\ncake. I want to eat it."
                             ]
                         },
                         {
@@ -14247,21 +13715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "フルーツの盛り合わせだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旬な季節が違うフルーツがまぜこぜに盛り付けてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "氷結や炎熱で温度調整をして収獲するらしい。"
+                                "It's an assortment of fruits. Fruits from different seasons\nare mixed together on the plate. It seems they're harvested\nwith temperature control using freezing and scorching\ntechniques."
                             ]
                         },
                         {
@@ -14278,7 +13732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "そんなことより食べたい。"
+                                "But more than that, I want to eat it."
                             ]
                         },
                         {
@@ -14369,21 +13823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "目玉焼きにパンがこんなに羨ましい日が来るとは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、今はグッと我慢。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全部終わるまで頑張る。けど食べたい。"
+                                "Who would have thought I'd be this envious of fried eggs and\nbread... But for now, I must resist. I'll persevere until\neverything is finished. But I do want to eat it."
                             ]
                         },
                         {
@@ -14474,21 +13914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ランチセットだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "優雅に外で食べるなんて最高の時間を過ごせるだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "妬ましい・・・食べたい。"
+                                "It's a lunch set. Eating outside so elegantly must be the\nbest time. I'm jealous... I want to eat it."
                             ]
                         },
                         {
@@ -14579,7 +14005,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昼間から飲むのは上の人も下の人も一緒。"
+                                "Drinking from the afternoon is the same for those above as\nit is for those below."
                             ]
                         },
                         {
@@ -14670,21 +14096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅茶のいい香りがする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "匂いだけでいいからもっと嗅がせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あわよくば飲みたい。"
+                                "The scent of the black tea is lovely. I'd be content just\nsmelling it, but if possible, I'd love to have a taste."
                             ]
                         },
                         {
@@ -14775,21 +14187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（はぁ・・・話のつまらないキザな男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く帰りたいわ。）"
+                                "\\n<Female>...(Sigh... Such a boring, pretentious man. I want to go\nhome already.)"
                             ]
                         },
                         {
@@ -14880,14 +14278,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<うさぎの獣人>あ！こんにちは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んふふー♥なんか同胞に会うと嬉しい♥"
+                                "\\n<Rabbit Beastman>Ah! Hello! Nfufu-♥ It's so nice to meet a fellow beastman♥"
                             ]
                         },
                         {
@@ -14904,21 +14295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<うさぎの獣人>扱いは人間と変わらないけどさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人ってだけで、やっぱりちょっと目立っちゃうしね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この後、暇？ご飯食べいこーよ♥"
+                                "\\n<Rabbit Beastman>We're treated the same as humans, but being a beastman still\nmakes us stand out, huh? Are you free after this? Let's go\ngrab some food♥"
                             ]
                         },
                         {
@@ -14960,21 +14337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あ、ごめん！お仕事しなきゃだから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また今度♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うさぎ・・・苦手なんだよね・・・）"
+                                "\\n<Rui>Ah, sorry! I've got work to do! Maybe next time♥ (Rabbits...\nI'm not good with them...)"
                             ]
                         },
                         {
@@ -15008,21 +14371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あ、あの、えっと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "し、仕事があるので！また次の機会に！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うさぎの獣人にいい思い出が無い・・・）"
+                                "\\n<Rui>Ah, um, well... I, I have work! Let's do it another time! (I\ndon't have good memories with rabbit beastmen...)"
                             ]
                         },
                         {
@@ -15065,21 +14414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<うさぎの獣人>お仕事？嘘でしょ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私そういうの分かるから♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ねーねー♥暇つぶししよー？ねーねーねー♥"
+                                "\\n<Rabbit Beastman>Work? You're lying♥ I can tell♥ Come on-come on♥ Let's hang\nout to kill some time? Come on-come on-come on♥"
                             ]
                         },
                         {
@@ -15143,21 +14478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あー！腕を引っ張らないで！そこは骨折してるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あいたたた！じゃあねぇ！ばいばーい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（しつこいー！やっぱりみんなこうなのかぁ！）"
+                                "\\n<Rui>Ah-! Don't pull my arm! It's broken there! Ouch ouch ouch!\nSee you later! Bye-bye! (So persistent! Are they all like\nthis?!)"
                             ]
                         },
                         {
@@ -15191,21 +14512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>いや、本当に仕事なんですって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ちょ、腕引っ張らないで！が、ガード！ガードぉ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（やっぱり強引なんだよなぁ！うさぎって！）"
+                                "\\n<Rui>No, really, I have work! Hey, don't pull on my arm! Guard!\nGuard!! (Rabbits are always so pushy!)"
                             ]
                         },
                         {
@@ -15239,21 +14546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<うさぎの獣人>ふーん。そういう態度取るんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ・・・寂しい・・・ふぇ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふぇぇぇぇぇぇぇん！うっそぴょーん♥あはははは♥"
+                                "\\n<Rabbit Beastman>Hmph. So that's how you're going to be. Uuu... I'm lonely...\nFeh... Fehhhhhhhn! Just kidding-pyon♥ Ahahahaha♥"
                             ]
                         },
                         {
@@ -15295,21 +14588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（なんてメンドクサイ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "関わらない方がいい。疲れりゅ。）"
+                                "\\n<Rui>... (What a pain... Better not to get involved. So tiring.)"
                             ]
                         },
                         {
@@ -15343,14 +14622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うーん。面倒くさい。）"
+                                "\\n<Rui>... (Ugh. Annoying.)"
                             ]
                         },
                         {
@@ -15458,7 +14730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "昼間から飲むのは上の人も下の人も一緒。"
+                                "Drinking from the afternoon is the same for those above as\nit is for those below."
                             ]
                         },
                         {
@@ -15549,21 +14821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅茶のいい香りがする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "匂いだけでいいからもっと嗅がせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あわよくば飲みたい。"
+                                "The scent of the black tea is lovely. I'd be content just\nsmelling it, but if possible, I'd love to have a taste."
                             ]
                         },
                         {
@@ -15654,21 +14912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "紅茶のいい香りがする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "匂いだけでいいからもっと嗅がせてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あわよくば飲みたい。"
+                                "The scent of the black tea is lovely. I'd be content just\nsmelling it, but if possible, I'd love to have a taste."
                             ]
                         },
                         {
@@ -15992,14 +15236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "装備品が売っているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か買い物をしようかな？"
+                                "It seems like they're selling equipment. Should I buy\nsomething?"
                             ]
                         },
                         {
@@ -16417,21 +15654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火炎樹コンロだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "火炎樹の樹液を下にセットして火種を飛ばすと"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "長時間燃え続ける優れモノだ。"
+                                "It's a Flame Tree stove. By setting the sap of the Flame\nTree below and igniting it, it burns for a long time—an\nexcellent piece of equipment."
                             ]
                         },
                         {
@@ -16448,21 +15671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "火炎樹は冬になる前に自ら葉っぱを燃やして"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "丸坊主になる針葉樹だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "よく山火事の原因になる。"
+                                "The Flame Tree is a conifer that burns its own leaves before\nwinter to become completely bare. It often causes forest\nfires."
                             ]
                         },
                         {
@@ -16539,7 +15748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かご飯を作っている途中のようだ。"
+                                "It seems like they're in the middle of cooking something."
                             ]
                         },
                         {
@@ -16616,14 +15825,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "水の綺麗な町だと外で調理しても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "食中毒にならなそうだ。"
+                                "It seems like you wouldn't get food poisoning from cooking\noutside in a town with such clean water."
                             ]
                         },
                         {
@@ -16700,21 +15902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレの守衛の詰所だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の外壁に魔物が近づかないようにする討伐隊と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の内部の治安を守る警護隊で分かれている。"
+                                "This is the guard station of Rumare. It's divided into the\nextermination team, which ensures that monsters don't\napproach the town's outer walls, and the security team,\nwhich maintains order within the town."
                             ]
                         },
                         {
@@ -16731,14 +15919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ちなみに討伐隊より遠くまで行き"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物を退治するのが冒険者の仕事のひとつだ。"
+                                "Incidentally, one of the adventurer's jobs is to go further\nthan the extermination team and eliminate monsters."
                             ]
                         },
                         {
@@ -16822,21 +16003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>勇者様って、大きな剣を背負って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドラゴンをペットとして引き連れながら旅をしているらしいの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっと、凄まじい迫力をした大男に違いないよね！"
+                                "\\n<Female>I heard that the hero carries a big sword and travels with a\ndragon as a pet! He must be a huge man with an incredible\npresence, right?"
                             ]
                         },
                         {
@@ -16853,21 +16020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>大剣とドラゴンのセットを見たら、それが勇者の目印よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりやすいけど、ちょっと近づけないわよね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怖そう！"
+                                "\\n<Female>If you see someone with a big sword and a dragon, that's the\nmark of a hero. It's easy to recognize, but it's a bit\nintimidating to approach, isn't it? Scary!"
                             ]
                         },
                         {
@@ -16958,21 +16111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>最近は、どうも人型の魔物が増えているそうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔からそういうのはいたけれど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のはかなり見た目が人間に近いみたい。"
+                                "\\n<Female>Lately, it seems that the number of humanoid monsters has\nbeen increasing. There have always been such creatures, but\nthe ones now look much closer to humans."
                             ]
                         },
                         {
@@ -16989,21 +16128,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>角や羽、尻尾なんかの目印はあるみたいなんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それはアナタたち獣人にもある特徴だし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのうち獣人と魔物の区別が付かなくなるんじゃ・・・"
+                                "\\n<Female>They have distinguishing features like horns, wings, or\ntails, but those are also characteristics of you\nbeastfolk... Eventually, it might become difficult to tell\nbeastfolk and monsters apart..."
                             ]
                         },
                         {
@@ -17020,21 +16145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>あ、ごめんなさい！勘違いしないでね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔みたいに、獣人が差別されるような世相にならないで欲しいって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそれをちょっと危惧しているの。"
+                                "\\n<Female>Oh, I'm sorry! Please don't misunderstand me? I just don't\nwant it to become like the old days where beastfolk were\ndiscriminated against. That's what I'm a little worried\nabout."
                             ]
                         },
                         {
@@ -17125,21 +16236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>でさぁ、知ってる？あの子の噂。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか、行方不明になった男子いるじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの、なんだっけ。名前忘れたけど地味なヤツ。"
+                                "\\n<Student>Hey, you know? That rumor about that kid. Like, there's this\nboy who went missing, right? That, what's his name... I\nforgot, but the plain-looking one."
                             ]
                         },
                         {
@@ -17156,14 +16253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>行方不明になる直前まで生徒会長と一緒にいたらしいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "犯人アイツなんじゃね？マジで。"
+                                "\\n<Student>Apparently, he was with the student council president right\nup until he went missing. You think she's the culprit? For\nreal."
                             ]
                         },
                         {
@@ -17245,21 +16335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>ここだけの話さぁ、アルノっていたじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒会長。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレ、魔物だったらしいよ。"
+                                "\\n<Student>Just between us, you know Arno, right? The student council\npresident. I heard they might actually be a monster."
                             ]
                         },
                         {
@@ -17276,21 +16352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>いやホントだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界術で教室使えない日あったじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの後からアルノいないじゃん。絶対そうだって。"
+                                "\\n<Student>No, really! Remember the day we couldn't use the classroom\nbecause of the barrier spell? Arno has been missing since\nthen. It's definitely true."
                             ]
                         },
                         {
@@ -17307,14 +16369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>マジメちゃんだったけどさぁ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直アタシ、あの子なんか怖かったもん。"
+                                "\\n<Student>They were always so serious, but to be honest, I was kind of\nscared of them."
                             ]
                         },
                         {
@@ -17405,14 +16460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>生徒会長はそんな悪い子じゃないよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタみたいな不良と違ってマジメだし。"
+                                "\\n<Student>The student council president isn't such a bad kid. Unlike a\ndelinquent like you, they're serious about their duties."
                             ]
                         },
                         {
@@ -17429,21 +16477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>行方不明の犯人って何？殺して埋めたってこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "発想怖すぎなんだけどマジで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタがイジメて登校拒否のほうがまだ信憑性あるわ。"
+                                "\\n<Student>What do you mean by 'the culprit behind the disappearance'?\nAre you suggesting they killed someone and buried the body?\nThat's a seriously scary thought. It's more believable that\nyou bullied them into not coming to school."
                             ]
                         },
                         {
@@ -17525,21 +16559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>だからさぁ、アルノちゃんは魔物じゃないって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アンタみたいなのが変な噂流すから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ずっと休んでるんでしょ。可哀想に。"
+                                "\\n<Student>So, like, Arno-chan isn't a monster, okay? It's because of\npeople like you spreading weird rumors that she's been out\nthis whole time. Poor thing."
                             ]
                         },
                         {
@@ -17556,21 +16576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<学生>教室の結界術の件も、薬品が混ざって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危険なガスが発生したからって説明あったじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ホントそういう噂好きよねぇ。陰謀説とか。"
+                                "\\n<Student>And about that barrier spell in the classroom, there was an\nexplanation that dangerous gas was released because\nchemicals got mixed up, right? You really love those kinds\nof rumors. Conspiracy theories and all."
                             ]
                         },
                         {
@@ -17661,21 +16667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<露店>ん？アナタたち双子？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらーそっくりねぇ♥カワイイ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふたり並んでると2倍カワイイわね♥サービスしてあげる♥"
+                                "\\n<Street Stall>Hm? Are you two twins? Oh my, you look so alike♥ How cute♥\nSeeing you both side by side makes you twice as adorable♥\nI'll give you a little service♥"
                             ]
                         },
                         {
@@ -17750,14 +16742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>言ってる割りに高いよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとサービスして。"
+                                "\\n<Rui>For all that talk, it's pretty expensive. Give us more of a\nservice."
                             ]
                         },
                         {
@@ -17839,21 +16824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<露店>あら可愛いお客さん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か食べたい物があったら言ってね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "耳触らせてくれたら、ちょっとオマケしてあげる♥"
+                                "\\n<Street Stall>Oh, what a cute customer♥ If there's anything you'd like to\neat, just let me know♥ If you let me touch your ears, I'll\nthrow in a little extra♥"
                             ]
                         },
                         {
@@ -17928,7 +16899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>オマケしてこの値段なの？"
+                                "\\n<Rui>You're giving a bonus at this price?"
                             ]
                         },
                         {
@@ -18019,21 +16990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>ごきげんよう。あなたもこの宿にお泊りかしら？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わたくしは旅の途中で立ち寄ったのですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここが一番素敵なお宿でしたわ。"
+                                "\\n<Mage>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and this has been the most wonderful lodging\nI've found."
                             ]
                         },
                         {
@@ -18050,21 +17007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>裏にちょっとした温泉も付いてますの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "天然ではありませんが、回復術師が魔力を溶かしているので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お肌もつやつや♥"
+                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so it leaves your skin glowing♥"
                             ]
                         },
                         {
@@ -18081,21 +17024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔法使い>お料理も素材にこだわった素晴らしいものでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ベッドなんて雲の上に寝るよう、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "浮遊感まで与えられてしまいました。"
+                                "\\n<Mage>The food was also exquisite, with a focus on quality\ningredients. The bed was like sleeping on a cloud, giving a\nsense of floating."
                             ]
                         },
                         {
@@ -18119,14 +17048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（この人は悪くないのに。引っ掻いてやりたくなってきた。）"
+                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18217,21 +17139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>平和だねぇ。とても穏やかな天気だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだい？この町は。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凄く綺麗な場所だろう？"
+                                "\\n<Man>It's so peaceful, isn't it? Such calm weather. What do you\nthink? This town is a really beautiful place, right?"
                             ]
                         },
                         {
@@ -18248,14 +17156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>でもね。ここから見える門の先には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "50年ほど前に、地盤沈下で空いた大穴があるんだ。"
+                                "\\n<Man>But you know, just beyond the gate you can see from here,\nthere's a huge hole that opened up about 50 years ago due to\nland subsidence."
                             ]
                         },
                         {
@@ -18272,21 +17173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ある日、突然地面が崩れて穴が開く、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シンクホールっていう現象だね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大勢の家や人々が巻き込まれて、沈んでいった。"
+                                "\\n<Man>It was a phenomenon called a sinkhole. Suddenly one day, the\nground collapsed and a hole opened up, swallowing many homes\nand people."
                             ]
                         },
                         {
@@ -18303,21 +17190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>その人たちもきっと、今日は平和だねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい天気だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんて直前まで言っていたんだろうね。"
+                                "\\n<Man>I bet those people were probably saying \"It's so peaceful\ntoday. What nice weather,\" right up until the moment it\nhappened."
                             ]
                         },
                         {
@@ -18408,21 +17281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>私の父は50年前の大崩落で亡くなった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもそれは良いんだ。自然現象だから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "悲しくても、受け入れるしかなかった。"
+                                "\\n<Man>My father died in the great collapse 50 years ago. But\nthat's okay. It was a natural disaster. Sad as it was, I had\nno choice but to accept it."
                             ]
                         },
                         {
@@ -18439,21 +17298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>だが許せないのは、その後に来たヤツらさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族街が崩落したと聞いて、金品目当てに"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "世界中からゴロツキが集まって来やがった。"
+                                "\\n<Man>What I can't forgive, though, are those who came after.\nHearing that the nobles' district had collapsed, scoundrels\nfrom all over the world flocked here, greedy for money and\nvaluables."
                             ]
                         },
                         {
@@ -18470,14 +17315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ヤツらは瓦礫の下に埋もれた人を助けるより、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴金属を集める方を優先したのさ。"
+                                "\\n<Man>They prioritized collecting precious metals over rescuing\npeople buried under the rubble."
                             ]
                         },
                         {
@@ -18494,21 +17332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>まだ子供だった私は、崖から毎日それを眺めていたよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "我先に、時には殴り合いをして奪い合っていた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて私の家があった瓦礫の上でね。"
+                                "\\n<Man>As a child, I watched it all from the cliff every day. They\nwere scrambling over each other, sometimes fighting, all\nover the debris where my house once stood."
                             ]
                         },
                         {
@@ -18525,21 +17349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>今では『ドリーネ』なんて名前がついて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こことは違う自治区になっているけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は、あんな奴らを今でも認めてはいない。"
+                                "\\n<Man>Now it's called \"Dri-ne\" and has become a different\nautonomous district... But I still can't accept those\npeople, even now."
                             ]
                         },
                         {
@@ -18630,21 +17440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番A>お前は下の冒険者か。通っていいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者は扱い的に『どこにも属さない者』だからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "基本的に依頼があれば、何処へでも立ち入りが可能だ。"
+                                "\\n<Lumare Gatekeeper A>Are you an adventurer from below? You may pass. Adventurers\nare treated as \"those who belong nowhere.\" Basically, if\nthere's a request, you can enter anywhere."
                             ]
                         },
                         {
@@ -18661,21 +17457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番A>だがそれは『常に味方がいない』ことと同じだぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か不都合があれば、私達ルマーレのガードは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前達を徹底的に排除する。分かったな？"
+                                "\\n<Lumare Gatekeeper A>But that also means \"you always have no allies.\" If there's\nany trouble, we, the guards of Lumare, will thoroughly\neliminate you. Understood?"
                             ]
                         },
                         {
@@ -18766,21 +17548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>数年前に、ちょっとした暴動があってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の親友はドリーネのやつに刺されて死んだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にいいやつだった。"
+                                "\\n<Lumare Gatekeeper B>A few years ago, there was a bit of a riot. My best friend\nwas stabbed to death by one of those Drine guys. He was a\nreally good guy."
                             ]
                         },
                         {
@@ -18797,14 +17565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>綺麗な奥さんに、小さな子供までいたのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人生これからって時に、全部を奪われたんだ。"
+                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a little child... Just when\nhis life was about to start, everything was taken from him."
                             ]
                         },
                         {
@@ -18821,21 +17582,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>俺たちルマーレのガードは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう悲劇がもう二度と起こらないように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物も人間も見張って無きゃいけないのさ。"
+                                "\\n<Lumare Gatekeeper B>We, the guards of Lumare, have to keep watch over both\nmonsters and humans to ensure that such a tragedy never\nhappens again."
                             ]
                         },
                         {
@@ -18917,21 +17664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>数年前に、ちょっとした暴動があってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺の親友はドリーネのやつに刺されて死んだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当にいいやつだった。"
+                                "\\n<Lumare Gatekeeper B>A few years ago, there was a bit of a riot. My best friend\nwas stabbed to death by a Drine. He was a really good guy."
                             ]
                         },
                         {
@@ -18948,14 +17681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>綺麗な奥さんに、小さな子供までいたのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人生これからって時に、全部を奪われたんだ。"
+                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a little kid... Just when\nhis life was about to really start, everything was taken\nfrom him."
                             ]
                         },
                         {
@@ -18972,21 +17698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>俺たちルマーレのガードは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう悲劇がもう二度と起こらないように、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物も人間も見張って無きゃいけない・・・"
+                                "\\n<Lumare Gatekeeper B>We, the guards of Lumare, have to keep watch over both\nmonsters and humans to ensure such tragedies never happen\nagain..."
                             ]
                         },
                         {
@@ -19003,21 +17715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>そう思ってたのにさ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つい最近、そいつの奥さんまで魔物に殺されたんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "息子は一人ぼっちになっちまった。"
+                                "\\n<Lumare Gatekeeper B>And yet, just recently... that guy's wife was killed by a\nmonster too. His son has been left all alone."
                             ]
                         },
                         {
@@ -19034,14 +17732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>そいつ、ジャンって言うんだけどな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はルマーレの孤児院に引き取られたよ。"
+                                "\\n<Lumare Gatekeeper B>The kid's name is Jean. He's been taken in by the Lumare\norphanage now."
                             ]
                         },
                         {
@@ -19058,21 +17749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルマーレ門番B>俺も顔を見せに行くんだが、本当に強い子だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しでもこの世界から悲しみが減るようにって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "将来は魔物退治専門の冒険者を目指すらしい。"
+                                "\\n<Lumare Gatekeeper B>I go to see him too, and he's a really strong kid. He says\nhe wants to become an adventurer specializing in monster\nextermination, to reduce the sorrow in this world even a\nlittle bit."
                             ]
                         },
                         {
@@ -19172,21 +17849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>俺は守ることしか出来ないが、キミは救うことが出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これからも沢山の人を救ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺もこの町を精一杯守ってみせる。"
+                                "\\n<Lumare Gatekeeper B>I can only protect, but you can save people. Please continue\nto save many more. I'll do my best to protect this town too."
                             ]
                         },
                         {
@@ -19203,21 +17866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>忙しい身かもしれないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たまにはジャンとメーレさんにも顔を見せてあげてほしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジャンはキミの大ファンだからね。"
+                                "\\n<Lumare Gatekeeper B>You might be busy, but please show your face to Jean and\nMare-san once in a while. Jean is a big fan of yours, after\nall."
                             ]
                         },
                         {
@@ -19244,21 +17893,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>数年前に、ちょっとした暴動があってね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺の親友はドリーネのやつに刺されて死んだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当にいいやつだった。"
+                                "\\n<Lumare Gatekeeper B>A few years ago, there was a bit of a riot. My best friend\nwas stabbed by a Drine and died. He was truly a good person."
                             ]
                         },
                         {
@@ -19275,14 +17910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>綺麗な奥さんに、小さな子供までいたのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人生これからって時に、全部を奪われたんだ。"
+                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a small child... Just when\nhis life was about to start, everything was taken from him."
                             ]
                         },
                         {
@@ -19315,7 +17943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>それって、ひょっとしてメーレさんとジャンのこと？"
+                                "\\n<Rui>Are you talking about Mare-san and Jean?"
                             ]
                         },
                         {
@@ -19339,21 +17967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>お！なんだ知り合いだったのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "奇遇だな！そうさ。俺の親友の家族だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ん？ひょっとしてキミが・・・"
+                                "\\n<Lumare Gatekeeper B>Oh! So you knew them? What a coincidence! Yes, they are my\nbest friend's family. Huh? Could it be that you're the one\nwho..."
                             ]
                         },
                         {
@@ -19370,21 +17984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>2人を救ってくれてありがとう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺の親友も天国で感謝してるはずさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうだ、これを受け取ってくれないか？"
+                                "\\n<Lumare Gatekeeper B>Thank you for saving those two. My best friend must be\nthanking you from heaven too. Here, would you accept this?"
                             ]
                         },
                         {
@@ -19419,21 +18019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>それは俺の親友・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "メーレさんの旦那が俺にくれたものだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "戦闘力を上げてくれる装備だ。キミに持っていてほしい。"
+                                "\\n<Lumare Gatekeeper B>This is something my best friend... Mare-san's husband gave\nto me. It's equipment that will increase your fighting\npower. I want you to have it."
                             ]
                         },
                         {
@@ -19450,21 +18036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルマーレ門番B>俺は守ることしか出来ないが、キミは救うことが出来る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これからも沢山の人を救ってくれ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "俺もこの町を精一杯守ってみせる。"
+                                "\\n<Lumare Gatekeeper B>I can only protect, but you can save people. Please continue\nto save many more. I'll do my best to protect this town too."
                             ]
                         },
                         {
@@ -19565,21 +18137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>ふっ！はっ！とぅ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おっと、キミ今は訓練中だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近づくと怪我するぞ！"
+                                "\\n<Soldier>Hmph! Ha! Tuh!! Whoa there, you're in the middle of training\nnow! If you get too close, you might get hurt!"
                             ]
                         },
                         {
@@ -19685,21 +18243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>怪盗の足が速すぎて何もできなかった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やっぱり詠唱速度を上げる訓練が必要かな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "火力を落して瞬発力にリソースを割く・・・"
+                                "\\n<Adventurer C>\"The phantom thief was too fast... I couldn't do anything.\nMaybe I need to train to increase my casting speed.\nSacrifice firepower for burst speed...\""
                             ]
                         },
                         {
@@ -19716,21 +18260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>いやーダメか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "昔っから運動は苦手なんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じっくり溜めてぶっ放すしか出来ないや。"
+                                "\\n<Adventurer C>\"No, that won't work. I've always been bad at physical\nactivities. I can only take my time to charge up and\nrelease.\""
                             ]
                         },
                         {
@@ -19805,21 +18335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>ノブレス伯爵が魔術師を集めているみたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度は一体何をするつもりかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も呼ばれてるけど、なんかきな臭いからやめとく。"
+                                "\\n<Adventurer C>\"It seems the Noblesse Earl is gathering magicians. I wonder\nwhat he's planning to do this time. I've been invited too,\nbut something smells fishy, so I'll pass.\""
                             ]
                         },
                         {
@@ -19836,21 +18352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>もうこの町も離れるつもり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここはキレイだけど、私はもっと油の匂いとかのする町が好きだわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "エンバーランドに向かおうかしら、"
+                                "\\n<Adventurer C>\"I'm planning to leave this town soon. It's pretty here, but\nI prefer towns with the smell of oil and such. Maybe I'll\nhead to Emberland.\""
                             ]
                         },
                         {
@@ -19934,21 +18436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>異常なーし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日も変わらない街並み！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けっこうけっこう！"
+                                "\\n<Soldier>No abnormalities! The streets are the same as always today!\nVery good, very good!"
                             ]
                         },
                         {
@@ -20279,21 +18767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>ゴミは捨ててもいいが、ちゃんと決まった場所から落せよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下にも住民がいるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "小さいものだからって、防壁を越えて投げ捨てるバカがいるんだよ。"
+                                "\\n<Soldier>\"You can throw away trash, but make sure to drop it from the\ndesignated place, okay? There are residents below. There are\nidiots who throw things over the barrier just because\nthey're small.\""
                             ]
                         },
                         {
@@ -20384,21 +18858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>あら、こんにちは。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫の獣人なんて、この辺りではとても珍しいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざわざ遠方から来られたのですか？"
+                                "\\n<Beautiful Woman>Oh, hello. It's quite rare to see a cat beast-person around\nhere. Did you come from far away?"
                             ]
                         },
                         {
@@ -20415,14 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>先ほど、アナタに顔がよく似ておられる方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "通って行かれましたが、ごキョウダイ様ですか？"
+                                "\\n<Beautiful Woman>Just a moment ago, someone who looks very much like you\npassed by. Are they your sibling?"
                             ]
                         },
                         {
@@ -20439,21 +18892,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>そういえば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャットフィールド家のご子息とご令嬢が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "確か双子だったと存じ上げておりますが、ひょっとして・・・"
+                                "\\n<Beautiful Woman>Now that I think about it, the Catfield family's son and\ndaughter are indeed twins, if I recall correctly. Could it\nbe that..."
                             ]
                         },
                         {
@@ -20493,21 +18932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ち、違うよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "顔が似てる人なんて、この世に3人はいるっていうから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ！"
+                                "\\n<Rui>No, that's not it! They say there are at least three people\nin the world who look like you! That's it!"
                             ]
                         },
                         {
@@ -20540,21 +18965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>あらまぁ！3分の2が見られるなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はきっと、特別な日に違いないですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタも良い一日を！"
+                                "\\n<Beautiful Woman>Oh my! To think I'd see two out of three on such a day.\nToday must certainly be a special day. Have a good day\nyourself!"
                             ]
                         },
                         {
@@ -20652,21 +19063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>おや、アナタはもしやキャットフィールド家の方では？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お世話になっております。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このような場所で出会うとは思いませんでした。"
+                                "\\n<Beautiful Woman>Oh my, are you perhaps from the Catfield family? I am in\nyour debt. I never expected to meet someone from there in a\nplace like this."
                             ]
                         },
                         {
@@ -20706,21 +19103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ち、違うよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャットフィールド家なんて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんないいところの生まれじゃないよ！"
+                                "\\n<Rui>N-No! I'm not from a fancy place like the Catfield family!"
                             ]
                         },
                         {
@@ -20744,14 +19127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>あら、そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもその、胸のところにCFと文字が・・・"
+                                "\\n<Beautiful Woman>Oh, is that so? But, those letters \"CF\" on your chest..."
                             ]
                         },
                         {
@@ -20793,21 +19169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>憧れてるの。偽物！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "えへへ♥だって、名門でしょ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "猫の獣人なら、誰でも憧れちゃうよ。"
+                                "\\n<Rui>I admire them. It's fake! Ehehe♥ After all, it's a\nprestigious family, isn't it? Any beastperson cat would\ndream about it."
                             ]
                         },
                         {
@@ -20834,21 +19196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あぁ、これは以前キャットフィールド家の方から"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頂いたものなのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あまりに誇り高かった故、肌身離さず付けております。"
+                                "\\n<Rui>Ah, this was something I received from someone in the\nCatfield family a while ago. It was so honorable that I've\nkept it on me at all times."
                             ]
                         },
                         {
@@ -20882,21 +19230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>なるほど。勘違いしてしましいました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても聡明そうな方なので、その家系の人だとばかり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "失礼しました。"
+                                "\\n<Beautiful Woman>I see. I must have misunderstood. You seemed so wise, I just\nassumed you were from that lineage. My apologies."
                             ]
                         },
                         {
@@ -20929,14 +19263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（乗り切ったか・・・）"
+                                "\\n<Rui>... (Did I manage to get through that...)"
                             ]
                         },
                         {
@@ -20960,21 +19287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<綺麗な女性>そういえば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近キャットフィールド家のご令息とご令嬢が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家出をしているとかなんとか・・・"
+                                "\\n<Beautiful Woman>By the way... I heard that the young master and young lady\nof the Catfield family have recently run away from home or\nsomething..."
                             ]
                         },
                         {
@@ -21014,21 +19327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>それは大変ですね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ワタシも見かけたら報告するようにします！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（早くここを離れよう・・・）"
+                                "\\n<Rui>That's terrible! If I see them, I'll make sure to report it!\n(I need to get out of here quickly...)"
                             ]
                         },
                         {
@@ -21135,21 +19434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ノブレス伯爵のところにまた予告状が届いたようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼のところはよく狙われるようで大変だな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の家は3回しか盗まれていないというのに。ははは！"
+                                "\\n<Man>It seems that the Noblesse Earl has received another advance\nnotice. His place is often targeted, must be tough. My house\nhas only been robbed three times in comparison. Hahaha!"
                             ]
                         },
                         {
@@ -21166,21 +19451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>大切な物を盗まれないようにするコツはね、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざと目につくところに、そこそこ高価な物を置いておくのさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すると満足してすぐ帰ってくれる。"
+                                "\\n<Man>The trick to not having your valuables stolen is to\ndeliberately place something fairly expensive in plain\nsight. That way, they get satisfied and leave quickly."
                             ]
                         },
                         {
@@ -21197,14 +19468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>本当に大切な宝物は見せびらかしちゃダメだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分と家族にだけが知っている特別な物でなきゃな。"
+                                "\\n<Man>You must never show off your truly precious treasures. They\nshould be special items known only to yourself and your\nfamily."
                             ]
                         },
                         {
@@ -21286,21 +19550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ノブレス伯爵が呼狼石の所持を公表したらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "全く、何を考えているんだか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことすれば、必ず『L』に狙われるぞ。"
+                                "\\n<Man>It seems the Noblesse Earl has announced his possession of\nthe Call of the Wild Stone. Honestly, what is he thinking?\nDoing such a thing will surely make him a target of \"L\"."
                             ]
                         },
                         {
@@ -21317,21 +19567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>アレは世界でも有数な黄色金剛石だぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私も図鑑でしか見たことがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直、本当に持っているのかも怪しいところだな。"
+                                "\\n<Man>That's one of the world's leading yellow diamonds. I've only\nseen it in an illustrated book myself. Frankly, I'm\nsuspicious if he really has it at all."
                             ]
                         },
                         {
@@ -21413,21 +19649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>ノブレス伯爵が呼狼石を盗まれたらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから公表などするなと言ったのに・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれほどの宝石、個人が所有していいレベルを越えているぞ。"
+                                "\\n<Man>It seems the Noblesse Earl's Howling Gem has been stolen.\nDespite my warnings not to make it public... Such a gem is\nbeyond the level of private ownership."
                             ]
                         },
                         {
@@ -21444,21 +19666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>価値が分からない者の手に渡れば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売りさばく為に砕いて小分けにされかねない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなれば世界の損失だ。"
+                                "\\n<Man>If it falls into the hands of someone who doesn't understand\nits value, they might break it apart to sell it off in\npieces. That would be a loss for the whole world."
                             ]
                         },
                         {
@@ -21540,21 +19748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>怪盗が捕まったらしいが呼狼石の行方は不明のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "尋問にかけて、口を割ればいいが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれほどの宝石、個人が所有していいレベルじゃないぞ。"
+                                "\\n<Man>It seems the phantom thief has been caught, but the\nwhereabouts of the Howling Stone remain unknown. We should\ninterrogate them, and if they spill the beans... Such a\ngemstone is not something an individual should possess."
                             ]
                         },
                         {
@@ -21571,21 +19765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>価値が分からない者の手に渡れば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "売りさばく為に砕いて小分けにされかねない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうなれば世界の損失だ。"
+                                "\\n<Man>If it falls into the hands of someone who doesn't understand\nits value, they might break it apart to sell it off in\npieces. That would be a loss for the whole world."
                             ]
                         },
                         {
@@ -21602,21 +19782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>まぁ、これでウチの家からも盗まれる心配はなくなったが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ノブレス伯爵、一体何を考えていることやら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "彼の考えは私には分からないよ。"
+                                "\\n<Man>Well, at least now I don't have to worry about it being\nstolen from our house. As for Count Noblesse, what on earth\nis he thinking? His thoughts are beyond my comprehension."
                             ]
                         },
                         {
@@ -21707,21 +19873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>っぷはぁ～♥昼間のビールは最高だわぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "兵隊さん働いてるの見ながら飲むとまた・・・ね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう、罪悪感でのど越しが良くなる～♥"
+                                "\\n<Female>*burp* Ahh~♥ Daytime beer is the best♥ Watching the soldiers\nwork while I drink makes it even better... you know♥ The\nguilt just makes it go down smoother~♥"
                             ]
                         },
                         {
@@ -21738,21 +19890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>そんなに毎日ぴりぴり警備なんてしなくてもいいのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "暴動なんて滅多におこりゃしないって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物も町の中までは入ってこないしさ♥"
+                                "\\n<Female>They really don't need to be on edge guarding every day.\nRiots hardly ever happen! And monsters don't come into town\neither♥"
                             ]
                         },
                         {
@@ -21852,21 +19990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>えーっと、今日はブティックに寄って、その後は髪をセット。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それから友達とティータイムで、その後は彼とディナーでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あー忙しい！全然暇がない！"
+                                "\\n<Female>Um, today I need to stop by the boutique, then get my hair\ndone. After that, it's tea time with friends, and then\ndinner with him. Ah, I'm so busy! I have no free time at\nall!"
                             ]
                         },
                         {
@@ -21899,21 +20023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（暇しか無いように見えるけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人それぞれ、やらなきゃいけないことは違うんだろう。）"
+                                "\\n<Rui>...(It looks like she has nothing but free time... But I\nguess everyone has different things they must do.)"
                             ]
                         },
                         {
@@ -21946,21 +20056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>明日も朝からワンちゃんの美容室に行って、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お昼は女子会でしょ？それで、別の彼と劇を見に行って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ！もう！なんでこんなに忙しいの！"
+                                "\\n<Female>Tomorrow morning I have to go to the dog salon, then it's a\ngirls' lunch, right? After that, I'm off to see a play with\na different guy... Ahh! Seriously! Why am I so busy!"
                             ]
                         },
                         {
@@ -21993,7 +20089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>（いや、やっぱりこの人は暇な人だ。）"
+                                "\\n<Rui>(No, I was right; this person really does have a lot of free\ntime.)"
                             ]
                         },
                         {
@@ -22091,21 +20187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>ウチの人は普段は優しいんだけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お酒が入るとドリーネの愚痴ばっかり言うのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちは分からなくないけれど。"
+                                "\\n<Female>My partner is usually kind, but when they drink, they just\nkeep complaining about the people of Dri-Ne. I can\nunderstand the feeling, though."
                             ]
                         },
                         {
@@ -22122,21 +20204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>私は崩落時の惨状を知らないから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上も下もなく仲良くできればいいのにって思ってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、綺麗事なのよね。"
+                                "\\n<Female>Since I don't know the horrors of the collapse, I think it\nwould be nice if everyone could get along without any\nhierarchy. But that's just wishful thinking."
                             ]
                         },
                         {
@@ -22153,21 +20221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>口には出さなくても"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ドリーネを疎ましく思っている人々は多いわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな、心のどこかで見下してる。"
+                                "\\n<Female>Even if they don't say it out loud, there are many who\nresent the people of Dri-Ne. Everyone looks down on them in\nsome part of their heart."
                             ]
                         },
                         {
@@ -22184,21 +20238,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>私はドリーネの人たちよりも、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この町の人たちの不満がいつか爆発するんじゃないかって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そっちの方が心配なの。"
+                                "\\n<Female>More than the people of Dri-Ne, I'm worried that the\ndissatisfaction of the people in this town might explode\nsomeday."
                             ]
                         },
                         {
@@ -22289,21 +20329,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>おやおや、キミは冒険者かい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すまないが、大切なティーーーーーータイム中なのだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり近寄らないで頂けるかな？"
+                                "\\n<Man>Oh my, are you an adventurer? I'm sorry, but I'm in the\nmiddle of an important tea time. Could you please not come\nany closer?"
                             ]
                         },
                         {
@@ -22320,21 +20346,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>自分では分からないかもしれないけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミたちには魔物の血の匂いが染み付いているのだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅茶の香りが台無しになる。"
+                                "\\n<Man>You might not realize it, but you're steeped in the scent of\nmonster blood. It ruins the aroma of my tea."
                             ]
                         },
                         {
@@ -22367,21 +20379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>すんすん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何の匂いもしないよ？私、普通の人の何倍も鼻いいけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気のせいだよ。"
+                                "\\n<Rui>Sniff sniff...? I don't smell anything? My sense of smell is\nmany times better than an average person's. It must be your\nimagination."
                             ]
                         },
                         {
@@ -22415,21 +20413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>すんすん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうかな？全然臭わないけど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人間の何倍も鼻がいいのに。おかしいな。"
+                                "\\n<Rui>Sniff sniff...? Really? I can't smell anything at all. And I\nhave a much better nose than humans. Strange."
                             ]
                         },
                         {
@@ -22463,21 +20447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<男性>精神性の話さ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血生臭い生き方の冒険者とは、相容れないってこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通の理解力があれば説明は不要だと思うが？"
+                                "\\n<Man>It's a matter of spirituality. The blood-soaked lifestyle of\nadventurers is incompatible with me. If you had normal\ncomprehension, no explanation would be necessary, would it?"
                             ]
                         },
                         {
@@ -22510,21 +20480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ごめんね分からなくて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもアナタが嫌なヤツってのは分かったよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "飲まれる紅茶が可哀想！じゃあね！"
+                                "\\n<Rui>Sorry I don't understand! But I've figured out that you're\nan unpleasant person! I feel sorry for the tea that gets\ndrunk by you! Bye then!"
                             ]
                         },
                         {
@@ -22548,21 +20504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（猫借手でコッソリ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "紅茶にコインを砕いたものを混ぜておいた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "飲んで下痢しろ！ばーか！）"
+                                "\\n<Rui>(I secretly mixed some crushed coins into the tea with a\nsleight of hand. Drink up and get diarrhea! Idiot!)"
                             ]
                         },
                         {
@@ -22596,21 +20538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あぁ、どうぞごゆっくり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（なるほど、冒険者に対してこういう感情を持つ人はいるんだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう関わらないようにしよう。）"
+                                "\\n<Rui>Ah, please enjoy your time. (I see, so there are people who\nharbor such feelings towards adventurers. I'll make sure not\nto get involved anymore.)"
                             ]
                         },
                         {
@@ -22634,14 +20562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（猫借手でコッソリ紅茶に砂も入れてやったし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "砂利ティーでも飲んでろ。）"
+                                "\\n<Rui>(I also secretly added some sand to the tea with a sleight\nof hand. Drink your gravel tea then.)"
                             ]
                         },
                         {
@@ -22758,21 +20679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ムキムキの女性>あーん。重たいよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ゴミ捨て場までもう歩けなーい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このゴミ180kgぐらいあるー！筋肉付いちゃうー！"
+                                "\\n<Muscular Woman>Ahh, it's so heavy. I can't walk to the trash dump anymore!\nThis trash must weigh around 180kg! I'm gonna get muscles!"
                             ]
                         },
                         {
@@ -22879,21 +20786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メイド>ご主人様～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに行かれましたか～？ご主人様～？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会議のお時間ですよ～！"
+                                "\\n<Maid>Master~? Where have you gone~? Master~? It's time for the\nmeeting~!"
                             ]
                         },
                         {
@@ -23000,14 +20893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>スラム街『ドリーネ』の北側は崩落が激しかった地域でね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほぼ垂直な崖になっているだろう？"
+                                "\\n<Soldier>The north side of the slum district \"Dori-ne\" was an area\nthat suffered severe collapse. It's almost a vertical cliff\nnow, isn't it?"
                             ]
                         },
                         {
@@ -23024,21 +20910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>でも、南側は少しだけマシだったんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だから今でも貴族街だったころの名残が残ってるし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "崖というよりは急こう配の坂になってる。"
+                                "\\n<Soldier>But the south side was a bit better off. That's why remnants\nof the time when it was a noble district still remain, and\ninstead of a cliff, it's more like a steep slope."
                             ]
                         },
                         {
@@ -23055,21 +20927,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>スラムに流れ込んで来る住民は大体南からやってくる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにか、引き付けられるものがあるのかもしれないね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "運命的な流れのようなものが。"
+                                "\\n<Soldier>The residents who flow into the slums mostly come from the\nsouth. Maybe there's something that draws them in, something\nlike a fateful current."
                             ]
                         },
                         {
@@ -23160,21 +21018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>ここは貴族街『ルマーレ』です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "水の綺麗な町。名物はルマーレショコラです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し値段は張りますが、顔がニヤケてしまうほどの美味しさですよ。"
+                                "\\n<Soldier>This is the noble district \"Luma-Le\". A town with beautiful\nwater. The specialty here is Luma-Le Chocolates. They're a\nbit pricey, but so delicious they'll make you grin from ear\nto ear."
                             ]
                         },
                         {
@@ -23265,14 +21109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<重装備の冒険者>猫の獣人の冒険者の噂・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、知っているとも。双子だろ？"
+                                "\\n<Heavily Armored Adventurer>Rumors about the cat beastfolk adventurers...? Ah, I know\nthem. They're twins, right?"
                             ]
                         },
                         {
@@ -23289,21 +21126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<重装備の冒険者>あ、それキミか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それ以外で？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うーん・・・すまない。心当たりがない。"
+                                "\\n<Heavily Armored Adventurer>Oh, it's you. Anything else? Hmm... sorry, I can't think of\nanything."
                             ]
                         },
                         {
@@ -23385,21 +21208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<重装備の冒険者>猫の獣人の冒険者の噂・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ああ、知っているとも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勇者と旅をしているという、アレだろ？"
+                                "\\n<Heavily Armored Adventurer>Rumors of a cat beastkin adventurer...? Ah, I know of them.\nThey're the one traveling with the hero, right?"
                             ]
                         },
                         {
@@ -23416,21 +21225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<重装備の冒険者>素手なのに物凄く強いらしいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し前までは王都アニスにいたらしいが、今はどこにいるのやら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者だからな。別の拠点に移ったのかもしれないな。"
+                                "\\n<Heavily Armored Adventurer>Despite fighting barehanded, they're said to be incredibly\nstrong. They were in the royal capital Anis until a little\nwhile ago, but who knows where they are now. Being an\nadventurer and all, they might have moved to a different\nbase."
                             ]
                         },
                         {
@@ -23463,21 +21258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>勇者と冒険・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お姉ちゃんが・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うーん、そんなことあるかなぁ？"
+                                "\\n<Rui>An adventure with a hero...? My sister...? Hmm, could that\nreally be?"
                             ]
                         },
                         {
@@ -23504,21 +21285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>素手で戦うのはお姉ちゃんらしいけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "勇者？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな凄い人の仲間なの？まさかね・・・"
+                                "\\n<Rui>Fighting barehanded is like my sister, but... a hero? Part\nof such an amazing person's group? I doubt it..."
                             ]
                         },
                         {
@@ -23619,21 +21386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>猫の獣人で強いヤツ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん、一応心当たりはあるが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者じゃないぞ。"
+                                "\\n<Longsword Adventurer>A strong cat beast-person...? Hmm, I do have someone in\nmind, but... they're not an adventurer."
                             ]
                         },
                         {
@@ -23650,21 +21403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>以前オレガノの辺りで暴れまわってる"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫の獣人がいるって噂があってな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりに手に負えないんで、討伐依頼まで出されてたとかなんとか。"
+                                "\\n<Longsword Adventurer>There were rumors about a rampaging cat beast-person around\nthe Oregano area before. They were so uncontrollable that a\nsubjugation request was even issued, or so I've heard."
                             ]
                         },
                         {
@@ -23681,21 +21420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>強いヤツ出てこい！って言いながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "木はへし折るわ、冒険者はボコボコにするわで大騒ぎだったらしい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレが解決したのかどうかは知らん。"
+                                "\\n<Longsword Adventurer>They were causing a huge commotion, shouting \"Come out,\nstrong ones!\" while snapping trees and beating up\nadventurers. I don't know if that situation was ever\nresolved."
                             ]
                         },
                         {
@@ -23728,21 +21453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>討伐依頼まで？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うーん。それはお姉ちゃんじゃなさそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがと！"
+                                "\\n<Rui>A subjugation request, huh? Mmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -23769,21 +21480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あ、それはきっと別人ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ありがとうございました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（頼む！別人であってくれぇ！）"
+                                "\\n<Rui>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {
@@ -23817,7 +21514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<長剣の冒険者>お姉さん、見つかるといいな。"
+                                "\\n<Longsword Adventurer>I hope you find your sister."
                             ]
                         },
                         {
@@ -24025,21 +21722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>あ、Rui！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可愛いドレスあった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お仕事頑張ったらコレ買いたいなー♥いくらかなー？"
+                                "\\n<Ones>Ah, Rui! I found a cute dress! I want to buy this after\nworking hard-♥ How much is it-?"
                             ]
                         },
                         {
@@ -24072,21 +21755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>んーと、ゼロがいち、にー、さん、しー、ごー、ろく・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "1000000Gだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "は？"
+                                "\\n<Ones>Let's see, zero and one, two-, three, four-, five-, six...\nIt's 1,000,000G?! Huh?"
                             ]
                         },
                         {
@@ -24126,14 +21795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>そんなもん外に置いちゃダメでしょ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風とか雨とか砂とかぁ！！"
+                                "\\n<Ones>You can't just leave something like that outside! What about\nthe wind, or rain, or sand?!"
                             ]
                         },
                         {
@@ -24166,14 +21828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>私この服きらい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いらない。"
+                                "\\n<Ones>I hate this outfit. I don't need it."
                             ]
                         },
                         {
@@ -24262,7 +21917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ルイ！なんでドレスなんか見てんの？"
+                                "\\n<Rui>Rui! Why are you looking at dresses?"
                             ]
                         },
                         {
@@ -24295,21 +21950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>あぁ、Rui。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に、可愛らしいなと思って。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiが着ても似合いそうだね。"
+                                "\\n<Rui>Ah, Rui. No reason, just thought they were cute. I think\nthey'd suit you too."
                             ]
                         },
                         {
@@ -24333,7 +21974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>それ褒めてる？"
+                                "\\n<Rui>Is that a compliment?"
                             ]
                         },
                         {
@@ -24366,21 +22007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>えっ？褒めてないように聞こえた？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通に似合うと思ったんだけど。"
+                                "\\n<Rui>Eh? Did it not sound like one? Sorry. I genuinely thought it\nwould suit you."
                             ]
                         },
                         {
@@ -24404,7 +22031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>普通に？"
+                                "\\n<Rui>Just genuinely?"
                             ]
                         },
                         {
@@ -24437,14 +22064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>世界一似合うと思います。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（女の子ってめんどくさいな。）"
+                                "\\n<Rui>I think it would suit you the best in the world. (Girls can\nbe so troublesome.)"
                             ]
                         },
                         {
@@ -24468,7 +22088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>じゃあ買って♥"
+                                "\\n<Rui>Then buy it for me♥"
                             ]
                         },
                         {
@@ -24501,7 +22121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>やだ。"
+                                "\\n<Rui>No way."
                             ]
                         },
                         {
@@ -24645,14 +22265,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "とても可愛らしいドレスだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "女の子なら誰でも着たいと思うだろう。"
+                                "It's a very cute dress. Any girl would want to wear it."
                             ]
                         },
                         {
@@ -24764,14 +22377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>もぐもぐもぐもぐ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・"
+                                "\\n<Ones>Munch munch munch munch...♥ Ah..."
                             ]
                         },
                         {
@@ -24804,14 +22410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>甘いものはね、食べなきゃいけない時があるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無駄遣いとかではないの。"
+                                "\\n<Ones>You know, there are times when you just have to eat\nsomething sweet. It's not a waste of money or anything."
                             ]
                         },
                         {
@@ -24844,21 +22443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>ぎ、ギルドの人には内緒にしててね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "貴族街でいちごミルフィーユ食べてたなんてバレたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "裏切り者って思われちゃう。"
+                                "\\n<Ones>Could you keep it a secret from the guild members? If they\nfound out I was eating strawberry mille-feuille in the noble\ndistrict, they'd think I'm a traitor."
                             ]
                         },
                         {
@@ -24891,21 +22476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>みんなあんまり、上の人達のこと好きじゃなさそうだもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リンテイぐらいしか通行許可持ってないし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仲良くすればいいのに。美味しいのに。"
+                                "\\n<Ones>It seems like most people don't really like those from the\nupper ranks. Only Latier has a pass to go through, after\nall. They should get along better. It's delicious, after\nall."
                             ]
                         },
                         {
@@ -24994,7 +22565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ルイ！何食べてるの？"
+                                "\\n<Rui>Rui! What are you eating?"
                             ]
                         },
                         {
@@ -25043,21 +22614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>Rui！ん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "げほっ！急に話しかけないで！けほっ！変なとこに入った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "けほけほ！"
+                                "\\n<Rui>Rui! Mmph! Cough! Don't just start talking to me all of a\nsudden! Cough! It went down the wrong way! Cough cough!"
                             ]
                         },
                         {
@@ -25081,21 +22638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>あ、いちごミルフィーユじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょーだい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとくち♥"
+                                "\\n<Rui>Oh, that's a strawberry mille-feuille, isn't it? Gimme a\nbite♥ Just one♥"
                             ]
                         },
                         {
@@ -25128,7 +22671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>ひとくちだけだぞ。"
+                                "\\n<Rui>Only one bite, okay."
                             ]
                         },
                         {
@@ -25202,7 +22745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>あ～～～～ん♥（丸ごと口に頬りこむ）"
+                                "\\n<Rui>Ahhhhh♥ (Pops the whole thing into their mouth)"
                             ]
                         },
                         {
@@ -25244,21 +22787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>しまった！Ruiの遠慮のなさを忘れていた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミルフィーユごときのサイズ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとくちで食べ尽くしてしまうのは当然のことだった！"
+                                "\\n<Rui>Darn it! I forgot about Rui's lack of restraint! It was only\nnatural for them to devour something the size of a mille-\nfeuille in one bite!"
                             ]
                         },
                         {
@@ -25340,21 +22869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>うまうま・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もぐもぐ・・・♥ごっくん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "んにゃぁぁぁ～～～♥美味しいいいい～～♥"
+                                "\\n<Rui>Yum yum...♥ munch munch...♥ gulp♥ Nyaaaahhh～～～♥ Delicious～～♥"
                             ]
                         },
                         {
@@ -25406,7 +22921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>おかわり。"
+                                "\\n<Rui>Another one."
                             ]
                         },
                         {
@@ -25439,7 +22954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイ>図々しいにもほどがあるだろ。"
+                                "\\n<Rui>You're being way too brazen."
                             ]
                         },
                         {
@@ -25643,7 +23158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ん？なんか使えそうなものがある。"
+                                "Hm? It looks like there's something useful here."
                             ]
                         },
                         {
@@ -25730,14 +23245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ガラクタの山だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも人によってはお宝の山かもしれない。"
+                                "It's a pile of junk. But for some, it might be a treasure\ntrove."
                             ]
                         },
                         {
@@ -25830,21 +23338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<貴族の男性>ちょ！ちょっとこっちにこないで！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "メイドに見つかっちゃう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "会議なんてもう嫌なんだよ私は！"
+                                "\\n<Nobleman>Hey! Don't come over here! The maid will find us! I'm so\ndone with meetings!"
                             ]
                         },
                         {
@@ -25861,14 +23355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<貴族の男性>これでもやるから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかで遊んでおいで！"
+                                "\\n<Nobleman>I'll give you this, so go play somewhere else!"
                             ]
                         },
                         {
@@ -25918,7 +23405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>遊びで使っていいモノじゃなくない？"
+                                "\\n<Rui>Isn't this something that shouldn't be used for playing?"
                             ]
                         },
                         {
@@ -26009,21 +23496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<貴族の男性>くるなって！もう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "森でも燃やして遊んで来なよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "環境破壊は気持ちいいぞ！"
+                                "\\n<Nobleman>Don't come any closer! Geez! Why don't you go burn a forest\nand have fun? Destroying the environment feels great!"
                             ]
                         },
                         {
@@ -26047,7 +23520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>貴族の遊びってタチ悪すぎない？"
+                                "\\n<Rui>Aren't the nobles' games just too cruel?"
                             ]
                         },
                         {

@@ -9885,21 +9885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>うーん・・・おかしいわねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "さっきはこの辺りから凝血晶の気配を感じたのだけれど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぁ、もう面倒だわ。"
+                                "\\n<Terra>Hmm... that's strange. I felt the presence of a coagulation\ncrystal around here just a moment ago. Ah, this is such a\nhassle."
                             ]
                         },
                         {
@@ -9932,21 +9918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>更地にした方が早いわね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凝血晶なら、欠けることはあっても壊れないでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタたち、自分の身は自分で守りなさいよ。"
+                                "\\n<Terra>It would be faster to just clear the land. Coagulation\ncrystals might chip, but they won't break, right? You all,\nmake sure to protect yourselves."
                             ]
                         },
                         {
@@ -10018,14 +9990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<プリム>え！？テラ様！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとま・・・！！"
+                                "\\n<Prim>What!? Lady Terra!? Wait a...!!"
                             ]
                         },
                         {
@@ -10298,7 +10263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない。既に事切れているようだ。"
+                                "There's no response. It seems they've already passed away."
                             ]
                         },
                         {
@@ -10681,21 +10646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シーベル>よっしゃアホ！そっちは行き止まりじゃい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間様の頭脳舐めんなバカタレ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一生そこで吠えとけ！"
+                                "\\n<Siebel>Hah, you fool! That way is a dead end! Don't underestimate\nthe intelligence of humans, you idiot! Bark there for the\nrest of your life!"
                             ]
                         },
                         {
@@ -10734,7 +10685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Grrraaaauuughhh!!!"
                             ]
                         },
                         {
@@ -10751,21 +10702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シーベル>ひぃっ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ごめんなしゃいごめんなしゃいぃ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "大人しくしててぇ～！"
+                                "\\n<Siebel>Eeek!! I'm sorry, I'm so sorry! I'll behave, I promise~!"
                             ]
                         },
                         {
@@ -13393,7 +13330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13533,7 +13470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13673,7 +13610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13813,7 +13750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13953,7 +13890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -14073,7 +14010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない。既に事切れているようだ。"
+                                "There's no response. It seems they've already passed away."
                             ]
                         },
                         {
@@ -14197,7 +14134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>きゅああああああああう！！"
+                                "\\n<Monster>Kyuaaaaaaaaah!!"
                             ]
                         },
                         {

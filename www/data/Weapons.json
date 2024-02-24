@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 6,
-        "description": "ドラゴンの力を纏わせた大剣\n斬撃　3方向短　隙45　貫通",
+        "description": "Greatsword clad in dragon's power, slash attack, 3 directions short, opening 45,\npiercing",
         "etypeId": 1,
         "traits": [
             {
@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "降竜剣",
+        "name": "Descending Dragon Sword",
         "note": "<shotWay:3>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:35>\n<shotSkill:801>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 1,
-        "description": "ひびが入って使い物にならない皿\n打撃　2方向長　隙40",
+        "description": "Cracked plate that's no longer usable, blunt attack, 2 directions long, opening\n40",
         "etypeId": 1,
         "traits": [
             {
@@ -51,7 +51,7 @@
             }
         ],
         "iconIndex": 196,
-        "name": "お皿フリスビー",
+        "name": "Dish Frisbee",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.3>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:17>\n<shotSkill:807>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -69,7 +69,7 @@
     {
         "id": 3,
         "animationId": 1,
-        "description": "当たると痛い\n打撃　1方向長　隙40",
+        "description": "It hurts when it hits, blunt attack, 1 direction long, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -84,7 +84,7 @@
             }
         ],
         "iconIndex": 265,
-        "name": "リンゴ",
+        "name": "Apple",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:34>\n<shotSkill:799>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -102,7 +102,7 @@
     {
         "id": 4,
         "animationId": 1,
-        "description": "錬金に失敗して出来た身体に悪そうな薬\n水　1方向長　隙35",
+        "description": "Bad-looking medicine made from a failed alchemy, water attack, 1 direction long,\nopening 35",
         "etypeId": 1,
         "traits": [
             {
@@ -117,7 +117,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "失敗作",
+        "name": "Failed Creation",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:35>\n<shotType:3>\n<shotIndex:25>\n<shotSkill:804>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 1,
-        "description": "亡き父の愛用した剣　よく手入れされている\n斬撃　2方向短　隙40　貫通",
+        "description": "Sword beloved by my late father, well-maintained, slash attack, 2 directions\nshort, opening 40, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -150,7 +150,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "ハリルの剣",
+        "name": "Haril's Sword",
         "note": "<shotWay:2>\n<shotSpace:0.1>\n<shotCount:15>\n<shotSpeed:0.25>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:34>\n<shotSkill:817>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -168,7 +168,7 @@
     {
         "id": 6,
         "animationId": 1,
-        "description": "クマリを投げる\n打撃　1方向長　隙120",
+        "description": "Throwing a bear cub, blunt attack, 1 direction long, opening 120",
         "etypeId": 1,
         "traits": [
             {
@@ -188,7 +188,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ベアスロー",
+        "name": "Bear Throw",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:60>\n<shotSpeed:0.15>\n<shotInterval:120>\n<shotType:4>\n<shotIndex:22>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -206,7 +206,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "毒薬を詰めた試験管をばらまく\n水　5方向長　隙60",
+        "description": "Scattering test tubes filled with poison, water attack, 5 directions long,\nopening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -221,7 +221,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "試験管",
+        "name": "Test Tube",
         "note": "<shotWay:5>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:29>\n<shotSkill:804>",
         "params": [
             0,
@@ -239,7 +239,7 @@
     {
         "id": 8,
         "animationId": 1,
-        "description": "踊りながら扇子をばらまく\n誘惑　9方向長　隙100",
+        "description": "Scattering fans while dancing, seduction attack, 9 directions long, opening 100",
         "etypeId": 1,
         "traits": [
             {
@@ -254,7 +254,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "踊り子の扇子",
+        "name": "Dancer's Fan",
         "note": "<shotWay:9>\n<shotSpace:0.7>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:100>\n<shotType:3>\n<shotIndex:39>\n<shotSkill:806>",
         "params": [
             0,
@@ -272,7 +272,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "投げキッスで敵を興奮させる\n誘惑　2方向　隙30",
+        "description": "Blowing a kiss to excite the enemy, seduction attack, 2 directions, opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -287,7 +287,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "スカーレットリップ",
+        "name": "Scarlet Lip",
         "note": "<shotWay:2>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:30>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -320,7 +320,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "～斬撃系武器～",
+        "name": "~Slash Weapon Series~",
         "note": "",
         "params": [
             0,
@@ -338,7 +338,7 @@
     {
         "id": 11,
         "animationId": 1,
-        "description": "羽のように軽い剣\n斬撃　3方向長　隙30",
+        "description": "Sword light as a feather, slash attack, 3 directions long, opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -348,7 +348,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "フェザーソード",
+        "name": "Feather Sword",
         "note": "<shotWay:3>\n<shotSpace:0.5>\n<shotCount:30>\n<shotSpeed:0.3>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:36>\n<shotSkill:811>\n<shotSeName:Sword4>",
         "params": [
             0,
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 1,
-        "description": "ゴミ捨て場から屑鉄を集めて作った粗悪品\n斬撃　3方向短　隙45　貫通",
+        "description": "Poor quality blade made from scrap iron found at the dump, slash attack, 3\ndirections short, opening 45, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -381,7 +381,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "鉄の剣",
+        "name": "Iron Sword",
         "note": "<shotWay:3>\n<shotSpace:0.4>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:35>\n<shotSkill:801>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -399,7 +399,7 @@
     {
         "id": 13,
         "animationId": 1,
-        "description": "リンゴの皮を向くナイフ\n斬撃　1方向長　隙30",
+        "description": "Knife for peeling apples, slash attack, 1 direction long, opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -414,7 +414,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "果物ナイフ",
+        "name": "Fruit Knife",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.5>\n<shotInterval:30>\n<shotType:3>\n<shotIndex:0>\n<shotSkill:802>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -432,7 +432,7 @@
     {
         "id": 14,
         "animationId": 1,
-        "description": "敵が踏むと爆発する爆弾\n炎　設置　隙50",
+        "description": "Bomb that explodes when stepped on by an enemy, fire attack, set up, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -447,7 +447,7 @@
             }
         ],
         "iconIndex": 218,
-        "name": "設置型爆弾",
+        "name": "Stationary Bomb",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:200>\n<shotSpeed:0.0>\n<shotInterval:50>\n<shotType:3>\n<shotIndex:36>\n<shotSkill:808>\n<shotSeName:key>",
         "params": [
             0,
@@ -465,7 +465,7 @@
     {
         "id": 15,
         "animationId": 1,
-        "description": "ピアノは打楽器\n打撃　1方向短　隙200",
+        "description": "The piano is a percussion instrument, blunt attack, 1 direction short, opening\n200",
         "etypeId": 1,
         "traits": [
             {
@@ -480,7 +480,7 @@
             }
         ],
         "iconIndex": 200,
-        "name": "ピアノ",
+        "name": "Piano",
         "note": "<shotWay:1>\n<shotSpace:0.15>\n<shotCount:60>\n<shotSpeed:0.10>\n<shotInterval:200>\n<shotType:5>\n<shotIndex:17>\n<shotSkill:809>\n<shotSeName:chest1>",
         "params": [
             0,
@@ -498,7 +498,7 @@
     {
         "id": 16,
         "animationId": 1,
-        "description": "適当に投げてはいけない\n斬撃　1方向長　隙60　貫通",
+        "description": "Do not throw carelessly, slash attack, 1 direction long, opening 60, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -508,7 +508,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "投げ槍",
+        "name": "Throwing Spear",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.25>\n<shotInterval:60>\n<shotType:4>\n<shotIndex:6>\n<shotSkill:813>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -526,7 +526,7 @@
     {
         "id": 17,
         "animationId": 1,
-        "description": "サテライトレーザー！\n炎　1方向長　隙60",
+        "description": "Satellite Laser! Fire attack, 1 direction long, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -536,7 +536,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "光の槍",
+        "name": "Spear of Light",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.4>\n<shotInterval:45>\n<shotType:5>\n<shotIndex:7>\n<shotSkill:812>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -554,7 +554,7 @@
     {
         "id": 18,
         "animationId": 1,
-        "description": "一時的に指が2、3本増える薬\n味方に当てると一時的に球数が増える",
+        "description": "Medicine that temporarily increases fingers by two or three; when used on allies\nit temporarily increases the number of balls",
         "etypeId": 1,
         "traits": [
             {
@@ -569,7 +569,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "ユビフエール",
+        "name": "Yubi Faire",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:100>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:34>\n<shotSkill:815>",
         "params": [
             0,
@@ -587,7 +587,7 @@
     {
         "id": 19,
         "animationId": 1,
-        "description": "クマリが巨大化して敵を切り刻む\n斬撃　1方向短い　隙200",
+        "description": "Giant bear cub slashes at the enemy, slash attack, 1 direction short, opening\n200",
         "etypeId": 1,
         "traits": [
             {
@@ -602,7 +602,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ビッグクマリ",
+        "name": "Big Kumari",
         "note": "<shotWay:1>\n<shotSpace:0.2>\n<shotCount:30>\n<shotSpeed:0.1>\n<shotInterval:200>\n<shotType:5>\n<shotIndex:23>\n<shotSkill:805>\n<shotSeName:Monster6>",
         "params": [
             0,
@@ -620,7 +620,7 @@
     {
         "id": 20,
         "animationId": 1,
-        "description": "ぷちファイアの魔法が使えるようになる超初級魔導書\n炎　2方向短　隙45",
+        "description": "Become able to use Puchi Fire magic with this beginner's grimoire, fire attack,\n2 directions short, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -635,7 +635,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "火の魔導書",
+        "name": "Fire Magic Tome",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:818>\n<shotSeName:Fire1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -653,7 +653,7 @@
     {
         "id": 21,
         "animationId": 1,
-        "description": "サンダーの魔法が使えるようになる初級魔導書\n雷　1方向長　隙45　貫通",
+        "description": "Become able to use Thunder magic with this beginner's grimoire, lightning\nattack, 1 direction long, opening 45, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -668,7 +668,7 @@
             }
         ],
         "iconIndex": 66,
-        "name": "雷の魔導書",
+        "name": "Thunder Magic Tome",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.5>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:35>\n<shotSkill:819>\n<shotSeName:Thunder3>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -686,7 +686,7 @@
     {
         "id": 22,
         "animationId": 1,
-        "description": "スプラッシュの魔法が使えるようになる初級魔導書\n水　5方向短　隙45",
+        "description": "Become able to use Splash magic with this beginner's grimoire, water attack, 5\ndirections short, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -701,7 +701,7 @@
             }
         ],
         "iconIndex": 67,
-        "name": "水の魔導書",
+        "name": "Water Magic Tome",
         "note": "<shotWay:5>\n<shotSpace:0.6>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:38>\n<shotSkill:820>\n<shotSeName:Water1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -719,7 +719,7 @@
     {
         "id": 23,
         "animationId": 1,
-        "description": "自然の理を数学的に解いた本\n水　8方向短　隙40",
+        "description": "Book that mathematically solves the laws of nature, water attack, 8 directions\nshort, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -734,7 +734,7 @@
             }
         ],
         "iconIndex": 67,
-        "name": "プリンキピア",
+        "name": "Principia",
         "note": "<shotWay:8>\n<shotSpace:0.7>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:38>\n<shotSkill:820>\n<shotSeName:Water1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -752,7 +752,7 @@
     {
         "id": 24,
         "animationId": 1,
-        "description": "ファイアの魔法が使えるようになる初級魔導書\n炎　3方向短　隙45",
+        "description": "Become able to use Fire magic with this beginner's grimoire, fire attack, 3\ndirections short, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -767,7 +767,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "炎の魔導書",
+        "name": "Flame Magic Tome",
         "note": "<shotWay:3>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:818>\n<shotSeName:Fire1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -785,7 +785,7 @@
     {
         "id": 25,
         "animationId": 1,
-        "description": "4方向にばらまくナイフ\n斬撃　4方向　隙40",
+        "description": "Knives scattered in four directions, slash attack, 4 directions, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -800,7 +800,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "シューティングナイフ",
+        "name": "Shooting Knife",
         "note": "<shotWay:4>\n<shotSpace:0.5>\n<shotCount:15>\n<shotSpeed:0.5>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:0>\n<shotSkill:802>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -818,7 +818,7 @@
     {
         "id": 26,
         "animationId": 1,
-        "description": "ただし魔法は尻から出る\n斬撃　1方向短　後方　隙45",
+        "description": "However, the magic comes out from the butt, slash attack, 1 direction short,\nrearward, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -833,7 +833,7 @@
             }
         ],
         "iconIndex": 71,
-        "name": "暗黒魔法ダークネスエッジ",
+        "name": "Darkness Edge Dark Magic",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:-0.2>\n<shotInterval:45>\n<shotType:5>\n<shotIndex:35>\n<shotSkill:821>\n<shotSeName:Darkness3>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -851,7 +851,7 @@
     {
         "id": 27,
         "animationId": 1,
-        "description": "持ちやすいけど重たい斧\n斬撃　1方向短　隙60",
+        "description": "Axe that's easy to hold but heavy, slash attack, 1 direction short, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -861,7 +861,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ハンドアックス",
+        "name": "Hand Axe",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.20>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:2>\n<shotSkill:822>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -879,7 +879,7 @@
     {
         "id": 28,
         "animationId": 1,
-        "description": "筋肉系の戦士が好む戦いの為の斧\n斬撃　1方向短　隙60",
+        "description": "Axe favored by muscle-bound warriors for battle, slash attack, 1 direction\nshort, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -889,7 +889,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "バトルアックス",
+        "name": "Battle Axe",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.20>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:10>\n<shotSkill:822>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -907,7 +907,7 @@
     {
         "id": 29,
         "animationId": 1,
-        "description": "持ち上げるので精一杯な斧\n斬撃　1方向短　隙90",
+        "description": "Axe that's a struggle just to lift up, slash attack, 1 direction short, opening\n90",
         "etypeId": 1,
         "traits": [
             {
@@ -917,7 +917,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "ヘビーアックス",
+        "name": "Heavy Axe",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.20>\n<shotInterval:90>\n<shotType:4>\n<shotIndex:11>\n<shotSkill:823>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -935,7 +935,7 @@
     {
         "id": 30,
         "animationId": 1,
-        "description": "重たい上に痺れる斧\n雷　1方向短　隙90　貫通",
+        "description": "A heavy axe that also numbs the target, lightning attack, 1 direction short,\nopening 90, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -945,7 +945,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "雷撃の斧",
+        "name": "Axe of Thunder Strike",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.20>\n<shotInterval:90>\n<shotType:4>\n<shotIndex:13>\n<shotSkill:824>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -963,7 +963,7 @@
     {
         "id": 31,
         "animationId": 1,
-        "description": "人の背丈より大きな巨人用の斧\n斬撃　1方向短　隙120",
+        "description": "Axe for giants larger than a human's height, slash attack, 1 direction short,\nopening 120",
         "etypeId": 1,
         "traits": [
             {
@@ -973,7 +973,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "巨人の斧",
+        "name": "Giant's Axe",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.20>\n<shotInterval:120>\n<shotType:5>\n<shotIndex:11>\n<shotSkill:822>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -991,7 +991,7 @@
     {
         "id": 32,
         "animationId": 1,
-        "description": "幾多の罪を半分にしてきた斧\n斬撃　1方向短　隙180",
+        "description": "Axe that has halved many sins in its time, slash attack, 1 direction short,\nopening 180",
         "etypeId": 1,
         "traits": [
             {
@@ -1001,7 +1001,7 @@
             }
         ],
         "iconIndex": 99,
-        "name": "審判の斧",
+        "name": "Axe of Judgment",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.20>\n<shotInterval:180>\n<shotType:5>\n<shotIndex:13>\n<shotSkill:823>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -1019,7 +1019,7 @@
     {
         "id": 33,
         "animationId": 1,
-        "description": "忍びの者が愛用する飛び道具\n斬撃　3方向長　隙20",
+        "description": "Projectile weapon favored by ninjas, slash attack, 3 directions long, opening 20",
         "etypeId": 1,
         "traits": [
             {
@@ -1034,7 +1034,7 @@
             }
         ],
         "iconIndex": 71,
-        "name": "手裏剣",
+        "name": "Shuriken",
         "note": "<shotWay:3>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.5>\n<shotInterval:20>\n<shotType:3>\n<shotIndex:14>\n<shotSkill:802>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1052,7 +1052,7 @@
     {
         "id": 34,
         "animationId": 1,
-        "description": "設計ミスで短くなり過ぎた剣\n斬撃　1方向長　隙30",
+        "description": "Sword that became too short due to a design mistake, slash attack, 1 direction\nlong, opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1067,7 +1067,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "短剣",
+        "name": "Dagger",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.5>\n<shotInterval:30>\n<shotType:3>\n<shotIndex:9>\n<shotSkill:802>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1085,7 +1085,7 @@
     {
         "id": 35,
         "animationId": 1,
-        "description": "投げやすい小さな槍\n斬撃　2方向長　隙40　貫通",
+        "description": "Small spear that's easy to throw, slash attack, 2 directions long, opening 40,\npiercing",
         "etypeId": 1,
         "traits": [
             {
@@ -1100,7 +1100,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "ビースピア",
+        "name": "Bee Spear",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.4>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:8>\n<shotSkill:813>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1118,7 +1118,7 @@
     {
         "id": 36,
         "animationId": 1,
-        "description": "先が二股に分かれた投げやり\n斬撃　1方向長　隙45",
+        "description": "Spear with a bifurcated tip for throwing, slash attack, 1 direction long,\nopening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -1133,7 +1133,7 @@
             }
         ],
         "iconIndex": 107,
-        "name": "フォーク",
+        "name": "Fork",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:25>\n<shotSpeed:0.4>\n<shotInterval:45>\n<shotType:3>\n<shotIndex:12>\n<shotSkill:802>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1151,7 +1151,7 @@
     {
         "id": 37,
         "animationId": 1,
-        "description": "一本買ったら同じものが二本ついてきた\n斬撃　1方向長　隙30",
+        "description": "If you buy one you get two of the same kind for free; slash attack; 1 direction\nlong; opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1166,7 +1166,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "通販のナイフ",
+        "name": "Mail Order Knife",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.5>\n<shotInterval:30>\n<shotType:4>\n<shotIndex:9>\n<shotSkill:810>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1184,7 +1184,7 @@
     {
         "id": 38,
         "animationId": 1,
-        "description": "三本一組で確実に相手をしとめる剣\n斬撃　1方向長　隙30",
+        "description": "Set of three swords to surely finish off the opponent; slash attack; 1 direction\nlong; opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1199,7 +1199,7 @@
             }
         ],
         "iconIndex": 96,
-        "name": "トライエッジ",
+        "name": "Tri-Edge",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:4>\n<shotIndex:15>\n<shotSkill:810>\n<shotSeName:Sword3>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1217,7 +1217,7 @@
     {
         "id": 39,
         "animationId": 1,
-        "description": "投げると三本に増える剣\n斬撃　1方向長　隙30",
+        "description": "Sword that multiplies into three when thrown; slash attack; 1 direction long;\nopening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1232,7 +1232,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "流星の剣",
+        "name": "Meteor Sword",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:5>\n<shotIndex:9>\n<shotSkill:810>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1250,7 +1250,7 @@
     {
         "id": 40,
         "animationId": 1,
-        "description": "虚数空間から無限の剣が降り注ぐ\n斬撃　7方向長　隙45",
+        "description": "Infinite swords rain down from imaginary space; slash attack; 7 directions long;\nopening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -1265,7 +1265,7 @@
             }
         ],
         "iconIndex": 112,
-        "name": "インフィニティエッジ",
+        "name": "Infinity Edge",
         "note": "<shotWay:7>\n<shotSpace:0.7>\n<shotCount:20>\n<shotSpeed:0.3>\n<shotInterval:30>\n<shotType:5>\n<shotIndex:15>\n<shotSkill:821>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1283,7 +1283,7 @@
     {
         "id": 41,
         "animationId": 1,
-        "description": "飛ばした後の不便さを考えないロマン\n打撃　1方向長　隙80",
+        "description": "The impractical romance of a move that doesn't consider the inconvenience after\nbeing launched. Strike, one direction long, opening 80",
         "etypeId": 1,
         "traits": [
             {
@@ -1298,7 +1298,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "ロケットパンチ",
+        "name": "Rocket Punch",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:60>\n<shotSpeed:0.15>\n<shotInterval:80>\n<shotType:3>\n<shotIndex:3>\n<shotSkill:803>\n<shotSeName:Fire3>",
         "params": [
             0,
@@ -1316,7 +1316,7 @@
     {
         "id": 42,
         "animationId": 1,
-        "description": "殴られると痛い\n打撃　1方向　隙50",
+        "description": "It hurts when you get hit. Strike, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1326,7 +1326,7 @@
             }
         ],
         "iconIndex": 108,
-        "name": "メイス",
+        "name": "Mace",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:3>\n<shotIndex:4>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1344,7 +1344,7 @@
     {
         "id": 43,
         "animationId": 1,
-        "description": "釘を打つための道具\n打撃　1方向　隙50",
+        "description": "A tool for driving nails. Strike, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1354,7 +1354,7 @@
             }
         ],
         "iconIndex": 110,
-        "name": "ハンマー",
+        "name": "Hammer",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:3>\n<shotIndex:5>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1372,7 +1372,7 @@
     {
         "id": 44,
         "animationId": 1,
-        "description": "世界を救うにはまずこれから\n打撃　1方向　隙50",
+        "description": "To save the world, you must start with this. Strike, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1382,7 +1382,7 @@
             }
         ],
         "iconIndex": 113,
-        "name": "鉄パイプ",
+        "name": "Iron Pipe",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:3>\n<shotIndex:13>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1400,7 +1400,7 @@
     {
         "id": 45,
         "animationId": 1,
-        "description": "戻ってこないブーメラン型の鈍器\n打撃　3方向長　隙50",
+        "description": "A blunt weapon in the shape of a boomerang that doesn't return. Strike, three\ndirections long, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1410,7 +1410,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "ブーメラン",
+        "name": "Boomerang",
         "note": "<shotWay:3>\n<shotSpace:0.2>\n<shotCount:60>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:3>\n<shotIndex:15>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1428,7 +1428,7 @@
     {
         "id": 46,
         "animationId": 1,
-        "description": "殴られるとピコ―！と叫んで絶命する\n打撃　1方向　隙50",
+        "description": "When hit, you'll cry out \"Piko!\" and meet your demise. Strike, one direction,\nopening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1438,7 +1438,7 @@
             }
         ],
         "iconIndex": 223,
-        "name": "ピコピコハンマー",
+        "name": "Piko Piko Hammer",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:4>\n<shotIndex:4>\n<shotSkill:809>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1456,7 +1456,7 @@
     {
         "id": 47,
         "animationId": 1,
-        "description": "殴られるとマントルまでめり込む\n打撃　1方向　隙50",
+        "description": "When hit, it sinks even into the mantle. Strike, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1466,7 +1466,7 @@
             }
         ],
         "iconIndex": 223,
-        "name": "トールハンマー",
+        "name": "Thor Hammer",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:5>\n<shotIndex:4>\n<shotSkill:809>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1484,7 +1484,7 @@
     {
         "id": 48,
         "animationId": 1,
-        "description": "触れるもの皆切り刻む魚　美味しい\n斬撃　1方向長　隙60",
+        "description": "A fish that slices everything it touches. Delicious. Slash, one direction long,\nopening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -1499,7 +1499,7 @@
             }
         ],
         "iconIndex": 260,
-        "name": "太刀魚",
+        "name": "Cutlassfish",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:32>\n<shotSkill:811>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1517,7 +1517,7 @@
     {
         "id": 49,
         "animationId": 1,
-        "description": "カビが生えたミカン\n食べ物　1方向長　隙40",
+        "description": "Moldy mandarin orange. Food, one direction long, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -1532,7 +1532,7 @@
             }
         ],
         "iconIndex": 263,
-        "name": "カビミカン",
+        "name": "Moldy Tangerine",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:35>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1550,7 +1550,7 @@
     {
         "id": 50,
         "animationId": 1,
-        "description": "優しさに包まれてないパイ\n食べ物　1方向長　隙40",
+        "description": "A pie that's not enveloped in kindness. Food, one direction long, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -1560,7 +1560,7 @@
             }
         ],
         "iconIndex": 266,
-        "name": "かぼちゃとニシンのパイ",
+        "name": "Pumpkin and Herring Pie",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:18>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1578,7 +1578,7 @@
     {
         "id": 51,
         "animationId": 1,
-        "description": "夢のようにあまーいケーキ\n食べ物　設置　隙70",
+        "description": "A cake as sweet as a dream. Food, set up, opening 70",
         "etypeId": 1,
         "traits": [
             {
@@ -1588,7 +1588,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "ケーキ",
+        "name": "Cake",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:200>\n<shotSpeed:0>\n<shotInterval:70>\n<shotType:4>\n<shotIndex:19>\n<shotSkill:825>\n<shotSeName:pyoro46>",
         "params": [
             0,
@@ -1606,7 +1606,7 @@
     {
         "id": 52,
         "animationId": 1,
-        "description": "みんなの好きなものすこしずつ\n食べ物　1方向　隙50",
+        "description": "Everyone's favorite things in small portions. Food, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1616,7 +1616,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "ランチプレート",
+        "name": "Lunch Plate",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:4>\n<shotIndex:29>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1634,7 +1634,7 @@
     {
         "id": 53,
         "animationId": 1,
-        "description": "星を眺める魚のパイ　食べると星になる\n食べ物　1方向長　隙70",
+        "description": "A fish pie for stargazing. Become a star when eaten. Food, one direction long,\nopening 70",
         "etypeId": 1,
         "traits": [
             {
@@ -1644,7 +1644,7 @@
             }
         ],
         "iconIndex": 266,
-        "name": "スターゲイジーパイ",
+        "name": "Stargazy Pie",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:70>\n<shotType:5>\n<shotIndex:18>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1662,7 +1662,7 @@
     {
         "id": 54,
         "animationId": 1,
-        "description": "人生の墓場にお供えするケーキ\n食べ物　設置　隙70",
+        "description": "A cake offered at the graveyard of life. Food, set up, opening 70",
         "etypeId": 1,
         "traits": [
             {
@@ -1672,7 +1672,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "ウェディングケーキ",
+        "name": "Wedding Cake",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:200>\n<shotSpeed:0>\n<shotInterval:70>\n<shotType:5>\n<shotIndex:19>\n<shotSkill:825>\n<shotSeName:pyoro46>",
         "params": [
             0,
@@ -1690,7 +1690,7 @@
     {
         "id": 55,
         "animationId": 1,
-        "description": "前菜スープ魚ソルベ肉野菜甘みコーヒーまとめて毒入り\n食べ物　1方向　隙50",
+        "description": "Appetizer soup, fish sorbet, meat vegetables sweetness coffee all together with\npoison. Food, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1700,7 +1700,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "フルコース",
+        "name": "Full Course",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:5>\n<shotIndex:29>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -1718,7 +1718,7 @@
     {
         "id": 56,
         "animationId": 1,
-        "description": "ちょっと病んだ内容のラブレター\n誘惑　3方向　隙40",
+        "description": "A slightly sick love letter. Temptation, three directions, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -1733,7 +1733,7 @@
             }
         ],
         "iconIndex": 192,
-        "name": "ラブレター",
+        "name": "Love Letter",
         "note": "<shotWay:3>\n<shotSpace:0.5>\n<shotCount:20>\n<shotSpeed:0.3>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:31>\n<shotSkill:806>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1751,7 +1751,7 @@
     {
         "id": 57,
         "animationId": 1,
-        "description": "手紙と一緒に髪とか爪とか入ってるラブレター\n誘惑　3方向　隙40",
+        "description": "A love letter with hair or nails included along with the letter. Temptation,\nthree directions, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -1766,7 +1766,7 @@
             }
         ],
         "iconIndex": 192,
-        "name": "ヤバいラブレター",
+        "name": "Dangerous Love Letter",
         "note": "<shotWay:3>\n<shotSpace:0.5>\n<shotCount:20>\n<shotSpeed:0.3>\n<shotInterval:40>\n<shotType:5>\n<shotIndex:31>\n<shotSkill:806>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1784,7 +1784,7 @@
     {
         "id": 58,
         "animationId": 1,
-        "description": "不意に誰かを傷付けていく\n水　1方向遅　隙60",
+        "description": "Unintentionally hurting someone. Water, one direction slow, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -1794,7 +1794,7 @@
             }
         ],
         "iconIndex": 87,
-        "name": "半端なかけら",
+        "name": "Incomplete Shard",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:150>\n<shotSpeed:0.05>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:19>\n<shotSkill:826>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -1812,7 +1812,7 @@
     {
         "id": 59,
         "animationId": 1,
-        "description": "水圧で穴を空ける銃　しゅこしゅこしてリロードする\n水　1方向長　隙180",
+        "description": "A gun that drills holes with water pressure. Reload with a shuko-shuko action.\nWater, one direction long, opening 180",
         "etypeId": 1,
         "traits": [
             {
@@ -1827,7 +1827,7 @@
             }
         ],
         "iconIndex": 116,
-        "name": "水鉄砲",
+        "name": "Water Pistol",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:60>\n<shotSpeed:0.4>\n<shotInterval:180>\n<shotType:3>\n<shotIndex:38>\n<shotSkill:804>\n<shotSeName:Splash>",
         "params": [
             0,
@@ -1845,7 +1845,7 @@
     {
         "id": 60,
         "animationId": 1,
-        "description": "水鉄砲のパワーアップ版　壁に穴が開く\n水　1方向長　隙210",
+        "description": "An upgraded version of a water gun that can make holes in walls. Water, one\ndirection long, opening 210",
         "etypeId": 1,
         "traits": [
             {
@@ -1860,7 +1860,7 @@
             }
         ],
         "iconIndex": 118,
-        "name": "ウォーターバズーカ",
+        "name": "Water Bazooka",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:60>\n<shotSpeed:0.4>\n<shotInterval:210>\n<shotType:3>\n<shotIndex:24>\n<shotSkill:804>\n<shotSeName:Splash>",
         "params": [
             0,
@@ -1878,7 +1878,7 @@
     {
         "id": 61,
         "animationId": 1,
-        "description": "高圧相氷を打ち出す水鉄砲\n水　1方向長　隙240",
+        "description": "A water gun that shoots high-pressure ice. Water, one direction long, opening\n240",
         "etypeId": 1,
         "traits": [
             {
@@ -1893,7 +1893,7 @@
             }
         ],
         "iconIndex": 78,
-        "name": "水龍弾",
+        "name": "Hydra Bullet",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:60>\n<shotSpeed:0.4>\n<shotInterval:240>\n<shotType:4>\n<shotIndex:38>\n<shotSkill:804>\n<shotSeName:Splash>",
         "params": [
             0,
@@ -1911,7 +1911,7 @@
     {
         "id": 62,
         "animationId": 1,
-        "description": "下に打つと反動で空が飛べるらしい\n炎　1方向　隙6　固定ダメージ3",
+        "description": "If you shoot downwards, the recoil seems to let you fly in the sky. Flame, one\ndirection, opening 6 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -1926,7 +1926,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "マシンガン",
+        "name": "Machine Gun",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:30>\n<shotSpeed:0.4>\n<shotInterval:6>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:827>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -1944,7 +1944,7 @@
     {
         "id": 63,
         "animationId": 1,
-        "description": "北極星印のハンドガン\n炎　1方向　隙20　レベル分の固定ダメージ",
+        "description": "Polaris brand handgun. Flame, one direction, opening 20 fixed damage equal to\nlevel",
         "etypeId": 1,
         "traits": [
             {
@@ -1959,7 +1959,7 @@
             }
         ],
         "iconIndex": 104,
-        "name": "ポーラスター",
+        "name": "Polar Star",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:40>\n<shotSpeed:0.4>\n<shotInterval:20>\n<shotType:1>\n<shotIndex:2>\n<shotSkill:828>\n<shotSeName:Gun1>\n<shotSePitch:150>",
         "params": [
             0,
@@ -1977,7 +1977,7 @@
     {
         "id": 64,
         "animationId": 1,
-        "description": "大量に弾をばらまく近距離用の銃\n炎　10方向短　隙30　固定ダメージ3",
+        "description": "A gun for close range that scatters a lot of bullets. Flame, ten directions\nshort, opening 30 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -1992,7 +1992,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ショットガン",
+        "name": "Shotgun",
         "note": "<shotWay:10>\n<shotSpace:0.05>\n<shotCount:15>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:827>\n<shotSeName:Gun1>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2010,7 +2010,7 @@
     {
         "id": 65,
         "animationId": 1,
-        "description": "物体をローレンツ力により加速して打ち出す装置\n雷　1方向長　隙300　固定ダメージ100　地形貫通",
+        "description": "A device that accelerates objects using the Lorentz force. Thunder, one\ndirection long, opening 300 fixed damage 100 terrain penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2025,7 +2025,7 @@
             }
         ],
         "iconIndex": 116,
-        "name": "レールガン",
+        "name": "Railgun",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:120>\n<shotSpeed:0.6>\n<shotInterval:300>\n<shotType:2>\n<shotIndex:3>\n<shotSkill:829>\n<shotSeName:Gun3>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2043,7 +2043,7 @@
     {
         "id": 66,
         "animationId": 1,
-        "description": "女性型武装探索ロボットのマシンガン\n炎　2方向長　隙6　固定ダメージ3",
+        "description": "Machine gun of a female-type armed exploration robot. Flame, two directions\nlong, opening 6 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2058,7 +2058,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ブレイスガン",
+        "name": "Blaze Gun",
         "note": "<shotWay:2>\n<shotSpace:0.01>\n<shotCount:35>\n<shotSpeed:0.4>\n<shotInterval:6>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:827>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -2076,7 +2076,7 @@
     {
         "id": 67,
         "animationId": 1,
-        "description": "こんや、12じ、だれかが・・・\n水　1方向長　隙15　レベル分の固定ダメージ",
+        "description": "Tonight at midnight someone will... Water, one direction long, opening 15 fixed\ndamage equal to level",
         "etypeId": 1,
         "traits": [
             {
@@ -2091,7 +2091,7 @@
             }
         ],
         "iconIndex": 104,
-        "name": "シュプール",
+        "name": "Spur",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:60>\n<shotSpeed:0.4>\n<shotInterval:15>\n<shotType:2>\n<shotIndex:2>\n<shotSkill:833>\n<shotSeName:Gun1>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2109,7 +2109,7 @@
     {
         "id": 68,
         "animationId": 1,
-        "description": "責任を取らせるためのショットガン\n炎　20方向短　隙30　固定ダメージ3",
+        "description": "A shotgun to make someone take responsibility. Flame, twenty directions short,\nopening 30 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2124,7 +2124,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "マリッジガン",
+        "name": "Marriage Gun",
         "note": "<shotWay:20>\n<shotSpace:0.12>\n<shotCount:15>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:827>\n<shotSeName:Gun1>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2142,7 +2142,7 @@
     {
         "id": 69,
         "animationId": 1,
-        "description": "警備アンドロイドの装備\n雷　5方向　隙15　固定ダメージ3",
+        "description": "Equipment of a security android. Thunder, five directions, opening 15 fixed\ndamage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2157,7 +2157,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "タレットガン",
+        "name": "Turret Gun",
         "note": "<shotWay:5>\n<shotSpace:0.10>\n<shotCount:30>\n<shotSpeed:0.4>\n<shotInterval:15>\n<shotType:1>\n<shotIndex:3>\n<shotSkill:834>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -2175,7 +2175,7 @@
     {
         "id": 70,
         "animationId": 1,
-        "description": "弾をばらまく銃\n雷　16方向　隙30　固定ダメージ3",
+        "description": "A gun that scatters bullets. Thunder, sixteen directions, opening 30 fixed\ndamage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2190,7 +2190,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "クラスタガン",
+        "name": "Cluster Gun",
         "note": "<shotWay:16>\n<shotSpace:0.03>\n<shotCount:20>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:3>\n<shotSkill:834>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -2208,7 +2208,7 @@
     {
         "id": 71,
         "animationId": 1,
-        "description": "切り刻んで悪魔のいけにえにする\n斬撃　1方向短　隙150",
+        "description": "Slice and offer as a sacrifice to demons. Slash, one direction short, opening\n150",
         "etypeId": 1,
         "traits": [
             {
@@ -2223,7 +2223,7 @@
             }
         ],
         "iconIndex": 117,
-        "name": "チェンソー",
+        "name": "Chainsaw",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:30>\n<shotSpeed:0.08>\n<shotInterval:150>\n<shotType:4>\n<shotIndex:10>\n<shotSkill:821>\n<shotSeName:Gun2>\n<shotSePitch:120>\n",
         "params": [
             0,
@@ -2241,7 +2241,7 @@
     {
         "id": 72,
         "animationId": 1,
-        "description": "踏むと神の雷が降り注ぐ\n雷　設置　隙300　貫通",
+        "description": "Step on it and divine thunder will rain down. Thunder, set up, opening 300\npenetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2251,7 +2251,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "テンペスト",
+        "name": "Tempest",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:300>\n<shotType:4>\n<shotIndex:16>\n<shotSkill:830>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2269,7 +2269,7 @@
     {
         "id": 73,
         "animationId": 1,
-        "description": "踏むと光の矢が降り注ぐ\n雷　設置　隙300　貫通",
+        "description": "Step on it and arrows of light will rain down. Thunder, set up, opening 300\npenetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2279,7 +2279,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "バイブル",
+        "name": "Bible",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:300>\n<shotType:4>\n<shotIndex:16>\n<shotSkill:831>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2297,7 +2297,7 @@
     {
         "id": 74,
         "animationId": 1,
-        "description": "火が付いた液体を投射する兵器\n炎　5方向短　隙15　固定ダメージ3",
+        "description": "A weapon that projects ignited liquid. Flame, five directions short, opening 15\nfixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2312,7 +2312,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "火炎放射器",
+        "name": "Flamethrower",
         "note": "<shotWay:5>\n<shotSpace:0.3>\n<shotCount:7>\n<shotSpeed:0.2>\n<shotInterval:15>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:832>\n<shotSeName:Fire2>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2330,7 +2330,7 @@
     {
         "id": 75,
         "animationId": 1,
-        "description": "神の憤りと罰を象徴する女神の銃\n雷　1方向　隙30　50-レベル分の固定ダメージ",
+        "description": "The goddess's gun symbolizing divine wrath and punishment. Thunder, one\ndirection, opening 30 fixed damage of 50 minus level",
         "etypeId": 1,
         "traits": [
             {
@@ -2345,7 +2345,7 @@
             }
         ],
         "iconIndex": 104,
-        "name": "ネメシス",
+        "name": "Nemesis",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:35>\n<shotSpeed:0.3>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:3>\n<shotSkill:835>\n<shotSeName:Gun1>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2363,7 +2363,7 @@
     {
         "id": 76,
         "animationId": 1,
-        "description": "今夜もまた誰かが命を落とす\n雷　2方向　隙50　50-レベル分の固定ダメージ",
+        "description": "Tonight again someone will lose their life. Thunder, two directions, opening 50\nfixed damage of 50 minus level",
         "etypeId": 1,
         "traits": [
             {
@@ -2378,7 +2378,7 @@
             }
         ],
         "iconIndex": 104,
-        "name": "クリムゾン",
+        "name": "Crimson",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:35>\n<shotSpeed:0.3>\n<shotInterval:50>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:835>\n<shotSeName:Gun1>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2396,7 +2396,7 @@
     {
         "id": 77,
         "animationId": 1,
-        "description": "金属を溶接するのに使用する工具\n炎　6方向短　隙15　固定ダメージ3",
+        "description": "A tool used for welding metal. Flame, six directions short, opening 15 fixed\ndamage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2411,7 +2411,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "フレイムスロワー",
+        "name": "Flame Thrower",
         "note": "<shotWay:6>\n<shotSpace:0.2>\n<shotCount:9>\n<shotSpeed:0.2>\n<shotInterval:15>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:832>\n<shotSeName:Fire2>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2429,7 +2429,7 @@
     {
         "id": 78,
         "animationId": 1,
-        "description": "扱いやすい銃\n炎　1方向　隙30　固定ダメージ3　カスタムパーツ装備可",
+        "description": "An easy-to-handle gun. Flame, one direction, opening 30 fixed damage 3\ncustomizable parts available",
         "etypeId": 1,
         "traits": [
             {
@@ -2449,7 +2449,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "ハンドガン",
+        "name": "Handgun",
         "note": "<shotWay:1>\n<shotSpace:0>\n<shotCount:45>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:827>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -2467,7 +2467,7 @@
     {
         "id": 79,
         "animationId": 1,
-        "description": "同時に3発の弾が出るように改造したハンドガン\n炎　3方向　隙30　固定ダメージ3　カスタムパーツ装備可",
+        "description": "A modified handgun that fires three bullets at once. Flame, three directions,\nopening 30 fixed damage 3 customizable parts available",
         "etypeId": 1,
         "traits": [
             {
@@ -2487,7 +2487,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "バーストガン",
+        "name": "Burst Gun",
         "note": "<shotWay:3>\n<shotSpace:0>\n<shotCount:45>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:827>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -2505,7 +2505,7 @@
     {
         "id": 80,
         "animationId": 1,
-        "description": "コインをローレンツ力により加速して打ち出す装置\n雷　2方向長　隙300　固定ダメージ100　地形貫通",
+        "description": "A device that accelerates coins using the Lorentz force. Thunder, two directions\nlong, opening 300 fixed damage 100 terrain penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2520,7 +2520,7 @@
             }
         ],
         "iconIndex": 116,
-        "name": "コインシューター",
+        "name": "Coin Shooter",
         "note": "<shotWay:2>\n<shotSpace:0.01>\n<shotCount:120>\n<shotSpeed:0.6>\n<shotInterval:300>\n<shotType:2>\n<shotIndex:3>\n<shotSkill:829>\n<shotSeName:Gun3>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2538,7 +2538,7 @@
     {
         "id": 81,
         "animationId": 1,
-        "description": "トルテを1kmふっ飛ばすぐらいの威力がある\n炎　設置　隙999",
+        "description": "A flame trap with enough power to send a torte flying 1km away, vulnerability\n999",
         "etypeId": 1,
         "traits": [
             {
@@ -2553,7 +2553,7 @@
             }
         ],
         "iconIndex": 218,
-        "name": "トルテの爆弾",
+        "name": "Torte's Bomb",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:500>\n<shotSpeed:0.0>\n<shotInterval:999>\n<shotType:3>\n<shotIndex:36>\n<shotSkill:808>\n<shotSeName:key>",
         "params": [
             0,
@@ -2571,7 +2571,7 @@
     {
         "id": 82,
         "animationId": 1,
-        "description": "下痢のように爆弾が漏れ出す\n炎　設置　隙10",
+        "description": "Bombs leak out like diarrhea, flame trap, vulnerability 10",
         "etypeId": 1,
         "traits": [
             {
@@ -2586,7 +2586,7 @@
             }
         ],
         "iconIndex": 218,
-        "name": "ドクロのパネル",
+        "name": "Skull Panel",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:200>\n<shotSpeed:0.0>\n<shotInterval:10>\n<shotType:3>\n<shotIndex:36>\n<shotSkill:808>\n<shotSeName:key>",
         "params": [
             0,
@@ -2604,7 +2604,7 @@
     {
         "id": 83,
         "animationId": 1,
-        "description": "黒い森のサクランボケーキ\n食べ物　設置　隙70",
+        "description": "Black Forest cherry cake, food, trap, vulnerability 70",
         "etypeId": 1,
         "traits": [
             {
@@ -2614,7 +2614,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "キルシュトルテ",
+        "name": "Kirschtorte",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:200>\n<shotSpeed:0>\n<shotInterval:70>\n<shotType:5>\n<shotIndex:19>\n<shotSkill:825>\n<shotSeName:pyoro46>",
         "params": [
             0,
@@ -2632,7 +2632,7 @@
     {
         "id": 84,
         "animationId": 1,
-        "description": "薔薇のように赤い口紅\n誘惑　2方向　隙30",
+        "description": "Lipstick red as a rose, temptation, two directions, vulnerability 30",
         "etypeId": 1,
         "traits": [
             {
@@ -2647,7 +2647,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ローズリップ",
+        "name": "Rose Lip",
         "note": "<shotWay:2>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:30>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -2665,7 +2665,7 @@
     {
         "id": 85,
         "animationId": 1,
-        "description": "セクシービーム出発\n雷　2方向長　隙60",
+        "description": "Sexy Beam firing, lightning, two directions long, vulnerability 60",
         "etypeId": 1,
         "traits": [
             {
@@ -2680,7 +2680,7 @@
             }
         ],
         "iconIndex": 109,
-        "name": "プリンセスハート",
+        "name": "Princess Heart",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:80>\n<shotSpeed:0.1>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:41>\n<shotSkill:812>\n<shotSeName:Saint1>",
         "params": [
             0,
@@ -2698,7 +2698,7 @@
     {
         "id": 86,
         "animationId": 1,
-        "description": "好き勝手ばら撒く\n水　4方向遅　隙80",
+        "description": "Scattering at will, water, four directions slow, vulnerability 80",
         "etypeId": 1,
         "traits": [
             {
@@ -2708,7 +2708,7 @@
             }
         ],
         "iconIndex": 87,
-        "name": "でたらめなかけら",
+        "name": "Nonsensical Shard",
         "note": "<shotWay:4>\n<shotSpace:0.5>\n<shotCount:150>\n<shotSpeed:0.05>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:19>\n<shotSkill:826>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2726,7 +2726,7 @@
     {
         "id": 87,
         "animationId": 1,
-        "description": "食べると眠り続けてしまう毒入りのリンゴ\n食べ物　1方向長　隙40",
+        "description": "A poisoned apple that keeps you sleeping if eaten, food, one direction long,\nvulnerability 40",
         "etypeId": 1,
         "traits": [
             {
@@ -2741,7 +2741,7 @@
             }
         ],
         "iconIndex": 265,
-        "name": "毒リンゴ",
+        "name": "Poison Apple",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.2>\n<shotInterval:40>\n<shotType:3>\n<shotIndex:34>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -2759,7 +2759,7 @@
     {
         "id": 88,
         "animationId": 1,
-        "description": "ストレス解消にちょうどいいクマのぬいぐるみ\n打撃　1方向長　隙60",
+        "description": "A teddy bear perfect for stress relief, blunt attack, one direction long,\nvulnerability 60",
         "etypeId": 1,
         "traits": [
             {
@@ -2774,7 +2774,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "ぬいぐるみ",
+        "name": "Stuffed Toy",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:60>\n<shotSpeed:0.15>\n<shotInterval:60>\n<shotType:4>\n<shotIndex:22>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -2792,7 +2792,7 @@
     {
         "id": 89,
         "animationId": 1,
-        "description": "手に入れたことを誰かに喋ると死ぬ\n水　3方向短　隙45",
+        "description": "If you tell someone you got it, you die, water, three directions short,\nvulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -2807,7 +2807,7 @@
             }
         ],
         "iconIndex": 97,
-        "name": "アイスソード",
+        "name": "Ice Sword",
         "note": "<shotWay:3>\n<shotSpace:0.3>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:35>\n<shotSkill:826>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2825,7 +2825,7 @@
     {
         "id": 90,
         "animationId": 1,
-        "description": "とてもわくわくする箱　開けると爆発する\n炎　設置　隙80",
+        "description": "An exciting box that explodes when opened, flame trap, vulnerability 80",
         "etypeId": 1,
         "traits": [
             {
@@ -2835,7 +2835,7 @@
             }
         ],
         "iconIndex": 306,
-        "name": "プレゼント",
+        "name": "Present",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:100>\n<shotType:4>\n<shotIndex:30>\n<shotSkill:808>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2853,7 +2853,7 @@
     {
         "id": 91,
         "animationId": 1,
-        "description": "手からビガーっと雷撃を放つ魔法\n雷　3方向長　隙45　貫通",
+        "description": "Magical lightning strikes shot from the hands, lightning, three directions long,\nvulnerability 45, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -2868,7 +2868,7 @@
             }
         ],
         "iconIndex": 66,
-        "name": "ショックジョッキー",
+        "name": "Shock Jockey",
         "note": "<shotWay:3>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.5>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:35>\n<shotSkill:819>\n<shotSeName:Thunder3>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -2886,7 +2886,7 @@
     {
         "id": 92,
         "animationId": 1,
-        "description": "剣の道を究めた魚　はらわたが苦い\n斬撃　1方向長　隙30",
+        "description": "A fish that has mastered the way of the sword, its innards are bitter, slashing\nattack, one direction long, vulnerability 30",
         "etypeId": 1,
         "traits": [
             {
@@ -2901,7 +2901,7 @@
             }
         ],
         "iconIndex": 260,
-        "name": "剣豪魚",
+        "name": "Swordmaster Fish",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:40>\n<shotSpeed:0.5>\n<shotInterval:30>\n<shotType:3>\n<shotIndex:32>\n<shotSkill:811>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -2919,7 +2919,7 @@
     {
         "id": 93,
         "animationId": 1,
-        "description": "独自の言語で書かれた謎の書物\n雷　設置　隙300　貫通",
+        "description": "A mysterious book written in a unique language, lightning trap, vulnerability\n300, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -2929,7 +2929,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "ヴォイニッチ手稿",
+        "name": "Voynich Manuscript",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:300>\n<shotType:4>\n<shotIndex:16>\n<shotSkill:831>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -2947,7 +2947,7 @@
     {
         "id": 94,
         "animationId": 1,
-        "description": "好き放題魔法弾を撃つわがままハンドガン\n炎　3方向　隙30　固定ダメージ15　カスタムパーツ装備可",
+        "description": "A selfish handgun that shoots magic bullets at will, flame, three directions,\nvulnerability 30, fixed damage 15, custom parts can be equipped",
         "etypeId": 1,
         "traits": [
             {
@@ -2967,7 +2967,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "リリスエッジ",
+        "name": "Lilith's Edge",
         "note": "<shotWay:3>\n<shotSpace:0>\n<shotCount:45>\n<shotSpeed:0.4>\n<shotInterval:30>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:836>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -2985,7 +2985,7 @@
     {
         "id": 95,
         "animationId": 1,
-        "description": "ヤマネコ印のリボルバー\n炎　1方向　隙35　固定ダメージ15　カスタムパーツ装備可",
+        "description": "Wildcat brand revolver, flame, one direction, vulnerability 35, fixed damage 15,\ncustom parts can be equipped",
         "etypeId": 1,
         "traits": [
             {
@@ -3005,7 +3005,7 @@
             }
         ],
         "iconIndex": 115,
-        "name": "オセロット",
+        "name": "Ocelot",
         "note": "<shotWay:1>\n<shotSpace:0>\n<shotCount:50>\n<shotSpeed:0.4>\n<shotInterval:35>\n<shotType:1>\n<shotIndex:1>\n<shotSkill:836>\n<shotSeName:Gun1>\n<shotSePitch:150>\n<shotSeVolume:50>",
         "params": [
             0,
@@ -3023,7 +3023,7 @@
     {
         "id": 96,
         "animationId": 1,
-        "description": "空気中の水分を圧縮して撃つ銃　カスタムパーツ装備可\n水　1方向長　隙240",
+        "description": "A gun that compresses and shoots moisture from the air, custom parts can be\nequipped, water, one direction long, vulnerability 240",
         "etypeId": 1,
         "traits": [
             {
@@ -3043,7 +3043,7 @@
             }
         ],
         "iconIndex": 78,
-        "name": "アクアベレッタ",
+        "name": "Aqua Beretta",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:60>\n<shotSpeed:0.4>\n<shotInterval:240>\n<shotType:4>\n<shotIndex:38>\n<shotSkill:804>\n<shotSeName:Splash>",
         "params": [
             0,
@@ -3061,7 +3061,7 @@
     {
         "id": 97,
         "animationId": 1,
-        "description": "一度も使ったことがないチェンソー\n斬撃　1方向短　隙180",
+        "description": "An unused chainsaw, slashing attack, one direction short, vulnerability 180",
         "etypeId": 1,
         "traits": [
             {
@@ -3076,7 +3076,7 @@
             }
         ],
         "iconIndex": 117,
-        "name": "ジェインソー",
+        "name": "Chainsaw",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:30>\n<shotSpeed:0.08>\n<shotInterval:180>\n<shotType:5>\n<shotIndex:10>\n<shotSkill:821>\n<shotSeName:Gun2>\n<shotSePitch:120>\n",
         "params": [
             0,
@@ -3094,7 +3094,7 @@
     {
         "id": 98,
         "animationId": 1,
-        "description": "異世界から現れた最強の剣\n斬撃　1方向　隙30",
+        "description": "The strongest sword from another world, slashing attack, one direction,\nvulnerability 30",
         "etypeId": 1,
         "traits": [
             {
@@ -3109,7 +3109,7 @@
             }
         ],
         "iconIndex": 112,
-        "name": "リリスバスター",
+        "name": "Lilith Buster",
         "note": "<shotWay:1>\n<shotSpace:0.7>\n<shotCount:20>\n<shotSpeed:0.3>\n<shotInterval:30>\n<shotType:5>\n<shotIndex:3>\n<shotSkill:821>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3127,7 +3127,7 @@
     {
         "id": 99,
         "animationId": 1,
-        "description": "地元じゃ負け知らず　ゲームオーバー0クリアの証\n雷　1方向　隙100",
+        "description": "Undefeated at home with a record of zero game overs cleared, lightning, one\ndirection, vulnerability 100",
         "etypeId": 1,
         "traits": [
             {
@@ -3142,7 +3142,7 @@
             }
         ],
         "iconIndex": 77,
-        "name": "アミーゴ",
+        "name": "Amigo",
         "note": "<shotWay:1>\n<shotSpace:0.7>\n<shotCount:60>\n<shotSpeed:0.1>\n<shotInterval:100>\n<shotType:5>\n<shotIndex:16>\n<shotSkill:812>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3160,7 +3160,7 @@
     {
         "id": 100,
         "animationId": 1,
-        "description": "殴られると面白くないのに笑ってしまう木槌\n打撃　1方向　隙50",
+        "description": "A mallet that makes you laugh even though it's not funny when hit with it, blunt\nattack, one direction, vulnerability 50",
         "etypeId": 1,
         "traits": [
             {
@@ -3170,7 +3170,7 @@
             }
         ],
         "iconIndex": 223,
-        "name": "カンマーハンマー",
+        "name": "Cummer Hammer",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:4>\n<shotIndex:4>\n<shotSkill:809>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3188,7 +3188,7 @@
     {
         "id": 101,
         "animationId": 1,
-        "description": "炎系の初級魔法\n炎　1方向　隙100",
+        "description": "Basic fire magic spell, flame, one direction, vulnerability 100",
         "etypeId": 1,
         "traits": [
             {
@@ -3203,7 +3203,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "ぷちファイア",
+        "name": "Petit Fire",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:80>\n<shotSpeed:0.2>\n<shotInterval:100>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:818>\n<shotSeName:Fire1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3221,7 +3221,7 @@
     {
         "id": 102,
         "animationId": 1,
-        "description": "魔王米のおにぎりに毒を詰めたもの\n食べ物　1方向　隙80",
+        "description": "Poison-stuffed onigiri made from Demon Lord rice, food, one direction,\nvulnerability 80",
         "etypeId": 1,
         "traits": [
             {
@@ -3236,7 +3236,7 @@
             }
         ],
         "iconIndex": 281,
-        "name": "おにぎり",
+        "name": "Rice Ball",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:80>\n<shotSpeed:0.15>\n<shotInterval:80>\n<shotType:3>\n<shotIndex:44>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3254,7 +3254,7 @@
     {
         "id": 103,
         "animationId": 1,
-        "description": "中が空洞になっている剣\n斬撃　1方向　隙30",
+        "description": "A sword with a hollow inside, slashing attack, one direction, vulnerability 30",
         "etypeId": 1,
         "traits": [
             {
@@ -3269,7 +3269,7 @@
             }
         ],
         "iconIndex": 112,
-        "name": "ハルジオン",
+        "name": "Halcyon",
         "note": "<shotWay:1>\n<shotSpace:0.7>\n<shotCount:20>\n<shotSpeed:0.3>\n<shotInterval:30>\n<shotType:5>\n<shotIndex:3>\n<shotSkill:821>\n<shotSeName:Sword4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3287,7 +3287,7 @@
     {
         "id": 104,
         "animationId": 1,
-        "description": "ユイネが2番目に好きだったもの\n雷　設置　隙300　貫通",
+        "description": "The second favorite thing of Yuine's, lightning trap, vulnerability 300,\npiercing",
         "etypeId": 1,
         "traits": [
             {
@@ -3302,7 +3302,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "植物図鑑",
+        "name": "Botanical Compendium",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:300>\n<shotType:4>\n<shotIndex:16>\n<shotSkill:831>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -3320,7 +3320,7 @@
     {
         "id": 105,
         "animationId": 1,
-        "description": "唇の魅力を上げると同時に乾燥を防ぐ\n誘惑　2方向　隙70",
+        "description": "Lip balm that increases the charm of your lips while preventing dryness,\ntemptation, two directions, vulnerability 70",
         "etypeId": 1,
         "traits": [
             {
@@ -3335,7 +3335,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "リップスティック",
+        "name": "Lipstick",
         "note": "<shotWay:2>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:70>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -3353,7 +3353,7 @@
     {
         "id": 106,
         "animationId": 1,
-        "description": "キスがもっと甘くなる口紅\n誘惑　3方向　隙90",
+        "description": "Lipstick that makes kisses even sweeter, temptation, three directions,\nvulnerability 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3368,7 +3368,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "スイートキッス",
+        "name": "Sweet Kiss",
         "note": "<shotWay:3>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:90>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -3386,7 +3386,7 @@
     {
         "id": 107,
         "animationId": 1,
-        "description": "情熱の赤い口紅\n誘惑　3方向　隙90",
+        "description": "Passionate red lipstick, temptation, three directions, vulnerability 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3401,7 +3401,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "パッショーネ",
+        "name": "Passione",
         "note": "<shotWay:3>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:90>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -3419,7 +3419,7 @@
     {
         "id": 108,
         "animationId": 1,
-        "description": "あまりの興奮に心臓発作を起こす投げキッス\n誘惑　1方向　隙200",
+        "description": "A thrown kiss that causes a heart attack from too much excitement, temptation,\none direction, vulnerability 200",
         "etypeId": 1,
         "traits": [
             {
@@ -3434,7 +3434,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ハートアタック",
+        "name": "Heart Attack",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:200>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -3452,7 +3452,7 @@
     {
         "id": 109,
         "animationId": 1,
-        "description": "メロメロにして脳みそを爆発させるキス\n誘惑　1方向　隙100",
+        "description": "A kiss that mesmerizes and blows your mind away, temptation, one direction,\nvulnerability 100",
         "etypeId": 1,
         "traits": [
             {
@@ -3467,7 +3467,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "スムーチボム",
+        "name": "Smooch Bomb",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:100>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -3513,7 +3513,7 @@
     {
         "id": 111,
         "animationId": 1,
-        "description": "投げられると意識が朦朧とする\n誘惑　1方向　隙30",
+        "description": "Thrown to make consciousness hazy with temptation, one direction, vulnerability\n30",
         "etypeId": 1,
         "traits": [
             {
@@ -3528,7 +3528,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "★クリルクのパンティー",
+        "name": "★Krillk's Panties",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:30>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3546,7 +3546,7 @@
     {
         "id": 112,
         "animationId": 1,
-        "description": "クマリをそっと置く\n打撃　設置　隙120",
+        "description": "Gently placing a bear trap down, blunt attack trap setup, vulnerability 120",
         "etypeId": 1,
         "traits": [
             {
@@ -3566,7 +3566,7 @@
             }
         ],
         "iconIndex": 149,
-        "name": "設置ベア",
+        "name": "Setup Bear",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:120>\n<shotSpeed:0>\n<shotInterval:120>\n<shotType:4>\n<shotIndex:22>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3584,7 +3584,7 @@
     {
         "id": 113,
         "animationId": 1,
-        "description": "毒性のある粘液を周囲にまき散らす\n毒　9方向長　隙90",
+        "description": "Spreading poisonous mucus all around in nine directions long range attack with\npoison effect and a vulnerability of 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3604,7 +3604,7 @@
             }
         ],
         "iconIndex": 67,
-        "name": "毒気弾",
+        "name": "Poison Gas Bullet",
         "note": "<shotWay:9>\n<shotSpace:0.9>\n<shotCount:35>\n<shotSpeed:0.2>\n<shotInterval:90>\n<shotType:2>\n<shotIndex:4>\n<shotSkill:837>\n<shotSeName:Darkness4>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3622,7 +3622,7 @@
     {
         "id": 114,
         "animationId": 1,
-        "description": "荒海を塊に凝縮し発射する\n水　1方向長　隙220",
+        "description": "Firing condensed lumps of rough seas at the target in a water attack in one\ndirection long with a vulnerability of 220",
         "etypeId": 1,
         "traits": [
             {
@@ -3637,7 +3637,7 @@
             }
         ],
         "iconIndex": 78,
-        "name": "ノアショット",
+        "name": "Noah Shot",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:60>\n<shotSpeed:0.5>\n<shotInterval:220>\n<shotType:4>\n<shotIndex:38>\n<shotSkill:804>\n<shotSeName:Splash>",
         "params": [
             0,
@@ -3655,7 +3655,7 @@
     {
         "id": 115,
         "animationId": 1,
-        "description": "おおよそ0℃ぐらいの冷たい氷を設置する\n水　設置　隙100　貫通",
+        "description": "Setting up ice so cold it's about 0°C as a water trap with a vulnerability of\n100 and piercing effect",
         "etypeId": 1,
         "traits": [
             {
@@ -3665,7 +3665,7 @@
             }
         ],
         "iconIndex": 65,
-        "name": "大体零度",
+        "name": "Approximately Zero Degrees",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:150>\n<shotType:4>\n<shotIndex:55>\n<shotSkill:838>\n<shotSeName:Ice7>\n<shotSeVolume:70>\n<shotSePitch:120>",
         "params": [
             0,
@@ -3683,7 +3683,7 @@
     {
         "id": 116,
         "animationId": 1,
-        "description": "食べると血糖値が爆上げされて気絶する　非常に美味\n食べ物　2方向長　隙60",
+        "description": "Eating this causes blood sugar levels to skyrocket and fainting due to its\nextreme deliciousness; food attack in two directions long with a vulnerability\nof 60",
         "etypeId": 1,
         "traits": [
             {
@@ -3693,7 +3693,7 @@
             }
         ],
         "iconIndex": 266,
-        "name": "チョコレートパイ",
+        "name": "Chocolate Pie",
         "note": "<shotWay:2>\n<shotSpace:0.4>\n<shotCount:37>\n<shotSpeed:0.2>\n<shotInterval:60>\n<shotType:4>\n<shotIndex:18>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3711,7 +3711,7 @@
     {
         "id": 117,
         "animationId": 1,
-        "description": "入刀する部分だけ生クリームのみみっちいケーキ　後は火薬\n食べ物　設置　隙500",
+        "description": "A stingy cake with only the part for cutting the cake made of fresh cream; the\nrest is gunpowder; food trap setup with a vulnerability of 500",
         "etypeId": 1,
         "traits": [
             {
@@ -3721,7 +3721,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "イミテーションケーキ",
+        "name": "Imitation Cake",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:400>\n<shotSpeed:0>\n<shotInterval:500>\n<shotType:5>\n<shotIndex:19>\n<shotSkill:825>\n<shotSeName:pyoro46>",
         "params": [
             0,
@@ -3739,7 +3739,7 @@
     {
         "id": 118,
         "animationId": 1,
-        "description": "あっさり淫魔に食われた先輩の魔力\n斬撃　3方向長　隙60　",
+        "description": "The magical power of a senior who was easily devoured by a succubus; slashing\nattack in three directions long with a vulnerability of 60",
         "etypeId": 1,
         "traits": [
             {
@@ -3749,7 +3749,7 @@
             }
         ],
         "iconIndex": 69,
-        "name": "リンクスの風",
+        "name": "Lynx's Wind",
         "note": "<shotWay:3>\n<shotSpace:0.6>\n<shotCount:30>\n<shotSpeed:0.3>\n<shotInterval:60>\n<shotType:4>\n<shotIndex:36>\n<shotSkill:811>\n<shotSeName:Sword4>",
         "params": [
             0,
@@ -3767,7 +3767,7 @@
     {
         "id": 119,
         "animationId": 1,
-        "description": "指先から細い雷撃を放つ初級魔法\n雷　1方向長　隙42　貫通",
+        "description": "Basic magic that shoots thin lightning strikes from fingertips; lightning attack\nin one direction long with a vulnerability of 42 and piercing effect",
         "etypeId": 1,
         "traits": [
             {
@@ -3782,7 +3782,7 @@
             }
         ],
         "iconIndex": 66,
-        "name": "線雷",
+        "name": "Linear Thunder",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:25>\n<shotSpeed:0.5>\n<shotInterval:42>\n<shotType:3>\n<shotIndex:49>\n<shotSkill:819>\n<shotSeName:Thunder3>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3800,7 +3800,7 @@
     {
         "id": 120,
         "animationId": 1,
-        "description": "直訳で分からない　どうせ書いた奴も分かってない\n雷　設置　隙300　貫通",
+        "description": "Direct translation makes no sense; probably even the writer didn't understand\nit; lightning trap setup with a vulnerability of 300 and piercing effect",
         "etypeId": 1,
         "traits": [
             {
@@ -3810,7 +3810,7 @@
             }
         ],
         "iconIndex": 79,
-        "name": "デアスノテ",
+        "name": "Deus Note",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:300>\n<shotSpeed:0>\n<shotInterval:300>\n<shotType:4>\n<shotIndex:16>\n<shotSkill:831>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:50>",
         "params": [
             0,
@@ -3828,7 +3828,7 @@
     {
         "id": 121,
         "animationId": 1,
-        "description": "風で雷を包み込みゆっくりと飛ばす中級魔法\n雷　3方向長　隙100　貫通",
+        "description": "Intermediate magic that wraps lightning in wind and flies it slowly; lightning\nattack in three directions long with a vulnerability of 100 and piercing effect",
         "etypeId": 1,
         "traits": [
             {
@@ -3843,7 +3843,7 @@
             }
         ],
         "iconIndex": 66,
-        "name": "浮遊雷球",
+        "name": "Floating Thunder Orb",
         "note": "<shotWay:3>\n<shotSpace:0.9>\n<shotCount:250>\n<shotSpeed:0.03>\n<shotInterval:100>\n<shotType:4>\n<shotIndex:43>\n<shotSkill:830>\n<shotSeName:Thunder3>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3861,7 +3861,7 @@
     {
         "id": 122,
         "animationId": 1,
-        "description": "廃材を集めて作ったお手製の爆弾\n炎　設置　隙90",
+        "description": "A homemade bomb crafted from scrap materials. Fire. Set up. Vulnerability 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3876,7 +3876,7 @@
             }
         ],
         "iconIndex": 218,
-        "name": "手作り爆弾",
+        "name": "Homemade Bomb",
         "note": "<shotWay:1>\n<shotSpace:0.5>\n<shotCount:400>\n<shotSpeed:0.0>\n<shotInterval:90>\n<shotType:3>\n<shotIndex:36>\n<shotSkill:808>\n<shotSeName:key>",
         "params": [
             0,
@@ -3894,7 +3894,7 @@
     {
         "id": 123,
         "animationId": 1,
-        "description": "内職で折った封筒に可愛らしい丸文字の手紙\n斬撃　6方向長　隙70",
+        "description": "Envelopes folded during piecework, containing cute round-hand letters. Slash. 6\ndirections long. Vulnerability 70",
         "etypeId": 1,
         "traits": [
             {
@@ -3909,7 +3909,7 @@
             }
         ],
         "iconIndex": 192,
-        "name": "Lの予告状",
+        "name": "R's Threat Letter",
         "note": "<shotWay:6>\n<shotSpace:0.4>\n<shotCount:20>\n<shotSpeed:0.5>\n<shotInterval:70>\n<shotType:4>\n<shotIndex:31>\n<shotSkill:802>\n<shotSeName:Wind7>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -3927,7 +3927,7 @@
     {
         "id": 124,
         "animationId": 1,
-        "description": "拳を叩きつけ躾ける　最近はコンプラに引っかかる\n打撃　1方向短　隙17",
+        "description": "Disciplining with a fist strike. Recently, it's been caught by compliance\nissues. Blunt. 1 direction short. Vulnerability 17",
         "etypeId": 1,
         "traits": [
             {
@@ -3942,7 +3942,7 @@
             }
         ],
         "iconIndex": 106,
-        "name": "鉄拳制裁",
+        "name": "Iron Fist Punishment",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:15>\n<shotSpeed:0.1>\n<shotInterval:17>\n<shotType:3>\n<shotIndex:42>\n<shotSkill:803>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3960,7 +3960,7 @@
     {
         "id": 125,
         "animationId": 1,
-        "description": "遺跡の謎で詰まったら壁をぶち壊すらしい\n打撃　1方向　隙50",
+        "description": "If you're stuck on the ruins' mystery, it seems you just break the wall. Blunt.\n1 direction. Vulnerability 50",
         "etypeId": 1,
         "traits": [
             {
@@ -3970,7 +3970,7 @@
             }
         ],
         "iconIndex": 223,
-        "name": "トレジャーハンマー",
+        "name": "Treasure Hammer",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.15>\n<shotInterval:50>\n<shotType:4>\n<shotIndex:4>\n<shotSkill:809>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -3988,7 +3988,7 @@
     {
         "id": 126,
         "animationId": 1,
-        "description": "毒々しい赤い口紅はもはや凶器\n誘惑　2方向　隙70",
+        "description": "The poisonous red lipstick is now a weapon. Seduction. 2 directions.\nVulnerability 70",
         "etypeId": 1,
         "traits": [
             {
@@ -4003,7 +4003,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "ビジューの口紅",
+        "name": "Bijou Lipstick",
         "note": "<shotWay:2>\n<shotSpace:0.5>\n<shotCount:40>\n<shotSpeed:0.1>\n<shotInterval:70>\n<shotType:3>\n<shotIndex:40>\n<shotSkill:806>\n<shotSeName:lip00>",
         "params": [
             0,
@@ -4021,7 +4021,7 @@
     {
         "id": 127,
         "animationId": 1,
-        "description": "最初に炎魔法について書かれた古い書物　今は一般常識\n炎　3方向短　隙45",
+        "description": "An old book first written about fire magic, now common knowledge. Fire. 3\ndirections short. Vulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4036,7 +4036,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "古い火炎の魔導書",
+        "name": "Ancient Flame Magic Tome",
         "note": "<shotWay:3>\n<shotSpace:0.27>\n<shotCount:20>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:818>\n<shotSeName:Fire1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -4054,7 +4054,7 @@
     {
         "id": 128,
         "animationId": 1,
-        "description": "相手を魅了する魔法　ただしハートは尻から出る\n誘惑　2方向長　隙60　",
+        "description": "Enchanting magic that captivates the opponent. However, hearts come out from the\nbutt. Seduction. 2 directions long. Vulnerability 60",
         "etypeId": 1,
         "traits": [
             {
@@ -4069,7 +4069,7 @@
             }
         ],
         "iconIndex": 84,
-        "name": "チャームの魔導書",
+        "name": "Charm Magic Tome",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:80>\n<shotSpeed:-0.1>\n<shotInterval:60>\n<shotType:3>\n<shotIndex:41>\n<shotSkill:806>\n<shotSeName:Saint1>",
         "params": [
             0,
@@ -4087,7 +4087,7 @@
     {
         "id": 129,
         "animationId": 1,
-        "description": "極小隕石を召喚してぶつける　見た目はキレイ\n打撃　4方向長　隙65",
+        "description": "Summoning tiny meteorites to strike. They look pretty. Blunt. 4 directions long.\nVulnerability 65",
         "etypeId": 1,
         "traits": [
             {
@@ -4097,7 +4097,7 @@
             }
         ],
         "iconIndex": 87,
-        "name": "スターショット",
+        "name": "Star Shot",
         "note": "<shotWay:4>\n<shotSpace:0.5>\n<shotCount:60>\n<shotSpeed:0.18>\n<shotInterval:65>\n<shotType:3>\n<shotIndex:50>\n<shotSkill:803>\n<shotSeName:Saint5>\n<shotSePitch:150>",
         "params": [
             0,
@@ -4115,7 +4115,7 @@
     {
         "id": 130,
         "animationId": 1,
-        "description": "これで演奏会は中止だ！潰れろ！\n打撃　1方向短　隙320",
+        "description": "This will cancel the concert! Crush! Blunt. 1 direction short. Vulnerability 320",
         "etypeId": 1,
         "traits": [
             {
@@ -4130,7 +4130,7 @@
             }
         ],
         "iconIndex": 200,
-        "name": "アップライト",
+        "name": "Upright",
         "note": "<shotWay:1>\n<shotSpace:0.15>\n<shotCount:40>\n<shotSpeed:0.06>\n<shotInterval:320>\n<shotType:5>\n<shotIndex:17>\n<shotSkill:809>\n<shotSeName:chest1>",
         "params": [
             0,
@@ -4148,7 +4148,7 @@
     {
         "id": 131,
         "animationId": 1,
-        "description": "床の材質がなんであろうと地面から岩が突き出してくる\n打撃　設置　隙120",
+        "description": "No matter the floor material, rocks will protrude from the ground. Blunt. Set\nup. Vulnerability 120",
         "etypeId": 1,
         "traits": [
             {
@@ -4163,7 +4163,7 @@
             }
         ],
         "iconIndex": 68,
-        "name": "グレイブの魔導書",
+        "name": "Glaive Magic Tome",
         "note": "<shotWay:1>\n<shotSpace:0.15>\n<shotCount:160>\n<shotSpeed:0>\n<shotInterval:120>\n<shotType:4>\n<shotIndex:40>\n<shotSkill:839>\n<shotSeName:Earth2>",
         "params": [
             0,
@@ -4181,7 +4181,7 @@
     {
         "id": 132,
         "animationId": 1,
-        "description": "ひびが入って使えなくなった元高級なお皿\n打撃　2方向長　隙40",
+        "description": "A once-luxurious plate, now cracked and unusable. Blunt. 2 directions long.\nVulnerability 40",
         "etypeId": 1,
         "traits": [
             {
@@ -4196,7 +4196,7 @@
             }
         ],
         "iconIndex": 196,
-        "name": "高級お皿フリスビー",
+        "name": "Luxury Plate Frisbee",
         "note": "<shotWay:2>\n<shotSpace:0.3>\n<shotCount:30>\n<shotSpeed:0.3>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:17>\n<shotSkill:807>\n<shotSeName:Sword5>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -4214,7 +4214,7 @@
     {
         "id": 133,
         "animationId": 1,
-        "description": "プレイヤーに当てると一時的に球数が増える　\nHP回復1　弾+1　隙150",
+        "description": "Hitting the player temporarily increases the number of balls. HP Recovery 1.\nBullet +1. Vulnerability 150",
         "etypeId": 1,
         "traits": [
             {
@@ -4229,7 +4229,7 @@
             }
         ],
         "iconIndex": 176,
-        "name": "増殖液",
+        "name": "Proliferation Liquid",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:100>\n<shotSpeed:0.2>\n<shotInterval:150>\n<shotType:3>\n<shotIndex:25>\n<shotSkill:815>",
         "params": [
             0,
@@ -4247,7 +4247,7 @@
     {
         "id": 134,
         "animationId": 1,
-        "description": "主に膝に向かって放つ\n斬撃　1方向長　隙45",
+        "description": "Mainly aimed at the knees. Slash. 1 direction long. Vulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4262,7 +4262,7 @@
             }
         ],
         "iconIndex": 102,
-        "name": "インプの弓矢",
+        "name": "Imp's Bow and Arrows",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:25>\n<shotSpeed:0.4>\n<shotInterval:45>\n<shotType:3>\n<shotIndex:22>\n<shotSkill:802>\n<shotSeName:Bow1>\n<shotSePitch:120>",
         "params": [
             0,
@@ -4280,7 +4280,7 @@
     {
         "id": 135,
         "animationId": 1,
-        "description": "後ろに向かって水弾を飛ばす魔法\n水　5方向短　隙45",
+        "description": "A magic that shoots water bullets backwards. Water. 5 directions short.\nVulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4295,7 +4295,7 @@
             }
         ],
         "iconIndex": 67,
-        "name": "逆流の魔導書",
+        "name": "Backflow Magic Tome",
         "note": "<shotWay:5>\n<shotSpace:0.6>\n<shotCount:20>\n<shotSpeed:-0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:38>\n<shotSkill:820>\n<shotSeName:Water1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,
@@ -4313,7 +4313,7 @@
     {
         "id": 136,
         "animationId": 1,
-        "description": "重篤な健康被害、または死亡の原因になり得る可能性が高い\n食べ物　1方向短　隙150",
+        "description": "Highly likely to cause serious health damage or death. Food. 1 direction short.\nVulnerability 150",
         "etypeId": 1,
         "traits": [
             {
@@ -4323,7 +4323,7 @@
             }
         ],
         "iconIndex": 274,
-        "name": "ばばあ'sゲロマズランチ",
+        "name": "Old Hag's Disgusting Lunch",
         "note": "<shotWay:1>\n<shotSpace:0.3>\n<shotCount:35>\n<shotSpeed:0.12>\n<shotInterval:150>\n<shotType:4>\n<shotIndex:29>\n<shotSkill:825>\n<shotSeName:Wind7>",
         "params": [
             0,
@@ -4341,7 +4341,7 @@
     {
         "id": 137,
         "animationId": 1,
-        "description": "これが光ん力だアアアアああ！！\n斬撃　1方向短　隙150",
+        "description": "This is the power of light, Aaaaah!! Slash. 1 direction short. Vulnerability 150",
         "etypeId": 1,
         "traits": [
             {
@@ -4356,7 +4356,7 @@
             }
         ],
         "iconIndex": 117,
-        "name": "チェンソー",
+        "name": "Chainsaw",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotCount:40>\n<shotSpeed:0.03>\n<shotInterval:150>\n<shotType:4>\n<shotIndex:10>\n<shotSkill:821>\n<shotSeName:Gun2>\n<shotSePitch:120>\n",
         "params": [
             0,
@@ -4374,7 +4374,7 @@
     {
         "id": 138,
         "animationId": 1,
-        "description": "二次会行くって！！\n打撃　2方向長　隙40",
+        "description": "We're going to the second party!! Blunt. 2 directions long. Vulnerability 40",
         "etypeId": 1,
         "traits": [
             {
@@ -4389,7 +4389,7 @@
             }
         ],
         "iconIndex": 275,
-        "name": "ビール瓶",
+        "name": "Beer Bottle",
         "note": "<shotWay:2>\n<shotSpace:3>\n<shotCount:30>\n<shotSpeed:0.3>\n<shotInterval:40>\n<shotType:4>\n<shotIndex:27>\n<shotSkill:807>\n",
         "params": [
             0,
@@ -4407,7 +4407,7 @@
     {
         "id": 139,
         "animationId": 1,
-        "description": "ブ男に教えてもらった魔法\n炎　5方向　隙45",
+        "description": "Magic taught by an ugly man. Fire. 5 directions. Vulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4422,7 +4422,7 @@
             }
         ],
         "iconIndex": 64,
-        "name": "クロスファイアー",
+        "name": "Crossfire",
         "note": "<shotWay:5>\n<shotSpace:1.5>\n<shotCount:30>\n<shotSpeed:0.2>\n<shotInterval:45>\n<shotType:4>\n<shotIndex:39>\n<shotSkill:818>\n<shotSeName:Fire1>\n<shotSeVolume:70>\n<shotSePitch:150>",
         "params": [
             0,

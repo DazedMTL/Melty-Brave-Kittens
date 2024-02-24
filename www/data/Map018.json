@@ -4928,21 +4928,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>お宝・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほんものだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あるんだね。こういうとこにも。"
+                                "\\n<Rui>Treasure...! It's real! So it does exist in places like\nthis."
                             ]
                         },
                         {
@@ -4966,14 +4952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>何が入ってるのかにゃん？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わくわく♥"
+                                "\\n<Rui>What's inside, I wonder? I'm so excited♥"
                             ]
                         },
                         {
@@ -5000,21 +4979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>これが遺跡のお宝かな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "罠は・・・無さそうだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よし、依頼達成！"
+                                "\\n<Rui>Is this the treasure of the ruins? There don't seem to be\nany traps... Alright, mission accomplished!"
                             ]
                         },
                         {
@@ -5076,7 +5041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>ちょーっと待った！"
+                                "\\n<???>Hold on a second!"
                             ]
                         },
                         {
@@ -5351,21 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>悪いけどソレを探してここまで来たのは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiだけじゃないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先に見つけたからって、アナタのものって訳じゃないのよ。"
+                                "\\n<Bijou>Sorry, but you're not the only one who's been searching for\nthat. Just because you found it first doesn't mean it\nbelongs to you."
                             ]
                         },
                         {
@@ -5421,14 +5372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>依頼はお宝を持ち帰ること。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "つまり、帰るまでが遠足ってことよ。"
+                                "\\n<Bijou>The request was to bring back the treasure. In other words,\nthe trip isn't over until we return."
                             ]
                         },
                         {
@@ -5620,7 +5564,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>んちゅっ♥れろぉ・・・♥"
+                                "\\n<Bijou>Mwah♥ Lick..."
                             ]
                         },
                         {
@@ -5709,21 +5653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>んにゃっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃにを・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃんか飲んじゃった・・・！"
+                                "\\n<Rui>Nyah♥ What's this...? I think I drank something...!"
                             ]
                         },
                         {
@@ -5750,21 +5680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>んんん・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "離・・・せ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何を飲ませた・・・！"
+                                "\\n<Rui>Mmm...!! Let go...! What did you make me drink...?!"
                             ]
                         },
                         {
@@ -5862,21 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>んふふ♥ちゅるっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ミルクみたいな味の唇ねぇ♥くすくす♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カワイイ♥"
+                                "\\n<Bijou>Mmm♥ Slurp♥ Your lips taste like milk♥ Teehee♥ Cute♥"
                             ]
                         },
                         {
@@ -5916,21 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>安心して。毒じゃないから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ、とっても良い気分になれるお薬♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、むくむく・・・♥むくむく・・・♥"
+                                "\\n<Bijou>Don't worry. It's not poison. On the contrary, it's a very\nnice drug that'll make you feel good♥ Look, throbbing...♥\nthrobbing...♥"
                             ]
                         },
                         {
@@ -5970,14 +5858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>えっちな気分になってきちゃったでしょ？くすくす♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはぁ♥お顔真っ赤♥"
+                                "\\n<Bijou>You're starting to feel horny, aren't you? Teehee♥ Aha♥ Your\nface is turning red♥"
                             ]
                         },
                         {
@@ -6010,21 +5891,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>どうする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "依頼を諦めてぇ、お姉さんとえっちなことする？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あははは♥"
+                                "\\n<Bijou>What will you do? Give up on the request and do naughty\nthings with big sis? Ahahaha♥"
                             ]
                         },
                         {
@@ -6057,21 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>なんてね。お宝を賭けて勝負よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こう見えても剣技と魔法は得意なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくらアナタが強くても、その状態で私に勝てるかしら。"
+                                "\\n<Bijou>Just kidding. Let's make a bet on the treasure. Despite\nappearances, I'm quite skilled with sword and magic. I\nwonder if you can beat me in that state, no matter how\nstrong you are."
                             ]
                         },
                         {
@@ -6104,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>斬って、燃やして、私に逆らえなくしてあげる♥"
+                                "\\n<Bijou>I'll cut you, burn you, and make it so you can't defy me♥"
                             ]
                         },
                         {

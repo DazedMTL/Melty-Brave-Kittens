@@ -5212,21 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>なんだこのネコガキ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい！コイツらの保護者ぁ誰だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "迷い猫かぁ！？つまみ出せ！"
+                                "\\n<Guild Master>What's with these cat brats. Hey! Who's the guardian of\nthese kids? Stray cats, huh?! Kick 'em out!"
                             ]
                         },
                         {
@@ -5259,21 +5245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>迷い込んだわけではないです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは冒険者ギルドですよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰にでも立ち入る権利はあると思いますが。"
+                                "\\n<Rui-Chan>We're not lost. This is the adventurers' guild, right? I\nbelieve everyone has the right to enter."
                             ]
                         },
                         {
@@ -5297,21 +5269,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>あ？ねぇな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うちのギルドはウンコした後に砂かけるヤツはお断りって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "入口に書いてあんだよ。"
+                                "\\n<Guild Master>Huh? No way. Our guild clearly states at the entrance that\nthose who cover their poop with sand are not welcome."
                             ]
                         },
                         {
@@ -5344,21 +5302,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>ハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんまりイジメてやんなよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか言いたそうだぜ。話くらい聞いてやれマスター！"
+                                "\\n<Adventurer A>Hahaha! Don't be too hard on them! They seem to have\nsomething to say. At least listen to their story, Master!"
                             ]
                         },
                         {
@@ -5400,21 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>お姉ちゃんを探しているの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人の、すごーく強い冒険者。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か知りませんか？"
+                                "\\n<Wadsworth>I'm looking for my sister. A beastman, a very strong\nadventurer. Do you know anything?"
                             ]
                         },
                         {
@@ -5438,21 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>仮に俺が知っていたとして、タダで聞こうってか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "情報には価値があるって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最近の教科書には書いてねーのか。"
+                                "\\n<Guild Master>Even if I knew something, you think I'd tell you for free?\nDon't they teach you that information has value in school\nthese days?"
                             ]
                         },
                         {
@@ -5494,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ルイシャム>じゃ、じゃあこれで・・・"
+                                "\\n<Rui-Chan>Then, how about this..."
                             ]
                         },
                         {
@@ -5561,7 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "1000G支払った・・・"
+                                "Paid 1000G..."
                             ]
                         },
                         {
@@ -5625,14 +5541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>うーん、猫の冒険者ねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知らね。"
+                                "\\n<Guild Master>Hmm, a cat adventurer, eh? Don't know 'em."
                             ]
                         },
                         {
@@ -5672,14 +5581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>何それ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあお金返してよ！"
+                                "\\n<Wadsworth>What's that about! Then give me back my money!"
                             ]
                         },
                         {
@@ -5712,14 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>『俺は何も知らねー』という情報が手に入ったろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かったら出て行きなネコガキ。"
+                                "\\n<Guild Master>You've just obtained the information that \"I don't know\nanything.\" Now that you understand, get out, cat brat."
                             ]
                         },
                         {
@@ -5745,21 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>おいちょっとまて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前よく見ると結構カワイイ顔してんじゃねーか♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "童顔なわりに、出るとこ出てるしよぉ♥うひひ♥"
+                                "\\n<Adventurer B>Hey, wait a sec. You've got a pretty cute face there♥\nDespite being baby-faced, you've got curves in all the right\nplaces♥ Uhihi♥"
                             ]
                         },
                         {
@@ -5931,14 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>ちょっと！触らないでよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うわ！お酒臭い！近寄らないで！"
+                                "\\n<Wadsworth>Hey! Don't touch me! Ew! You reek of alcohol! Don't come any\ncloser!"
                             ]
                         },
                         {
@@ -5971,14 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>まぁそう言うなってぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おじさんが可愛がってやるぜぇ♥ククク♥"
+                                "\\n<Adventurer B>Oh come on, don't be like that. Uncle here will take good\ncare of you♥ Kukuku♥"
                             ]
                         },
                         {
@@ -6034,7 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "　　　　　　　　　　　　　　　　　　　主人公を選択してください。"
+                                "Please select the protagonist."
                             ]
                         },
                         {
@@ -6042,8 +5909,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "助ける　　（男主人公）",
-                                    "ブチ切れる（女主人公）"
+                                    "Help (Male Protagonist)",
+                                    "Flip Out (Female Protagonist)"
                                 ],
                                 1,
                                 0,
@@ -6566,7 +6433,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>ぐべぁ！！！"
+                                "\\n<Adventurer B>Gubeh!!!"
                             ]
                         },
                         {
@@ -6716,21 +6583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>あ、ごめん。やり過ぎちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死んでないよね？痛かった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもそっちが悪いよ。"
+                                "\\n<Wadsworth>Oh, sorry. I might have gone too far. You're not dead, are\nyou? Did it hurt? But it's your fault, you know."
                             ]
                         },
                         {
@@ -6763,14 +6616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>ということで、ボクらをあまり舐めない方が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お互いの為になると思うんだけど・・・"
+                                "\\n<Rui-Chan>So, it would be in everyone's best interest not to\nunderestimate us too much..."
                             ]
                         },
                         {
@@ -6813,21 +6659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>あまりボクたちを舐めない方がいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "結構練習してるけど、上手に動かせなくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もし殺しちゃったら嫌だ。"
+                                "\\n<Rui-Chan>You really shouldn't underestimate us. We've been practicing\nquite a bit, and it would be bad if we accidentally killed\nsomeone because we couldn't control our strength."
                             ]
                         },
                         {
@@ -6860,21 +6692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>ちょっとやり過ぎだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当にコントロール出来てたぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おじさん、大丈夫ぅ？"
+                                "\\n<Wadsworth>That was a bit much. Did you really have control? Are you\nokay, mister?"
                             ]
                         },
                         {
@@ -7223,14 +7041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>ワハハハハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前ら最高だな！！"
+                                "\\n<Adventurer A>Wahahahahaha! You guys are the best!!"
                             ]
                         },
                         {
@@ -7293,21 +7104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>やーん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫ちゃんたちー♥つよーい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カワイイー♥"
+                                "\\n<Adventurer C>Eek♥ Kitty cats♥ So strong♥ So cute♥"
                             ]
                         },
                         {
@@ -7333,14 +7130,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者D>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "空中に手が・・・"
+                                "\\n<Adventurer D>...! There are hands in the air..."
                             ]
                         },
                         {
@@ -7366,14 +7156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者E>これはなかなか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "並外れた魔力だ・・・"
+                                "\\n<Adventurer E>This is quite something! Extraordinary magical power..."
                             ]
                         },
                         {
@@ -7507,21 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>やるねぇ！はははは！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いやー、おちょくって悪かった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "無礼を許してくれ。"
+                                "\\n<Guild Master>Well done! Hahahaha! Yeah, sorry for teasing you! Forgive my\nrudeness."
                             ]
                         },
                         {
@@ -7538,14 +7307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>冒険者の姉を探しているって言っていたな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Guild Master>You said you were looking for your adventurer sister..."
                             ]
                         },
                         {
@@ -7562,21 +7324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>よし、じゃあお前ら、冒険者登録しろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それがいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここなら情報が入って来やすい。"
+                                "\\n<Guild Master>Alright then, you guys should register as adventurers!\nThat's the best course of action. Information comes in\neasily here."
                             ]
                         },
                         {
@@ -7593,21 +7341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>それに、冒険者はギルドからギルドに拠点を移して"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "旅をするもんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "待っていれば向こうから来るかもしれねぇ。"
+                                "\\n<Guild Master>Besides, adventurers travel from guild to guild as their\nbase. If you wait here, she might come to you."
                             ]
                         },
                         {
@@ -7624,21 +7358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>どうだ？ひとまずウチで働いてみないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それだけの戦闘力、お前ら普通じゃねーだろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何かそっちも事情があるんじゃないか？"
+                                "\\n<Guild Master>How about it? Why don't you work here for now? With that\nkind of fighting ability, you guys aren't ordinary. You must\nhave your own circumstances, right?"
                             ]
                         },
                         {
@@ -7655,21 +7375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>ここのやつらは余計な詮索もしねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勿論、俺もな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうだ？"
+                                "\\n<Guild Master>The folks here don't pry too much. Of course, neither do I.\nWhat do you say?"
                             ]
                         },
                         {
@@ -7711,14 +7417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（よし、大体想定していた流れだ。）"
+                                "\\n<Rui-Chan>Thank you very much. (Good, this is more or less what I\nexpected.)"
                             ]
                         },
                         {
@@ -7761,14 +7460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>よろしくお願いしますー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うん、ここまでは上手くいった！作戦通り！）"
+                                "\\n<Wadsworth>Thank you very much! (Yeah, everything has gone smoothly so\nfar! Just as planned!)"
                             ]
                         },
                         {
@@ -7831,14 +7523,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>んじゃ、まず名前だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほれ、そこの紙に書きな。"
+                                "\\n<Guild Master>Then first things first, your names. Write them down on that\npaper over there."
                             ]
                         },
                         {
@@ -7880,14 +7565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイシャム>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（フルネームはダメだよ。あだ名か偽名を使おう。）"
+                                "\\n<Rui-Chan>... (We can't use our full names. Let's use nicknames or\naliases.)"
                             ]
                         },
                         {
@@ -7947,14 +7625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズワース>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（偽名を使うんだよ。分かってるよね？）"
+                                "\\n<Wadsworth>... (We should use aliases. You understand, right?)"
                             ]
                         },
                         {
@@ -8071,21 +7742,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイシャム>Rui・・・ってそのまんまじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まぁいいか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じゃあボクはルイ・・・っと。"
+                                "\\n<Rui-Chan>Rui... that's just as it is. Well, whatever. Then I'll go by\nLouie... there."
                             ]
                         },
                         {
@@ -8128,14 +7785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ルイシャム>Ruiね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じゃあボクはルイ・・・っと。"
+                                "\\n<Rui-Chan>Rui, huh... then I'll go by Louie... there."
                             ]
                         },
                         {
@@ -8214,21 +7864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ワンズワース>Rui？あれ？いいの？それで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は一応・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ワンズにしとこ。あんま変わんないか。"
+                                "\\n<Wadsworth>Rui? Really? That's fine then. As for me... I'll go by Wanz\nfor now. Not much of a change though."
                             ]
                         },
                         {
@@ -8271,14 +7907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<ワンズワース>Ruiね・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "じゃあ私はワンズでいいや。"
+                                "\\n<Wadsworth>Rui, huh... then I'll just be Wanz."
                             ]
                         },
                         {
@@ -8322,21 +7951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>偽名もOK、いつでも変更ありだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、その辺緩いのがうちのギルドっつーことで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか飲むか？"
+                                "\\n<Guild Master>Aliases are OK too, and you can change them anytime. Well,\nthat's how laid-back our guild is. Want something to drink?"
                             ]
                         },
                         {
@@ -8378,7 +7993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>キャロットジュースで！"
+                                "\\n<Rui>Carrot juice, please!"
                             ]
                         },
                         {
@@ -8411,14 +8026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ほっとみりゅく♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもあんまり熱くないの♥"
+                                "\\n<Rui>And a hot milk♥ But not too hot♥"
                             ]
                         },
                         {
@@ -8461,14 +8069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>うーんとね、ほっとみりゅく♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもあんまり熱くしないでね♥"
+                                "\\n<Wadsworth>Yeah, a hot milk♥ But make sure it's not too hot♥"
                             ]
                         },
                         {
@@ -8501,7 +8102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>キャロットジュースで！"
+                                "\\n<Rui>Carrot juice, please!"
                             ]
                         },
                         {
@@ -8709,21 +8310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンクス>あぁ、新人の双子か。リンクスだ。よろしく。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マスター、まじで感じ悪かったでしょ最初。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アレほんと、誰に対してもアレだから。"
+                                "\\n<Lynx>Ah, the new twins, huh. I'm Lynx. Nice to meet you. The\nMaster was really off-putting at first, right? That's just\nhow they are with everyone."
                             ]
                         },
                         {
@@ -8740,21 +8327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンクス>でも、一度気に入られると良くしてくれるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "スラム特有の、排他的な仲間意識みたいなノリってやつ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、悪いヤツじゃないよ。"
+                                "\\n<Lynx>But once you get on their good side, they'll treat you well.\nIt's like that exclusive camaraderie you find in the slums,\nyou know? Anyway, they're not a bad person."
                             ]
                         },
                         {

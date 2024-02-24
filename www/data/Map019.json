@@ -4907,21 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>怖がらないで・・・♥んちゅっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私はおかしくなんてないんだから♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こうしたら、分かってくれる？ちゅぅぅ♥"
+                                "\\n<Enemy_Succubus>Don't be scared...♥ *smooch*♥ I'm not going crazy, you know♥\nDo you understand now that I've done this? *kiss*♥"
                             ]
                         },
                         {
@@ -4989,21 +4975,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "私の気持ち、伝わって来た？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "大丈夫ですよ♥そのまま気持ちよくなっても♥"
+                                "\\n<Enemy_Succubus>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
                             ]
                         },
                         {
@@ -5027,21 +4999,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>キスって気持ちいいよね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "ほら、もう警戒心なんて無くなっちゃった♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 3,
-                            "parameters": [
-                                "それでいいんです♥"
+                                "\\n<Enemy_Succubus>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's right♥"
                             ]
                         },
                         {
@@ -5653,21 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あう・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしてこんなことをするの・・・"
+                                "\\n<Enemy_Succubus>Ah...! Why...! Why are you doing this..."
                             ]
                         },
                         {
@@ -5700,14 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>私はただ生きていたいだけなのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっと溶けちゃうだけで、もう人とは違うの？"
+                                "\\n<Enemy_Succubus>All I want is to live. Just because I melt a little, does\nthat make me different from humans?"
                             ]
                         },
                         {
@@ -5740,14 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>獣人だって普通の人間とは違うじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと私は何が違うって言うの？"
+                                "\\n<Enemy_Succubus>Even beastmen are different from normal humans. What makes\nme any different from them?"
                             ]
                         },
                         {
@@ -5780,21 +5710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（言葉はただの音。魔物の持つ悪意を確かに感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　でも、何か引っかかる気もする・・・）"
+                                "\\n<Rui>... (Words are just sounds. I can definitely feel the malice\ninherent in monsters. But something feels off...)"
                             ]
                         },
                         {
@@ -5821,21 +5737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（魔物特有の悪意の魔力を確かに感じる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "　コイツは何か企んでいるに違いない。でも・・・）"
+                                "\\n<Rui>... (I can definitely sense the unique malice of magical\npower from a monster. This one must be up to something.\nBut...)"
                             ]
                         },
                         {
@@ -5885,14 +5787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>ママ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクもう分からないよ。"
+                                "\\n<Jean>Mama...? I don't understand anymore."
                             ]
                         },
                         {
@@ -5909,21 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>Ruiさん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ママと同じ記憶を持った魔物がいたら、それは魔物なの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "話し方も、思い出も、同じなんだよ。"
+                                "\\n<Jean>Rui-san... If there was a monster with the same memories as\nMama, would it still be a monster? It talks and remembers\njust like her."
                             ]
                         },
                         {
@@ -5940,14 +5821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>どうしたらいいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクが頼んだのに、分からないよ。"
+                                "\\n<Jean>What should I do? I asked for your help, but now I'm lost."
                             ]
                         },
                         {
@@ -5980,14 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ジャンはママのこと信じてくれる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一緒にいたいって思ってくれる？"
+                                "\\n<Enemy_Succubus>Do you believe in Mama, Jean? Do you want to stay with me?"
                             ]
                         },
                         {
@@ -6057,7 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>うるさい！しゃべらないで！"
+                                "\\n<Jean>Quiet! Don't talk!"
                             ]
                         },
                         {
@@ -6074,7 +5941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>・・・"
+                                "\\n<Jean>..."
                             ]
                         },
                         {
@@ -6116,21 +5983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ジャン・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（迷ってる・・・私も分からなくなってきた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かに魔物の気配はするけど・・・）"
+                                "\\n<Rui>Jean... (I'm hesitating... I'm becoming unsure myself...\nThere's definitely a presence of a monster but...)"
                             ]
                         },
                         {
@@ -6157,21 +6010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ジャン・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（混乱してる・・・ボクも分からなくなってきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かに魔物の臭いはするけど・・・）"
+                                "\\n<Rui>Jean... (Confused... I'm starting to lose my way too.\nThere's definitely the scent of a monster but...)"
                             ]
                         },
                         {
@@ -6214,21 +6053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（見逃せばいつかジャンが食われるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも、子供の前で母親を斬るのが、本当に良いことなの？）"
+                                "\\n<Rui>... (If I let it go, Jean might be eaten someday. But is it\nreally right to slay a mother in front of her child?)"
                             ]
                         },
                         {
@@ -6255,21 +6080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（見逃せばいつかジャンが食われるかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でも、子供の前で母親を斬ってしまっていいのか？）"
+                                "\\n<Rui>... (If I let it go, Jean might be eaten someday. But can I\nreally slay a mother in front of her child?)"
                             ]
                         },
                         {
@@ -6312,21 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>分かりました。もう抵抗はしません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのかわり、ジャンのことを頼みますね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Enemy_Succubus>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
                             ]
                         },
                         {
@@ -6375,8 +6172,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "今すぐ斬り捨てる",
-                                    "今は斬らない",
+                                    "Slash them right now",
+                                    "Don't slash them now",
                                     "<random><timer>"
                                 ],
                                 -1,
@@ -6566,21 +6363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>待っ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やっ・・・ママは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Jean>Wait... no... Mama is..."
                             ]
                         },
                         {
@@ -6729,21 +6512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あーぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "せっかく大きくなるのを待っていたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんてことをするの。"
+                                "\\n<Enemy_Succubus>Ahh. I was waiting for you to grow up. What are you doing?"
                             ]
                         },
                         {
@@ -6776,14 +6545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ちゃんとママとして生活していたのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタさえ来なければ、日常を続けられたのに。"
+                                "\\n<Enemy_Succubus>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
                             ]
                         },
                         {
@@ -6816,21 +6578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>仕方ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタがジャンの代わりになりなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "断ることなんて、出来ないよね？"
+                                "\\n<Enemy_Succubus>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
                             ]
                         },
                         {
@@ -7118,21 +6866,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>待って！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "や、やっぱりもういい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクは・・・ボクは・・・"
+                                "\\n<Jean>Wait!! No, never mind! I... I..."
                             ]
                         },
                         {
@@ -7165,21 +6899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>ジャン・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（あ、危なかったぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　間違えてジャンのこと斬っちゃうとこだった・・・）"
+                                "\\n<Rui>Jean... (Ah, that was close... I almost cut Jean by\nmistake...)"
                             ]
                         },
                         {
@@ -7206,21 +6926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（今斬りかかってたらジャンに当たってた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "　危なかった・・・）"
+                                "\\n<Rui>...! (If I had swung just now, it would have hit Jean! That\nwas close...)"
                             ]
                         },
                         {
@@ -7263,14 +6969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ジャン・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタって子は・・・本当に・・・♥"
+                                "\\n<Enemy_Succubus>Jean...♥ You child... you really are...♥"
                             ]
                         },
                         {
@@ -7369,21 +7068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>優しい子に育ってくれて嬉しいわ♥うふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと私の為に育って・・・♥"
+                                "\\n<Enemy_Succubus>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
                             ]
                         },
                         {
@@ -7589,21 +7274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>に、逃げられちゃった・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "どーしよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギルドに報告しなきゃ・・・"
+                                "\\n<Rui>N-no, she got away...! What should I do! I have to report to\nthe guild..."
                             ]
                         },
                         {
@@ -7630,21 +7301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>しまった！ジャンを連れていかれた！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "すぐに危害を加えられるようなことは無いと思うけど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ギルドに報告しないと。"
+                                "\\n<Rui>Damn it! She took Jean! I don't think she'll harm him right\naway, but... I have to report to the guild."
                             ]
                         },
                         {
@@ -7873,21 +7530,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "MultiwayShot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Around Shooter"
                             ]
                         },
                         {
@@ -7901,7 +7558,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "場所入れ替え"
+                                "Place Switching"
                             ]
                         },
                         {
@@ -8179,7 +7836,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "ランダム投擲"
+                                "Random Throw"
                             ]
                         },
                         {
@@ -8193,14 +7850,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Narrow Aim Self-Targeting Shot"
                             ]
                         },
                         {
@@ -8750,7 +8407,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "垂れ流し突進"
+                                "Gushing Charge"
                             ]
                         },
                         {
@@ -9976,21 +9633,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot イベント弾発射"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayAim　自機狙い発射"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nallShot 全方位発射"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -11184,14 +10841,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "※ジャンに攻撃を当てないようにしましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "倒してしまうとゲームオーバーです。"
+                                "※Be careful not to hit Jean with your attacks. If you defeat\nthem, it's game over."
                             ]
                         },
                         {
@@ -11206,10 +10856,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "戦闘開始！",
-                                    "セーブ",
-                                    "解説を見る",
-                                    "攻略のヒント"
+                                    "Battle Start!",
+                                    "Save",
+                                    "View Explanation",
+                                    "Strategy Tips"
                                 ],
                                 -1,
                                 0,
@@ -11288,21 +10938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "アクションRPGボス戦です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃を避けながらAキーで攻撃してください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Dキーを押している間は向きを固定して移動できます。"
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand strike with the A key. While holding the D key, you can\nmove with your direction fixed."
                             ]
                         },
                         {
@@ -11319,21 +10955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵の攻撃で精力、体力のどちらかが0になると敗北です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "基本的に遠距離攻撃は体力が減り、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "接触すると精力が減ります。"
+                                "If either your stamina or health reaches 0 due to the\nenemy's attacks, you will be defeated. Generally, ranged\nattacks will reduce health, while contact will reduce\nstamina."
                             ]
                         },
                         {
@@ -11350,21 +10972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "敵に接触するとホールドされ"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タイミングバーを成功させるまでダメージを受け続けます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "タイミングバーを出してみますね。"
+                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let me show you the timing bar."
                             ]
                         },
                         {
@@ -11388,21 +10996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "黄色で止めると成功、赤で止めるとクリティカルです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "黄色の場合はダメージを受けて解放され、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "赤の場合はダメージを半減して解放されます。"
+                                "Stopping on yellow is a success, stopping on red is a\ncritical. If you stop on yellow, you'll take damage and be\nreleased; stopping on red will halve the damage and release\nyou."
                             ]
                         },
                         {
@@ -11419,21 +11013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "また、敵から精力にダメージを受けると\\C[14]発情状態\\C[0]になり"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "攻撃時の斬撃の数が減ってしまいます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "発情中はステータスに♡マークがつきます。"
+                                "Furthermore, taking damage to your stamina from the enemy\nwill put you in a [Color_14]state of arousal\\C[0], reducing\nthe number of slashes during your attack. A heart mark will\nappear on your status while in this state."
                             ]
                         },
                         {
@@ -11450,21 +11030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "発情は一定数歩き回ることで解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クリティカルで振り払った場合にも発情状態が解除されます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "余裕があれば赤で止めるようにしましょう。"
+                                "Arousal can be removed by walking around a set number of\nsteps. It can also be removed by achieving a critical to\nshake off the enemy. If possible, aim to stop on red."
                             ]
                         },
                         {
@@ -11501,21 +11067,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・敵の攻撃パターンを覚える"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "敵の攻撃にはパターンがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まずは避けることに集中して覚えましょう。"
+                                ".Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on dodging first to learn them."
                             ]
                         },
                         {
@@ -11532,21 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・Dキーの向き固定を活用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "向きを固定することで攻撃と回避がしやすくなります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "下がりながら攻撃をすると戦いやすくなります。"
+                                ".Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile moving backwards can make the fight easier."
                             ]
                         },
                         {
@@ -11563,21 +11101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・回復アイテム、スキルを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復アイテム、スキル（深呼吸など）に使用制限はありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "回復してゴリ押しすることも可能です。"
+                                ".Use healing items and skills. There are no usage limits for\nhealing items and skills (like deep breaths). You can heal\nand push through if necessary."
                             ]
                         },
                         {
@@ -11594,21 +11118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "・アクションイージーを利用する"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オプションからアクションイージーをONにすることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "難易度が大幅に下がります。デメリットはありません。"
+                                ".Use Action Ease. By turning on Action Ease from the\noptions, the difficulty level will significantly decrease.\nThere are no downsides."
                             ]
                         },
                         {
@@ -12252,14 +11762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>あう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マ・・・ま・・・"
+                                "\\n<Jean>Ah... M... ma..."
                             ]
                         },
                         {

@@ -4942,14 +4942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>見つけた・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジャンはどこ！？"
+                                "\\n<Rui>Found you...! Where's Jean!?"
                             ]
                         },
                         {
@@ -4976,14 +4969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>見つけたぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ジャンはどこだ！"
+                                "\\n<Rui>I've found you! Where is Jean!?"
                             ]
                         },
                         {
@@ -5110,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>猫の呼び方・・・！？"
+                                "\\n<Jean>Calling for a cat...!?"
                             ]
                         },
                         {
@@ -5159,21 +5145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>ジャン。隠れてなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうして私達をほっておいてくれないんです？"
+                                "\\n<Maere>Jean. Hide yourself... Why won't you leave us alone?"
                             ]
                         },
                         {
@@ -5206,14 +5178,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>私は何も悪い事なんてしてない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Maere>I haven't done anything wrong..."
                             ]
                         },
                         {
@@ -5246,21 +5211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>いや・・・もうやめましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私でも、自分が何なのか分からなくなる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "正直に言います。これは私の真意です。"
+                                "\\n<Maere>No... let's stop this. Even I'm starting to lose track of\nwhat I am. I'll be honest. This is my true intention."
                             ]
                         },
                         {
@@ -5293,21 +5244,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>自分の中に、悍ましい程の悪意があります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人を襲いたい。犯してしましたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日に日に強くなっていく・・・"
+                                "\\n<Maere>Inside me, there's a hideous amount of malice. I want to\nattack people. I want to violate them. It's getting stronger\nday by day..."
                             ]
                         },
                         {
@@ -5340,21 +5277,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>今こうして目の前にまたアナタが現れて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の中の黒い部分がずくずくと疼くんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "理性が少しずつ無くなっていきそう。"
+                                "\\n<Maere>Now that you've appeared before me again, the dark part\ninside me throbs painfully. It feels like I'm losing my\nreason bit by bit."
                             ]
                         },
                         {
@@ -5387,21 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>とても美味しそうな魔力♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "カワイイ顔♥どんな声で鳴くのか♥歪むのか♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知りたい♥溶かして、ぐちゃぐちゃに混ざり合いたい♥"
+                                "\\n<Maere>Such delicious-looking magical power♥ Such a cute face♥ I\nwonder what kind of sounds you make♥ How you'll contort♥ I\nwant to know♥ I want to melt and mix together into a mess♥"
                             ]
                         },
                         {
@@ -5434,21 +5343,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>これは最後の、人間としてのお願いです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を殺すか、ジャンを連れて逃げてください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃないと・・・♥"
+                                "\\n<Maere>This is my last request as a human. Either kill me or take\nJean and run away. Otherwise...♥"
                             ]
                         },
                         {
@@ -5576,21 +5471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ふぅ・・・ふぅ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うぅ・・・♥おちんちんが・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もうやだぁ・・・こんなのばっかり・・・）"
+                                "\\n<Rui>Haa... haa...! (Ugh...♥ my dick...♥ I can't stand this\nanymore... always like this...)"
                             ]
                         },
                         {
@@ -5617,21 +5498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ふぅ・・・ふぅ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（く・・・♥落ち着け・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お、大きくなるな・・・！クソ・・・！）"
+                                "\\n<Rui>Haa... haa...! (Calm down... don't get bigger...! Damn\nit...!)"
                             ]
                         },
                         {
@@ -5688,21 +5555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はもう戻れなくなる・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "抗えなくなる・・・♥"
+                                "\\n<Maere>Haa...♥ Haa...♥ I can't go back anymore...♥ I can't\nresist...♥"
                             ]
                         },
                         {
@@ -5742,21 +5595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>あは・・・♥おちんちん膨らんだ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタも望んでる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "心の中は真っ黒♥私と同じじゃない♥"
+                                "\\n<Maere>Aha...♥ Your dick's swollen♥ You want it too♥ Your heart is\npitch black♥ Just like me♥"
                             ]
                         },
                         {
@@ -5796,21 +5635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>うふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達の暮らしを邪魔する悪い子には"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とっても気持ちいいオシオキをしてあげないと♥"
+                                "\\n<Maere>Ufufu♥ Naughty children who disturb our lives deserve a very\npleasurable punishment♥"
                             ]
                         },
                         {
@@ -5843,7 +5668,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>・・・"
+                                "\\n<Jean>..."
                             ]
                         },
                         {

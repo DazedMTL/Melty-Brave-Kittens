@@ -4959,21 +4959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>\\}どうだった・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクが変になっちゃったのかな？・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それとも、やっぱり・・・"
+                                "\\n<Jean>How was it...? Did I start acting weird? ...Or maybe, after\nall..."
                             ]
                         },
                         {
@@ -5006,21 +4992,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ジャンの言う通り、確かにおかしい気がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人の匂いとは別に、何かが混じっている。）"
+                                "\\n<Rui>...(Just as Jean said, something definitely feels off. Aside\nfrom the scent of people, there's something else mixed in.)"
                             ]
                         },
                         {
@@ -5047,21 +5019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ジャンの言う通り、確かにおかしい気がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人の匂いとは別に、何かが混じっている。）"
+                                "\\n<Rui>...(Just as Jean said, something definitely feels off. Aside\nfrom the scent of people, there's something else mixed in.)"
                             ]
                         },
                         {
@@ -5127,21 +5085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>んふふー♥どうしたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の顔に何か付いてます？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "紅茶、美味しい？"
+                                "\\n<Meere>Nfufu-♥ What's the matter? Is there something on my face? Is\nthe tea delicious?"
                             ]
                         },
                         {
@@ -5179,8 +5123,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "単刀直入に聞く",
-                                    "カマを掛ける"
+                                    "Ask bluntly",
+                                    "Beat around the bush"
                                 ],
                                 -1,
                                 0,
@@ -5226,14 +5170,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>ひょっとして、何かに取り憑かれてる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "というより、魔物がメーレさんの真似をしてる気がする。"
+                                "\\n<Rui>Could it be that you're possessed by something? Rather, it\nfeels like a demon is impersonating Meere-san."
                             ]
                         },
                         {
@@ -5260,14 +5197,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>ハッキリ言うとメーレさんからは魔物の臭いがします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ジャンのお母さんに擬態をしてる可能性が高い。"
+                                "\\n<Rui>To be clear, I can smell a demon's scent coming from Meere-\nsan. It's highly likely that you're mimicking Jean's mother."
                             ]
                         },
                         {
@@ -5340,14 +5270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ごめん。ジャン。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Rui>Sorry, Jean..."
                             ]
                         },
                         {
@@ -5380,14 +5303,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うん。大丈夫。"
+                                "\\n<Jean>...Yeah. It's okay."
                             ]
                         },
                         {
@@ -5433,21 +5349,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>メーレさんは何がしたいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "バレバレだよ。私には分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何のことか、分かるよね？"
+                                "\\n<Rui>What do you want to do, Meere-san? It's obvious. I can tell.\nYou know what I'm talking about, right?"
                             ]
                         },
                         {
@@ -5474,21 +5376,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>このまま続けるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "もう全部分かってるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "メーレさん。目的を教えてほしい。"
+                                "\\n<Rui>Are you going to continue like this? I already know\neverything. Meere-san, I want to know your purpose."
                             ]
                         },
                         {
@@ -5554,21 +5442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な、何のこと？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言っている意味が・・・"
+                                "\\n<Meere>Eh? Wh-what are you talking about? I don't understand..."
                             ]
                         },
                         {
@@ -5660,21 +5534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>そう・・・ですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "信じて貰えないかもしれませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は誰が何と言おうとジャンの母親です。"
+                                "\\n<Meere>Is that so... You might not believe me, but no matter what\nanyone says, I am Jean's mother."
                             ]
                         },
                         {
@@ -5738,14 +5598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>か、顔が・・・溶け・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・"
+                                "\\n<Jean>My... my face is... melting...! Ah..."
                             ]
                         },
                         {
@@ -5778,21 +5631,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>邪魔をしないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これでいいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "日常を壊さないで。"
+                                "\\n<Meere>Please don't interfere. This is fine. Don't destroy our\ndaily life."
                             ]
                         },
                         {
@@ -5920,21 +5759,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うにゃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "き、気分が・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
+                                "\\n<Rui>Unya... I-I feel... haa... haa...♥"
                             ]
                         },
                         {
@@ -5961,21 +5786,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な、なんだこれ・・・は・・・！"
+                                "\\n<Rui>Ugh... haa... haa...♥ Wh-what is this... ah...!"
                             ]
                         },
                         {
@@ -6054,21 +5865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>紅茶に混ぜておいたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふ♥若い子にはとてもよく効くお薬♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "毒じゃないから安心してください♥"
+                                "\\n<Meere>I mixed it into the tea. Fufu♥ It's a very effective\nmedicine for young ones♥ Don't worry, it's not poison♥"
                             ]
                         },
                         {
@@ -6108,21 +5905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>ねぇ、私が何か悪い事をした？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はただ普通に生活しているだけなのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それを壊そうとするなら、こちらにも考えがあります。"
+                                "\\n<Meere>Hey, did I do something bad? I'm just living a normal life.\nIf you're trying to destroy that, I have my own plans."
                             ]
                         },
                         {
@@ -6162,14 +5945,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>手荒な真似はしたくないので"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま帰ってくれたら嬉しいんですが・・・"
+                                "\\n<Meere>I don't want to do anything rough, so I'd be happy if you\ncould just leave as you are..."
                             ]
                         },
                         {
@@ -6209,7 +5985,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ジャン・・・！逃げて・・・！"
+                                "\\n<Rui>Jean...! Run away...!"
                             ]
                         },
                         {
@@ -6236,7 +6012,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ジャン・・・！逃げろ！"
+                                "\\n<Rui>Jean...! Run!"
                             ]
                         },
                         {
@@ -6279,14 +6055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>逃げるのはアナタです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここは私達のお家なのだから。"
+                                "\\n<Meere>The one who should run is you. This is our home, after all."
                             ]
                         },
                         {
@@ -6319,7 +6088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>マ・・・マ・・・"
+                                "\\n<Rui>Ma... Ma..."
                             ]
                         },
                         {

@@ -4025,14 +4025,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>宿も取れたし、こんなに上手くいくとは思わなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後は父上たちに見つからないようにするだけだね。"
+                                "\\n<Rui>We've secured lodging, and things have gone smoother than I\nthought. Now we just need to make sure we're not found by\nour parents."
                             ]
                         },
                         {
@@ -4065,21 +4058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>私の作戦が完璧だったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふふん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は全部上手くいくって、最初から分かってたもんね。"
+                                "\\n<Rui>My strategy was perfect. Hehe♥ I knew from the start that\neverything would go well."
                             ]
                         },
                         {
@@ -4122,21 +4101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>お宿も取れて良かったね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後は父上に見つからないことだけだね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここまで上手くいくと思わなかった！"
+                                "\\n<Ones>I'm glad we got the lodging♥ Now we just have to make sure\nwe're not found by our father. I didn't expect things to go\nthis smoothly!"
                             ]
                         },
                         {
@@ -4169,14 +4134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>まぁ、ボクの考えた作戦が完璧だったからね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクは最初から上手くいくって全部分かってたけど。"
+                                "\\n<Rui>Well, it's because the strategy I came up with was perfect.\nI knew from the beginning that it would all work out."
                             ]
                         },
                         {
@@ -4228,14 +4186,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>作戦考えたのボクじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでそんなに得意げなのさ。"
+                                "\\n<Rui>It was me who thought of the strategy. Why are you acting so\nsmug about it?"
                             ]
                         },
                         {
@@ -4268,21 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>違うもん。私が考えたし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "セクハラおじさんやっつけたのも私。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "弟の癖に偉そうにするな！"
+                                "\\n<Rui>No way, I'm the one who thought of it. And I'm the one who\ntook down that perverted old man. Don't get so high and\nmighty just because you're my younger sibling!"
                             ]
                         },
                         {
@@ -4334,14 +4271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>弟じゃないって言ってるだろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクが先に生まれたんだから兄だって！"
+                                "\\n<Rui>I keep telling you, I'm not the younger sibling! Since I was\nborn first, that makes me the older one!"
                             ]
                         },
                         {
@@ -4381,21 +4311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>先に生まれた方が弟になるんだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういうルールがあるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私がお姉ちゃんなの！"
+                                "\\n<Rui>The one born first becomes the younger sibling! That's the\nrule! I'm the older sister!"
                             ]
                         },
                         {
@@ -4435,14 +4351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>普通に考えたら先に生まれた方が兄だろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変なローカルルールで弟にされたくないね！"
+                                "\\n<Rui>Normally, the one born first would be the older sibling! I\ndon't want to be made the younger one because of some weird\nlocal rule!"
                             ]
                         },
                         {
@@ -4485,21 +4394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>え？作戦考えたのって私だよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでそんなに偉そうなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "弟の癖に。"
+                                "\\n<Ones>Huh? But I'm the one who thought of the strategy, right? Why\nare you acting so high and mighty? You're just the younger\nsibling."
                             ]
                         },
                         {
@@ -4551,14 +4446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>弟じゃないって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクが先に生まれたんだから兄だって！"
+                                "\\n<Rui>I'm not the younger sibling! Since I was born first, that\nmakes me the older one!"
                             ]
                         },
                         {
@@ -4598,21 +4486,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>先に生まれた方が弟になるんだって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういうルールがあるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私がお姉ちゃんなの！"
+                                "\\n<Ones>The one born first becomes the younger sibling! That's the\nrule! I'm the older sister!"
                             ]
                         },
                         {
@@ -4652,14 +4526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>普通に考えたら先に生まれた方が兄だろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変なローカルルールで弟にされたくないね！"
+                                "\\n<Rui>Normally, the one born first would be the older sibling! I\ndon't want to be made the younger one because of some weird\nlocal rule!"
                             ]
                         },
                         {
@@ -4876,21 +4743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>よし、この際はっきりさせよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どっちが上か。決闘だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私が勝ったらルイは弟♥"
+                                "\\n<Rui>Alright, let's settle this once and for all. Who's on top.\nIt's a duel. If I win, Rui is the younger sibling♥"
                             ]
                         },
                         {
@@ -4923,14 +4776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>ボクが勝ったらそっちが妹。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうだね。早く決めておくべきだった。"
+                                "\\n<Rui>If I win, then you're the younger sister. Right. We should\nhave decided this sooner."
                             ]
                         },
                         {
@@ -4963,14 +4809,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ああ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "武器は「剣」なの？"
+                                "\\n<Rui>Ah... Is the weapon a 'sword'?"
                             ]
                         },
                         {
@@ -5157,14 +4996,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>当然！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「猫借手」だッ！"
+                                "\\n<Rui>Of course! It's 'Cat Borrowing'!"
                             ]
                         },
                         {
@@ -5204,14 +5036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>祖先から受け継ぐ「猫借手」ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが流儀ィィッ！！"
+                                "\\n<Rui>The 'Cat Borrowing' passed down from our ancestors! That's\nour style!!"
                             ]
                         },
                         {
@@ -5254,21 +5079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>よし、この際はっきりさせよう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どっちが上か。決闘だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクが勝ったらワンズは妹。"
+                                "\\n<Rui>Alright, let's settle this once and for all. Who's on top.\nIt's a duel. If I win, Ones is the younger sister."
                             ]
                         },
                         {
@@ -5301,14 +5112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>私が勝ったらそっちが弟。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうだね。早く決めておくべきだった。"
+                                "\\n<Ones>If I win, then you're the younger sibling. Right. We should\nhave decided this sooner."
                             ]
                         },
                         {
@@ -5341,14 +5145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ああ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "武器は「剣」なのか？"
+                                "\\n<Rui>Ah... Is the weapon a 'sword'?"
                             ]
                         },
                         {
@@ -5528,14 +5325,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>当然！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「猫借手」だッ！"
+                                "\\n<Ones>Of course! It's 'Cat Borrowing'!"
                             ]
                         },
                         {
@@ -5568,14 +5358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>祖先から受け継ぐ「猫借手」ッ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが流儀ィィッ！！"
+                                "\\n<Rui>The 'Cat Borrowing' passed down from our ancestors! That's\nour style!!"
                             ]
                         },
                         {
@@ -5934,14 +5717,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>これで決まるなら、とっくに決まってるよねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう何回も戦ってるし。毎回引き分けだし。"
+                                "\\n<Rui>If this were to settle it, it would have been decided long\nago. We've fought so many times already. And it's always a\ndraw."
                             ]
                         },
                         {
@@ -5974,21 +5750,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>じゃあさ、ギルドのランクで決めるってのはどう？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "依頼をこなした数とか、難易度とか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者としてより優れてる方が上。"
+                                "\\n<Rui>So how about we decide based on guild rank? Whoever has\ncompleted more quests or higher difficulty ones, whoever is\nsuperior as an adventurer, will be on top."
                             ]
                         },
                         {
@@ -6031,21 +5793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>あー楽しかった♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "また引き分けだね。いっつもそう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもこれじゃ、いつまでも決まらないまま！"
+                                "\\n<Ones>Ah- that was fun♥ Another draw, huh. It's always like this.\nBut this way, it'll never be settled!"
                             ]
                         },
                         {
@@ -6078,21 +5826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>そうだ！ギルドのランクで決めようよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者ランクが高い方が勝ち！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "手分けして仕事した方が情報も集まるし。"
+                                "\\n<Ones>That's right! Let's decide by guild rank. Whoever has a\nhigher adventurer rank wins! If we split up and do jobs,\nwe'll also gather more information."
                             ]
                         },
                         {
@@ -6147,21 +5881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>それいいね！競争だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃ、明日から頑張らないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう寝よう。おやすみ、ルイ。"
+                                "\\n<Rui>That's a good idea! It's a competition then! We'll have to\nwork hard from tomorrow on. Let's go to sleep now. Good\nnight, Rui."
                             ]
                         },
                         {
@@ -6178,14 +5898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おやすみ、Rui。"
+                                "\\n<Rui>Yeah. Good night, Rui."
                             ]
                         },
                         {
@@ -6212,21 +5925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>それいいね！そうしよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃ、明日から頑張らないとね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう寝よう。おやすみ、ワンズ。"
+                                "\\n<Rui>That's a good idea! Let's do that! We'll have to work hard\nfrom tomorrow on. Let's go to sleep now. Good night, Ones."
                             ]
                         },
                         {
@@ -6243,14 +5942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>うん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おやすみ、Rui。"
+                                "\\n<Ones>Yeah. Good night, Rui."
                             ]
                         },
                         {
@@ -6615,14 +6307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>なんだかんだここでの生活も慣れてきたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最初はやっぱりちょっと不安だったけど。"
+                                "\\n<Rui>Somehow, we've gotten used to living here, haven't we? At\nfirst, I was definitely a bit anxious."
                             ]
                         },
                         {
@@ -6665,21 +6350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>Rui、もうここに来てから結構経つね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最初はなんか嫌な町だと思ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "慣れたら慣れるもんだねー。"
+                                "\\n<Ones>Rui, it's been quite a while since we came here. At first, I\nthought it was a rather unpleasant town, but you get used to\nit if you live long enough."
                             ]
                         },
                         {
@@ -6722,21 +6393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>家から誰か来て見つかっちゃったりとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "するかと思ったけど、大丈夫そうだね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良かった良かった♥"
+                                "\\n<Rui>I was worried someone from home might come and find us, but\nit seems we're safe! That's a relief♥"
                             ]
                         },
                         {
@@ -6770,14 +6427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>家から追っ手が来るかもって思ってたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫そうだね。"
+                                "\\n<Rui>I thought maybe pursuers from home would come after us, but\nit looks like we're okay."
                             ]
                         },
                         {
@@ -7211,7 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>げぇ！じいや！？"
+                                "\\n<Rui>Geez! Grandpa!?"
                             ]
                         },
                         {
@@ -7244,14 +6894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ふぅ・・・ようやく見つけましたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お坊ちゃま。お嬢様。"
+                                "\\n<Old Man>Phew... I've finally found you. Young master. Young lady."
                             ]
                         },
                         {
@@ -7342,7 +6985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -7412,21 +7055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ってことなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じいや、分かってくれた？"
+                                "\\n<Rui>...that's the situation. Grandpa, do you understand?"
                             ]
                         },
                         {
@@ -7469,21 +7098,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ってことなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ごめんねじいや。分かってくれた？"
+                                "\\n<Ones>...that's how it is. I'm sorry, Grandpa. Do you understand?"
                             ]
                         },
                         {
@@ -7538,21 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ふむ。まぁ、おおよそ予想通りですな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お坊ちゃまとお嬢様の気持ちもよく分かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すぐに連れ戻すつもりはありません。ご安心を。"
+                                "\\n<Old Man>Hmm. Well, it's mostly as I expected. I understand the\nfeelings of both the young master and the young lady. I have\nno intention of taking you back immediately. Please be at\nease."
                             ]
                         },
                         {
@@ -7569,21 +7170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>少し、お話しましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャットフィールド家の歴史を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、チェルシー嬢が家を追い出された本当の理由を。"
+                                "\\n<Old Man>Let's have a little talk about the history of the Catfield\nfamily. And the real reason why Miss Chelsea was expelled\nfrom the house."
                             ]
                         },
                         {
@@ -7616,21 +7203,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>その昔、『人間』と『獣人』は明確に区別されておりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間が獣人を奴隷として扱っていた時代のこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "授業で教えたので、知っていますね。"
+                                "\\n<Old Man>In the old days, \"humans\" and \"beastmen\" were clearly\ndistinguished. It was a time when humans treated beastmen as\nslaves. You know this from your lessons."
                             ]
                         },
                         {
@@ -7647,21 +7220,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>人間と比べて獣人は身体能力が優れている場合が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに、何故奴隷として扱われていたのか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その理由は単純。人間は数が多くまとまっていたからです。"
+                                "\\n<Old Man>Compared to humans, beastmen often have superior physical\nabilities. Yet, why were they treated as slaves... The\nreason is simple. Humans were numerous and united."
                             ]
                         },
                         {
@@ -7678,21 +7237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>一方、獣人は先祖に様々なルーツを持っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫、犬、たぬき、うさぎ、狐、その他もろもろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まとまりが無くて当然ですね。"
+                                "\\n<Old Man>On the other hand, beastmen have various roots in their\nancestry. Cats, dogs, raccoons, rabbits, foxes, and so on...\nIt's natural that they weren't united."
                             ]
                         },
                         {
@@ -7709,21 +7254,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>多数派である人間は獣人を差別し、蔑み、使役した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう時代がありました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、今ではそうではありません。"
+                                "\\n<Old Man>The majority of humans discriminated against beastmen,\nscorned them, and made them serve. There was such an era.\nBut now, that is no longer the case."
                             ]
                         },
                         {
@@ -7740,21 +7271,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>初代キャットフィールド家の当主が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バラバラの獣人たちをまとめ、一致団結したのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫も犬も関係なく、獣人の権利を求めて立ち上がりました。"
+                                "\\n<Old Man>The first head of the Catfield family united the scattered\nbeastmen and stood up for the rights of beastmen together.\nRegardless of being cats or dogs, they rose up to demand\ntheir rights."
                             ]
                         },
                         {
@@ -7771,14 +7288,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>それから長い年月を掛けて、人間と獣人は和解したのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間と獣人は対等であり、良き友であると。"
+                                "\\n<Old Man>After many years, humans and beastmen reconciled. They are\nequal and good friends."
                             ]
                         },
                         {
@@ -7795,21 +7305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>今では獣人も人間として扱われます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが当たり前の時代に生まれたおふたりには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり実感がないかもしれませんが。"
+                                "\\n<Old Man>Now beastmen are treated as humans too. You two may not feel\nit much since you were born in an era where this is normal."
                             ]
                         },
                         {
@@ -7849,21 +7345,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>しかし、ここからが問題となってきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人差別がなくなった後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今現在、起きている出来事のお話です。"
+                                "\\n<Old Man>However, this is where the problem starts. After the\ndiscrimination against beastmen disappeared. Now, let me\ntell you about what is happening at present."
                             ]
                         },
                         {
@@ -7880,21 +7362,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>差別が無くなったらどうなるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マイナスがゼロになったら終わりではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その勢いのまま、ゼロからプラスに動こうとします。"
+                                "\\n<Old Man>What happens when discrimination disappears? When a negative\nbecomes zero, it doesn't end there. With that momentum, it\nmoves from zero to positive."
                             ]
                         },
                         {
@@ -7911,21 +7379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>\\C[14]『獣人は特別である』\\C[0]ということ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで虐げられていた分、これからは優遇されて然るべき。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう思想に移り変わったのです。"
+                                "\\C[14]\\n<Old Man>\"Beastmen are special.\"\\C[0] That's the idea. They should be\nfavored now for all the oppression they've suffered before.\nThat's how the ideology shifted."
                             ]
                         },
                         {
@@ -7942,21 +7396,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>現当主様・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方のお父上はいわゆる『獣人至上主義』。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人こそ、人間より優れているという思想になってしまった。"
+                                "\\n<Old Man>The current head of the family... your father has become\nwhat is called \"beastmen supremacy.\" The belief that\nbeastmen are superior to humans."
                             ]
                         },
                         {
@@ -7973,21 +7413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>チェルシー嬢は昔から誰にでも平等なお方でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間だろうと獣人だろうと関係なく、平等にぶん殴っておられました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平等に喧嘩して、平等に仲直りする。"
+                                "\\n<Old Man>Miss Chelsea has always been fair to everyone. Whether human\nor beastman, she treated everyone equally and fought with\nthem fairly. She fought equally and made up equally."
                             ]
                         },
                         {
@@ -8004,21 +7430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>そして、気が付くとチェルシー嬢の周りには沢山の笑顔がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう不思議な魅力のあるお方でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間か獣人かなんて、全く気にしていない。"
+                                "\\n<Old Man>And before you knew it, there were many smiles around Miss\nChelsea. She had a mysterious charm that way. She didn't\ncare whether someone was human or beastman at all."
                             ]
                         },
                         {
@@ -8035,21 +7447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>それが当主様には許せなかったのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『人間と対等であること』、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが『キャットフィールド家の恥』だと。"
+                                "\\n<Old Man>The head of the family could not tolerate this. \"Being equal\nto humans,\" that was considered \"the shame of the Catfield\nfamily.\""
                             ]
                         },
                         {
@@ -8091,7 +7489,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>どうしてじいやは、それをボクたちに話してくれたの？"
+                                "\\n<Rui>Why did you tell us this now, Grandpa?"
                             ]
                         },
                         {
@@ -8134,7 +7532,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>なんでじいやは、今になってそれを教えてくれたの？"
+                                "\\n<Ones>Why are you telling us this now, Grandpa?"
                             ]
                         },
                         {
@@ -8168,14 +7566,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>私は、代々キャットフィールド家に仕えてきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、現当主様のお考えは正しいとは思えません。"
+                                "\\n<Old Man>I have served the Catfield family for generations. However,\nI do not believe that the current head's views are correct."
                             ]
                         },
                         {
@@ -8192,14 +7583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>あの家で獣人に囲まれて何不自由なく過ごせば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとおふたりも当主様と同じ思想になるでしょう。"
+                                "\\n<Old Man>If you two lived surrounded by beastmen in that house\nwithout any inconvenience, surely you would come to share\nthe same ideology as the head of the family."
                             ]
                         },
                         {
@@ -8216,21 +7600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>これも良い機会です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま、少し社会勉強を続けても良いのではと思いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのかわり、私も滞在しますよ。"
+                                "\\n<Old Man>This is also a good opportunity. I thought it might be good\nfor you to continue your social studies for a while longer.\nIn exchange, I will also stay here."
                             ]
                         },
                         {
@@ -8297,21 +7667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あの・・・じいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花瓶、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当は、わざと壊してしまいました。"
+                                "\\n<Rui>Um... Grandpa. About the vase, I'm sorry. The truth is, I\nbroke it on purpose."
                             ]
                         },
                         {
@@ -8354,21 +7710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>あ、あのね。じいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花瓶を壊してしまって、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当は、わざとなの。"
+                                "\\n<Ones>Uh, um... Grandpa. I'm sorry about breaking the vase. The\ntruth is, it was on purpose."
                             ]
                         },
                         {
@@ -8418,14 +7760,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>気にしないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのおかげで気付いたんです。"
+                                "\\n<Old Man>Please don't worry about it. Thanks to that, I realized\nsomething."
                             ]
                         },
                         {
@@ -8442,21 +7777,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>花瓶より花の方が大事で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花より花を見る人の方がもっと大事だと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おふたりが無事なら私はそれで良いんです。"
+                                "\\n<Old Man>The vase is less important than the flowers, and the people\nwho see the flowers are even more important than that. As\nlong as you two are safe, that's all that matters to me."
                             ]
                         },
                         {
@@ -8473,21 +7794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ともあれ、無茶はしないように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも危険と判断した場合は即刻連れて帰りますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりましたね？"
+                                "\\n<Old Man>Anyway, don't do anything reckless. If I judge something to\nbe too dangerous, I will take you back immediately.\nUnderstood?"
                             ]
                         },
                         {
@@ -8557,14 +7864,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>じいや！そういえば宿は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "取って無いなら、ボクらの部屋に泊まればいいよ！"
+                                "\\n<Rui>Grandpa! Speaking of which, what about your lodging? If you\nhaven't booked a place, you can stay in our room!"
                             ]
                         },
                         {
@@ -8607,14 +7907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>じいや！そういえば宿は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "取って無いなら、ここに泊まれば？"
+                                "\\n<Ones>Grandpa! Speaking of which, what about your lodging? If you\nhaven't booked one, why not stay here?"
                             ]
                         },
                         {
@@ -8648,21 +7941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>いえ、私は上の貴族街に宿を取っているので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にこの小汚い宿のカビ臭いベッドでは眠れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、また様子を見に来ます。"
+                                "\\n<Old Man>No, I have booked a room in the upper noble district. I\ncertainly cannot sleep in this dingy inn's moldy bed. I will\ncome again to check on you later."
                             ]
                         },
                         {
@@ -8704,7 +7983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>・・・"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -8747,7 +8026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>・・・"
+                                "\\n<Ones>..."
                             ]
                         },
                         {
@@ -9019,14 +8298,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>なんだかんだここでの生活も慣れてきたよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最初はやっぱりちょっと不安だったけど。"
+                                "\\n<Rui>Somehow, I've gotten used to living here. At first, I was\ndefinitely a bit anxious though."
                             ]
                         },
                         {
@@ -9069,21 +8341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>Rui、もうここに来てから結構経つね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "最初はなんか嫌な町だと思ってたけど、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "慣れたら慣れるもんだねー。"
+                                "\\n<Ones>Rui, we've been here for quite a while now. At first, I\nthought it was a rather unpleasant town, but you get used to\nit after a while, huh-."
                             ]
                         },
                         {
@@ -9126,21 +8384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>家から誰か来て見つかっちゃったりとか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "するかと思ったけど、大丈夫そうだね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良かった良かった♥"
+                                "\\n<Rui>I was worried someone from home might come and find us, but\nit seems like we're safe! That's a relief♥"
                             ]
                         },
                         {
@@ -9174,14 +8418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>家から追っ手が来るかもって思ってたけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫そうだね。"
+                                "\\n<Rui>I thought maybe pursuers from home would come, but it looks\nlike we're okay."
                             ]
                         },
                         {
@@ -9615,7 +8852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>げぇ！じいや！？"
+                                "\\n<Rui>Geez! Grandpa!?"
                             ]
                         },
                         {
@@ -9648,14 +8885,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ふぅ・・・ようやく見つけましたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お坊ちゃま。お嬢様。"
+                                "\\n<Old Man>Phew... I've finally found you. Young master. Young lady."
                             ]
                         },
                         {
@@ -9746,7 +8976,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・"
+                                "..."
                             ]
                         },
                         {
@@ -9816,21 +9046,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ってことなんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じいや、分かってくれた？"
+                                "\\n<Rui>...that's the situation. Grandpa, do you understand?"
                             ]
                         },
                         {
@@ -9873,21 +9089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ってことなの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ごめんねじいや。分かってくれた？"
+                                "\\n<Ones>...that's what happened. I'm sorry, Grandpa. Do you\nunderstand?"
                             ]
                         },
                         {
@@ -9942,21 +9144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ふむ。まぁ、おおよそ予想通りですな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お坊ちゃまとお嬢様の気持ちもよく分かります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今すぐに連れ戻すつもりはありません。ご安心を。"
+                                "\\n<Old Man>Hmm. Well, it's mostly as I expected. I understand the\nfeelings of both the young master and the young lady. I have\nno intention of taking you back immediately. Please be at\nease."
                             ]
                         },
                         {
@@ -9973,21 +9161,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>少し、お話しましょうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キャットフィールド家の歴史を。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そして、チェルシー嬢が家を追い出された本当の理由を。"
+                                "\\n<Old Man>Let's have a little talk about the history of the Catfield\nfamily. And the real reason why Miss Chelsea was expelled\nfrom the house."
                             ]
                         },
                         {
@@ -10020,21 +9194,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>その昔、『人間』と『獣人』は明確に区別されておりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間が獣人を奴隷として扱っていた時代のこと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "授業で教えたので、知っていますね。"
+                                "\\n<Old Man>Long ago, \"humans\" and \"beastmen\" were clearly\ndistinguished. It was a time when humans treated beastmen as\nslaves. You know this because I taught it in class."
                             ]
                         },
                         {
@@ -10051,21 +9211,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>人間と比べて獣人は身体能力が優れている場合が多い。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それなのに、何故奴隷として扱われていたのか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その理由は単純。人間は数が多くまとまっていたからです。"
+                                "\\n<Old Man>Compared to humans, beastmen often have superior physical\nabilities. Yet, why were they treated as slaves... The\nreason is simple. Humans were numerous and united."
                             ]
                         },
                         {
@@ -10082,21 +9228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>一方、獣人は先祖に様々なルーツを持っています。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫、犬、たぬき、うさぎ、狐、その他もろもろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まとまりが無くて当然ですね。"
+                                "\\n<Old Man>On the other hand, beastmen have various roots in their\nancestry. Cats, dogs, raccoons, rabbits, foxes, and so on...\nIt's natural that they weren't united."
                             ]
                         },
                         {
@@ -10113,21 +9245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>多数派である人間は獣人を差別し、蔑み、使役した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう時代がありました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、今ではそうではありません。"
+                                "\\n<Old Man>The majority, being humans, discriminated against beastmen,\nscorned them, and made them serve. There was such an era.\nBut now, that is no longer the case."
                             ]
                         },
                         {
@@ -10144,21 +9262,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>初代キャットフィールド家の当主が"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "バラバラの獣人たちをまとめ、一致団結したのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "猫も犬も関係なく、獣人の権利を求めて立ち上がりました。"
+                                "\\n<Old Man>The first head of the Catfield family united the scattered\nbeastmen and stood up for the rights of beastmen together.\nRegardless of being cats or dogs, they rose up to demand\nrights for beastmen."
                             ]
                         },
                         {
@@ -10175,14 +9279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>それから長い年月を掛けて、人間と獣人は和解したのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間と獣人は対等であり、良き友であると。"
+                                "\\n<Old Man>After many years, humans and beastmen reconciled. They are\nequal and good friends to each other."
                             ]
                         },
                         {
@@ -10199,21 +9296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>今では獣人も人間として扱われます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが当たり前の時代に生まれたおふたりには"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり実感がないかもしれませんが。"
+                                "\\n<Old Man>Now beastmen are treated as humans too. You two may not feel\nit much since you were born in an era where this is normal."
                             ]
                         },
                         {
@@ -10253,21 +9336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>しかし、ここからが問題となってきます。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人差別がなくなった後。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今現在、起きている出来事のお話です。"
+                                "\\n<Old Man>However, this is where the problem starts. After the\ndiscrimination against beastmen disappeared. Now, let me\ntell you about what is happening at present."
                             ]
                         },
                         {
@@ -10284,21 +9353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>差別が無くなったらどうなるか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マイナスがゼロになったら終わりではありません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その勢いのまま、ゼロからプラスに動こうとします。"
+                                "\\n<Old Man>What happens when discrimination disappears? When a negative\nbecomes zero, it doesn't end there. With that momentum, it\ntries to move from zero to positive."
                             ]
                         },
                         {
@@ -10315,21 +9370,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>\\C[14]『獣人は特別である』\\C[0]ということ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで虐げられていた分、これからは優遇されて然るべき。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう思想に移り変わったのです。"
+                                "\\C[14]\\n<Old Man>The idea that \"beastmen are special\"\\C[0]. After being\noppressed for so long, they should be favored now. That's\nhow the ideology shifted."
                             ]
                         },
                         {
@@ -10346,21 +9387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>現当主様・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あなた方のお父上はいわゆる『獣人至上主義』。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "獣人こそ、人間より優れているという思想になってしまった。"
+                                "\\n<Old Man>The current head of the family... your father has become\nwhat is called a \"beastman supremacist\". He believes that\nbeastmen are superior to humans."
                             ]
                         },
                         {
@@ -10377,21 +9404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>チェルシー嬢は、昔から誰にでも平等なお方でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間だろうと獣人だろうと関係なく、平等にぶん殴っておられました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "平等に喧嘩して、平等に仲直りする。"
+                                "\\n<Old Man>Miss Chelsea has always been fair to everyone. Whether human\nor beastman, she treated everyone equally and fought with\nthem fairly. She fought equally and made up equally."
                             ]
                         },
                         {
@@ -10408,21 +9421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>そして、気が付くとチェルシー嬢の周りには沢山の笑顔がある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そういう不思議な魅力のあるお方でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人間か獣人かなんて、全く気にしていない。"
+                                "\\n<Old Man>And before you knew it, there were many smiles around Miss\nChelsea. She had a mysterious charm about her. She didn't\ncare whether someone was human or beastman at all."
                             ]
                         },
                         {
@@ -10439,21 +9438,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>それが当主様には許せなかったのです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "『人間と対等であること』、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが『キャットフィールド家の恥』だと。"
+                                "\\n<Old Man>The head of the family couldn't tolerate that. The idea of\nbeing \"equal to humans\" was a \"disgrace to the Catfield\nfamily\"."
                             ]
                         },
                         {
@@ -10495,7 +9480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>どうしてじいやは、それをボクたちに話してくれたの？"
+                                "\\n<Rui>Why did you tell us this now, Grandpa?"
                             ]
                         },
                         {
@@ -10538,7 +9523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>なんでじいやは、今になってそれを教えてくれたの？"
+                                "\\n<Ones>Why are you telling us this now, Grandpa?"
                             ]
                         },
                         {
@@ -10572,14 +9557,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>私は、代々キャットフィールド家に仕えてきました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、現当主様のお考えは正しいとは思えません。"
+                                "\\n<Old Man>I have served the Catfield family for generations. However,\nI do not believe that the current head's views are correct."
                             ]
                         },
                         {
@@ -10596,14 +9574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>あの家で獣人に囲まれて何不自由なく過ごせば、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "きっとおふたりも当主様と同じ思想になるでしょう。"
+                                "\\n<Old Man>If you two lived surrounded by beastmen in that house\nwithout any inconvenience, surely you would come to share\nthe same ideology as the head of the family."
                             ]
                         },
                         {
@@ -10620,21 +9591,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>これも良い機会です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "このまま、少し社会勉強を続けても良いのではと思いました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのかわり、私も滞在しますよ。"
+                                "\\n<Old Man>This is also a good opportunity. I thought it might be good\nfor you to continue your social studies as they are. In\nexchange, I will also stay here."
                             ]
                         },
                         {
@@ -10701,21 +9658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>あの・・・じいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花瓶、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当は、わざと壊してしまいました。"
+                                "\\n<Rui>Um... Grandpa. About the vase, I'm sorry. The truth is, I\nbroke it on purpose."
                             ]
                         },
                         {
@@ -10758,21 +9701,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>あ、あのね。じいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "花瓶を壊してしまって、ごめんなさい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当は、わざとなの。"
+                                "\\n<Ones>Uh, umm... Grandpa. I'm sorry about breaking the vase. The\ntruth is, it was on purpose."
                             ]
                         },
                         {
@@ -10822,14 +9751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>気にしないでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あのおかげで気付いたんです。"
+                                "\\n<Old Man>Please don't worry about it. Thanks to that, I realized\nsomething."
                             ]
                         },
                         {
@@ -10846,21 +9768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>花瓶より花の方が大事で、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "花より花を見る人の方がもっと大事だと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おふたりが無事なら私はそれで良いんです。"
+                                "\\n<Old Man>The vase is less important than the flowers, and the people\nwho see the flowers are even more important than that. As\nlong as you two are safe, that's all that matters to me."
                             ]
                         },
                         {
@@ -10877,21 +9785,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ともあれ、無茶はしないように。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまりにも危険と判断した場合は即刻連れて帰りますから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "分かりましたね？"
+                                "\\n<Old Man>Anyway, don't do anything reckless. If I judge something to\nbe too dangerous, I will take you back immediately.\nUnderstood?"
                             ]
                         },
                         {
@@ -10961,14 +9855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>じいや！そういえば宿は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "取って無いなら、ボクらの部屋に泊まればいいよ！"
+                                "\\n<Rui>Grandpa! Speaking of which, do you have a place to stay? If\nnot, you can stay in our room!"
                             ]
                         },
                         {
@@ -11011,14 +9898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>じいや！そういえば宿は？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "取って無いなら、ここに泊まれば？"
+                                "\\n<Ones>Grandpa! Speaking of which, do you have a place to stay? If\nnot, why not stay here?"
                             ]
                         },
                         {
@@ -11052,21 +9932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>いえ、私は上の貴族街に宿を取っているので。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石にこの小汚い宿のカビ臭いベッドでは眠れません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、また様子を見に来ます。"
+                                "\\n<Old Man>No, I have taken lodgings in the upper noble district. I\ncertainly cannot sleep in the moldy beds of this dingy inn.\nI will come again to check on you later."
                             ]
                         },
                         {
@@ -11108,7 +9974,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ルイ>・・・"
+                                "\\n<Rui>..."
                             ]
                         },
                         {
@@ -11151,7 +10017,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>・・・"
+                                "\\n<Ones>..."
                             ]
                         },
                         {

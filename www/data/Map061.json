@@ -9453,14 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>クソッ！何なんだ急に！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おい！Rui！襲撃だ！魔物を殺せ！！"
+                                "\\n<Dodon>Damn it! What's going on all of a sudden!! Hey! Rui! It's an\nattack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -9486,21 +9479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ドドン>あぁ！？ルイ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見てねぇよ！アイツもどっかで戦ってんじゃねーのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前も町を守れ！"
+                                "\\n<Dodon>Ahh!? Rui!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You too, protect the town!"
                             ]
                         },
                         {
@@ -9527,21 +9506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ドドン>あぁ！？ワンズ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "見てねぇよ！アイツもどっかで戦ってんじゃねーのか！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前も町を守れ！"
+                                "\\n<Dodon>Ahh!? Ones!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You too, protect the town!"
                             ]
                         },
                         {
@@ -9713,21 +9678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫魔>じゅる♥じゅるるる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう死んじゃうの？はやいよー。つまんなーい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "回復魔法かけちゃおっかなー。"
+                                "\\n<Succubus>\"Slurp♥ Slurrrrp♥ Are you going to die already? That's too\nquick-. Boring♥ Maybe I should cast a healing spell-.\""
                             ]
                         },
                         {
@@ -9804,21 +9755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫魔>じゅる♥じゅるるる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こいつめっちゃおいしーじゃん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早漏のくせに♥"
+                                "\\n<Succubus>\"Slurp♥ Slurrrrp♥ This one's so tasty♥ Even though you're\nquick to cum♥\""
                             ]
                         },
                         {
@@ -10367,21 +10304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>汚い町ね。ふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうところ、嫌いじゃないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にふさわしくはないけれど。"
+                                "\\n<???>What a filthy town. Hehe♥ I don't dislike places like this,\nthough it's not quite fitting for me."
                             ]
                         },
                         {
@@ -10432,21 +10355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラティエ>テラ様。今日もお美しいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この町とのコントラストで、より輝いて見えます♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まるで女神のよう。"
+                                "\\n<Latier>Lady Terra, you look beautiful as always. The contrast with\nthis town makes you shine even brighter♥ Like a goddess."
                             ]
                         },
                         {
@@ -10550,14 +10459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫魔A>テラ様！テラ様！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでわざわざこんなところに来たんですか？"
+                                "\\n<Succubus A>Lady Terra! Lady Terra! Why would you bother coming to a\nplace like this?"
                             ]
                         },
                         {
@@ -10644,7 +10546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<淫魔B>今日はこの町の人間、みーんな搾り取っちゃっていいの？"
+                                "\\n<Succubus B>Can we drain all the humans in this town dry today?"
                             ]
                         },
                         {
@@ -10686,21 +10588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メグナ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（この淫魔がテラ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "近くにいるだけで息が苦しい・・・こわ！！）"
+                                "\\n<Megna>...(Is this succubus Terra...? Just being near her makes it\nhard to breathe... Scary!!)"
                             ]
                         },
                         {
@@ -10752,14 +10640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>マジでこの町滅ぼす気か？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "箱だけは残してくれよ・・・"
+                                "\\n<Sheika>Are you seriously planning to destroy this town? Just leave\nthe box alone..."
                             ]
                         },
                         {
@@ -10792,14 +10673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（観客さん達も死んじゃうのかなぁ。まぁいいけど。）"
+                                "\\n<Barley>...(I wonder if all the audience members will die too. Well,\nit doesn't matter.)"
                             ]
                         },
                         {
@@ -10849,21 +10723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>感じないかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてつもなく大きな悪意。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はそれを回収しに来たの。"
+                                "\\n<Terra>Don't you feel it? An immense malice. I've come to collect\nit."
                             ]
                         },
                         {
@@ -10896,14 +10756,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>町が滅ぶかどうかなんて関係ないわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうでもいいこと。"
+                                "\\n<Terra>Whether the town is destroyed or not is irrelevant. It's a\ntrivial matter."
                             ]
                         },
                         {
@@ -11163,7 +11016,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -11339,21 +11192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<アニー>Rui！町が大変なんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "戦えるヤツは以外は避難させた！でも居住区にも魔物が・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちくしょう！なんだってんだ急に！！"
+                                "\\n<Annie>Rui! The town's in chaos! We've evacuated everyone who can't\nfight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -11553,7 +11392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -11696,21 +11535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>なんで急に魔物が・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "子供たちは、ここは私が絶対に守るから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiは町を回って！みんなを助けて・・・！"
+                                "\\n<Radro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! Rui, go around the town! Help everyone...!"
                             ]
                         },
                         {
@@ -11743,21 +11568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>でも絶対無茶しないでね・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiに何かあったら・・・私・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "危ないと思ったら逃げて！"
+                                "\\n<Radro>But don't do anything reckless...! If something happens to\nRui... I...! If you think it's dangerous, escape!"
                             ]
                         },
                         {
@@ -11848,14 +11659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>あんたは冒険者だろ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町を頼む。魔物を倒してくれ。"
+                                "\\n<Female>You're an adventurer, right? Please, I'm counting on you to\nprotect the town. Defeat the monsters for us."
                             ]
                         },
                         {
@@ -11872,21 +11676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<女性>ここは任せな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死体になってもドアを塞いでてやるよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに、頼りになる相棒も飢えてるしな！"
+                                "\\n<Female>Leave this place to me. Even if I become a corpse, I'll\nblock the door. Besides, my reliable partner is also\nstarving for action!"
                             ]
                         },
                         {
@@ -11977,7 +11767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<汚れた犬>がるるるるるる・・・！"
+                                "\\n<Dirty Dog>Grrrrrrr...!"
                             ]
                         },
                         {
@@ -12068,21 +11858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>くっ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はこういう突然の襲撃に弱いんですよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "準備に準備を重ねるタイプですから！"
+                                "\\n<Lintei>Ugh...! I'm weak against these sudden attacks! I'm the type\nwho needs to prepare thoroughly!"
                             ]
                         },
                         {
@@ -12099,21 +11875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<リンテイ>でも負けていられません！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "リンクス、クーネス・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私に力を貸してくれ・・・！"
+                                "\\n<Lintei>But I can't afford to lose! Lynx, Cunes... lend me your\nstrength...!"
                             ]
                         },
                         {
@@ -12253,7 +12015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>きゅああああああああう！！"
+                                "\\n<Monster>Kyuaaaaaaah!!"
                             ]
                         },
                         {
@@ -12371,7 +12133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "返事がない。既に事切れているようだ。"
+                                "There's no response. It seems they've already passed away."
                             ]
                         },
                         {
@@ -12793,14 +12555,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラクラ>ちっ！これでもくらえ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "雷槍！"
+                                "\\n<Rakura>Tch! Take this! Lightning Spear!"
                             ]
                         },
                         {
@@ -12852,14 +12607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラクラ>なんで死んでねーんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "化け物が・・・！"
+                                "\\n<Rakura>Why won't you die already! You monster...!"
                             ]
                         },
                         {
@@ -12972,7 +12720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -13097,14 +12845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シーベル>あ、あたしだって戦えるんだから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばかばかばか！あっちいけ！！"
+                                "\\n<Siebel>I can fight too, you know! Idiot, idiot, idiot! Get out of\nhere!!"
                             ]
                         },
                         {
@@ -13208,14 +12949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シーベル>や！やった！ざまーみろ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ざーこざーこ！"
+                                "\\n<Siebel>Ha! I did it! Serves you right! Loser, loser!"
                             ]
                         },
                         {
@@ -13289,7 +13023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シーベル>おかわり！？"
+                                "\\n<Siebel>Seconds!?"
                             ]
                         },
                         {
@@ -13450,7 +13184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>きゅああああああああう！！"
+                                "\\n<Monster>Kyuaaaaaaaaah!!"
                             ]
                         },
                         {
@@ -13575,14 +13309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>だ、ダメだ！ここを通すわけにはいかない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは命令だ！ここを去らないと貴様を斬るぞ！"
+                                "\\n<Soldier>No, you can't pass! I cannot allow you through here! This is\nan order! If you don't leave, I'll have no choice but to cut\nyou down!"
                             ]
                         },
                         {
@@ -13599,14 +13326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵士>（すまない・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私だって・・・本当はこんなこと・・・）"
+                                "\\n<Soldier>(I'm sorry... Even I... truly don't want to do this...)"
                             ]
                         },
                         {
@@ -13697,21 +13417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<狸の獣人>ん、おお！猫の獣人。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺は今こうしてゴミに化けることで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "難を逃れているのさぁ。頭良かろう。"
+                                "\\n<Tanuki Beastman>Hmm, oh! A cat beastperson. I'm currently avoiding danger by\ndisguising myself as trash. Pretty smart, huh?"
                             ]
                         },
                         {
@@ -13728,21 +13434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<狸の獣人>は？化けれてない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "嘘でしょぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あらほんと。まぁええわ。死ぬときゃ死ぬわ。"
+                                "\\n<Tanuki Beastman>Huh? I'm not disguised? You're kidding... Oh, it's true.\nWell, whatever. When it's time to die, I'll die."
                             ]
                         },
                         {
@@ -13888,14 +13580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<じいや>お嬢様！良かった・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よくぞ御無事で・・・！！"
+                                "\\n<Old Man>Young Lady! Thank goodness...! I'm so relieved you're\nsafe...!!"
                             ]
                         },
                         {
@@ -13921,14 +13606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<じいや>何！？お坊ちゃまがいないですって！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな・・・！"
+                                "\\n<Old Man>What!? The young master is missing!? That can't be...!"
                             ]
                         },
                         {
@@ -13955,14 +13633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<じいや>お坊ちゃま！良かった・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よくぞ御無事で・・・！！"
+                                "\\n<Old Man>Young Master! Thank goodness...! I'm so relieved you're\nsafe...!!"
                             ]
                         },
                         {
@@ -13988,14 +13659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<じいや>何！？お嬢様の姿が無い・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな・・・！"
+                                "\\n<Old Man>What!? The young lady is nowhere to be seen...!? That can't\nbe...!"
                             ]
                         },
                         {
@@ -14022,21 +13686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>ひょっとするといち早く"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物の接近に気付いたのかもしれません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だとすると、南の方で戦っている可能性があります。"
+                                "\\n<Old Man>Perhaps they noticed the approach of the monsters early on.\nIf that's the case, they might be fighting to the south."
                             ]
                         },
                         {
@@ -14062,21 +13712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>私は貴族街から飛び降りる時に足を怪我して・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなことなら、ここに宿を取っておけば・・・"
+                                "\\n<Old Man>When I jumped down from the noble district, I injured my\nleg... I'm sorry. If only I had secured a lodging here..."
                             ]
                         },
                         {
@@ -14109,21 +13745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ありがと、じいや。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう安全なところで隠れてて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "後は、私に任せて。"
+                                "\\n<Rui>Thanks, old man. You go hide somewhere safe now! Leave the\nrest to me."
                             ]
                         },
                         {
@@ -14157,21 +13779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ありがとう！じいや！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう安全なところに避難していて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ワンズはボクが見つける・・・！絶対に！"
+                                "\\n<Rui>Thank you! Old man! Now please evacuate to a safe place! I\nwill definitely find Ones...!"
                             ]
                         },
                         {
@@ -14213,14 +13821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>よろしくお願いします。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ですが、無理をなさらぬよう・・・"
+                                "\\n<Old Man>Please take care. But don't push yourself too hard..."
                             ]
                         },
                         {
@@ -14302,14 +13903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>私は怪我人や逃げ遅れた人達を"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "孤児院の方に避難させておきます。"
+                                "\\n<Old Man>I will evacuate the injured and those who have fallen behind\nto the orphanage."
                             ]
                         },
                         {
@@ -14335,21 +13929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<じいや>魔物は南の方から攻めてきています！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お坊ちゃまをお願いします・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、無理はなさらぬよう！回復を・・・！"
+                                "\\n<Old Man>The monsters are attacking from the south! Please take care\nof the young master...! But do not overexert yourself!\nHeal...!"
                             ]
                         },
                         {
@@ -14376,21 +13956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<じいや>魔物は南の方から攻めてきています！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お嬢様をお願いします・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、無理はなさらぬよう！回復を・・・！"
+                                "\\n<Old Man>The monsters are attacking from the south! Please take care\nof the young lady...! But do not overexert yourself!\nHeal...!"
                             ]
                         },
                         {
@@ -17827,21 +17393,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]※この先に進むともうレベリング、買い物が出来ません。\\C[0]"
+                                "\\C[1]※Proceeding Beyond This Point, You Will No Longer Be Able To Level Up Or Shop.\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "準備が整ったと思ったら進んでください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（宿に戻ると雑魚が復活します。）"
+                                "Please proceed when you're ready. (Returning to the inn will\nrespawn the minions.)"
                             ]
                         },
                         {
@@ -17849,8 +17408,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "もう大丈夫",
-                                    "もう少し準備する"
+                                    "I'm all set",
+                                    "I need a little more time to prepare"
                                 ],
                                 1,
                                 0,
@@ -18248,21 +17807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>見てアレ！淫魔の食事よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふふ♥フェラしてるだけなのに男がしぼんでいくわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "初めて見た♥"
+                                "\\n<Bijou>Look at that! A succubus's meal. Fufufu♥ Just from a\nblowjob, the man is withering away. It's my first time\nseeing this♥"
                             ]
                         },
                         {
@@ -18295,21 +17840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>助けないのかって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だって、私には関係ないもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それに今更もう助からないわ。くくく♥"
+                                "\\n<Bijou>Not going to help him? Well, it's none of my business.\nBesides, it's too late to save him now. Kukuku♥"
                             ]
                         },
                         {
@@ -18342,21 +17873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>この町も、もう終わりよね。アハハハ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私は頃合いを見て抜けさせてもらうわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命が惜しいならRuiも逃げた方がいいわよ。"
+                                "\\n<Bijou>This town is finished, isn't it. Ahahaha! I'll make my\nescape when the time is right. If you value your life, Rui,\nyou should run too."
                             ]
                         },
                         {
@@ -18380,21 +17897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "少し酔っぱらっているようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "シラフなら少しは戦力になってくれそうな・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いや、そうでもないか。ほっておこう。"
+                                "They seem a bit drunk. If they were sober, they might be a\nbit of help in a fight... No, maybe not. Let's just leave\nthem be."
                             ]
                         },
                         {
@@ -18492,21 +17995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>次から次へと・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんなんだこのクマァ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつものワーベアより凶暴だぜ！！"
+                                "\\n<Dodon>One after another...! What's with these bears!! They're more\nferocious than the usual War Bears!!"
                             ]
                         },
                         {
@@ -18523,21 +18012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ドドン>はぁ・・・！はぁ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く、くたばりやがれ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダイエットになっちまうだろうがぁ！"
+                                "\\n<Dodon>Haah...! Haah...! Hurry up and drop dead! This is turning\ninto a damn workout!"
                             ]
                         },
                         {
@@ -18677,7 +18152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<魔物>ぐあああああああうう！！！"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {

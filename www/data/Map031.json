@@ -4935,7 +4935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>Rui・・・！"
+                                "\\n<Ones>Rui...!"
                             ]
                         },
                         {
@@ -4966,21 +4966,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ワンズ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良かった・・・！ずっと探してたんだぞ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこに・・・！"
+                                "\\n<Rui>Ones!! I'm so glad...! I've been searching for you\neverywhere! Where...!"
                             ]
                         },
                         {
@@ -5013,21 +4999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>私ね、もうなんか全部どうでも良くなっちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分と、Ruiだけでいい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達だけ幸せならそれでいいの。"
+                                "\\n<Ones>You know, I've come to the point where nothing else matters.\nJust me and Rui is enough! If we're happy, that's all that\nmatters."
                             ]
                         },
                         {
@@ -5060,21 +5032,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何を言ってるんだワンズ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今はそれどころじゃ・・・"
+                                "\\n<Rui>...? What are you talking about, Ones... This isn't the time\nfor..."
                             ]
                         },
                         {
@@ -5107,21 +5065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>分かっちゃったの。Ruiも分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いくら頑張ったって、手の届く範囲でさえ、どうにもならないこと、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この世界には沢山ある。"
+                                "\\n<Ones>I've realized it. Rui understands too. No matter how hard we\ntry, there are so many things in this world that are beyond\nour reach and can't be changed."
                             ]
                         },
                         {
@@ -5154,21 +5098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>人だって魔物だって、この町だって、お家だって、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "自分から壊れようとする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうしようもないから、どうもしない。"
+                                "\\n<Ones>Humans, monsters, this town, even our home, they all seem to\nwant to destroy themselves. There's nothing we can do about\nit, so why bother?"
                             ]
                         },
                         {
@@ -5201,21 +5131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>私はRuiと生きていたいの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "Ruiさえ無事なら後はどうなってもいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "泥で汚れても、悪魔に魂を売っても。"
+                                "\\n<Ones>I just want to live with Rui. As long as Rui is safe, I\ndon't care what happens. Even if I'm covered in mud or sell\nmy soul to a demon."
                             ]
                         },
                         {
@@ -5248,21 +5164,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>もう頑張るのやめよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いっぱい戦ったけど、ダメだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私はお姉ちゃんみたいに優しい子じゃないみたい。"
+                                "\\n<Ones>Let's stop trying so hard. We fought a lot, but it was no\nuse. I guess I'm not as kind as my sister."
                             ]
                         },
                         {
@@ -5304,21 +5206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ワンズ！どうしたんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "急におかしなこと言い出して！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "早く助けに行かないと魔物にみんなが・・・！"
+                                "\\n<Rui>Ones! What's gotten into you?! You're suddenly saying such\nstrange things! We need to hurry and help before the\nmonsters get to everyone...!"
                             ]
                         },
                         {
@@ -5352,14 +5240,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そうだね。ボクだってもう正直分からなくなってる。"
+                                "\\n<Rui>...That's true. To be honest, I'm starting to lose track of\nthings too."
                             ]
                         },
                         {
@@ -5383,14 +5264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>だけどワンズ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ボクはもう少しだけ足掻いてみるよ。"
+                                "\\n<Rui>But Ones. I'm going to struggle a little bit longer."
                             ]
                         },
                         {
@@ -5474,21 +5348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>やっぱり説得は無理だと思った。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui、私より頭良いもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "頭良いから、まだ考えたいんだよね。"
+                                "\\n<Ones>I knew it would be impossible to persuade you. Rui, you're\nsmarter than me. Because you're smart, you still want to\nthink things through, right?"
                             ]
                         },
                         {
@@ -5531,21 +5391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ワンズ>分かった。でも無理だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ruiはもうこっち側だって。私知ってる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "足掻くって、悪が抜けてる♥"
+                                "\\n<Ones>Alright. But it's useless. You're already on this side with\nme. I know it♥ Struggling is just a sign that the evil\nhasn't left you♥"
                             ]
                         },
                         {
@@ -5692,21 +5538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ぐ・・・これは淫魔の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ワンズ・・・どうしたんだ・・・？"
+                                "\\n<Rui>Gah... This is the succubus's... Hah... Hah...♥ Ones... What\nhappened...?"
                             ]
                         },
                         {
@@ -5740,21 +5572,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ワンズ・・・これは淫魔の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
+                                "\\n<Rui>Ugh...♥ Ones... This is the succubus's... Hah... Hah...♥"
                             ]
                         },
                         {
@@ -5797,14 +5615,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>んふ♥やっぱりこれ利くんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おもしろ♥"
+                                "\\n<Ones>Nfu♥ So this really works. Interesting♥"
                             ]
                         },
                         {
@@ -5837,21 +5648,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>教えてもらったの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "色々、いっぱい♥くすくす♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "男の子をダメにする方法♥"
+                                "\\n<Ones>I learned about it. All sorts of things♥ Giggle♥ Ways to\nruin boys♥"
                             ]
                         },
                         {
@@ -5882,14 +5679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>お前・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物に・・・何かされたのか・・・！？"
+                                "\\n<Rui>You... What did the monsters do to you...!?"
                             ]
                         },
                         {
@@ -5929,21 +5719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>淫魔の魔法使ってみたけどこれ、やばいね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私もうずうずしてきちゃった♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはは♥"
+                                "\\n<Ones>I tried using the succubus's magic, and wow, it's dangerous♥\nI'm starting to get antsy♥ Ahaha♥"
                             ]
                         },
                         {
@@ -5974,14 +5750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>ワンズ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "絶対お前を正気に戻してやるからな・・・！"
+                                "\\n<Rui>Ones... I swear I'll bring you back to your senses...!"
                             ]
                         },
                         {
@@ -6021,14 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズ>決める時が来たね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちが弟か、妹か♥"
+                                "\\n<Ones>The time has come to decide♥ Who will be the brother, and\nwho will be the sister♥"
                             ]
                         },
                         {
@@ -6290,7 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>Rui・・・！"
+                                "\\n<Wadsworth>Rui...！"
                             ]
                         },
                         {
@@ -6321,14 +6083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>んにゃっ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わ、たしぃ！？"
+                                "\\n<Rui>Nya!? Wh-what the...!?"
                             ]
                         },
                         {
@@ -6370,21 +6125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>私、私のコト初めて見たぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "鏡だと右と左とが違うもんね！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わぁ・・・なんていうか・・・ルイシャムみたい♥"
+                                "\\n<Wadsworth>I... I'm seeing myself for the first time! Mirrors reverse\nleft and right, don't they! Wow... it's like... looking at\nRui-sham♥"
                             ]
                         },
                         {
@@ -6417,21 +6158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>そりゃ双子だもんそうでしょうよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ？いやいや！これは一体全体？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幻覚魔法？"
+                                "\\n<Rui>Well, we are twins, aren't we? Huh? No, no! What in the\nworld is this? An illusion spell?"
                             ]
                         },
                         {
@@ -6473,14 +6200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>幻覚と言えば幻覚かもね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも幻覚だと思ってたら、大変なことになるよ。"
+                                "\\n<Wadsworth>You could say it's an illusion. But if you think it's just\nan illusion, you're in for a big surprise."
                             ]
                         },
                         {
@@ -6513,14 +6233,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>私、ここに来て色んなコトあったよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんかやたらえっちなことばっかりされた気がするけど。"
+                                "\\n<Wadsworth>I've had a lot of things happen to me since I got here. It\nfeels like I've been put through a lot of lewd stuff."
                             ]
                         },
                         {
@@ -6553,21 +6266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>どうだった？そーゆーの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通に戦えば楽勝なのに、むずむずさせられて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "上手く戦えなかったね♥くすくす♥"
+                                "\\n<Wadsworth>How was it? That sort of thing. Normally, it would be an\neasy victory, but being teased made it hard to fight\nproperly♥ Teehee♥"
                             ]
                         },
                         {
@@ -6609,21 +6308,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>私はえっちな子だったんだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "恥ずかしい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見てらんないね！"
+                                "\\n<Wadsworth>I guess I was a lewd girl, huh. Embarrassing♥ I can't look!"
                             ]
                         },
                         {
@@ -6713,14 +6398,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>な、なぜ急に私に言葉責めをされにゃぁならんのにゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くそぅ・・・"
+                                "\\n<Rui>Wh-why do I suddenly have to be verbally abused like this.\nDamn it..."
                             ]
                         },
                         {
@@ -6754,21 +6432,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "やめてよぉ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんでそんなこと言うの・・・？"
+                                "\\n<Rui>...stop it... why would you say such things...?"
                             ]
                         },
                         {
@@ -6834,14 +6498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>自分が相手だったらどーだろうね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Wadsworth>What would you do if you were in my shoes? Teehee♥"
                             ]
                         },
                         {
@@ -6978,21 +6635,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>にゃぁ・・・これは淫魔の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃんてことを・・・"
+                                "\\n<Rui>Nya... this is the succubus'... haah... haah...♥ what am I\nsaying..."
                             ]
                         },
                         {
@@ -7026,21 +6669,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うにゃ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "この感じぁ・・・淫魔の・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
+                                "\\n<Rui>Unya...♥ This feeling... it's the succubus'... haah...\nhaah...♥"
                             ]
                         },
                         {
@@ -7092,21 +6721,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>んふ♥自分相手に興奮しちゃってる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもカワイイ♥"
+                                "\\n<Wadsworth>Nfufu♥ Getting turned on by yourself♥ Pervert♥ But cute♥"
                             ]
                         },
                         {
@@ -7139,21 +6754,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>じゃ、このまま戦ってみよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おちんちん固くしたまま♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日は我慢できるかなぁ？にゃはぁん♥"
+                                "\\n<Wadsworth>So, let's fight like this! With your dick all hard♥ Can you\nhold back today? Nyahaan♥"
                             ]
                         },
                         {
@@ -7193,14 +6794,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>幻覚の癖になんかリアリティあるぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひょっとしてルイぃ？女装してるとかじゃないよねぇ？"
+                                "\\n<Rui>Despite being an illusion, it feels so real... Could it be,\nRui? You're not cross-dressing or something, right?"
                             ]
                         },
                         {
@@ -7240,14 +6834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>うーん、我ながらにして飲み込みが遅いにゃぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "幻覚だって言ってるじゃん。敵の淫魔の魔法だよ。"
+                                "\\n<Wadsworth>Hmm, even for me, that's slow on the uptake. I told you,\nit's an illusion. It's the enemy succubus' magic."
                             ]
                         },
                         {
@@ -7287,14 +6874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>とりあえず倒せばいいの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "にゃぁ・・・もうヤダぁ・・・♥"
+                                "\\n<Rui>So I just need to defeat it? Nya... I can't take this\nanymore...♥"
                             ]
                         },
                         {
@@ -7334,21 +6914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ワンズワース>倒してみなよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "その前におちんちん触ってふにゃふにゃにしちゃうけどね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Wadsworth>Try defeating it♥ But before that, I'll touch your dick and\nmake it all soft and floppy♥ Teehee♥"
                             ]
                         },
                         {

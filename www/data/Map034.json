@@ -9700,14 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "質の悪い油は変な臭いがするけどこの油は臭みがない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家のランプもそうだった。"
+                                "Poor quality oil has a strange smell, but this oil has no\nodor. It was the same with the lamp at home."
                             ]
                         },
                         {
@@ -9791,21 +9784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "猫の獣人は夜目が利くから灯りは無くてもいいけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あったらあったでいい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか落ち着く。"
+                                "Beastfolk with cat traits have good night vision, so they\ndon't need light, but having it is still nice. It's somehow\ncalming."
                             ]
                         },
                         {
@@ -10069,21 +10048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>退屈だね。このまま何事もなく"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "突っ立ってるだけでお金貰えるなら良い仕事だけどさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "眠たくなってくるよ。"
+                                "\\n<Adventurer A>It's boring, isn't it? If we can get paid just for standing\naround without anything happening, it's a good job, but it\nmakes me sleepy."
                             ]
                         },
                         {
@@ -10158,21 +10123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>今日は満月じゃないから大丈夫だよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今までだって、全部予告通りだったらしいしさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本番は4、5日後って感じかな。"
+                                "\\n<Adventurer A>\"It's not a full moon today, so we should be fine. Up until\nnow, everything has happened just as predicted. The main\nevent feels like it'll be in 4 or 5 days, huh?\""
                             ]
                         },
                         {
@@ -10256,21 +10207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>チッチッチッチ！バリチッチ！0！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ、自分で指上げちった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あほやな。"
+                                "\\n<Adventurer B>Tsk tsk tsk tsk! Baritstch! 0! Ah, I raised my own finger.\nWhat a fool I am."
                             ]
                         },
                         {
@@ -10345,21 +10282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>同じ人選でいいのかなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私達、前回逃がしちゃったじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あの足の速さ、正直無理よ。"
+                                "\\n<Adventurer B>\"Is it really okay to go with the same team? We let them\nescape last time. Honestly, with that speed, it's\nimpossible.\""
                             ]
                         },
                         {
@@ -10521,21 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立派な門だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良い木材を使っている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "爪を研いだら、さぞ気持ちが良いことだろう。"
+                                "It's a splendid gate. Made of fine wood. It would surely\nfeel great to sharpen my claws on it."
                             ]
                         },
                         {
@@ -10808,14 +10717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪盗『L』>それでは予告通り！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "またまたやらせていただきましたァン♥"
+                                "\\n<Phantom Thief \"L\">As promised! I've done it once again♥"
                             ]
                         },
                         {
@@ -11005,7 +10907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>まてぇ～い！！！"
+                                "\\n<Captain>Wait up~~~!!!"
                             ]
                         },
                         {
@@ -11127,7 +11029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ン\"ン\"ン\"ン\"ン\"ン\"！！！"
+                                "\\n<Captain>Nnnngh! Nnnngh! Nnnngh!!!"
                             ]
                         },
                         {
@@ -11556,7 +11458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪盗『L』>あばよー！とっつぁ～ん！"
+                                "\\n<Phantom Thief \"L\">So long! Toodles~!"
                             ]
                         },
                         {
@@ -11592,7 +11494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ええい！ちくしょう！！やつを追え！！"
+                                "\\n<Captain>Damn it! Blast it all!! Chase after them!!"
                             ]
                         },
                         {
@@ -11635,14 +11537,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>は、早い！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちに行った！？"
+                                "\\n<Adventurer A>So fast!! Which way did they go!?"
                             ]
                         },
                         {
@@ -11678,7 +11573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>しまった・・・！暗くて・・・！"
+                                "\\n<Adventurer B>Damn...! It's too dark...!"
                             ]
                         },
                         {
@@ -11721,7 +11616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>逃がすなぁ！追え！追えぇぇぇぇ！！！"
+                                "\\n<Captain>Don't let them get away! Chase them! Chaaaase!!!"
                             ]
                         },
                         {
@@ -11857,21 +11752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "立派な門だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "一体怪盗はどこから侵入する気なんだろう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひょっとして、もう入ってたりとか・・・"
+                                "It's a splendid gate. I wonder where the phantom thief plans\nto break in from. Could they have already sneaked in...?"
                             ]
                         },
                         {
@@ -11918,14 +11799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "てことはないよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流石に。"
+                                "That can't be the case, surely."
                             ]
                         },
                         {
@@ -12168,14 +12042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪盗『L』>吠狼石、確かに頂戴しました♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それでは皆様、お元気でー♪"
+                                "\\n<Phantom Thief \"L\">I've graciously accepted the Howling Stone♥ Farewell,\neveryone, and stay well-♪"
                             ]
                         },
                         {
@@ -12365,7 +12232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>待ちなさい！"
+                                "\\n<Captain>Stop right there!"
                             ]
                         },
                         {
@@ -12487,7 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ン\"ン\"ン\"ン\"ン\"ン\"！！！"
+                                "\\n<Captain>Nngh... Nngh... Nngh... Nngh... Nngh... Nngh...!!!"
                             ]
                         },
                         {
@@ -12916,7 +12783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<怪盗『L』>約束破ってごめんねー！"
+                                "\\n<Phantom Thief \"L\">Sorry for breaking my promise-!"
                             ]
                         },
                         {
@@ -12952,7 +12819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<兵長>ぐぬぬ！私としたことが！！追ってください！！"
+                                "\\n<Captain>Grrr! How could I let this happen!! Chase after them!!"
                             ]
                         },
                         {
@@ -12995,14 +12862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者A>早すぎる！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだあの動きは！壁を走っているぞ！"
+                                "\\n<Adventurer A>Too fast! What's with that movement? They're running on the\nwalls!"
                             ]
                         },
                         {
@@ -13038,14 +12898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者B>はぁ・・・はぁ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこいった！？"
+                                "\\n<Adventurer B>Haa... haa...! Where did they go!?"
                             ]
                         },
                         {
@@ -13081,14 +12934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今度こそ・・・！"
+                                "\\n<Rui>...! This time for sure...!"
                             ]
                         },
                         {
@@ -13196,14 +13042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ドアのデザインひとつでドリーネとの違いが分かる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "凝った意匠は豊さがあってこそ生まれる。"
+                                "The difference between this place and Dreamy can be told\njust by the design of the door. Intricate designs are born\nfrom abundance."
                             ]
                         },
                         {
@@ -13287,21 +13126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>え？あなた下のギルドから来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな汚いところから来た割りには小奇麗ね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁ、事情は聞かないわ。聞きたくもないし。"
+                                "\\n<Adventurer C>\"Eh? You came from the lower guild? You're quite neat-\nlooking for someone from such a dirty place. Well, I won't\nask about your circumstances. I don't want to hear it\nanyway.\""
                             ]
                         },
                         {
@@ -13318,14 +13143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>私達はこの町、ルマーレの冒険者ギルドよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "って言っても、出身はみんな違うけどね。"
+                                "\\n<Adventurer C>\"We are the adventurers of this town, the Rumare\nAdventurer's Guild. Though I say that, we all come from\ndifferent places.\""
                             ]
                         },
                         {
@@ -13400,21 +13218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>ノブレス伯爵、なんだか様子が変わったわよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前はバカみたいなしゃべり方だったのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今回は・・・別人みたいだった。"
+                                "\\n<Adventurer C>\"The Noble Count seems different somehow. Before, he spoke\nlike a fool. But this time... it was as if he was a\ndifferent person.\""
                             ]
                         },
                         {
@@ -13431,21 +13235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者C>どこか遠い目をしていて、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "既に盗まれた後のことを考えているような・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の気のせいかもしれないけれど。"
+                                "\\n<Adventurer C>\"He had this distant look in his eyes, as if he was already\nthinking about what happens after something's been stolen...\nIt might just be my imagination, though.\""
                             ]
                         },
                         {
@@ -13529,21 +13319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者D>いっせーのーで！でしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なにバリチッチって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前の地元やべぇな。"
+                                "\\n<Adventurer D>Ready, set, go! Right? What's with this \"Barley Tits\" thing.\nYour hometown is crazy, huh."
                             ]
                         },
                         {
@@ -13618,21 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者D>暗くてよく見えなかったけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "前回さぁ、怪盗に追いつきそうな人がいたような気がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ、キミじゃなかった？"
+                                "\\n<Adventurer D>\"It was dark and hard to see, but last time, I thought I saw\nsomeone who almost caught up with the phantom thief. Wasn't\nthat you?\""
                             ]
                         },
                         {
@@ -13647,8 +13409,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "こけた",
-                                    "な、何のこと？"
+                                    "I tripped",
+                                    "What are you talking about?"
                                 ],
                                 1,
                                 0,
@@ -13694,14 +13456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>あとちょっとだったんだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ころんじゃった！えへへ！"
+                                "\\n<Rui>\"I was so close, but then I tripped! Ehehe!\""
                             ]
                         },
                         {
@@ -13728,21 +13483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>転んでしまいましたー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あそこに石が無ければなー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あははは。"
+                                "\\n<Rui>\"I ended up falling over... If only there hadn't been a\nstone there... Ahahaha.\""
                             ]
                         },
                         {
@@ -13776,14 +13517,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<冒険者D>そっかぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今回は足元気を付けてね。"
+                                "\\n<Adventurer D>\"I see. Be careful where you step next time.\""
                             ]
                         },
                         {
@@ -13829,21 +13563,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>全然だめだめだったの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私はびっくりすると動けなくなぅから！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "それ人違い！"
+                                "\\n<Rui>\"It was a total disaster! When I get surprised, I just\nfreeze up! You've got the wrong person!\""
                             ]
                         },
                         {
@@ -13870,21 +13590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>いや！それはボクでは無いと思います！はいー！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ボクは道に迷っちゃって！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "この町にはあんまり詳しくないから・・・"
+                                "\\n<Rui>\"No! I don't think that was me! Yes! I got lost! I'm not\nvery familiar with this town...\""
                             ]
                         },
                         {
@@ -13918,14 +13624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<冒険者D>ほんとぉ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんか猫耳っぽいシルエットだったけどなぁ。"
+                                "\\n<Adventurer D>\"Really? It looked like a silhouette with cat ears, though.\""
                             ]
                         },
                         {
@@ -14021,14 +13720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "窓から空のケースが見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "朝になったら美味しい焼きたてのパンが並ぶのだろう。"
+                                "Through the window, I can see the empty cases. I bet they'll\nbe lined with delicious freshly baked bread in the morning."
                             ]
                         },
                         {
@@ -14105,21 +13797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "人が多いと警備の手間が増えるとかで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の酒場は臨時休業のようだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "怪盗が与える影響の大きさが分かる。"
+                                "It seems the tavern is temporarily closed today because\nhaving too many people increases the security hassle. You\ncan tell the extent of the impact that the phantom thief\nhas."
                             ]
                         },
                         {
@@ -14187,14 +13865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "灯りを消した酒場に複数人が息をひそめている気配がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "呼狼石を狙っているのは怪盗だけでは無いのかもしれない。"
+                                "There seems to be multiple people holding their breath in\nthe tavern with the lights out. It might not only be the\nphantom thief who's after the Howling Stone."
                             ]
                         },
                         {
@@ -14339,21 +14010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（静かだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃーんにも起こらない。つまらない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ。もう帰ろうかな。）"
+                                "\\n<Rui>(It's quiet... Nothing's happening at all. Boring. Sigh.\nMaybe I should just go home.)"
                             ]
                         },
                         {
@@ -14380,21 +14037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（静かだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "退屈で気を抜いてしまいそうになる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "眠気覚ましに、誰かに話しかけてみようかな。）"
+                                "\\n<Rui>(It's quiet... It's so dull I might let my guard down. Maybe\nI should wake myself up by talking to someone.)"
                             ]
                         },
                         {
@@ -14559,21 +14202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（んにゃぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "眠たくなってくる・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誰かとお話して、ちゃんと起きなきゃ。）"
+                                "\\n<Rui>(Nnyaah... I'm getting sleepy... I need to talk to someone\nto stay awake properly.)"
                             ]
                         },
                         {
@@ -14600,21 +14229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（うーん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにしても退屈だなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ずっと気を張るのも無理な話ではある。）"
+                                "\\n<Rui>(Ugh... But it's so boring. It's impossible to stay on alert\nall the time.)"
                             ]
                         },
                         {
@@ -14727,14 +14342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元兵長>失態により無事降格した。元兵長だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とほほだ・・・"
+                                "\\n<Former Sergeant>I've been demoted without a hitch due to my blunder. I'm a\nformer sergeant now. Such a pity..."
                             ]
                         },
                         {
@@ -14767,21 +14375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>元気出して！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "足だいじょーぶ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "グキってなってたけど。"
+                                "\\n<Rui>Cheer up! Is your leg okay? It made a snapping sound,\nthough."
                             ]
                         },
                         {
@@ -14805,21 +14399,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<元兵長>うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "しかし、今日は夜風が涼しいな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こういうのも悪くないかもしれぬ。"
+                                "\\n<Former Sergeant>Hmm. However, the night breeze is cool today. This might not\nbe so bad after all."
                             ]
                         },
                         {
@@ -14853,7 +14433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>木の下に埋められたって本当ですか？"
+                                "\\n<Rui>Is it true that you were buried under a tree?"
                             ]
                         },
                         {
@@ -14877,14 +14457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<元兵長>うむ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "前は鼻からスパゲティを食べるだけで済んだのだが。"
+                                "\\n<Former Sergeant>Hmm. Before, all I had to do was eat spaghetti through my\nnose."
                             ]
                         },
                         {
@@ -14908,7 +14481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（そっちの方がきついのでは・・・）"
+                                "\\n<Rui>(That sounds even tougher...)"
                             ]
                         },
                         {
@@ -14951,21 +14524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<元兵長>そうだ、お前は一番足が早かったな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前に支給された手錠は一番いいやつにしておいたぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "追いかけっこは得意だろう。万が一の時は頼んだぞ。"
+                                "\\n<Former Sergeant>That's right, you were the fastest runner. I made sure the\nhandcuffs issued to you were the best ones. You're good at\nplaying chase, aren't you? I'm counting on you in case of an\nemergency."
                             ]
                         },
                         {
@@ -15042,21 +14601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "上流階級御用達！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふわふわモチモチの高級食パン！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手土産にもぴったり！"
+                                "Favored by the upper class! Fluffy and chewy premium bread!\nPerfect for a gift!"
                             ]
                         },
                         {
@@ -15089,7 +14634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>じいやの焼いたパンケーキが食べたい・・・"
+                                "\\n<Rui>I want to eat the pancakes that Jiiya baked..."
                             ]
                         },
                         {
@@ -15123,14 +14668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>（高級食パンブームはもう終わりそうだけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫か？）"
+                                "\\n<Rui>(Is it okay though? The premium bread boom seems to be\nending...)"
                             ]
                         },
                         {
@@ -15487,14 +15025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見張り>おーい！こらこら！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あまり持ち場を離れるんじゃないぞー！"
+                                "\\n<Lookout>Hey! Hey hey! Don't stray too far from your post!"
                             ]
                         },
                         {
@@ -15580,14 +15111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<見張り>こっちは異常なし！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前さんはしっかり門の警備をしてくれよー！"
+                                "\\n<Lookout>All clear on this end! Make sure you guard the gate\nproperly!"
                             ]
                         },
                         {

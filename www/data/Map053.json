@@ -4782,21 +4782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>若いのに冒険者さんなんて大変ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "わざわざお越し頂いてすみません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、とても可愛らしい冒険者さんで良かった♥"
+                                "\\n<Mele>It must be tough being an adventurer at such a young age.\nI'm sorry for making you come all this way. But I'm glad\nyou're such a cute adventurer♥"
                             ]
                         },
                         {
@@ -4820,7 +4806,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メーレさんに怪しいところはないだろうか・・・"
+                                "I wonder if there's anything suspicious about Mele-san..."
                             ]
                         },
                         {
@@ -4828,12 +4814,12 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "誕生日を聞く",
-                                    "夫のことを聞く",
-                                    "ジャンの性格を聞く",
-                                    "最近の出来事を聞く",
-                                    "観察してみる",
-                                    "何もしない"
+                                    "Ask about her birthday",
+                                    "Ask about her husband",
+                                    "Ask about Jean's personality",
+                                    "Ask about recent events",
+                                    "Observe",
+                                    "Do nothing"
                                 ],
                                 5,
                                 0,
@@ -4879,21 +4865,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>誕生日？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どうしてそんなことを聞くのかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あ、ひょっとして私の歳が気になるの？"
+                                "\\n<Mele>Birthday? Why would you ask about that? Oh, are you curious\nabout my age?"
                             ]
                         },
                         {
@@ -4926,21 +4898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>逆算しないでくださいね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "誕生日は～・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "生まれた場所は～・・・"
+                                "\\n<Mele>Please don't try to calculate it. My birthday is... and the\nplace I was born is..."
                             ]
                         },
                         {
@@ -4973,7 +4931,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "事前に確認しておいた情報と相違はない。"
+                                "There are no discrepancies with the information I had\nconfirmed beforehand."
                             ]
                         },
                         {
@@ -5028,21 +4986,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>主人はこの町、ルマーレを守るガードでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "数年前、下のスラムから無法者達が押し寄せて来たことがあって・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "その際に重症を負い、亡くなりました。"
+                                "\\n<Mele>My husband was a guard who protected this town, Rumare. A\nfew years ago, when outlaws from the slums below surged\nup... he was seriously injured and passed away."
                             ]
                         },
                         {
@@ -5075,21 +5019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>でも、最後まで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「ドリーネの人は悪くない。」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "「悪いのは上と下で分かれている世界の方だ。」って。"
+                                "\\n<Mele>But until the end, he said, \"The people of Drine are not\nbad. It's the world divided into upper and lower that's\nwrong.\""
                             ]
                         },
                         {
@@ -5122,21 +5052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>「人間同士で憎しみ合うな。」"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それが主人の遺言でした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なので私もジャンにそう教えてます。"
+                                "\\n<Mele>\"Don't harbor hatred towards each other.\" That was my\nhusband's last will. So I teach Jean the same."
                             ]
                         },
                         {
@@ -5169,21 +5085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>憎むな、なんて残酷ですよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんな綺麗事のせいで、私はずっと憎しみを堪えてきた。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "心のままにあれたら、どれだけ楽だったか。"
+                                "\\n<Mele>Not to hate, it's so cruel, isn't it? Because of such\nidealistic notions, I've been enduring hatred all this time.\nHow much easier it would have been to just follow my heart."
                             ]
                         },
                         {
@@ -5216,21 +5118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>でも、主人のそういうところが大好きでした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だから私は遺言を守り続けるの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "どれだけ苦しくても。"
+                                "\\n<Mele>But I loved that about my husband. That's why I continue to\nhonor his last will, no matter how painful it is."
                             ]
                         },
                         {
@@ -5263,21 +5151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "嘘は付いていない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "でもほんの一瞬、魔物が人に持つ悪意と同じ臭いがした。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "気のせいかもしれないけど・・・"
+                                "There are no lies. But for just a moment, I sensed the same\nmalice from her that a monster has towards humans. It might\njust be my imagination though..."
                             ]
                         },
                         {
@@ -5323,21 +5197,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>この子は少し臆病で人見知りなところがあります。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それは、心の動きに敏感過ぎるからなのかな？と"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私は思っています。"
+                                "\\n<Mele>This child is a bit shy and wary of strangers. Maybe it's\nbecause they're too sensitive to the emotions of others?"
                             ]
                         },
                         {
@@ -5370,21 +5230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>どの言葉がナイフになるか、人を傷つけないために"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "言葉を選びすぎてしまう優しさのせいで、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "上手くコミュニケーションが取れないのかと。"
+                                "\\n<Mele>Perhaps their kindness in choosing words so as not to hurt\nanyone with a knife-like word is why they struggle with\ncommunication."
                             ]
                         },
                         {
@@ -5417,14 +5263,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>度胸が少し足りないのかもしれませんが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それはこの先の長い人生で付くものじゃないかな？"
+                                "\\n<Mele>They might lack a bit of courage, but isn't that something\nthat comes with the long life ahead of them?"
                             ]
                         },
                         {
@@ -5457,14 +5296,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "よく子供のことを見ているように見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "優しい話し方だ。"
+                                "They seem to be very attentive to children. Such a gentle\nway of speaking."
                             ]
                         },
                         {
@@ -5510,14 +5342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>最近の出来事・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うーん、特に変わったことは・・・"
+                                "\\n<Mele>Recent events...? Hmm, nothing particularly unusual..."
                             ]
                         },
                         {
@@ -5566,21 +5391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>あ、そういえば！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "近隣の森の沼地の辺りでキノコを採ってた時に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "急に頭をガツンと、石か何かで殴られたような衝撃があって・・・"
+                                "\\n<Mele>Oh, now that you mention it! When I was picking mushrooms\nnear the swamp in the nearby forest, I suddenly felt a thud\non my head, as if I'd been struck by a stone or something..."
                             ]
                         },
                         {
@@ -5613,21 +5424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>すごい轟音も聞こえて目の前もバチバチしたんですが、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "一瞬記憶が飛んだだけで、コブもないし、傷もないし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あれはなんだったのか・・・"
+                                "\\n<Mele>There was also a loud boom and my vision went all sparkly,\nbut it was just a momentary blackout, no bumps or wounds, so\nwhat was that..."
                             ]
                         },
                         {
@@ -5660,21 +5457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>その後に、熱や吐き気も全く無かったし、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "至って健康そのものなので気にしてなかったんですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "変わったことと言えば、それぐらいです。"
+                                "\\n<Mele>After that, I had no fever or nausea and was perfectly\nhealthy, so I didn't worry about it... If there was anything\nunusual, it was just that."
                             ]
                         },
                         {
@@ -5707,14 +5490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "衝撃と音とバチバチ？雷にでも打たれたのかな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "怪我がないのは変だけど・・・"
+                                "A shock, a sound, and sparkles? Maybe struck by lightning?\nIt's strange there were no injuries though..."
                             ]
                         },
                         {
@@ -5760,21 +5536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>何？じろじろ見て・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "子供は産んだけど、体型は崩れてないはずよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんちゃって。"
+                                "\\n<Mele>What? Staring at me...♥ I've had children, but my figure\nshouldn't have gone out of shape♥ Just kidding."
                             ]
                         },
                         {
@@ -5807,21 +5569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "確かにキレイな人だ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "じゃなくて、何か妙な気配がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう少し確証がほしい。"
+                                "She's certainly beautiful... No, that's not it, there's some\nstrange aura about her. I need more concrete evidence."
                             ]
                         },
                         {
@@ -5867,7 +5615,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>ゆっくりしていってくださいね♥"
+                                "\\n<Mele>Please take your time and relax♥"
                             ]
                         },
                         {
@@ -6079,14 +5827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>あ、あの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おねーちゃんは冒険者・・・なの？"
+                                "\\n<Jean>Um... are you an adventurer, big sis?"
                             ]
                         },
                         {
@@ -6110,21 +5851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>そだよ。凄いでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "凄いのかな？でも結構強いよ私。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よろしくねジャン。"
+                                "\\n<Rui>That's right. Impressive, isn't it? I wonder if it is... But\nI'm pretty strong. Nice to meet you, Jean."
                             ]
                         },
                         {
@@ -6151,14 +5878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>あ、あの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おにーさんは冒険者・・・なの？"
+                                "\\n<Jean>Uh... are you an adventurer, mister?"
                             ]
                         },
                         {
@@ -6182,14 +5902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うん。そうだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "よろしくねジャン。"
+                                "\\n<Rui>Yeah, that's right. Nice to meet you, Jean."
                             ]
                         },
                         {
@@ -6255,14 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>獣人の冒険者さんなんて珍しいですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ところで、今日はどのようなご用件でいらしたのかしら。"
+                                "\\n<Mere>It's rare to see a beast-person adventurer. By the way, what\nbrings you here today?"
                             ]
                         },
                         {
@@ -6293,8 +5999,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "適当に嘘をつく",
-                                    "ジャンに任せる"
+                                    "Tell a random lie",
+                                    "Leave it to Jean"
                                 ],
                                 -1,
                                 0,
@@ -6340,21 +6046,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>この辺りに凄くちっちゃいネズミっぽい魔物が出たとかで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "一軒一軒見て回ってるの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "そういうのは猫の出番だから！"
+                                "\\n<Rui>There's been sightings of a really tiny mouse-like monster\naround here, so I'm checking each house! It's a cat's time\nto shine for this kind of thing!"
                             ]
                         },
                         {
@@ -6387,21 +6079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<メーレ>なるほど、分かりました。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "ネズミぐらいの大きさの魔物ですか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は特に見てませんね。"
+                                "\\n<Mere>I see, understood. A monster about the size of a mouse... I\nhaven't seen anything like that myself."
                             ]
                         },
                         {
@@ -6428,21 +6106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>ジャンに変な音がするから調べてくれって頼まれたんです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "多分、ネズミかイタチが屋根裏に入ったんでしょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "まぁ、万が一魔物だったら危ないので念のため。って感じです。"
+                                "\\n<Rui>Jean asked me to check because there's been some strange\nnoises. Probably a mouse or a weasel got into the attic.\nWell, just in case it's a monster, it's better to be safe\nthan sorry."
                             ]
                         },
                         {
@@ -6475,21 +6139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<メーレ>あらまぁ！そんなお仕事までするのね冒険者さんって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は特に気になる音は聞いてないけれど・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "よろしくお願いします。"
+                                "\\n<Mere>Oh my! So adventurers even do that kind of work. I haven't\nnoticed any concerning noises myself... but please, go\nahead."
                             ]
                         },
                         {
@@ -6552,21 +6202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>ぼ、ボクがお願いしたんだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何かいるような気配がして・・・その・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "オバケとか・・・"
+                                "\\n<Jean>I-I'm the one who asked for help! There seems to be some\npresence... like... ghosts or something..."
                             ]
                         },
                         {
@@ -6592,14 +6228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ジャン>怖くて眠れないから家を調べてほしいって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者さんなら、そういうのも引き受けてくれるから・・・"
+                                "\\n<Jean>I can't sleep because I'm scared, so I want the house\nchecked. Adventurers take on those kinds of requests..."
                             ]
                         },
                         {
@@ -6632,21 +6261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<メーレ>そうなの？私に言ってくれればよかったのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すみませんうちの子が。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "報酬はきちんとお支払いしますので、よろしくお願いします。"
+                                "\\n<Mere>Is that so? You should have told me. I'm sorry about my\nchild. We will pay you properly for your services, so please\ntake care of it."
                             ]
                         },
                         {
@@ -6689,21 +6304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<メーレ>何かお手伝いできることがあったら言ってください。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "家のどこを調べてもらっても構いませんから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それと、良ければ紅茶も飲んでくださいね♥"
+                                "\\n<Mere>If there's anything I can help with, please let me know.\nFeel free to investigate anywhere in the house. And if you'd\nlike, please have some tea as well♥"
                             ]
                         },
                         {
@@ -6773,14 +6374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]話を聞いたり、家の中を調べたりしてみよう。\\C[0]"
+                                "\\C[1]Try Talking To People Or Investigating Inside Houses.\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何もなければいいけど・・・"
+                                "Hopefully there's nothing..."
                             ]
                         },
                         {
@@ -6876,21 +6477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メーレさんのクローゼットだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・？凄く湿気が溜まっている感じだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "洗濯物が渇く前に入れたのかな？"
+                                "This is Mare-san's closet...? It feels quite damp. Maybe the\nlaundry was put in before it was fully dry?"
                             ]
                         },
                         {
@@ -6997,21 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ジャンのベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "特に変わったことはない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とてもふかふか。"
+                                "It's Jean's bed. Nothing particularly unusual about it. It's\nvery fluffy."
                             ]
                         },
                         {
@@ -7118,7 +6691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "教科書が並べてある。"
+                                "Textbooks are neatly arranged."
                             ]
                         },
                         {
@@ -7225,14 +6798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "動物や植物の図鑑が置いてある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "読みたい。"
+                                "There are encyclopedias of animals and plants. I want to\nread them."
                             ]
                         },
                         {
@@ -7339,7 +6905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今は暖炉を使う季節ではない。"
+                                "It's not the season to use the fireplace now."
                             ]
                         },
                         {
@@ -7446,21 +7012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>あ、あの・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ボクを・・・信じてくれてあ、ありがとう・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あんな手紙だったのに・・・"
+                                "\\n<Jean>Ah, um... Thank you for... believing in me... even after\nthat kind of letter..."
                             ]
                         },
                         {
@@ -7477,21 +7029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ジャン>家のどこを調べてもいいから・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "おかしいことがあったら・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Jean>You can search anywhere in the house... If you find anything\nstrange..."
                             ]
                         },
                         {
@@ -7598,7 +7136,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "パンなどの食品が並べてある。"
+                                "Bread and other food items are lined up."
                             ]
                         },
                         {
@@ -7615,14 +7153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少しカビているものが混じっている。"
+                                "...? Some of them are a bit moldy."
                             ]
                         },
                         {
@@ -7729,14 +7260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "観葉植物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい匂いのする花。"
+                                "It's a foliage plant. A flower with a nice scent."
                             ]
                         },
                         {
@@ -7843,14 +7367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "観葉植物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いい匂いのする草。"
+                                "It's a foliage plant. A grass that smells nice."
                             ]
                         },
                         {
@@ -7957,7 +7474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "小麦が積まれている。"
+                                "Wheat is stacked up."
                             ]
                         },
                         {
@@ -8064,7 +7581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "中には何も入ってない。"
+                                "There's nothing inside."
                             ]
                         },
                         {
@@ -8171,7 +7688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "時計は正常に動いている。"
+                                "The clock is functioning normally."
                             ]
                         },
                         {
@@ -8278,7 +7795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬のビンが並べてある。"
+                                "Bottles of medicine are lined up."
                             ]
                         },
                         {
@@ -8295,21 +7812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どろどろとした液体が入ったビンがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中身は・・・"
+                                "...? There's a bottle filled with a thick liquid. The\ncontents are..."
                             ]
                         },
                         {
@@ -8340,21 +7843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やけに甘ったるくて頭がくらくらする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触らないでおこう。"
+                                "Ugh...! It's sickeningly sweet and makes my head spin. I\nshould not touch it."
                             ]
                         },
                         {
@@ -8461,7 +7950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "薬のビンが並べてある。"
+                                "Bottles of medicine are lined up."
                             ]
                         },
                         {
@@ -8478,21 +7967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どろどろとした液体が入ったビンがある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中身は・・・"
+                                "...? There's a bottle filled with a thick liquid. The\ncontents are..."
                             ]
                         },
                         {
@@ -8523,21 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やけに甘ったるくて頭がくらくらする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "触らないでおこう。"
+                                "Ugh...! It's sickeningly sweet and makes my head spin. I\nshould not touch it."
                             ]
                         },
                         {
@@ -8644,21 +8105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "メーレさんのベッドだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "甘くていい匂いがする・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頭がふわふわしてくる・・・"
+                                "This is Merle-san's bed. It smells sweet and nice... My head\nis getting all fuzzy..."
                             ]
                         },
                         {
@@ -8723,14 +8170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "これは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ガレット洞窟で嗅いだ淫魔のフェロモンのような・・・"
+                                "This is... like the succubus pheromones I smelled in the\nGalette Cave..."
                             ]
                         },
                         {
@@ -8770,21 +8210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "う・・・ダメだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この匂いは・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・♥"
+                                "Uh... No good. This scent is...♥ *pant*... *pant*...♥"
                             ]
                         },
                         {
@@ -8815,21 +8241,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "冷静にならないと・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは・・・"
+                                "I need to stay calm... Huh...? What's this..."
                             ]
                         },
                         {
@@ -8867,14 +8279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "シーツに何かぬるぬるしたものがこびり付いている！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "人の形に・・・"
+                                "There's something slimy stuck to the sheets! It's in the\nshape of a person..."
                             ]
                         },
                         {
@@ -8900,14 +8305,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "やっぱりメーレさんは普通じゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ジャンに報告しよう。"
+                                "As I thought, Merle-san isn't normal. I should report this\nto Jean."
                             ]
                         },
                         {
@@ -9019,7 +8417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚にはルマーレの美味しいお店特集が置いてある。"
+                                "The bookshelf contains a feature on delicious eateries in\nLumare."
                             ]
                         },
                         {
@@ -9126,14 +8524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "本棚には料理のレシピが並んでいるが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何か、ぬめぬめとした液体が付着している・・・"
+                                "The bookshelf is lined with cooking recipes... but there's\nsome kind of slimy liquid sticking to them..."
                             ]
                         },
                         {
@@ -9750,14 +9141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "久々にまともな紅茶を見た気がする・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下のは薄いし美味しくない。"
+                                "It feels like it's been a while since I've seen a decent cup\nof tea... The ones below are weak and not tasty."
                             ]
                         },
                         {
@@ -9864,7 +9248,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ふわふわのパン。"
+                                "Fluffy bread."
                             ]
                         },
                         {
@@ -9971,7 +9355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "砂糖の入ったビン。"
+                                "A jar filled with sugar."
                             ]
                         },
                         {
@@ -10078,21 +9462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレの町並みが見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲食店、衣料品店、走り回る子供、優しく見守る母親。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても平和そうだ。"
+                                "The streets of Lumare are visible. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It all looks very peaceful."
                             ]
                         },
                         {
@@ -10199,21 +9569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "鏡には指紋がべたべたと付いている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何度も至近距離で顔を確認したような跡だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "少し気味が悪い。"
+                                "The mirror is covered with sticky fingerprints. It looks\nlike someone checked their face up close multiple times.\nIt's a bit creepy."
                             ]
                         },
                         {
@@ -10320,21 +9676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレの町並みが見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲食店、衣料品店、走り回る子供、優しく見守る母親。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても平和そうだ。"
+                                "The streets of Lumale can be seen. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It looks very peaceful."
                             ]
                         },
                         {
@@ -10441,7 +9783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "新鮮なお野菜。"
+                                "Fresh vegetables."
                             ]
                         },
                         {
@@ -10548,7 +9890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "青りんごたくさん！"
+                                "So many green apples!"
                             ]
                         },
                         {
@@ -10655,21 +9997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ルマーレの町並みが見える。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "飲食店、衣料品店、走り回る子供、優しく見守る母親。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても平和そうだ。"
+                                "The streets of Rumare come into view. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It all looks very peaceful."
                             ]
                         },
                         {

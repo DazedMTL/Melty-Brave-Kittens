@@ -1155,7 +1155,7 @@
                 "skillId": 555
             }
         ],
-        "name": "獣人貴族",
+        "name": "Beastfolk Noble",
         "note": "主人公用",
         "params": [
             [
@@ -2082,7 +2082,7 @@
             }
         ],
         "learnings": [],
-        "name": "猫借手",
+        "name": "Cat Borrower",
         "note": "主人公用",
         "params": [
             [
@@ -2939,7 +2939,7 @@
             }
         ],
         "learnings": [],
-        "name": "謎の少女",
+        "name": "Mysterious Girl",
         "note": "",
         "params": [
             [
@@ -5035,7 +5035,7 @@
                 "skillId": 1051
             }
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "主人公用",
         "params": [
             [
@@ -8694,7 +8694,7 @@
                 "skillId": 825
             }
         ],
-        "name": "素材保護用スキル",
+        "name": "Material Protection Skill",
         "note": "",
         "params": [
             [
@@ -10534,7 +10534,7 @@
                 "skillId": 979
             }
         ],
-        "name": "バハムート",
+        "name": "Bahamut",
         "note": "",
         "params": [
             [
@@ -11441,7 +11441,7 @@
             }
         ],
         "learnings": [],
-        "name": "低級淫魔",
+        "name": "Low-Class Succubus",
         "note": "",
         "params": [
             [
@@ -12318,7 +12318,7 @@
             }
         ],
         "learnings": [],
-        "name": "盗賊",
+        "name": "Thief",
         "note": "",
         "params": [
             [
@@ -13190,7 +13190,7 @@
             }
         ],
         "learnings": [],
-        "name": "踊り子",
+        "name": "Dancer",
         "note": "",
         "params": [
             [
@@ -14057,7 +14057,7 @@
             }
         ],
         "learnings": [],
-        "name": "冥府の花嫁",
+        "name": "Bride of the Underworld",
         "note": "",
         "params": [
             [
@@ -14924,7 +14924,7 @@
             }
         ],
         "learnings": [],
-        "name": "商人",
+        "name": "Merchant",
         "note": "",
         "params": [
             [
@@ -15786,7 +15786,7 @@
             }
         ],
         "learnings": [],
-        "name": "狩人",
+        "name": "Hunter",
         "note": "",
         "params": [
             [
@@ -16839,7 +16839,7 @@
                 "skillId": 1051
             }
         ],
-        "name": "勇者",
+        "name": "Hero",
         "note": "主人公用",
         "params": [
             [
@@ -17756,7 +17756,7 @@
             }
         ],
         "learnings": [],
-        "name": "ドレイン用レベル",
+        "name": "Drain Level for Use",
         "note": "主人公用",
         "params": [
             [

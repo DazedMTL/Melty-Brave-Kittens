@@ -9938,21 +9938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "魔物憑きには・・・の種類・・・る。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとつは・・・に魂ごと食われ・・・を利用される。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・は人間の精神に取り憑き人格を乗っとる。"
+                                "There are ... types of demon possessions. One is where the\nsoul is entirely devoured by ... and used for ... purposes.\nThe other is when a demon possesses the human mind and takes\nover their personality."
                             ]
                         },
                         {
@@ -9981,14 +9967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "特殊な例として・・・が逆に・・・を奪われることもある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これは主にスラミーなど知能の低い・・・に多い。"
+                                "As a special case, there are times when ... is instead taken\nby .... This often occurs with low-intelligence creatures\nlike Slime-ees."
                             ]
                         },
                         {
@@ -10017,21 +9996,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "我々の研究として・・・から特有の・・・を取り除き・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・することに成功した。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しかし、量産する前に・・・を知られてしまった。"
+                                "Our research has succeeded in removing the unique ... from\n... and ... it. However, we were discovered before we could\nmass-produce it."
                             ]
                         },
                         {
@@ -10060,14 +10025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "最後のひとつは・・・にある。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "簡単な仕掛けだがやつらの知能では・・・ないだろう。"
+                                "The last one is located in .... It's a simple mechanism, but\ntheir intelligence probably won't be enough to ... it."
                             ]
                         },
                         {
@@ -10096,14 +10054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "あと少しだった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あと少しで・・・を救えるはずだったのに。"
+                                "We were so close. Just a little more and we could have ...\nsaved."
                             ]
                         },
                         {
@@ -10132,14 +10083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "すまない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "最後の小瓶は必要な人が・・・ってくれ。"
+                                "I'm sorry. The last vial is for someone who needs it...\nplease give it to them."
                             ]
                         },
                         {
@@ -10722,21 +10666,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道が塞がれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかに開ける仕組みがあるのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみよう。"
+                                "The path is blocked. There might be a mechanism somewhere to\nopen it. Let's look for it."
                             ]
                         },
                         {
@@ -10887,21 +10817,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>あら、アナタも来たの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この遺跡は何かの研究をしていた場所みたい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白いものが見つかるかもね。"
+                                "\\n<Bijou>Oh, you came too? This ruin seems to be a place where some\nkind of research was conducted. We might find something\ninteresting."
                             ]
                         },
                         {
@@ -10934,21 +10850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>と思うんだけど、いきなりこの扉が開かないの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界術の類でもないし、鍵穴もないのよね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "となると機械制御だと思うんだけど・・・"
+                                "\\n<Bijou>But I was thinking, suddenly this door won't open. It\ndoesn't seem to be sealed by any barrier magic, and there's\nno keyhole either. That leads me to believe it might be\ncontrolled by machinery..."
                             ]
                         },
                         {
@@ -10981,21 +10883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>大丈夫。古くても、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "扉関係は一番頑丈に作られてるから、きっと動くはずよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誤作動で閉じ込められちゃ困るもの。"
+                                "\\n<Bijou>It's okay. Even if it's old, the door mechanisms are made to\nbe the most durable, so they should definitely work. It\nwould be a problem if we got trapped by a malfunction."
                             ]
                         },
                         {
@@ -11028,21 +10916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>うーん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壁とか、柱の裏とか、そういうところにスイッチがないかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみてくれない？"
+                                "\\n<Bijou>Hmm... I wonder if there's a switch somewhere, like behind\nthe walls or pillars. Could you look for it?"
                             ]
                         },
                         {
@@ -11148,21 +11022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>怪しそうな場所にスイッチがないか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみてくれない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そうね、例えば・・・柱の裏とか？"
+                                "\\n<Bijou>Could you look around for a switch in any suspicious places?\nLike, for example... behind a pillar?"
                             ]
                         },
                         {
@@ -11320,21 +11180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>中にも魔物が湧いてるじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこから入ったのかしら。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "地下に水路でもあるのか・・・"
+                                "\\n<Bijou>There are monsters spawning inside too. I wonder where they\ncame from. Maybe there's an underground waterway or\nsomething..."
                             ]
                         },
                         {
@@ -11367,21 +11213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>この床、何か書いてあるわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えーと、これは簡単な暗号になってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "知能の低い魔物への対策用ね。どれどれ。"
+                                "\\n<Bijou>There's something written on this floor. Let's see, it's a\nsimple cipher. It's meant to thwart monsters with low\nintelligence. Now, let's see..."
                             ]
                         },
                         {
@@ -11414,7 +11246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>・・・"
+                                "\\n<Bijou>..."
                             ]
                         },
                         {
@@ -11447,14 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>あと3つスイッチ押せばいいってさ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そしたらどこかに秘密の保管庫が出てくるみたい。"
+                                "\\n<Bijou>You just need to press three more switches, it seems. Then\nsome sort of secret vault should appear somewhere."
                             ]
                         },
                         {
@@ -11487,14 +11312,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>それっぽいものがあったら押してみて。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "多分、さっきと同じようなところにあるはずよ。"
+                                "\\n<Bijou>If you find something that looks like it, try pressing it.\nIt's probably in a similar place as the last one."
                             ]
                         },
                         {
@@ -11652,21 +11470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>私の野生の感的なシックスセンスが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この辺りに何かありそうって告げてるのよねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "根拠は無いんだけれど。"
+                                "\\n<Bijou>My wild sensual sixth sense is telling me there's something\naround here... though I have no basis for it."
                             ]
                         },
                         {
@@ -11699,14 +11503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>ま、何年もトレジャーハントやってると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こういうの分かるようになってくるのよ♥"
+                                "\\n<Bijou>Well, after years of treasure hunting, you start to get a\nfeel for these things♥"
                             ]
                         },
                         {
@@ -11739,7 +11536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>・・・"
+                                "\\n<Bijou>..."
                             ]
                         },
                         {
@@ -11772,14 +11569,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>外してたら恥ずかしいから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "早く他のとこ調べて来てよ。"
+                                "\\n<Bijou>If I'm wrong, it'll be embarrassing, so hurry up and check\nsomewhere else."
                             ]
                         },
                         {
@@ -11937,14 +11727,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>ほらほら帰った帰った！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここのお宝は私のもんなの♥"
+                                "\\n<Bijou>Shoo, shoo! This treasure is all mine♥"
                             ]
                         },
                         {
@@ -12066,14 +11849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>ぎゃぁー！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "熱い！！アツゥイ！"
+                                "\\n<Adventurer>Aaah-!! It's hot!! So hot!"
                             ]
                         },
                         {
@@ -12106,14 +11882,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>いい感じに焼けてきたじゃない♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "後は切り分けてお皿に盛るだけねぇ♥"
+                                "\\n<Bijou>It's getting nicely roasted, isn't it♥? All that's left is\nto slice it up and serve it on a plate♥"
                             ]
                         },
                         {
@@ -12137,14 +11906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>ステーキ嫌ぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すいませんでした！もう帰ります！許して！"
+                                "\\n<Adventurer>No, not steak! I'm sorry! I'll go home now! Please forgive\nme!"
                             ]
                         },
                         {
@@ -12177,21 +11939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ビジュー>いいよ♥許してアゲル♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そのかわり、ちょっとだけ荷物置いて行ってね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとって、意味わかる？全部よ。"
+                                "\\n<Bijou>It's okay♥ I'll forgive you♥ But in exchange, leave just a\nlittle bit of your stuff behind♥ And by a little, you know\nwhat I mean? Everything."
                             ]
                         },
                         {
@@ -12275,7 +12023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>くぎゅぅ・・・"
+                                "\\n<Adventurer>Kugyuu..."
                             ]
                         },
                         {
@@ -12352,21 +12100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<冒険者>うぐぐ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさかビジューがいるとは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと早く来るべきだったか。"
+                                "\\n<Adventurer>Ugh... I didn't expect a behemoth to be here... Maybe I\nshould have come earlier."
                             ]
                         },
                         {
@@ -12443,21 +12177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道が塞がれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかに開ける仕組みがあるのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみよう。"
+                                "The path is blocked. There might be a mechanism somewhere to\nopen it. Let's look for it."
                             ]
                         },
                         {
@@ -12608,14 +12328,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチがあった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押してみよう！"
+                                "There's a switch! Let's try pressing it!"
                             ]
                         },
                         {
@@ -12711,7 +12424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かが起きたような音がした。"
+                                "It sounded like something happened."
                             ]
                         },
                         {
@@ -12794,7 +12507,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうスイッチは動かない。"
+                                "The switch won't move anymore."
                             ]
                         },
                         {
@@ -12871,14 +12584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "精・・・魔・・・離・・・究・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "文字が潰れて読めない。"
+                                "Spirit... magic... separation... research... The characters\nare smudged and unreadable."
                             ]
                         },
                         {
@@ -12978,14 +12684,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチがあった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押してみよう！"
+                                "There's a switch! Let's try pressing it!"
                             ]
                         },
                         {
@@ -13081,7 +12780,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かが起きたような音がした。"
+                                "It sounded like something happened."
                             ]
                         },
                         {
@@ -13164,7 +12863,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうスイッチは動かない。"
+                                "The switch won't move anymore."
                             ]
                         },
                         {
@@ -13264,14 +12963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチがあった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押してみよう！"
+                                "There's a switch! Let's try pressing it!"
                             ]
                         },
                         {
@@ -13367,7 +13059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "何かが起きたような音がした。"
+                                "It sounded like something happened."
                             ]
                         },
                         {
@@ -13450,7 +13142,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうスイッチは動かない。"
+                                "The switch won't move anymore."
                             ]
                         },
                         {
@@ -13550,14 +13242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "スイッチがあった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "押してみよう！"
+                                "There's a switch! Let's try pressing it!"
                             ]
                         },
                         {
@@ -13715,21 +13400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "今までとは違う音だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "中央北の方から聞こえた気がする。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "行ってみよう！"
+                                "That's a different sound than before! It seems to be coming\nfrom the north-central direction. Let's go check it out!"
                             ]
                         },
                         {
@@ -13812,7 +13483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "もうスイッチは動かない。"
+                                "The switch won't move anymore."
                             ]
                         },
                         {
@@ -13889,21 +13560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "道が塞がれている。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どこかに開ける仕組みがあるのかもしれない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "探してみよう。"
+                                "The path is blocked. There might be a mechanism somewhere to\nopen it. Let's look for it."
                             ]
                         },
                         {

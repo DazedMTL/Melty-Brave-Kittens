@@ -2922,7 +2922,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>や・・・やめ・・・"
+                                "\\n<Teacher>Stop... please..."
                             ]
                         },
                         {
@@ -3010,21 +3010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ねぇ、先生。早く結界を解いてくださいよぉ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お手洗いに行きたいのですが。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "いつまで閉じ込めてるつもりですか？"
+                                "\\n<Enemy_Succubus>Hey, teacher. Hurry up and release the barrier. I need to go\nto the bathroom. How long do you plan on keeping me trapped?"
                             ]
                         },
                         {
@@ -3041,21 +3027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>ぐ・・・あぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だ、ダメだ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前を外に出すわけには・・・いかない・・・！"
+                                "\\n<Teacher>Ngh... ah...♥ No, I can't...! I can't let you out...!"
                             ]
                         },
                         {
@@ -3072,14 +3044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>生徒たちを・・・危険に晒すわけには・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ♥ああぁ！！"
+                                "\\n<Teacher>I can't... expose the students to danger... Ahh♥ Aaahhh!!"
                             ]
                         },
                         {
@@ -3096,21 +3061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>私だって生徒です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒の足であんあん喘いでる癖に"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今更良い先生ぶったって仕方ないですよぉ？"
+                                "\\n<Enemy_Succubus>I'm a student too. You're moaning under a student's foot and\nnow you're trying to act like a good teacher? It's too late\nfor that."
                             ]
                         },
                         {
@@ -3127,21 +3078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>このままだとぉ、先生のコト"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "壊れちゃうまで踏み続けることになっちゃいますけど"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "良いんですか？"
+                                "\\n<Enemy_Succubus>At this rate, I'll keep stepping on you until you break. Is\nthat what you want?"
                             ]
                         },
                         {
@@ -3158,14 +3095,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>あっあっあっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "また出・・・♥"
+                                "\\n<Teacher>Ahh ahh ahh♥ Coming out again...♥"
                             ]
                         },
                         {
@@ -3205,7 +3135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>あぁぁぁぁぁぁぁぁ♥♥♥"
+                                "\\n<Teacher>Aaaaahhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -3222,21 +3152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>水属性だけを閉じ込める結界ですよねぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私、結界術って苦手なんですよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生なら解除出来るでしょう？"
+                                "\\n<Enemy_Succubus>It's a barrier that only traps water attributes, right? I'm\nnot good at barrier magic. You can release it, can't you,\nteacher?"
                             ]
                         },
                         {
@@ -3253,21 +3169,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>それとも、もっと私と2人っきりで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "えっちなことしたいとかって考えてます？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "変態教師ですね♥くすくす♥"
+                                "\\n<Enemy_Succubus>Or maybe, you want to do more naughty things alone with me?\nWhat a perverted teacher♥ Hehehe♥"
                             ]
                         },
                         {
@@ -3298,14 +3200,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>あひ・・・ぃぃ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "も、もう出な・・・♥"
+                                "\\n<Teacher>Ahh... i-it's...♥ coming out again...♥"
                             ]
                         },
                         {
@@ -3322,21 +3217,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>出ますよ。出せます♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生命力を変換すれば、まだまだ射精できますよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試してみます？"
+                                "\\n<Enemy_Succubus>It will come out. You can still ejaculate♥ If we convert\nlife force, you can keep going♥ Shall we try?"
                             ]
                         },
                         {
@@ -3353,21 +3234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>今までの射精の何倍も気持ちいいですよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "命を削りながらするぴゅっぴゅ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "されてみたいですか？"
+                                "\\n<Enemy_Succubus>It will feel many times better than any ejaculation you've\nhad before♥ Ejaculating while your life is being drained♥\nWant to experience it?"
                             ]
                         },
                         {
@@ -3384,21 +3251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>う・・・♥へ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今まで・・・より・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あ・・・♥あぅ・・・♥"
+                                "\\n<Teacher>Ugh...♥ Huh...♥ More than before...? Ah...♥ Aah...♥"
                             ]
                         },
                         {
@@ -3415,21 +3268,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>そう♥身体全身ガクガクさせながら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白目剥いて絶叫しちゃうような射精♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気持ちよすぎて、もう死んでもいいって思うぐらいの♥"
+                                "\\n<Enemy_Succubus>Yes♥ An ejaculation that makes your whole body shake and\neyes roll back as you scream♥ It feels so good, you might\nthink it's okay to die♥"
                             ]
                         },
                         {
@@ -3453,21 +3292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぅ・・・♥もう・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あぐ・・・♥あぁ・・・♥"
+                                "\\n<Teacher>Haah...♥ Haah...♥ Ugh...♥ Can't...♥ anymore...♥ Agh...♥\nAhh...♥"
                             ]
                         },
                         {
@@ -3484,21 +3309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>結界を自力で解くのは凄く難しいですが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私の頭脳をもってすれば不可能ではないはずです。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当は先生に解いて欲しかったのですが。"
+                                "\\n<Enemy_Succubus>It's very difficult to release the barrier on my own... but\nwith my intellect, it shouldn't be impossible. I really\nwanted you to release it, though."
                             ]
                         },
                         {
@@ -3515,21 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>あっ♥あっ♥あっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足で・・・♥あぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "された・・・い・・・♥"
+                                "\\n<Teacher>Ahh♥ Ahh♥ Ahh♥ With your foot...♥ Ahh♥ I want it...♥"
                             ]
                         },
                         {
@@ -3553,14 +3350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>あぁぁぁ♥もう無理ぃぃ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足で！！足でもっと！！あぁぁぁぁぁ♥♥♥"
+                                "\\n<Teacher>Aaaahhh♥ I can't take it anymore♥ With your foot!! More with\nyour foot!! Aaaahhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -3577,21 +3367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>じゃあ全部出ちゃうまで、してあげますね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダメダメな先生です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生徒の足コキで搾り尽くされたいだなんて♥くすくす♥"
+                                "\\n<Enemy_Succubus>Then I'll keep going until it all comes out♥ You're such a\nhopeless teacher. Wanting to be milked dry by a student's\nfootjob♥ Hehehe♥"
                             ]
                         },
                         {
@@ -3666,14 +3442,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ちょ、ちょっとまって・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者・・・だ！"
+                                "\\n<Rui>Wait a moment...! Adventurer...!"
                             ]
                         },
                         {
@@ -3700,21 +3469,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ちょ・・・待て！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "冒険者・・・だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前を退治しにきた・・・！"
+                                "\\n<Rui>Wait...! Adventurer...! I've come to defeat you...!"
                             ]
                         },
                         {
@@ -3804,21 +3559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>わぁ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰！？いつからそこにいたの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "びっくりしたぁ・・・！！"
+                                "\\n<Enemy_Succubus>Wow!? Who!? How long have you been there? You scared me...!!"
                             ]
                         },
                         {
@@ -3858,21 +3599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<教師>う・・・あ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっと・・・♥あぁ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もっとしてぇ・・・♥うぁぁぁぁ・・・♥"
+                                "\\n<Teacher>Ugh... ah...♥ More...♥ Ahh♥ Do it more...♥ Uwaaahhh...♥"
                             ]
                         },
                         {
@@ -4334,21 +4061,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ちょっと！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "勝手に先生を転移しないでよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう！"
+                                "\\n<Enemy_Succubus>Hey! Don't teleport the teacher away without permission!\nGeez!"
                             ]
                         },
                         {
@@ -4381,14 +4094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>なんてことしてくれたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "先生だってもっと搾って欲しそうにしてたのに！"
+                                "\\n<Enemy_Succubus>What have you done? The teacher looked like he wanted more\nmilking!"
                             ]
                         },
                         {
@@ -4421,14 +4127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>あれでは無駄に精神崩壊させちゃっただけじゃないですか♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "可哀想なことをしました。くすくす♥"
+                                "\\n<Enemy_Succubus>Now it's just a waste, causing him to break down mentally\nfor nothing♥ How pitiful. Hehehe♥"
                             ]
                         },
                         {
@@ -4461,14 +4160,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>アナタ、私が先生を足で弄ってるとこ、見てましたよね？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんでもっと早く助けてあげなかったんですか？"
+                                "\\n<Enemy_Succubus>You saw me playing with the teacher's foot, didn't you? Why\ndidn't you help him sooner?"
                             ]
                         },
                         {
@@ -4501,21 +4193,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>ひょっとして、見ながらペニスを膨らませてたんですか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あはっ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "興奮しちゃって動けなかったんですね♥"
+                                "\\n<Enemy_Succubus>Could it be that you were watching and getting your penis\nhard? Ahaha♥ You got so excited that you couldn't move,\nright?♥"
                             ]
                         },
                         {
@@ -4629,21 +4307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>べ、別ににゃんとも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "思ってないもん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ば、バカにしないで！"
+                                "\\n<Rui>I-I wasn't thinking anything of the sort. Don't make fun of\nme!"
                             ]
                         },
                         {
@@ -4670,21 +4334,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う、うるさい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前を退治してやる！それだけだ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バカにするな！"
+                                "\\n<Rui>Quiet! I'm going to defeat you! That's all there is to it!\nDon't mock me!"
                             ]
                         },
                         {
@@ -4741,21 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>いえいえ、バカにしておりません。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "生理現象ですから♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "仕方のないこと♥くすくす♥"
+                                "\\n<Enemy_Succubus>Oh no, I'm not mocking you at all. It's a natural\nphysiological response♥ Can't help it♥ Hehehe♥"
                             ]
                         },
                         {
@@ -4795,21 +4431,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>では参りましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふむ。そうですか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界を通れたということは火、風属性、と言ったところでしょうか。"
+                                "\\n<Enemy_Succubus>Well then, let's begin. Hmm. So it seems. Since you passed\nthrough the barrier, you must be of fire or wind attribute,\nright?"
                             ]
                         },
                         {
@@ -4849,21 +4471,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>相性的には私が圧倒的に有利ですね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "では、その勃起したままのペニスでどこまで戦えるか、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "試してみましょうか。"
+                                "\\n<Enemy_Succubus>In terms of compatibility, I have an overwhelming advantage.\nNow, let's see how well you can fight with that erect penis\nof yours."
                             ]
                         },
                         {

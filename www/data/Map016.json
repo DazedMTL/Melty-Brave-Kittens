@@ -4939,21 +4939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>相変わらず上の奴らはノロマだなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、こっちは生活かかってるからねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日の収獲も上々～♪"
+                                "\\n<Radro>As usual, those guys up top are so slow. Well, it's my\nlivelihood at stake here-. Today's haul is pretty good too~♪"
                             ]
                         },
                         {
@@ -4986,21 +4972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ふーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ここがあなたの秘密基地ってやつなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "倉庫？"
+                                "\\n<Rui>Hmm. So this is your so-called secret base? A warehouse?"
                             ]
                         },
                         {
@@ -5027,14 +4999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ふーん。ここがお前のアジトか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "倉庫みたいだね。"
+                                "\\n<Rui>Hmm. So this is your hideout, huh? Looks like a warehouse."
                             ]
                         },
                         {
@@ -5169,14 +5134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>な・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私が追いつかれた！？"
+                                "\\n<Radro>Wha...! I've been caught up to?!?"
                             ]
                         },
                         {
@@ -5209,21 +5167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>って・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "え？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（Rui！？）"
+                                "\\n<Radro>Wait... huh? (Rui?!)"
                             ]
                         },
                         {
@@ -5265,21 +5209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>こういう時ってなんて言うんだっけ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かんにんして！じゃなくて・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かんねん・・・しろ？"
+                                "\\n<Rui>What do you say at times like this again? Forgive me! No,\nnot that... repent... right?"
                             ]
                         },
                         {
@@ -5306,21 +5236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>猫の足を舐めない方がいいよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "更に僕は風の加護があるんだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "かけっこなら誰にも負けないね。"
+                                "\\n<Rui>You shouldn't underestimate a cat's agility. Plus, I have\nthe blessing of the wind. When it comes to racing, I won't\nlose to anyone."
                             ]
                         },
                         {
@@ -5395,21 +5311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（あれ？これ気付いてない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあ、まだなんとかなるな。）"
+                                "\\n<Radro>... (Huh? They haven't noticed? Then, there's still a chance\nto handle this.)"
                             ]
                         },
                         {
@@ -5465,21 +5367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ふふふ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "身軽さには自信があるようね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、ここは私のホームグラウンドだよ。"
+                                "\\n<Radro>Hehehe. You seem confident in your agility. But this is my\nhome ground."
                             ]
                         },
                         {
@@ -5512,21 +5400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>万が一の事まで考えて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そこら中に罠を設置しているの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まさに、キミの足元にもね！"
+                                "\\n<Radro>I've thought of every possible scenario and set traps all\nover the place. Right at your feet, in fact!"
                             ]
                         },
                         {
@@ -5615,21 +5489,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>そのトリモチは強力だよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俊敏さが取柄だったみたいだけど、それも無意味になっちゃったね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "他の取柄もあるのかな？ん？"
+                                "\\n<Radro>That glue trap is strong. It seems agility was your forte,\nbut now that's become meaningless. Do you have any other\nstrengths? Hm?"
                             ]
                         },
                         {
@@ -5765,7 +5625,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>アッ！！！"
+                                "\\n<Radro>Ahh!!!"
                             ]
                         },
                         {
@@ -5928,14 +5788,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>あれ！？こんなにネバ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "う、うごけ・・・"
+                                "\\n<Radro>What?! It's so sticky...! I can't move..."
                             ]
                         },
                         {
@@ -5990,7 +5843,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ん・・・ぎぎぎぎ・・・！！"
+                                "\\n<Radro>Ngh... gggggh...!!"
                             ]
                         },
                         {
@@ -6045,7 +5898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>と・・・とれ・・・！！"
+                                "\\n<Radro>Off... get off...!!"
                             ]
                         },
                         {
@@ -6172,7 +6025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>と、取れたぁ！！"
+                                "\\n<Radro>And... it's off!!"
                             ]
                         },
                         {
@@ -6196,7 +6049,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
+                                "\\n<Radro>..."
                             ]
                         },
                         {
@@ -6227,14 +6080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>きゃぁぁぁぁ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見んといて！見んといてぇー！！！"
+                                "\\n<Radro>Kyaaahhh! Don't look! Don't look at me-!!!"
                             ]
                         },
                         {
@@ -6336,14 +6182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>にゃ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃにやって・・・？"
+                                "\\n<Rui>Nya... what are you doing...?"
                             ]
                         },
                         {
@@ -6370,14 +6209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ちょ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何やって・・・！"
+                                "\\n<Rui>Hey... what are you doing...!"
                             ]
                         },
                         {
@@ -6432,14 +6264,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>え、エロガキ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こっちみんな！"
+                                "\\n<Radro>Hey, you little pervert! Don't look this way!"
                             ]
                         },
                         {
@@ -6472,21 +6297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ん？あれ？アソコ・・・大きくなってる？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ruiって・・・ふたなり？）"
+                                "\\n<Radro>... (Hm? What's that? It's getting bigger? Is Rui... a\nfutanari?)"
                             ]
                         },
                         {
@@ -6513,21 +6324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ラドロ>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（ん？あれ？なんか・・・膨らましてるし・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "これは・・・チャンスかも？）"
+                                "\\n<Radro>... (Hm? What's that? It's swelling up... Could this be...\nan opportunity?)"
                             ]
                         },
                         {
@@ -6575,21 +6372,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>ふ・・・♥なるほどね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "弱点見つけたり。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここからは私が追い詰める番よ。"
+                                "\\n<Radro>Fuu...♥ I see. Found your weak spot. Now it's my turn to\ncorner you."
                             ]
                         },
                         {
@@ -6606,14 +6389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ラドロ>（私は負けられないもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どうせ減るもんじゃなし。恥を捨てるのよラドロ！）"
+                                "\\n<Radro>(I can't afford to lose. It's not like I have anything to\nlose. Time to cast aside my shame, Radro!)"
                             ]
                         },
                         {

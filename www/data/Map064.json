@@ -4257,21 +4257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>んにゃっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にゃんのおとぉ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "むにゅむにゅ・・・"
+                                "\\n<Rui>Nnnya... What's that sound...? Muni muni..."
                             ]
                         },
                         {
@@ -4305,21 +4291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>な、何の音だろう・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ふぁぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "むにゃ・・・むにゃ・・・"
+                                "\\n<Rui>Wh-What's that noise...? Faaah... Munya... munya..."
                             ]
                         },
                         {
@@ -4371,21 +4343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あれ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ルイ・・・？ルイどこ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おトイレ・・・？"
+                                "\\n<Rui>Huh...? Rui...? Where's Rui...? The bathroom...?"
                             ]
                         },
                         {
@@ -4419,21 +4377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ん・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ワンズ・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お手洗いか・・・？"
+                                "\\n<Rui>Hmm...? Ones...? Are they in the restroom...?"
                             ]
                         },
                         {
@@ -4576,14 +4520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>襲撃！！！襲撃だ！！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物が攻めてきたぞ！！！"
+                                "\\n<???>Attack!!! It's an attack!!! Monsters are assaulting us!!!"
                             ]
                         },
                         {
@@ -4649,7 +4586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ルイシャム！！"
+                                "\\n<Rui>Rui-sham!!"
                             ]
                         },
                         {
@@ -4683,7 +4620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ワンズワース！！"
+                                "\\n<Rui>Ones-Wars!!"
                             ]
                         },
                         {
@@ -5662,21 +5599,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋>なんじゃ魔物が攻めてきたんか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この町もこんな終わり方かい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょーもないのう。"
+                                "\\n<Innkeeper>\"What's this? Monsters are attacking? Is this how our town\nmeets its end? Pathetic.\""
                             ]
                         },
                         {
@@ -5693,21 +5616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋>あぁ？双子の片割れか？知らんわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "見とったかもしれんがもう覚えとらんわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ビール何杯目じゃ思うとんか？"
+                                "\\n<Innkeeper>\"Huh? One of the twins? I don't know. I might have seen\nthem, but I don't remember now. How many beers do you think\nI've had?\""
                             ]
                         },
                         {
@@ -5797,21 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋>わしゃもうええわ。長生きしたんじゃ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しょーもない人生じゃったわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物に食われてしまいかいな。"
+                                "\\n<Innkeeper>I've had enough. I've lived a long life. It was a pointless\nlife anyway. Might as well get eaten by monsters."
                             ]
                         },
                         {
@@ -5828,21 +5723,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<宿屋>お前ははよ逃げぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ばばあの肉でも、そこそこ食うとこあるで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "時間ぐらい稼いだるわい。"
+                                "\\n<Innkeeper>You better run fast. Even an old lady's flesh has some good\nbits to eat. I'll buy you some time."
                             ]
                         },
                         {
@@ -5941,21 +5822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>おい勝手に入ってくんじゃねーよネコ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "俺はもうめんどくせーからこのままでいいんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逃げるとこなんかありゃしねー。"
+                                "\\n<Old Man>Hey, don't just barge in here, cat. I'm too tired to care\nanymore, just leave me be. There's nowhere to run anyway."
                             ]
                         },
                         {
@@ -5972,14 +5839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>魔物に食われるかアル中で死ぬか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どーせ誤差みたいなもんだわ。"
+                                "\\n<Old Man>Whether I get eaten by monsters or die from alcohol, it's\nall the same in the end."
                             ]
                         },
                         {
@@ -5996,21 +5856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<おじさん>部屋にあるもん、使えるもんあったら持ってっていいぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もういらね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃあなネコ。"
+                                "\\n<Old Man>Anything in the room, if you can use it, take it. I don't\nneed it anymore. Later, cat."
                             ]
                         },
                         {
@@ -6561,21 +6407,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<行商人>やれやれ。晩酌の時間にこれか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面倒なことになったなぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミ、戦いに行くんだろう？ん。"
+                                "\\n<Peddler>Good grief. This is what happens during my drinking time.\nWhat a hassle this has become. You're going to fight, aren't\nyou? Huh."
                             ]
                         },
                         {
@@ -6703,21 +6535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<行商人>金？取るに決まってんじゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死ぬまで俺は商人なの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "死んだら全部もってっていいぞ。でも殺すなよ？"
+                                "\\n<Peddler>Money? Of course, I'm taking it. I'm a merchant until I die.\nWhen I'm dead, you can take it all. But don't kill me, okay?"
                             ]
                         },
                         {

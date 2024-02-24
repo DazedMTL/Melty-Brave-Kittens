@@ -7899,14 +7899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>おいおい！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんだそこのちっせえのは！？"
+                                "\\n<Sheika>Hey hey! What's with that tiny thing over there!?"
                             ]
                         },
                         {
@@ -7939,21 +7932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>やーん♥かわよー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どーしたの？迷い込んじゃったワケー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとりなの？ママは？"
+                                "\\n<Barley>Eek♥ So cute♥ What's wrong? Did you get lost? Are you alone?\nWhere's your mama?"
                             ]
                         },
                         {
@@ -7993,21 +7972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>お仕事で来たの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪い魔物をやっつけに！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "バカにしないで！冒険者なの！"
+                                "\\n<Rui>I'm here on a job! To defeat the evil monsters! Don't\nunderestimate me! I'm an adventurer!"
                             ]
                         },
                         {
@@ -8034,14 +7999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>お前達を退治しに来た冒険者だ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "正義の刃、覚悟しろ！"
+                                "\\n<Rui>I am the adventurer who has come to vanquish you all!\nPrepare yourselves for the blade of justice!"
                             ]
                         },
                         {
@@ -8107,14 +8065,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>あー？なんだってぇ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "聞こえねーよもっとでかい声で喋れや。"
+                                "\\n<Sheika>Huh-? What was that? Can't hear ya- Speak up, louder."
                             ]
                         },
                         {
@@ -8147,14 +8098,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>音響さーん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょっとBGM下げてぇ♥"
+                                "\\n<Barley>Sound person! Could you turn down the BGM a bit♥"
                             ]
                         },
                         {
@@ -8229,7 +8173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>もうちょっと！"
+                                "\\n<Barley>A little more!"
                             ]
                         },
                         {
@@ -8313,7 +8257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ばっちし♥"
+                                "\\n<Barley>Perfect♥"
                             ]
                         },
                         {
@@ -8346,21 +8290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>で？なんだって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "なんか冒険者がどーのこーのって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お前、あーしらのこと退治しに来たわけ？"
+                                "\\n<Sheika>So? What was it? Something about an adventurer blah blah\nblah. You came to exterminate us or something?"
                             ]
                         },
                         {
@@ -8393,7 +8323,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>普通に聞こえてんじゃん。"
+                                "\\n<Barley>I can hear you just fine."
                             ]
                         },
                         {
@@ -8426,14 +8356,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>なんだ冒険者かよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "誰かが気の利いた夜食でも頼んでくれたのかと思ったぜ★"
+                                "\\n<Sheika>What, an adventurer, huh. Thought someone ordered some tasty\nmidnight snack for us★"
                             ]
                         },
                         {
@@ -8466,21 +8389,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>でもそーね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチも、ちょっとお腹ペコだし♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "冒険者なら、食べちゃってもいいかも♥"
+                                "\\n<Barley>But yeah. I'm kinda hungry too♥ If it's an adventurer, maybe\nit's okay to eat them up♥"
                             ]
                         },
                         {
@@ -8617,21 +8526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>にゃぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おちゃけと・・・この匂いは・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "く、くらくらする・・・"
+                                "\\n<Rui>Nyaa... The booze and... this smell is... dizzying..."
                             ]
                         },
                         {
@@ -8658,21 +8553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ぐう・・・淫魔のフェロモン・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにアルコールの匂いが・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くらくらする・・・"
+                                "\\n<Rui>Guh... The succubus' pheromones... mixed with the smell of\nalcohol... making me dizzy..."
                             ]
                         },
                         {
@@ -8715,21 +8596,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>おいテメーら。ちょっとはけろ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今からこのフロアはコイツの貸し切りだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "搾精ショーの時間だぜ★"
+                                "\\n<Sheika>Hey you lot. Scram. From now on, this floor is reserved for\nthis one. It's time for the essence-draining show★"
                             ]
                         },
                         {
@@ -8762,21 +8629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>んふふ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結構良い魔力を持ってる感じするよーキミ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "美味しそ♥"
+                                "\\n<Barley>Nfufu♥ You seem to have quite some magical power, cutie♥\nLooks delicious♥"
                             ]
                         },
                         {
@@ -8809,21 +8662,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>酒飲みのカスどもは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしらがコイツとエロいコトするの見て"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マスでもかいてろ★"
+                                "\\n<Sheika>The drunken riffraff can just drool while watching us do the\nnaughty stuff with this one★"
                             ]
                         },
                         {
@@ -8856,21 +8695,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>搾り取られたかった人ごめんねー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日はこの冒険者さんに決めちった♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもいっぱい見てコーフンしてねー♥"
+                                "\\n<Barley>Sorry to those who wanted to be drained♥ We've decided on\nthis adventurer for today♥ But do watch and get all excited♥"
                             ]
                         },
                         {
@@ -9175,14 +9000,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>お、来たなチビ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ククク★"
+                                "\\n<Sheika>Oh, look who's here, shorty. Heh heh heh★"
                             ]
                         },
                         {
@@ -9215,21 +9033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>やっほー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ダンスフロアへようこそー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "踊る準備は出来てるー？"
+                                "\\n<Barley>Hey there♥ Welcome to the dance floor♥ Are you ready to\ndance?"
                             ]
                         },
                         {
@@ -9269,14 +9073,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>踊りに来たわけじゃないもん！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は逃がさないから！"
+                                "\\n<Rui>I didn't come here to dance! I won't let you escape today!"
                             ]
                         },
                         {
@@ -9303,14 +9100,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>踊りに来たわけじゃない！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日は逃がさないぞ！"
+                                "\\n<Rui>I'm not here to dance! You're not getting away today!"
                             ]
                         },
                         {
@@ -9385,14 +9175,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>あん？聞こえねーよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ぶりっ子は大声出したことねーのか？"
+                                "\\n<Sheika>Huh? Can't hear ya. Has the little princess never had to\nraise her voice before?"
                             ]
                         },
                         {
@@ -9435,14 +9218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>あん？なんつった？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もっと声張れや！金玉ついてんのか？"
+                                "\\n<Sheika>Huh? What was that? Speak up! You got balls or what?"
                             ]
                         },
                         {
@@ -9485,7 +9261,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>音響さーん！"
+                                "\\n<Barley>Sound person!"
                             ]
                         },
                         {
@@ -9588,7 +9364,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>さんきゅ♥"
+                                "\\n<Barley>Thank you♥"
                             ]
                         },
                         {
@@ -9621,14 +9397,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>テメェは踊らされるんだよ！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "手のひらの上でな★"
+                                "\\n<Sheika>You're gonna be the one dancing! Right in the palm of my\nhand★"
                             ]
                         },
                         {
@@ -9661,7 +9430,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>（やっぱ聞こえてんじゃん。）"
+                                "\\n<Barley>(So you can hear after all.)"
                             ]
                         },
                         {
@@ -9694,14 +9463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>アレから何人食って来たと思う？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あーしら淫魔は、精液搾れば搾るほど強くなるんだぜ★"
+                                "\\n<Sheika>How many do you think I've devoured since then? Us succubi\nget stronger the more semen we squeeze out★"
                             ]
                         },
                         {
@@ -9734,21 +9496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>オーディエンスは"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチらとえっちしたいお猿さんばっかだからねー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもでもー、お互い合意の上だから問題はナシ！"
+                                "\\n<Barley>The audience is just a bunch of monkeys who want to get it\non with us♥ But it's all consensual, so no problem!"
                             ]
                         },
                         {
@@ -9781,14 +9529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>死にてぇやつらに最高の思い出作ってやったんだ★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今頃あの世でマス掻いてるだろーぜ★"
+                                "\\n<Sheika>Gave those who wanted to die the best memories★ They must be\nscratching themselves silly in the afterlife right now★"
                             ]
                         },
                         {
@@ -9925,14 +9666,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ふにゃぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "な、なんか前より・・・"
+                                "\\n<Rui>Fwah...♥ S-something feels different than before..."
                             ]
                         },
                         {
@@ -9959,14 +9693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "クソ・・・前より明らかに濃くなってる・・・"
+                                "\\n<Rui>Ugh...♥ Damn... It's definitely thicker than before..."
                             ]
                         },
                         {
@@ -10009,21 +9736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ちなみにここは紹介制なの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ひとり連れてきたら、ご褒美に天国に連れていってもらえる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だからお客さんは減らなーい♥"
+                                "\\n<Barley>By the way, this place is by invitation only♥ Bring someone\nalong and you get rewarded with a trip to heaven♥ That's why\nwe never run out of customers♥"
                             ]
                         },
                         {
@@ -10056,21 +9769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>ところでチビは誰かの紹介かー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "されてねーよなぁ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃぁ、どーする？"
+                                "\\n<Sheika>So, shorty, who invited you? You weren't invited, were you?\nWhat are you gonna do now?"
                             ]
                         },
                         {
@@ -10110,14 +9809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>テメーらぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ルール違反はぁ！？"
+                                "\\n<Sheika>You bastards!! What about breaking the rules, huh?!?"
                             ]
                         },
                         {
@@ -10855,14 +10547,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<オーディエンス>公開処刑！（ショータイム！）\\.\\."
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "公開処刑！（ショータイム！）"
+                                "\\n<Audience>Public execution! (Showtime!) Public execution! (Showtime!)"
                             ]
                         },
                         {
@@ -10895,21 +10580,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>だってさ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "みんな見たがってるよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "キミが精子まき散らすとこ♥"
+                                "\\n<Barley>That's right♥ Everyone wants to see it♥ You spraying your\nseed everywhere♥"
                             ]
                         },
                         {
@@ -10949,14 +10620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>よっしゃー★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アゲてくぞテメーらぁ！"
+                                "\\n<Sheika>Alright★ Let's turn it up, you bastards!"
                             ]
                         },
                         {
@@ -10996,7 +10660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>れっつぱーりーなーい♥"
+                                "\\n<Barley>Let's party non-stop♥"
                             ]
                         },
                         {

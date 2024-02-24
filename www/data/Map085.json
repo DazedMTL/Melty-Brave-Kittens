@@ -3326,7 +3326,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "タライ・・・？"
+                                "Washbowl...?"
                             ]
                         },
                         {
@@ -3433,21 +3433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うにゃぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（こんなに出しちゃったの・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "は、恥ずかしいぃぃ・・・///）"
+                                "\\n<Rui>Nyaa... (I came this much...? Ah, it's so\nembarrassing...///)"
                             ]
                         },
                         {
@@ -3550,21 +3536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>に\"ゃぁぁぁぁぁ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "拍手やめてぇ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はずがじぃぃぃぃぃ！！！"
+                                "\\n<Rui>Nyaaaahhhhh!! Stop clapping, please!! It's soooo\nembarrassing!!!!"
                             ]
                         },
                         {
@@ -3625,21 +3597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>もうやだぁ・・・ふえぇぇぇ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "すん・・・すん・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "おうちかえぅ・・・ぐすん・・・"
+                                "\\n<Rui>I can't take it anymore... Waaahhh...! Sniff... sniff... I\nwant to go home... sob..."
                             ]
                         },
                         {
@@ -3682,21 +3640,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>うわ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（こんなに出したのか・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "は、恥ずかしい・・・///）"
+                                "\\n<Rui>Wow... (I came that much...? Ah, it's so embarrassing...///)"
                             ]
                         },
                         {
@@ -3771,21 +3715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>あ、どうも！失礼しました！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでは皆さん！ごきげんよう！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（うぁぁぁぁ！くっそ恥ずかしいぃぃぃ！！）"
+                                "\\n<Rui>Oh, thank you! Excuse me! Well then, everyone! Good day!\n(Aaaahhh! Damn it's so embarrassing!!!!)"
                             ]
                         },
                         {
@@ -3879,7 +3809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "帰還しますか？"
+                                "Will you return?"
                             ]
                         },
                         {
@@ -3887,8 +3817,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "はい",
-                                    "いいえ"
+                                    "Yes",
+                                    "No"
                                 ],
                                 1,
                                 0,
@@ -4052,21 +3982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>よーチビ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今日こそ、お前があーしとバーリィのどっちが好きか"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "白黒つけよーじゃん★"
+                                "\\n<Sheika>Hey, squirt. Today's the day you decide who you like more,\nme or Barley, right?★"
                             ]
                         },
                         {
@@ -4099,21 +4015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>って思ったんだけどさー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツの唾液ってチャームクッソつえーの。マジで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どう考えてもあーし不利じゃね？"
+                                "\\n<Sheika>That's what I thought, but man... that guy's saliva has some\nwicked charm to it. Seriously. No matter how you look at it,\nI'm at a disadvantage, right?"
                             ]
                         },
                         {
@@ -4146,21 +4048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>あーしですらアイツとキスしたら"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しばらくチャーム解けねーからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喋ってる時に唾飛んでくるだけで惚れちまうから。マジこえーよ。"
+                                "\\n<Sheika>Even I can't shake off his charm for a while after kissing\nhim. Just getting sprayed with his spit while he talks can\nmake you fall for him. It's seriously scary."
                             ]
                         },
                         {
@@ -4193,21 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>てことで、どっちが好きかってのは無しだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "喧嘩もしたくねーしな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふたりで仲良く搾り取ってやるよ★ククク★"
+                                "\\n<Sheika>So, let's forget about who you like more. I don't want to\nfight either. We'll just both get along and milk you dry\ntogether★ Hehehe★"
                             ]
                         },
                         {
@@ -4335,21 +4209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>あ？テメーレベル1じゃねーか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死ぬぞマジで。今日は止めとけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "死にたいならいつでも殺してやるから。"
+                                "\\n<Sheika>Huh? You're only level 1. You're seriously gonna die. Stop\nfor today. If you wanna die, I can kill you anytime."
                             ]
                         },
                         {
@@ -4410,21 +4270,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>Rui。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前だけだぜ。マジで本気出して負けたの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いやー、アレはテンション上がったわ。"
+                                "\\n<Sheika>Rui, it's just you. I seriously went all out and lost. Nah,\nthat really got me pumped up."
                             ]
                         },
                         {
@@ -4478,21 +4324,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>一応、あーしらは搾り殺してって"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "自分から頼んで来るアホしか殺してねーから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "超良い魔物だろ？な？"
+                                "\\n<Sheika>Just so you know, I only kill idiots who come to me asking\nto be squeezed to death. I'm a super nice demon, right?"
                             ]
                         },
                         {
@@ -4546,14 +4378,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>ちゃんとレベル上げて来たんだろうなー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あーしらとエロいコトするのにレベル低いとマジで死ぬぞ。"
+                                "\\n<Sheika>You did level up properly, right? If your level is too low\nwhen you do lewd things with me, you'll seriously die."
                             ]
                         },
                         {
@@ -4586,21 +4411,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>うーん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "レベル\\v[8]か。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、死にそうになるギリギリで止めといてやるよ。"
+                                "\\n<Sheika>Hmm, level \\v[8], huh? Well, I'll stop just before you're\nabout to die."
                             ]
                         },
                         {
@@ -4654,21 +4465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>淫魔は人間とエロいコトすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "嫌でも力吸い取っちまうからな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あーしらも別に殺したくて殺してるワケじゃねーんだぜ？"
+                                "\\n<Sheika>Succubi inevitably suck out power when they do lewd things\nwith humans. It's not like I want to kill them, you know?"
                             ]
                         },
                         {
@@ -4722,21 +4519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>ん？なんだ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人前であーしらに搾られるのが恥ずかしいのか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "良いじゃねーか。見せつけてやろーぜ★"
+                                "\\n<Sheika>Hm? What's the matter? Are you embarrassed to be squeezed by\nme in front of people? It's fine, let's show them what we've\ngot★"
                             ]
                         },
                         {
@@ -4778,21 +4561,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<シェイカ>お前が搾り取られるの目当てで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "女性客が増えてんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "しっかり射精して答えてやれよ？"
+                                "\\n<Sheika>The female customers are increasing just to see you get\nsqueezed dry. Make sure to ejaculate properly and give them\na good show, okay?"
                             ]
                         },
                         {
@@ -4865,14 +4634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>2対1で負けたの悔しーぜマジで。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今度またマジで殺し合いしような。"
+                                "\\n<Sheika>Losing two against one really pissed me off. Let's have a\nserious death match next time."
                             ]
                         },
                         {
@@ -4926,14 +4688,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>お？ちんぽ準備出来てんじゃん★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ククク★"
+                                "\\n<Sheika>Oh? Your cock is ready, huh★ Hehehe★"
                             ]
                         },
                         {
@@ -4975,21 +4730,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<シェイカ>ほら、見てみ？ククク★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "お前があーしらに搾り取られるの楽しみにしてるぜ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "あの女たち、お前がイカされるの見ながら濡らすんだろうな★"
+                                "\\n<Sheika>Look, see? Hehehe★ They're looking forward to seeing you get\nsqueezed by me. Those women are probably getting wet\nwatching you get off★"
                             ]
                         },
                         {
@@ -5053,21 +4794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>他の淫魔は人間なんて餌としか思ってねーが"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あーしらはダチだと思ってるぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、普通に搾り殺すけどな。"
+                                "\\n<Sheika>Other succubi might think of humans as nothing but food, but\nI consider them friends. Well, I'll still squeeze them to\ndeath as usual."
                             ]
                         },
                         {
@@ -5121,21 +4848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>お前酒はダメなの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コイツらみてーにベロベロになって騒ぐのも"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "たまには良いぜ？"
+                                "\\n<Sheika>Can't handle your liquor? It's nice to get wasted and make a\nracket with these guys once in a while, you know?"
                             ]
                         },
                         {
@@ -5189,21 +4902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>いやー、こんなおもしれー建物が残ってて良かったよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "音楽っての？身体が自然に動くっていうか。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そーゆーの知らなかったら、あーしはバーリィと仲良くなってねーな。"
+                                "\\n<Sheika>Nah, it's great that such a fun building is still standing.\nMusic, you know? It makes your body move on its own. If I\ndidn't know about this stuff, I wouldn't have become friends\nwith Barley."
                             ]
                         },
                         {
@@ -5250,14 +4949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<シェイカ>さーて、今日のショーはどうすっかな★"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[14]（シェイカ＆バーリィ　Lv\\v[703]）"
+                                "\\n<Sheika>So, what should we do for today's show★ \\C[14](Sheika &\nBarley Lv\\v[703])"
                             ]
                         },
                         {
@@ -5265,9 +4957,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "W手コキ",
-                                    "Wキス Lv10↑",
-                                    "Wパイズリ Lv15↑"
+                                    "Double Handjob",
+                                    "Double Kiss Lv10↑",
+                                    "Double Titjob Lv15↑"
                                 ],
                                 -2,
                                 0,
@@ -6110,14 +5802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>あっ♥Rui♥いえーい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "来てくれると思ってたー♥うれぴー♥"
+                                "\\n<Barley>Ahh♥ Rui♥ Yay♥ I had a feeling you'd come♥ I'm so happy♥"
                             ]
                         },
                         {
@@ -6150,21 +5835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>あのさ、Ruiがシェイカとウチどっちが好きかってやつ、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あれ、やっぱりウチが不利だと思うんだよねー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "だってシェイカの唾の媚薬効果やばいもん。"
+                                "\\n<Barley>You know, about whether Rui likes Sheika or me better, I\nthink I'm at a disadvantage. After all, Sheika's saliva has\nan insane aphrodisiac effect."
                             ]
                         },
                         {
@@ -6197,21 +5868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>前なんかベロチューされて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチ3時間ぐらいイキっぱなしにされたんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "マジきつかったもん。死ぬかと思った♥"
+                                "\\n<Barley>Like, this one time she gave me a French kiss and I was\ncoming non-stop for about three hours. It was seriously\ntough. I thought I was gonna die♥"
                             ]
                         },
                         {
@@ -6244,21 +5901,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>ウチらニコイチだし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "どっちが好きとかそういうの、もうナシ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ウチ、シェイカのこと大好きだから競いたくないし♥"
+                                "\\n<Barley>We're like two halves of a whole. So, all that stuff about\nwho you like more, let's not♥ I really love Sheika, so I\ndon't want to compete♥"
                             ]
                         },
                         {
@@ -6386,21 +6029,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>およ？レベル1じゃん。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "身体もたんよー。今日は帰りんちゃい。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "またえっちしたげるから♥お疲れ♥"
+                                "\\n<Barley>Oh? You're just level 1. You won't last. Better head home\nfor today. I'll give you some more love next time♥ Good\nwork♥"
                             ]
                         },
                         {
@@ -6461,21 +6090,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>Ruiと戦うのちょー楽しかったー♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アレで負けたなら、もう斬られてもいいかなって。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ほんのちょっとだけど思っちゃった♥"
+                                "\\n<Barley>Fighting with Rui was so much fun♥ If I'm going to lose like\nthat, I might as well be cut down. Just a little thought I\nhad♥"
                             ]
                         },
                         {
@@ -6529,21 +6144,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>ウチはシェイカとずっとここで踊れれば"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それでいいの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "だってそれが一番楽しいから♥"
+                                "\\n<Barley>All I need is to dance here forever with Sheika♥ Because\nthat's the most fun♥"
                             ]
                         },
                         {
@@ -6597,14 +6198,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>ん？このタライは何かって？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "なんだろうね？んー分かんない♥"
+                                "\\n<Barley>Hm? What's this washbowl for? What do you think? Hmm... I\ndon't know♥"
                             ]
                         },
                         {
@@ -6646,21 +6240,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<バーリィ>ほら客席見て♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "今日は女の子いっぱーい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "何でか分かるかなー？くすくす♥"
+                                "\\n<Barley>Look at the audience♥ There are so many girls today♥ Can you\nguess why? Teehee♥"
                             ]
                         },
                         {
@@ -6724,21 +6304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>ウチだって、人間さんは友達だと思ってるから"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "むやみやたらに搾り尽くしたりしないんよ？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "いや、そりゃぁ向こうがお願いして来たら搾りカスにするけど。"
+                                "\\n<Barley>I mean, I think of humans as friends, so I don't just drain\nthem recklessly, you know? Well, if they beg for it, then\nI'll drain them dry."
                             ]
                         },
                         {
@@ -6792,21 +6358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>人前でえっちなことするの恥ずかし？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "大丈夫大丈夫♥気にしないで♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そういう時は観客をナスビだと思えばいいんだよ。"
+                                "\\n<Barley>Is it embarrassing to do naughty things in front of people?\nIt's okay, it's okay♥ Don't worry about it♥ Just think of\nthe audience as eggplants."
                             ]
                         },
                         {
@@ -6839,21 +6391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>みんなRuiが搾り取られるところ見たくて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "集まってくれたんだからぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "サービスしてあげなきゃねー？くすくす♥"
+                                "\\n<Barley>Everyone gathered here to see Rui get drained. We've got to\nprovide some service, right? Teehee♥"
                             ]
                         },
                         {
@@ -6907,21 +6445,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>あ、おちんちん、おっきしてる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "もう準備出来てるみたい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "わくわくしながらここに来ちゃったんだ♥くすくす♥"
+                                "\\n<Barley>Ah, your dick is getting hard♥ Looks like you're ready♥ You\nmust have been excited on your way here♥ Teehee♥"
                             ]
                         },
                         {
@@ -6975,21 +6499,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>ウチら淫魔だからさ、人間さんとえっちすると"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "人間さん、簡単に壊れちゃうんだー。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "本当はもっと優しくしてあげたいんだけどねー♥"
+                                "\\n<Barley>Because we're succubi, when we get intimate with humans,\nthey break so easily... I really want to be gentler, but...♥"
                             ]
                         },
                         {
@@ -7043,14 +6553,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>Rui、ここに来たってことは、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "今日何されるか、分かってるよね？くすくす♥"
+                                "\\n<Barley>Rui, you came here knowing what's going to happen today,\nright? Teehee♥"
                             ]
                         },
                         {
@@ -7092,21 +6595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<バーリィ>ほら、お客さんも今日は女の子多いよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "みーんなRuiが目当て♥キミが犯されるの待ってる♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "帰りとか気を付けてね。逆レされそう♥"
+                                "\\n<Barley>Look, there are lots of girls in the audience today♥ They're\nall here for Rui♥ They're waiting to see you get ravished♥\nBe careful on your way home. You might get reverse-raped♥"
                             ]
                         },
                         {
@@ -7170,21 +6659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>シャイカ怒りっぽいからさー、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "喧嘩した時は、いきなりウチがちゅーするの♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そしたらチャームでメロメロになりながら怒るの♥"
+                                "\\n<Barley>Sheika gets angry easily, so when we fight, I just kiss her\nout of nowhere♥ Then she gets all melty and angry under the\ncharm's effect♥"
                             ]
                         },
                         {
@@ -7217,21 +6692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>お前いい加減にしろよ♥マジ殺す♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちは本気で怒ってんだぞ♥あぁ？って"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ウチのこと抱きしめながら言って来るの♥ちょーうける♥"
+                                "\\n<Barley>Enough already♥ Seriously, I'll kill you♥ I'm really angry\nhere♥ And then you come hugging me saying \"Ahh?\"♥ It's\nhilarious♥"
                             ]
                         },
                         {
@@ -7273,21 +6734,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<シェイカ>これ。マジ腹立つから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こっちはマジ切れしてんのに、初恋の乙女みてーにされるんだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "殴りてーのに殴れねーのよ。愛しいのよ。次やったらマジ殺すぞ。"
+                                "\\n<Sheika>This really pisses me off. I'm seriously furious, and yet\nI'm treated like a maiden in love. I want to hit you but\ncan't. It's because I love you. Do it again and I'll\nseriously kill you."
                             ]
                         },
                         {
@@ -7357,21 +6804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<バーリィ>音楽っていいよね♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "みんなで盛り上がれば魔物も人間も仲良くなれるのに♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "まぁ、つい搾り殺しちゃう時はあるけどさー♥"
+                                "\\n<Barley>Music is great, isn't it♥ If everyone got hyped together,\nmonsters and humans could get along♥ Well, there are times\nwhen I accidentally drain someone to death though♥"
                             ]
                         },
                         {
@@ -7418,14 +6851,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<バーリィ>それじゃ、本日のプログラムはー？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[14]（シェイカ＆バーリィ　Lv\\v[705]）"
+                                "\\n<Barley>So, what's on the agenda for today?\\C[14] (Sheika & Barley\nLv\\v[705])"
                             ]
                         },
                         {
@@ -7433,9 +6859,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "W手コキ",
-                                    "Wキス Lv10↑",
-                                    "Wパイズリ Lv15↑"
+                                    "Double Handjob",
+                                    "Double Kiss Lv10↑",
+                                    "Double Paizuri Lv15↑"
                                 ],
                                 -2,
                                 0,

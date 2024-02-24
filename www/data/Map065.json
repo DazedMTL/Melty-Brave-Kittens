@@ -4879,14 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>Rui・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の様子はどうだ！？"
+                                "\\n<Guild Master>Rui...! What's the situation in town?"
                             ]
                         },
                         {
@@ -5031,14 +5024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ルイがいなくなった！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなクソ大変な時に・・・！"
+                                "\\n<Guild Master>Rui has disappeared!? At a time like this...!"
                             ]
                         },
                         {
@@ -5065,14 +5051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ワンズの様子がおかしい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔物に何かされたのか・・・！？"
+                                "\\n<Guild Master>Something's wrong with the Wanz! Have the monsters done\nsomething...?"
                             ]
                         },
                         {
@@ -5115,21 +5094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>そ、それより・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物が急に襲ってきた理由が分かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソ野郎が・・・ハメやがった。"
+                                "\\n<Guild Master>More importantly... I've figured out why the monsters\nsuddenly attacked. That bastard... set us up."
                             ]
                         },
                         {
@@ -5296,21 +5261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>コイツは呼狼石だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Ruiは知っているな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かに黄色く光っていた。だが・・・"
+                                "\\n<Guild Master>This is a Howlstone. You know about it, right Rui? It was\ncertainly glowing yellow. But..."
                             ]
                         },
                         {
@@ -5337,21 +5288,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>コイツは呼狼石の偽物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノブレス伯爵がここに置いていきやがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっきまでは、確かに黄色く光ってたんだ。"
+                                "\\n<Guild Master>This is a fake Howlstone. The Noblesse Count left it here.\nUntil a moment ago, it was definitely glowing yellow."
                             ]
                         },
                         {
@@ -5378,14 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>血みてぇな赤い光を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風の結界、緑色の膜で覆って黄色に光らせてたんだ。"
+                                "\\n<Guild Master>It was emitting a blood-like red glow... covered by a green\nmembrane of wind barrier, making it appear yellow."
                             ]
                         },
                         {
@@ -5464,14 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>そ、それはまさか血凝晶では・・・！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "何故そんなものがここに！！"
+                                "\\n<Old Man>Could it be... a Blood Crystal!? Why is such a thing here!!"
                             ]
                         },
                         {
@@ -5497,21 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>遥か昔、属性戦争時の負の遺産です。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "かつて人々が争い、殺し合っていた時代。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血と死体の中から生成される、悪意の結晶・・・"
+                                "\\n<Old Man>A negative legacy from the ancient Elemental Wars. In an era\nwhen people fought and killed each other. A crystal of\nmalice formed from blood and corpses..."
                             ]
                         },
                         {
@@ -5537,21 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>魔物は悪意の塊だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほどの大物、そりゃ集まってくるわけだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やつらの大好物だぜ。"
+                                "\\n<Guild Master>Monsters are masses of malice. With something this big, no\nwonder they're gathering... It's their favorite treat."
                             ]
                         },
                         {
@@ -5619,21 +5514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ラドロにわざと盗ませやがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなに俺たちが憎いか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "上から見下すだけじゃ、足りねーのか。"
+                                "\\n<Guild Master>Had Radlo steal it on purpose. Do they hate us that much...?\nIsn't looking down on us from above enough for them?"
                             ]
                         },
                         {
@@ -5660,21 +5541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>どんどん光が強くなってるぜ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "触っているだけでも、は、吐きそうだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなもん押し付けやがって、あのタヌキが。"
+                                "\\n<Guild Master>The light's getting stronger and stronger... Just touching\nit makes me feel like I'm gonna puke... That damn raccoon\npushed this onto us."
                             ]
                         },
                         {
@@ -5710,21 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>魔物に渡しても素直に帰ってはくれないでしょうね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "むしろ、力を付けて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "更に町を破壊するかもしれません。"
+                                "\\n<Old Man>Even if we give it to the monsters, they won't just\nobediently go back. Rather, they might gain strength and\ndestroy the town even more."
                             ]
                         },
                         {
@@ -5750,21 +5603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>こんな時にリンクスがいればな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツは風の魔力を持つ結界師だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度、封印できれば・・・"
+                                "\\n<Guild Master>If only Lynx were here at a time like this. He was a barrier\nmaster with the power of wind. If we could seal it again..."
                             ]
                         },
                         {
@@ -5804,14 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>風の魔力・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来るかもしれない。やってみる！"
+                                "\\n<Rui>The power of wind... I might be able to do it. I'll try!"
                             ]
                         },
                         {
@@ -6065,21 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>で、できた・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもこれじゃ、そんなに持たないかも・・・"
+                                "\\n<Rui>I did it... hah... hah... but this might not hold for very\nlong..."
                             ]
                         },
                         {
@@ -6112,21 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>いや、よくやった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "今のうちにコイツをどこかに運んじまえば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物はそっちに流されていく。"
+                                "\\n<Guild Master>No, well done! If we move this thing somewhere now... the\nmonsters will be drawn to it."
                             ]
                         },
                         {
@@ -6159,14 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>まさか、貴族街に！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなことをしては、また大量に死者が出るだけですぞ！"
+                                "\\n<Old Man>Surely not to the noble district!? If we do that, it will\nonly result in a large number of deaths again!"
                             ]
                         },
                         {
@@ -6192,14 +5989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>じゃあどうしろって言うんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下が滅ぶか、上が滅ぶかだろ。"
+                                "\\n<Guild Master>Then what do you suggest we do? It's either the lower class\nor the upper class that gets destroyed."
                             ]
                         },
                         {
@@ -6225,21 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<じいや>・・・ひとまず、"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界を張れるRuiにそれを持っていてもらいましょう。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禍々しい力を封じて、魔物も少し大人しくなっているはずです。"
+                                "\\n<Old Man>...For now, let's have Rui, who can cast barriers, hold onto\nit. By sealing its ominous power, the monsters should become\na bit more docile."
                             ]
                         },
                         {
@@ -6265,14 +6041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>ちっ・・・まぁ、そうだな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず今のうちに魔物の数を減らそう。"
+                                "\\n<Guild Master>Tch... Well, that's true. Let's reduce the number of\nmonsters while we can."
                             ]
                         },
                         {
@@ -6432,7 +6201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "ここまでのお話をセーブしますか？"
+                                "Would you like to save the progress of the story so far?"
                             ]
                         },
                         {
@@ -6440,8 +6209,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "セーブする",
-                                    "大丈夫"
+                                    "Save",
+                                    "It's okay"
                                 ],
                                 1,
                                 -1,
@@ -6579,14 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>Rui・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "町の様子はどうだ！？"
+                                "\\n<Guild Master>Rui...! What's the situation in town?"
                             ]
                         },
                         {
@@ -6731,14 +6493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ルイがいなくなった！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こんなクソ大変な時に・・・！"
+                                "\\n<Guild Master>Rui has disappeared!? At a time like this...!"
                             ]
                         },
                         {
@@ -6765,14 +6520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ワンズの様子がおかしい！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "魔物に何かされたのか・・・！？"
+                                "\\n<Guild Master>Something's wrong with the Wanz! Have the monsters done\nsomething...?"
                             ]
                         },
                         {
@@ -6815,21 +6563,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>そ、それより・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物が急に襲ってきた理由が分かったぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソ野郎が・・・ハメやがった。"
+                                "\\n<Guild Master>More importantly... I've figured out why the monsters\nsuddenly attacked. That bastard... set us up."
                             ]
                         },
                         {
@@ -6987,21 +6721,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>コイツは\\C[14]『呼狼石』\\C[0]の偽物。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ノブレス伯爵がここに置いていった物だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "さっきまで、確かに黄色く光っていた。"
+                                "\\n<Guild Master>This is a fake \\C[14]\"Wolf-Calling Stone\"\\C[0]. It was left\nhere by Count Noblesse. Until a moment ago, it was certainly\nglowing yellow."
                             ]
                         },
                         {
@@ -7028,21 +6748,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>コイツは\\C[14]『呼狼石』\\C[0]だ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ラドロが盗んだ宝石。知っているな？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "確かに黄色く光っていた。"
+                                "\\n<Guild Master>This is the \\C[14]\"Wolf-Calling Stone\"\\C[0]. The gemstone\nstolen by Ladro. You know about it, right? It was definitely\nglowing yellow."
                             ]
                         },
                         {
@@ -7069,21 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>だが、本当は黄色じゃなかった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "血みてぇな赤い光を・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "風の結界、緑色のフィルターを通して黄色に光らせてたんだ。"
+                                "\\n<Guild Master>But in reality, it wasn't yellow. It was emitting a blood-\nlike red light... through a green filter of a wind barrier,\nmaking it appear yellow."
                             ]
                         },
                         {
@@ -7121,21 +6813,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>コイツは宝石なんかじゃねえ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "\\C[10]『凝血晶（ぎょうけっしょう）』\\C[0]。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "遥か昔、属性戦争の負の遺産だ。"
+                                "\\n<Guild Master>This isn't a gemstone. It's a \\C[10]\"Coagulation\nCrystal\"\\C[0]. A negative legacy from the ancient Attribute\nWars."
                             ]
                         },
                         {
@@ -7152,21 +6830,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>かつて人々が争い、殺し合っていた時代。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "流れる血と、折り重なった死体の周囲に自然生成される結晶・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "憎悪と悪意の塊のようなもんだ。"
+                                "\\n<Guild Master>Back when people fought and killed each other. A crystal\nnaturally formed around flowing blood and piled-up\ncorpses... like a mass of hatred and malice."
                             ]
                         },
                         {
@@ -7183,21 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>結界が薄れて、禍々しい魔力が溢れ出して来た。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "これほどの大物、そりゃ魔物が集まってくるわけだ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やつらの大好物だぜ・・・"
+                                "\\n<Guild Master>The barrier has weakened, and ominous magical power is\noverflowing. With such a big piece, it's no wonder monsters\nare gathering. It's their favorite..."
                             ]
                         },
                         {
@@ -7270,21 +6920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>どんどん光が強くなってやがる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "近くにいるだけでも、は、吐きそうだ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "こんなもん押し付けやがって、あのタヌキが。"
+                                "\\n<Guild Master>The light is getting stronger and stronger. Just being near\nit makes me feel like vomiting... That damn raccoon pushed\nthis onto us."
                             ]
                         },
                         {
@@ -7310,21 +6946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>ノブレスの野郎、ラドロにわざと盗ませやがった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そんなに俺たちが憎いか・・・？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "上から見下すだけじゃ、足りねーのか。"
+                                "\\n<Guild Master>That Noblesse bastard, he intentionally had Ladro steal it.\nDoes he hate us that much...? Isn't it enough for him to\nlook down on us from above?"
                             ]
                         },
                         {
@@ -7367,14 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>そんなもの！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう魔物に渡してしまえば・・・！"
+                                "\\n<Rui>No way! If we just hand it over to the monsters...!"
                             ]
                         },
                         {
@@ -7407,21 +7022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>魔物にこれを渡したところで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "素直に帰ってくれるわけねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "逆に、力を付けて皆殺しにされるぞ。"
+                                "\\n<Guild Master>Even if we hand this over to the monsters, they won't just\nobediently go back. On the contrary, they'll gain strength\nand slaughter everyone."
                             ]
                         },
                         {
@@ -7438,21 +7039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>こんな時にリンクスがいればな。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アイツは風の魔力を持つ結界師だった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "もう一度、封印できれば・・・"
+                                "\\n<Guild Master>If only Lynx were here at a time like this. He was a barrier\nmage with the power of wind. If we could seal it again..."
                             ]
                         },
                         {
@@ -7492,14 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>風の魔力・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "出来るかもしれない。やってみる！"
+                                "\\n<Rui>The power of wind... I might be able to do it. I'll try!"
                             ]
                         },
                         {
@@ -7791,21 +7371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>で、できた！はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でもこれじゃ、そんなに持たないかも。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "結界術は得意じゃないから・・・"
+                                "\\n<Rui>I did it! Haah... haah... But this might not last very long.\nBarrier magic isn't my specialty..."
                             ]
                         },
                         {
@@ -7838,21 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>いや、よくやった！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "すぐ解けるなら、今のうちにコイツを運んじまえば・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔物はそっちに誘導されるはずだ。"
+                                "\\n<Guild Master>No, you did well! If it's going to come undone soon, we\nshould transport this thing now... The monsters should be\nlured that way."
                             ]
                         },
                         {
@@ -7899,21 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>待って！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それって、貴族街にこれを・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "そんなのダメだよ！"
+                                "\\n<Rui>Wait! You mean to take this to the nobles' district...!?\nThat's not okay!"
                             ]
                         },
                         {
@@ -7953,14 +7491,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>じゃあどうしろって言うんだよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "下が滅ぶか、上が滅ぶかだろ！"
+                                "\\n<Guild Master>Then what do you suggest we do? It's either the lower class\nor the upper class that gets destroyed!"
                             ]
                         },
                         {
@@ -7993,21 +7524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>ちっ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とりあえず、今のうちに魔物の数を減らすぞ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "封印されてる間は、魔物も少しは大人しくなるはずだ。"
+                                "\\n<Guild Master>Tch... For now, let's reduce the number of monsters while\nit's sealed. They should be a bit calmer while sealed."
                             ]
                         },
                         {
@@ -8024,21 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>お前が持っていてくれないか？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "封印が切れた時に、すぐ対応できるように・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "頼むぞ。"
+                                "\\n<Guild Master>Can you hold onto it? So you can respond immediately when\nthe seal breaks... I'm counting on you."
                             ]
                         },
                         {
@@ -8356,14 +7859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>だ、誰だ！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "テメェ、魔物か！"
+                                "\\n<Guild Master>Who's there!? Are you a demon?!"
                             ]
                         },
                         {
@@ -8451,21 +7947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>あら、初対面の相手に向かってテメェなんて"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "礼儀がなってないんじゃない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ここの住民って、みんなそうなの？"
+                                "\\n<???>Oh my, isn't it rude to address someone you've just met as\n'you'? Is everyone around here like that?"
                             ]
                         },
                         {
@@ -8482,14 +7964,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<？？？>私はテラ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "別に名前なんて覚えてもらう必要ないけれど。"
+                                "\\n<???>I am Terra. Not that you need to remember my name or\nanything."
                             ]
                         },
                         {
@@ -8506,21 +7981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>ねぇ、さっきまでこの辺りで"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "禍々しい魔力を感じたんだけど、アナタたち知らない？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "とても上質な悪意の塊・・・"
+                                "\\n<Terra>Hey, I felt a malevolent magical power around here just a\nmoment ago, do you know anything about it? It was a very\nhigh-quality mass of malice..."
                             ]
                         },
                         {
@@ -8537,21 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>おかしいわねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "この建物かと思ったのだけれど。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "まぁいいわ。少し休憩させてもらいましょ。"
+                                "\\n<Terra>How strange. I thought it was this building. Well, never\nmind. Let's take a little break."
                             ]
                         },
                         {
@@ -8629,14 +8076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>あーぁ、なんで私がこんな面倒なことを"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しなければいけないのかしら。"
+                                "\\n<Terra>Ahh, why do I have to deal with such troublesome things."
                             ]
                         },
                         {
@@ -8676,21 +8116,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（なんだコイツ・・・隙だらけだぜ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "舐めやがって・・・死ね！）"
+                                "\\n<Guild Master>... (What's with this person... So full of openings. They're\nunderestimating me... Die!)"
                             ]
                         },
                         {
@@ -8811,14 +8237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>が・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "あっ・・・♥"
+                                "\\n<Guild Master>Ga...♥ Ah...♥"
                             ]
                         },
                         {
@@ -8917,14 +8336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>ん？アナタが椅子になってくれるの？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "気が利くじゃない。"
+                                "\\n<Terra>Hm? You're offering to be my chair? How considerate of you."
                             ]
                         },
                         {
@@ -8953,21 +8365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>ひっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "うぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（な、何をされたんだ・・・♥）"
+                                "\\n<Guild Master>Hii...♥ Uwa...♥ (What... what was done to me...♥)"
                             ]
                         },
                         {
@@ -8996,21 +8394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>あっ♥あっ♥あぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（すれ違いざまに手が触れただけで・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ぐ・・・うぅ・・・♥）"
+                                "\\n<Guild Master>Ahh♥ Ahh♥ Aah...♥ (Just brushing hands as we passed by...\nGah... Ugh...♥)"
                             ]
                         },
                         {
@@ -9027,21 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（俺は・・・射精させられたのか？嘘だろ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くそ、興奮が・・・おさまらねぇ・・・！）"
+                                "\\n<Guild Master>Haa...♥ Haa...♥ (Did I just... ejaculate? No way... Damn, I\ncan't... calm down the excitement...!)"
                             ]
                         },
                         {
@@ -9243,21 +8613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>はぁ・・・はぁ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、待ってくれ・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "い、いきなりそんな・・・！"
+                                "\\n<Guild Master>Haah... Haah...! Wait...! Don't just suddenly...!"
                             ]
                         },
                         {
@@ -9274,14 +8630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>私はちょっと疲れたから、腰を下ろしたいだけ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "普通、椅子は喋らないと思うんだけど。"
+                                "\\n<Terra>I'm just a bit tired and want to sit down. Normally, chairs\ndon't talk, you know."
                             ]
                         },
                         {
@@ -9343,7 +8692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>あ・・・"
+                                "\\n<Guild Master>Ah..."
                             ]
                         },
                         {
@@ -9360,7 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>あっあっあっ・・・♥"
+                                "\\n<Guild Master>Ahh! Ahh! Ahh...♥"
                             ]
                         },
                         {
@@ -9384,7 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>あがぁぁぁぁぁぁぁぁ♥♥♥"
+                                "\\n<Guild Master>Aghhhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -9408,21 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>ふぁ～ぁ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "はぁ・・・入れただけなのに。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "本当につまらない男。"
+                                "\\n<Terra>Fwah... Haah... Just by putting it in. You're such a boring\nman."
                             ]
                         },
                         {
@@ -9439,14 +8774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>う・・・ぐぅ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "（力が・・・入らね・・・え・・・）"
+                                "\\n<Guild Master>Ugh... Guh...♥ (I can't... muster any... strength...)"
                             ]
                         },
                         {
@@ -9477,14 +8805,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>動かないでいてあげるから。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ほら、少しは射精を我慢してみなさい。"
+                                "\\n<Terra>I'll stay still for you. Now, try to hold back your\nejaculation a little."
                             ]
                         },
                         {
@@ -9501,14 +8822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>う・・・く・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ま、魔物・・・ごときに・・・"
+                                "\\n<Guild Master>Ugh... Hngh...♥ A mere monster... won't..."
                             ]
                         },
                         {
@@ -9525,21 +8839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>あら♥いいじゃない♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私にまたがられて反抗的な目を出来たのは、アナタが始めてよ♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Terra>Oh♥ Isn't that nice♥ You're the first one to give me such a\ndefiant look while I'm riding you♥ Teehee♥"
                             ]
                         },
                         {
@@ -9556,14 +8856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>はぁ・・・はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "クソ・・・が・・・♥"
+                                "\\n<Guild Master>Haah... Haah... Damn it...♥"
                             ]
                         },
                         {
@@ -9580,21 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>Rui・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "コイツを・・・斬れ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "き・・・♥あっあっ♥"
+                                "\\n<Guild Master>Rui...! Cut this one down...♥ Ki...♥ Ahh! Ahh!♥"
                             ]
                         },
                         {
@@ -9618,7 +8897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>ああああぁぁぁぁぁぁ♥♥♥♥"
+                                "\\n<Guild Master>Aaaaaahhhhhhh♥♥♥♥"
                             ]
                         },
                         {
@@ -9635,21 +8914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>はぁ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "達者なのは口だけなのね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を感じさせてくれる人、いないかしら。"
+                                "\\n<Terra>Haah... The only thing you're good at is talking. I wonder\nif there's anyone who can make me feel good."
                             ]
                         },
                         {
@@ -9692,21 +8957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<ギルドマスター>ひ・・・♥ひいいいいい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "しゃ、射精が止まらな・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "吸い取られ・・・♥"
+                                "\\n<Guild Master>Hee...♥ Heeeiiiiiiii♥ My ejaculation won't stop...♥ It's\nbeing sucked out...♥"
                             ]
                         },
                         {
@@ -9730,21 +8981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>Rui。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "私を斬らないの？今無防備よ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ふふ♥"
+                                "\\n<Terra>Rui. You're not going to cut me? I'm defenseless right now.\nFufu♥"
                             ]
                         },
                         {
@@ -9779,14 +9016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>う・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うわあああああああああ！！！"
+                                "\\n<Rui>Ugh... Uwaaaaaaaaaah!!!"
                             ]
                         },
                         {
@@ -10009,21 +9239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>あ・・・ぐ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "はぁ・・・♥はぁ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "Rui・・・すまん・・・助かった・・・！"
+                                "\\n<Guild Master>Ah... Guh...♥ Haah...♥ Haah...♥ Rui... sorry... I owe you\none...!"
                             ]
                         },
                         {
@@ -10078,21 +9294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ふぅ・・・ふぅ・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（危なかった！足がすくんで動けなかった・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "コイツ・・・強い！！）"
+                                "\\n<Rui>Phew... Phew... (That was close! My legs were frozen; I\ncouldn't move...! This one's strong!!)"
                             ]
                         },
                         {
@@ -10125,21 +9327,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>ふーん♥猫ちゃん♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "思ったよりやるじゃない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "そのまま動けずに見殺しにすると思ってたけど。"
+                                "\\n<Terra>Hm-hm♥ Kitty cat♥ You did better than I thought. I was sure\nyou'd just stand there and watch him die."
                             ]
                         },
                         {
@@ -10172,21 +9360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>カッコよかったわよ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "ペニスを勃起させてなきゃね。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "くすくす♥"
+                                "\\n<Terra>You looked so cool. If only your penis wasn't erect. Teehee♥"
                             ]
                         },
                         {
@@ -10217,14 +9391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>マスター！逃げて！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（く、くそ・・・どうすれば・・・！）"
+                                "\\n<Rui>Master! Run away! (Damn it, what should I do...!)"
                             ]
                         },
                         {
@@ -10257,14 +9424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>Rui・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "悪い！死ぬなよ！"
+                                "\\n<Guild Master>Rui...! My bad! Don't you die on me!"
                             ]
                         },
                         {
@@ -10507,7 +9667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>あああああああああああぁぁぁぁぁ♥♥♥"
+                                "\\n<Guild Master>Aaaaaaaaaaaaaahhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -10524,21 +9684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>ねぇ見てこの男。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "私、何もしてないのにずーっと射精しっぱなし。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "カッコ悪いわねぇ。情けない。"
+                                "\\n<Terra>Look at this man. I'm not doing anything and he keeps\nejaculating non-stop. How uncool. Pathetic."
                             ]
                         },
                         {
@@ -10562,14 +9708,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>あっあっ・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "あぐ！あぁ！！あぁぁぁぁ♥♥♥"
+                                "\\n<Guild Master>Ahh! Ahh...! Aguh! Ahh!! Aaaaaahhhh♥♥♥"
                             ]
                         },
                         {
@@ -10593,7 +9732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>イグぅぅぅぅぅうぅぅぅっぅうう♥♥♥"
+                                "\\n<Guild Master>I'm cuuummmiiingggggggggg♥♥♥"
                             ]
                         },
                         {
@@ -10610,14 +9749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>ふぁ～・・・退屈。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "何か面白い事ないかしら。"
+                                "\\n<Terra>Fwah~ Boring. Isn't there something interesting to do?"
                             ]
                         },
                         {
@@ -10634,14 +9766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>Rui・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "にげ・・・"
+                                "\\n<Guild Master>Rui... run..."
                             ]
                         },
                         {
@@ -10658,7 +9783,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
+                                "\\n<Guild Master>..."
                             ]
                         },
                         {
@@ -10720,21 +9845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>あーぁ。もう干乾びちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "脆い椅子だわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "精も別に美味しくないし。"
+                                "\\n<Terra>Ah-ah. He's all dried up. Such a fragile chair. And his\nsemen wasn't even tasty."
                             ]
                         },
                         {
@@ -10765,7 +9876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<ギルドマスター>・・・"
+                                "\\n<Guild Master>..."
                             ]
                         },
                         {
@@ -10911,21 +10022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>さてと。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "アナタはどうしましょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ただ普通に搾り取っても、つまらないわね。"
+                                "\\n<Terra>Now then, what to do with you. Just milking you normally\nwould be boring."
                             ]
                         },
                         {
@@ -10967,21 +10064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>くすくす・・・♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "それにしても、そっくりねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタ、ルイの双子ちゃんでしょ。"
+                                "\\n<Terra>Teehee...♥ But really, you look so much alike. You must be\nRui's twin, right?"
                             ]
                         },
                         {
@@ -11021,21 +10104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ルイ・・・！？ルイはどこ！！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "（さっき変な幻覚見せられたのも・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "こいつのしわざ！？）"
+                                "\\n<Rui>Rui...!? Where's Rui!! (Was that strange hallucination\nearlier also this one's doing!?)"
                             ]
                         },
                         {
@@ -11078,21 +10147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<テラ>それにしても、そっくりねぇ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "アナタ、ワンズの双子ちゃんでしょ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "うふふ♥"
+                                "\\n<Terra>But really, you look so much alike. You must be the twins\nfrom Wanz, right? Ufufu♥"
                             ]
                         },
                         {
@@ -11132,14 +10187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>ワンズ・・・！？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 1,
-                            "parameters": [
-                                "お前がワンズに何かしたのか・・・！？"
+                                "\\n<Rui>Wanz...!? Did you do something to Wanz...!?"
                             ]
                         },
                         {
@@ -11182,14 +10230,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>教えて欲しい？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "じゃぁ、ちょっとしたゲームをしましょう。"
+                                "\\n<Terra>Want to know? Then let's play a little game."
                             ]
                         },
                         {
@@ -11222,21 +10263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>チャンスがないと、獲物は本気を出してくれないもの。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "足掻いて足掻いて、精一杯生にしがみついて、諦めて、絶望する。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "それが一番美味しいデザートの作り方♥"
+                                "\\n<Terra>Prey doesn't show their true effort unless they have no\nchance. Struggle and cling desperately to life, then give up\nand despair. That's how to make the most delicious dessert♥"
                             ]
                         },
                         {
@@ -11384,14 +10411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>あら、とってもかわいい♥"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "お人形さんみたいよ♥うふふ♥"
+                                "\\n<Terra>Oh, how cute♥ You look just like a doll♥ Ufufu♥"
                             ]
                         },
                         {
@@ -11440,21 +10460,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（あれ？身体が縮んでる・・・！？ミニマム！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "や、やだ・・・こんなの勝てるわけ・・・）"
+                                "\\n<Rui>...! (Huh? My body's shrinking...!? Minimum! No, no way... I\ncan't win like this...)"
                             ]
                         },
                         {
@@ -11478,21 +10484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>（に、逃げないと・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "マスターごめん！また動けなかった・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも、ルイだけは・・・！）"
+                                "\\n<Rui>(I-I have to escape...! Master, I'm sorry! I couldn't move\nagain...! But I must protect Rui at least...!)"
                             ]
                         },
                         {
@@ -11526,21 +10518,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（か、身体が縮んだ・・・！ミニマム・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "こ、こんなの勝てるわけな・・・）"
+                                "\\n<Rui>...! (My body's shrinking...! Minimum...! There's no way I\ncan win like this...)"
                             ]
                         },
                         {
@@ -11564,21 +10542,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>（逃げないと！あ、足がもう動く・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "マスター・・・また助けられなかった・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "でも、ワンズだけは・・・！）"
+                                "\\n<Rui>(I have to escape! Ah, my legs can move again...! Master...\nI couldn't be saved again... But I must protect Wanz at\nleast...!)"
                             ]
                         },
                         {
@@ -11631,21 +10595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（あれ？身体が縮んでる・・・！？ミニマム！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "結界術で魔力を使ってなければ、こんなの平気なのに！）"
+                                "\\n<Rui>...! (Huh? My body's shrinking...!? Minimum! If I hadn't\nused my magic for the barrier spell, this would be nothing\nto me!)"
                             ]
                         },
                         {
@@ -11669,21 +10619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（でも逃げるのにはちょうどいいサイズかも？"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "私は猫だもん！走ったら誰も追いつけないはず！）"
+                                "\\n<Rui>...(But maybe this size is just right for escaping? I am a\ncat after all! If I run, no one should be able to catch up!)"
                             ]
                         },
                         {
@@ -11717,21 +10653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（か、身体が縮んだ・・・！ミニマム・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "さっきの結界術で魔力を使ってなければ、こんなもの・・・）"
+                                "\\n<Rui>...! (My body's shrinking...! Minimum...! If I hadn't used\nmy magic for that barrier spell earlier, this would be\nnothing...)"
                             ]
                         },
                         {
@@ -11755,21 +10677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "（走り回って魔力を回復するしかない。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 2,
-                            "parameters": [
-                                "小さくても猫だ！捕まえにくいのは利点かも！）"
+                                "\\n<Rui>...(The only thing to do is run around and recover my magic.\nEven if I'm small, I'm still a cat! Being hard to catch\nmight be an advantage!)"
                             ]
                         },
                         {
@@ -11818,21 +10726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>その姿で生き残ればアナタの勝ち。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "でも、外は淫魔で溢れかえってる。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力を回復して元の大きさに戻れるかしら・・・"
+                                "\\n<Terra>If you can survive in that form, you win. But the outside is\nswarming with succubi. I wonder if you can recover your\nmagic and return to your original size..."
                             ]
                         },
                         {
@@ -11868,21 +10762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>って早・・・！"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "ちょ、待ちなさい・・・"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "・・・"
+                                "\\n<Terra>That was fast...! Hey, wait..."
                             ]
                         },
                         {
@@ -11899,21 +10779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>獣人の足の速さを見くびってたわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "やれやれ。ま、いいわ。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "魔力通話・・・"
+                                "\\n<Terra>I underestimated the speed of a beastperson's legs. Oh well.\nIt's fine. Magic communication..."
                             ]
                         },
                         {
@@ -11961,14 +10827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<テラ>\\C[14]『Ruiって猫の獣人、ミニマムかけたけど逃げちゃった。"
-                            ]
-                        },
-                        {
-                            "code": 401,
-                            "indent": 0,
-                            "parameters": [
-                                "面白い魔力を持った子。早い者勝ちよ。』\\C[0]"
+                                "\\C[14]\\n<Terra>\"A cat beastperson named Rui escaped after I cast Minimum on\nthem. They have interesting magic. First come, first\nserved.\"\\C[0]"
                             ]
                         },
                         {
