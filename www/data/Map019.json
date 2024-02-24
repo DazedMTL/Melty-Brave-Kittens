@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Don't be scared...♥ *smooch*♥ I'm not going crazy, you know♥\nDo you understand now that I've done this? *kiss*♥"
+                                "\\n<\\n[3]>Don't be scared...♥ *smooch*♥ I'm not going crazy, you know♥\nDo you understand now that I've done this? *kiss*♥"
                             ]
                         },
                         {
@@ -4975,7 +4975,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
+                                "\\n<\\n[3]>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's right♥"
+                                "\\n<\\n[3]>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's right♥"
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Ah...! Why...! Why are you doing this..."
+                                "\\n<\\n[3]>Ah...! Why...! Why are you doing this..."
                             ]
                         },
                         {
@@ -5644,7 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>All I want is to live. Just because I melt a little, does\nthat make me different from humans?"
+                                "\\n<\\n[3]>All I want is to live. Just because I melt a little, does\nthat make me different from humans?"
                             ]
                         },
                         {
@@ -5677,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Even beastmen are different from normal humans. What makes\nme any different from them?"
+                                "\\n<\\n[3]>Even beastmen are different from normal humans. What makes\nme any different from them?"
                             ]
                         },
                         {
@@ -5854,7 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Do you believe in Mama, Jean? Do you want to stay with me?"
+                                "\\n<\\n[3]>Do you believe in Mama, Jean? Do you want to stay with me?"
                             ]
                         },
                         {
@@ -6123,7 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
+                                "\\n<\\n[3]>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
                             ]
                         },
                         {
@@ -6512,7 +6512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Ahh. I was waiting for you to grow up. What are you doing?"
+                                "\\n<\\n[3]>Ahh. I was waiting for you to grow up. What are you doing?"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
+                                "\\n<\\n[3]>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
                             ]
                         },
                         {
@@ -6578,7 +6578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
+                                "\\n<\\n[3]>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
                             ]
                         },
                         {
@@ -6969,7 +6969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>Jean...♥ You child... you really are...♥"
+                                "\\n<\\n[3]>Jean...♥ You child... you really are...♥"
                             ]
                         },
                         {
@@ -7068,7 +7068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy_Succubus>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
+                                "\\n<\\n[3]>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
                             ]
                         },
                         {
