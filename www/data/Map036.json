@@ -9967,7 +9967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a special case, there are times when ... is instead taken\nby .... This often occurs with low-intelligence creatures\nlike Slime-ees."
+                                "As a special case, there are times when ... is instead taken\nby ... This often occurs with low-intelligence creatures\nlike Slime-ees."
                             ]
                         },
                         {
@@ -10025,7 +10025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The last one is located in .... It's a simple mechanism, but\ntheir intelligence probably won't be enough to ... it."
+                                "The last one is located in ... It's a simple mechanism, but\ntheir intelligence probably won't be enough to ... it."
                             ]
                         },
                         {
