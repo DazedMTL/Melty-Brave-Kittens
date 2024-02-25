@@ -5962,7 +5962,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wanz>Hmm, which quest should we take on. The really strong\nmonsters are still scary... \\n[1], have you decided? (Rank\n)"
+                                "\\n<Wanz>Hmm, which quest should we take on. The really strong\nmonsters are still scary... \\n[1], have you decided? (Rank \\v[269])"
                             ]
                         },
                         {
