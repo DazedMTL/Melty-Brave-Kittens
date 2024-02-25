@@ -17286,7 +17286,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Galette Cave Investigation\" \\C[14]Difficulty ★\\C[1] Reward\n1000G"
+                                "\"Galette Cave Investigation\"  \\C[14]Difficulty ★\\C[1] Reward\n1000G"
                             ]
                         },
                         {
@@ -17480,7 +17480,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Subjugation of the Succubus in Galette Cave\"\n\\C[14]Difficulty ★★★ (Variable) \\C[1]Reward 3000G"
+                                "\"Subjugation of the Succubus in Galette Cave\"\n \\C[14]Difficulty ★★★ (Variable) \\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -17674,7 +17674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Subjugation of the Succubus in Galette\nCave\"※Cleared\\C[14]Difficulty ★★★ (Variable)\\C[1]Reward\n3000G"
+                                "\"Subjugation of the Succubus in Galette\nCave\"※Cleared \\C[14]Difficulty ★★★ (Variable)\\C[1] Reward\n3000G"
                             ]
                         },
                         {
@@ -18559,7 +18559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"OMG, the ultimate monster has appeared-♥\"\n\\C[14]Difficulty★★★★★★★★★★★★★★★★★★★★★★★★★\\C[1]Reward:\n5000000 trillion gold♥"
+                                "\"OMG, the ultimate monster has appeared-♥\"\n \\C[14]Difficulty★★★★★★★★★★★★★★★★★★★★★★★★★\\C[1] Reward:\n5000000 trillion gold♥"
                             ]
                         },
                         {
@@ -18796,7 +18796,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"A super-strong monster appeared-♥\" ※Already\ndefeated\\C[14]Difficulty ★\\C[1]Reward 1G"
+                                "\"A super-strong monster appeared-♥\" ※Already\ndefeated \\C[14]Difficulty ★\\C[1] Reward 1G"
                             ]
                         },
                         {
@@ -19540,7 +19540,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"The Phantom of the Deceased Husband\" \\C[14]Difficulty\nSurvey\\C[1]Reward 3500G"
+                                "\"The Phantom of the Deceased Husband\"  \\C[14]Difficulty\nSurvey\\C[1] Reward 3500G"
                             ]
                         },
                         {
@@ -20028,7 +20028,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Phantom of the Deceased Husband\"※ Cleared\\C[14]Difficulty\n★★★\\C[1]Reward 3500G"
+                                "\"Phantom of the Deceased Husband\"※ Cleared \\C[14]Difficulty\n★★★\\C[1] Reward 3500G"
                             ]
                         },
                         {
@@ -20490,7 +20490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Notice of Intent from the Phantom Thief\" \\C[14]Difficulty\n★★ Security Request \\C[1]Reward 3500G"
+                                "\"Notice of Intent from the Phantom Thief\"  \\C[14]Difficulty\n★★ Security Request \\C[1] Reward 3500G"
                             ]
                         },
                         {
@@ -20718,7 +20718,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Phantom Thief's Advance Notice\"※Cleared\\C[14]Difficulty\n★★Security Request\\C[1]Reward 3500G"
+                                "\"Phantom Thief's Advance Notice\"※Cleared \\C[14]Difficulty\n★★Security Request\\C[1] Reward 3500G"
                             ]
                         },
                         {
@@ -21146,7 +21146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"My Mom Isn't My Mom\" \\C[14]Difficulty ★★\\C[1]Reward 1000G"
+                                "\"My Mom Isn't My Mom\"  \\C[14]Difficulty ★★\\C[1] Reward 1000G"
                             ]
                         },
                         {
@@ -21374,7 +21374,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"My Mom Isn't My Mom\"※Cleared\\C[14]Difficulty★★\\C[1]Reward\n1000G"
+                                "\"My Mom Isn't My Mom\"※Cleared \\C[14]Difficulty★★\\C[1] Reward\n1000G"
                             ]
                         },
                         {
@@ -21725,7 +21725,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Treasure in the Depths of the Ruins\" \\C[14]Difficulty:\n★★★\\C[1] Reward: 2000G"
+                                "\"Treasure in the Depths of the Ruins\"  \\C[14]Difficulty:\n★★★\\C[1] Reward: 2000G"
                             ]
                         },
                         {
@@ -22361,7 +22361,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Overnight Superstar\" \\C[14]Difficulty ★★★\\C[1] Reward 3000G"
+                                "\"Overnight Superstar\"  \\C[14]Difficulty ★★★\\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -22598,7 +22598,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Overnight Superstar\"※Cleared\\C[14]Difficulty ★★★\\C[1]Reward\n3000G"
+                                "\"Overnight Superstar\"※Cleared \\C[14]Difficulty ★★★\\C[1] Reward\n3000G"
                             ]
                         },
                         {
@@ -22941,7 +22941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Sheika & Barley Revenge\" \\C[14]Difficulty ★★★★★★\\C[1]\nReward 5000G"
+                                "\"Sheika & Barley Revenge\"  \\C[14]Difficulty ★★★★★★\\C[1]\nReward 5000G"
                             ]
                         },
                         {
@@ -23144,7 +23144,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Sheika & Barley Revenge\" *Already Cleared\\C[14]Difficulty\n★★★★★\\C[1]Reward 5000G"
+                                "\"Sheika & Barley Revenge\" *Already Cleared \\C[14]Difficulty\n★★★★★\\C[1] Reward 5000G"
                             ]
                         },
                         {
@@ -23388,7 +23388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Sheika & Barley Revenge\" *Already Cleared\\C[14]Difficulty\n★★★★★\\C[1]Reward 5000G"
+                                "\"Sheika & Barley Revenge\" *Already Cleared \\C[14]Difficulty\n★★★★★\\C[1] Reward 5000G"
                             ]
                         },
                         {
@@ -23674,7 +23674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Mere Revenge\" \\C[14]Difficulty ★★★★\\C[1] Reward 4000G"
+                                "\"Mere Revenge\"  \\C[14]Difficulty ★★★★\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -23868,7 +23868,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Mere Revenge\" *Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Mere Revenge\" *Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -24461,7 +24461,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Mere Revenge\" *Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Mere Revenge\" *Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -24783,7 +24783,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Protect the Howling Stone!\" \\C[14]Difficulty ★★★★\n\\C[1]Reward 4000G"
+                                "\"Protect the Howling Stone!\"  \\C[14]Difficulty ★★★★\n\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -24969,7 +24969,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Defend the Howlstone!\" ※Cleared\\C[14]Difficulty\n★★★★\\C[1]Reward 4000G"
+                                "\"Defend the Howlstone!\" ※Cleared \\C[14]Difficulty\n★★★★\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -25213,7 +25213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Protect the Howlstone!\" ※Cleared\\C[14]Difficulty\n★★★★\\C[1]Reward 4000G"
+                                "\"Protect the Howlstone!\" ※Cleared \\C[14]Difficulty\n★★★★\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -25466,7 +25466,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Soel Revenge\" \\C[14]Difficulty ★★★★\\C[1] Reward 4000G"
+                                "\"Soel Revenge\"  \\C[14]Difficulty ★★★★\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -25677,7 +25677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Soel's Revenge\" *Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Soel's Revenge\" *Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -25912,7 +25912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Soel's Revenge\"※Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Soel's Revenge\"※Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -26156,7 +26156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Megna's Revenge\" \\C[14]Difficulty ★★★★\\C[1] Reward 3500G"
+                                "\"Megna's Revenge\"  \\C[14]Difficulty ★★★★\\C[1] Reward 3500G"
                             ]
                         },
                         {
@@ -26333,7 +26333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Megna's Revenge\"※Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Megna's Revenge\"※Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -26568,7 +26568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Megna's Revenge\" *Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
+                                "\"Megna's Revenge\" *Cleared  \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -26845,7 +26845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Latier Revenge\" \\C[14]Difficulty ★★★★★\\C[1] Reward 4000G"
+                                "\"Latier Revenge\"  \\C[14]Difficulty ★★★★★\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -27022,7 +27022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Latier Revenge\" *Cleared\\C[14]Difficulty ★★★★★\\C[1]Reward\n4000G"
+                                "\"Latier Revenge\" *Cleared \\C[14]Difficulty ★★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -27257,7 +27257,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Latier Revenge\" *Completed\\C[14]Difficulty ★★★★★\\C[1]Reward\n4000G"
+                                "\"Latier Revenge\" *Completed \\C[14]Difficulty ★★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -27534,7 +27534,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Infiltration of the Succubus at the Magic Academy\"\n\\C[14]Difficulty ★★★\\C[1]Reward 3000G"
+                                "\"Infiltration of the Succubus at the Magic Academy\"\n \\C[14]Difficulty ★★★\\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -27762,7 +27762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Infiltrating the Magic Academy:\nSuccubus\"※Cleared\\C[14]Difficulty ★★★\\C[1]Reward 3000G"
+                                "\"Infiltrating the Magic Academy:\nSuccubus\"※Cleared \\C[14]Difficulty ★★★\\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -27997,7 +27997,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Infiltrating the Magic Academy:\nSuccubus\"※Cleared\\C[14]Difficulty ★★★\\C[1]Reward 3000G"
+                                "\"Infiltrating the Magic Academy:\nSuccubus\"※Cleared \\C[14]Difficulty ★★★\\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -28274,7 +28274,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Subjugation of the Superior Imp\" \\C[14]Difficulty ★★★★\\C[1]\nReward 3000G"
+                                "\"Subjugation of the Superior Imp\"  \\C[14]Difficulty ★★★★\\C[1]\nReward 3000G"
                             ]
                         },
                         {
@@ -28468,7 +28468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Advanced Imp Extermination\"※Completed\\C[14]Difficulty\n★★★\\C[1]Reward 3000G"
+                                "\"Advanced Imp Extermination\"※Completed \\C[14]Difficulty\n★★★\\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -28703,7 +28703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Subjugation of the Superior\nImp\"※Completed\\C[14]Difficulty★★★\\C[1]Reward 3000G"
+                                "\"Subjugation of the Superior\nImp\"※Completed \\C[14]Difficulty★★★\\C[1] Reward 3000G"
                             ]
                         },
                         {
@@ -28980,7 +28980,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Dreene Side Hole Monster Extermination\" ※Monster Cleaning\nRequest\\C[14]Difficulty ★\\C[1]Reward: 100G per monster\ndefeated"
+                                "\"Dreene Side Hole Monster Extermination\" ※Monster Cleaning\nRequest \\C[14]Difficulty ★\\C[1] Reward: 100G per monster\ndefeated"
                             ]
                         },
                         {
@@ -29213,7 +29213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Ruma-Le Suburban Forest Monster Extermination\" ※Monster\nCleaning Request\\C[14]Difficulty ★★\\C[1]Reward: 200G per\nmonster defeated"
+                                "\"Ruma-Le Suburban Forest Monster Extermination\" ※Monster\nCleaning Request \\C[14]Difficulty ★★\\C[1] Reward: 200G per\nmonster defeated"
                             ]
                         },
                         {
@@ -29676,7 +29676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Bijou Revenge\" \\C[14]Difficulty ★★★★\\C[1]Reward 4000G"
+                                "\"Bijou Revenge\"  \\C[14]Difficulty ★★★★\\C[1] Reward 4000G"
                             ]
                         },
                         {
@@ -29887,7 +29887,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Bijou Revenge\"※Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Bijou Revenge\"※Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -30122,7 +30122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Bijou Revenge\" *Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Bijou Revenge\" *Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -30357,7 +30357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Bijou Revenge\"※Cleared\\C[14]Difficulty ★★★★\\C[1]Reward\n4000G"
+                                "\"Bijou Revenge\"※Cleared \\C[14]Difficulty ★★★★\\C[1] Reward\n4000G"
                             ]
                         },
                         {
@@ -30601,7 +30601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Final Mission\" \\C[14]Difficulty: ???\\C[1] Reward: ???"
+                                "\"Final Mission\"  \\C[14]Difficulty: ???\\C[1] Reward: ???"
                             ]
                         },
                         {
@@ -30908,7 +30908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Final Mission\"\\C[14]Difficulty: ???\\C[1]Reward: ???"
+                                "\"Final Mission\" \\C[14]Difficulty: ???\\C[1] Reward: ???"
                             ]
                         },
                         {
@@ -31179,7 +31179,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\"Final Mission\"\\C[14]Difficulty: ???\\C[1]Reward: ???"
+                                "\"Final Mission\" \\C[14]Difficulty: ???\\C[1] Reward: ???"
                             ]
                         },
                         {
