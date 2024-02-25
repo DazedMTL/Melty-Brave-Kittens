@@ -658,10 +658,10 @@ var $plugins = [
     description: "オプション任意項目作成プラグイン",
     parameters: {
       数値項目:
-        '["{\\"Name\\":\\"ｱﾆﾒ速度制限(軽量化)\\",\\"DefaultValue\\":\\"0\\",\\"VariableID\\":\\"108\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"5\\",\\"NumberStep\\":\\"1\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"文字表示 0瞬間 1通常 2遅\\",\\"DefaultValue\\":\\"1\\",\\"VariableID\\":\\"1803\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"9\\",\\"NumberStep\\":\\"1\\",\\"AddPosition\\":\\"alwaysDash\\"}","{\\"Name\\":\\"立ちｱﾆﾒ位置 0普 1右 2下\\",\\"DefaultValue\\":\\"0\\",\\"VariableID\\":\\"110\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"2\\",\\"NumberStep\\":\\"1\\",\\"AddPosition\\":\\"\\"}"]',
+        '["{\\"Name\\":\\"Animation Speed (Light)\\",\\"DefaultValue\\":\\"0\\",\\"VariableID\\":\\"108\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"5\\",\\"NumberStep\\":\\"1\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Message 0Instant 1Fast 2Slow\\",\\"DefaultValue\\":\\"1\\",\\"VariableID\\":\\"1803\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"9\\",\\"NumberStep\\":\\"1\\",\\"AddPosition\\":\\"alwaysDash\\"}","{\\"Name\\":\\"Stand CG 0Normal 1Left 2Bottom\\",\\"DefaultValue\\":\\"0\\",\\"VariableID\\":\\"110\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"NumberMin\\":\\"0\\",\\"NumberMax\\":\\"2\\",\\"NumberStep\\":\\"1\\",\\"AddPosition\\":\\"\\"}"]',
       文字項目: "",
       スイッチ項目:
-        '["{\\"Name\\":\\"主人公の顔グラ\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"3\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"戦闘中立ち絵アニメ\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"32\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"主人公のセリフを無くす\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"5\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"ラブラブ喘ぎ\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"6\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"エンドレスモード\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"33\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"敗北スキップ選択肢\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"202\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"敵のボイスを無くす\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"22\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"射精時フラッシュ\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"12\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"女主人公ボイス\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"4\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"操作説明非表示\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"35\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"アクションイージー\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"28\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}"]',
+        '["{\\"Name\\":\\"MC Face CG\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"3\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Animated Stand CG\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"32\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Hide MC Dialogue\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"5\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Moaning\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"6\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Endless Mode\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"33\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Defeat Skip Choice\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"202\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"No Enemy Voice\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"22\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Climax Flash\\",\\"DefaultValue\\":\\"true\\",\\"SwitchID\\":\\"12\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Female MC Voice\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"4\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Hide Tutorials\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"35\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}","{\\"Name\\":\\"Easy Action\\",\\"DefaultValue\\":\\"false\\",\\"SwitchID\\":\\"28\\",\\"HiddenFlag\\":\\"false\\",\\"Script\\":\\"\\",\\"AddPosition\\":\\"\\"}"]',
       音量項目: "",
     },
   },
@@ -670,8 +670,8 @@ var $plugins = [
     status: true,
     description: "フルスクリーンで起動プラグイン",
     parameters: {
-      シャットダウン: "シャットダウン",
-      フルスクリーンで起動: "フルスクリーンで起動",
+      シャットダウン: "Shutdown",
+      フルスクリーンで起動: "Launch Fullscreen",
     },
   },
   {
@@ -1059,7 +1059,7 @@ var $plugins = [
     name: "MasterVolumeOption",
     status: true,
     description: "マスターボリューム設定プラグイン",
-    parameters: { 項目名称: "全体 音量", 初期値: "100", 音量の増減量: "20" },
+    parameters: { 項目名称: "Master Volume", 初期値: "100", 音量の増減量: "20" },
   },
   {
     name: "TitleAnimation",
@@ -1189,8 +1189,8 @@ var $plugins = [
       symbolAutoSelect: "true",
       gamepadConfigEnabled: "true",
       keyboardConfigEnabled: "true",
-      commandName: "ゲームパッドコンフィグ",
-      keyconfigCommandName: "キーコンフィグ",
+      commandName: "Gamepad",
+      keyconfigCommandName: "Keyboard",
       hookPoint: "option",
     },
   },
