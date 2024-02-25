@@ -3214,7 +3214,7 @@
             }
         ],
         "gold": 1500,
-        "name": "Ladro",
+        "name": "Radro",
         "note": "ボストルテ",
         "params": [
             5000,
@@ -11067,7 +11067,7 @@
             }
         ],
         "gold": 10,
-        "name": "Ladro",
+        "name": "Radro",
         "note": "ラドロ1戦目",
         "params": [
             1000,
@@ -13018,7 +13018,7 @@
             }
         ],
         "gold": 10,
-        "name": "Ladro",
+        "name": "Radro",
         "note": "2戦目",
         "params": [
             1000,

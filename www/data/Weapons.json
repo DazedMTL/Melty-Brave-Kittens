@@ -3,7 +3,7 @@
     {
         "id": 1,
         "animationId": 6,
-        "description": "Greatsword clad in dragon's power, slash attack, 3 directions short, opening 45,\npiercing",
+        "description": "Greatsword clad in dragon's power, slash attack, 3 directions short,\nopening 45, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -36,7 +36,7 @@
     {
         "id": 2,
         "animationId": 1,
-        "description": "Cracked plate that's no longer usable, blunt attack, 2 directions long, opening\n40",
+        "description": "Cracked plate that's no longer usable, blunt attack, 2 directions\nlong, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -102,7 +102,7 @@
     {
         "id": 4,
         "animationId": 1,
-        "description": "Bad-looking medicine made from a failed alchemy, water attack, 1 direction long,\nopening 35",
+        "description": "Bad-looking medicine made from a failed alchemy, water attack, 1\ndirection long, opening 35",
         "etypeId": 1,
         "traits": [
             {
@@ -135,7 +135,7 @@
     {
         "id": 5,
         "animationId": 1,
-        "description": "Sword beloved by my late father, well-maintained, slash attack, 2 directions\nshort, opening 40, piercing",
+        "description": "Sword beloved by my late father, well-maintained, slash attack, 2\ndirections short, opening 40, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -206,7 +206,7 @@
     {
         "id": 7,
         "animationId": 1,
-        "description": "Scattering test tubes filled with poison, water attack, 5 directions long,\nopening 60",
+        "description": "Scattering test tubes filled with poison, water attack, 5 directions\nlong, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -239,7 +239,7 @@
     {
         "id": 8,
         "animationId": 1,
-        "description": "Scattering fans while dancing, seduction attack, 9 directions long, opening 100",
+        "description": "Scattering fans while dancing, seduction attack, 9 directions long,\nopening 100",
         "etypeId": 1,
         "traits": [
             {
@@ -272,7 +272,7 @@
     {
         "id": 9,
         "animationId": 1,
-        "description": "Blowing a kiss to excite the enemy, seduction attack, 2 directions, opening 30",
+        "description": "Blowing a kiss to excite the enemy, seduction attack, 2 directions,\nopening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -366,7 +366,7 @@
     {
         "id": 12,
         "animationId": 1,
-        "description": "Poor quality blade made from scrap iron collected at the dumpsite, slash attack,\n3 directions short, opening 45, piercing",
+        "description": "Poor quality blade made from scrap iron collected at the dumpsite,\nslash attack, 3 directions short, opening 45, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -432,7 +432,7 @@
     {
         "id": 14,
         "animationId": 1,
-        "description": "Bomb that explodes when stepped on by an enemy, fire attack, set up, opening 50",
+        "description": "Bomb that explodes when stepped on by an enemy, fire attack, set up,\nopening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -465,7 +465,7 @@
     {
         "id": 15,
         "animationId": 1,
-        "description": "The piano is a percussion instrument, blunt attack, 1 direction short, opening\n200",
+        "description": "The piano is a percussion instrument, blunt attack, 1 direction short,\nopening 200",
         "etypeId": 1,
         "traits": [
             {
@@ -498,7 +498,7 @@
     {
         "id": 16,
         "animationId": 1,
-        "description": "Do not throw carelessly, slash attack, 1 direction long, opening 60, piercing",
+        "description": "Do not throw carelessly, slash attack, 1 direction long, opening 60,\npiercing",
         "etypeId": 1,
         "traits": [
             {
@@ -554,7 +554,7 @@
     {
         "id": 18,
         "animationId": 1,
-        "description": "Medicine that temporarily increases fingers by two or three; when used on allies\nit temporarily increases the number of shots",
+        "description": "Medicine that temporarily increases fingers by two or three; when used\non allies it temporarily increases the number of shots",
         "etypeId": 1,
         "traits": [
             {
@@ -587,7 +587,7 @@
     {
         "id": 19,
         "animationId": 1,
-        "description": "Kumari grows gigantic and slices up the enemy, slash attack, 1 direction short,\nopening 200",
+        "description": "Kumari grows gigantic and slices up the enemy, slash attack, 1\ndirection short, opening 200",
         "etypeId": 1,
         "traits": [
             {
@@ -620,7 +620,7 @@
     {
         "id": 20,
         "animationId": 1,
-        "description": "Become able to use Puchi Fire magic with this beginner's grimoire, fire attack,\n2 directions short, opening 45",
+        "description": "Become able to use Puchi Fire magic with this beginner's grimoire,\nfire attack, 2 directions short, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -653,7 +653,7 @@
     {
         "id": 21,
         "animationId": 1,
-        "description": "Become able to use Thunder magic with this beginner's grimoire, lightning\nattack, 1 direction long, opening 45, piercing",
+        "description": "Become able to use Thunder magic with this beginner's grimoire,\nlightning attack, 1 direction long, opening 45, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -686,7 +686,7 @@
     {
         "id": 22,
         "animationId": 1,
-        "description": "Become able to use Splash magic with this beginner's grimoire, water attack, 5\ndirections short, opening 45",
+        "description": "Become able to use Splash magic with this beginner's grimoire, water\nattack, 5 directions short, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -719,7 +719,7 @@
     {
         "id": 23,
         "animationId": 1,
-        "description": "A book that mathematically solves the laws of nature, water attack, 8 directions\nshort, opening 40",
+        "description": "A book that mathematically solves the laws of nature, water attack, 8\ndirections short, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -752,7 +752,7 @@
     {
         "id": 24,
         "animationId": 1,
-        "description": "Become able to use Fire magic with this beginner's grimoire, fire attack, 3\ndirections short, opening 45",
+        "description": "Become able to use Fire magic with this beginner's grimoire, fire\nattack, 3 directions short, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -785,7 +785,7 @@
     {
         "id": 25,
         "animationId": 1,
-        "description": "Knives scattered in four directions, slash attack, 4 directions, opening 40",
+        "description": "Knives scattered in four directions, slash attack, 4 directions,\nopening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -818,7 +818,7 @@
     {
         "id": 26,
         "animationId": 1,
-        "description": "However, the magic comes out from the butt, slash attack, 1 direction short\nrearward, opening 45",
+        "description": "However, the magic comes out from the butt, slash attack, 1 direction\nshort rearward, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -851,7 +851,7 @@
     {
         "id": 27,
         "animationId": 1,
-        "description": "Axe that's easy to hold but heavy, slash attack, 1 direction short, opening 60",
+        "description": "Axe that's easy to hold but heavy, slash attack, 1 direction short,\nopening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -879,7 +879,7 @@
     {
         "id": 28,
         "animationId": 1,
-        "description": "Axe favored by muscular warriors for battle, slash attack, 1 direction short,\nopening 60",
+        "description": "Axe favored by muscular warriors for battle, slash attack, 1 direction\nshort, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -907,7 +907,7 @@
     {
         "id": 29,
         "animationId": 1,
-        "description": "Lifting it is all I can manage axe, slash attack, 1 direction short, opening 90",
+        "description": "Lifting it is all I can manage axe, slash attack, 1 direction short,\nopening 90",
         "etypeId": 1,
         "traits": [
             {
@@ -935,7 +935,7 @@
     {
         "id": 30,
         "animationId": 1,
-        "description": "Heavy and numbing axe, lightning attack, 1 direction short, opening 90, piercing",
+        "description": "Heavy and numbing axe, lightning attack, 1 direction short, opening\n90, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -963,7 +963,7 @@
     {
         "id": 31,
         "animationId": 1,
-        "description": "Axe for giants larger than a human's height, slash attack, 1 direction short,\nopening 120",
+        "description": "Axe for giants larger than a human's height, slash attack, 1 direction\nshort, opening 120",
         "etypeId": 1,
         "traits": [
             {
@@ -991,7 +991,7 @@
     {
         "id": 32,
         "animationId": 1,
-        "description": "Axe that has halved many sins in its time, slash attack, 1 direction short,\nopening 180",
+        "description": "Axe that has halved many sins in its time, slash attack, 1 direction\nshort, opening 180",
         "etypeId": 1,
         "traits": [
             {
@@ -1019,7 +1019,7 @@
     {
         "id": 33,
         "animationId": 1,
-        "description": "Projectile weapon favored by ninjas, slash attack, 3 directions long, opening 20",
+        "description": "Projectile weapon favored by ninjas, slash attack, 3 directions long,\nopening 20",
         "etypeId": 1,
         "traits": [
             {
@@ -1052,7 +1052,7 @@
     {
         "id": 34,
         "animationId": 1,
-        "description": "Sword that became too short due to a design mistake, slash attack, 1 direction\nlong, opening 30",
+        "description": "Sword that became too short due to a design mistake, slash attack, 1\ndirection long, opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1085,7 +1085,7 @@
     {
         "id": 35,
         "animationId": 1,
-        "description": "Small spear that's easy to throw, slash attack, 2 directions long, opening 40,\npiercing",
+        "description": "Small spear that's easy to throw, slash attack, 2 directions long,\nopening 40, piercing",
         "etypeId": 1,
         "traits": [
             {
@@ -1118,7 +1118,7 @@
     {
         "id": 36,
         "animationId": 1,
-        "description": "Spear with a bifurcated tip for throwing, slash attack, 1 direction long,\nopening 45",
+        "description": "Spear with a bifurcated tip for throwing, slash attack, 1 direction\nlong, opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -1151,7 +1151,7 @@
     {
         "id": 37,
         "animationId": 1,
-        "description": "If you buy one you get two of the same kind free of charge; slash attack; one\ndirection long; opening 30",
+        "description": "If you buy one you get two of the same kind free of charge; slash\nattack; one direction long; opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1184,7 +1184,7 @@
     {
         "id": 38,
         "animationId": 1,
-        "description": "Set of three swords to surely finish off the opponent; slash attack; one\ndirection long; opening 30",
+        "description": "Set of three swords to surely finish off the opponent; slash attack;\none direction long; opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1217,7 +1217,7 @@
     {
         "id": 39,
         "animationId": 1,
-        "description": "Sword that multiplies into three when thrown; slash attack; one direction long;\nopening 30",
+        "description": "Sword that multiplies into three when thrown; slash attack; one\ndirection long; opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -1250,7 +1250,7 @@
     {
         "id": 40,
         "animationId": 1,
-        "description": "Infinite swords rain down from imaginary space; slash attack; seven directions\nlong; opening 45",
+        "description": "Infinite swords rain down from imaginary space; slash attack; seven\ndirections long; opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -1283,7 +1283,7 @@
     {
         "id": 41,
         "animationId": 1,
-        "description": "The romance of not considering the inconvenience after skipping. Strike, one\ndirection long, opening 80",
+        "description": "The romance of not considering the inconvenience after skipping.\nStrike, one direction long, opening 80",
         "etypeId": 1,
         "traits": [
             {
@@ -1372,7 +1372,7 @@
     {
         "id": 44,
         "animationId": 1,
-        "description": "To save the world, you must start with this. Strike, one direction, opening 50",
+        "description": "To save the world, you must start with this. Strike, one direction,\nopening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1400,7 +1400,7 @@
     {
         "id": 45,
         "animationId": 1,
-        "description": "A blunt weapon in the shape of a boomerang that doesn't return. Strike, three\ndirections long, opening 50",
+        "description": "A blunt weapon in the shape of a boomerang that doesn't return.\nStrike, three directions long, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1428,7 +1428,7 @@
     {
         "id": 46,
         "animationId": 1,
-        "description": "When punched, it cries out \"Piko!\" and dies. Strike, one direction, opening 50",
+        "description": "When punched, it cries out \"Piko!\" and dies. Strike, one direction,\nopening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1456,7 +1456,7 @@
     {
         "id": 47,
         "animationId": 1,
-        "description": "When punched, it sinks even into the mantle. Strike, one direction, opening 50",
+        "description": "When punched, it sinks even into the mantle. Strike, one direction,\nopening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1484,7 +1484,7 @@
     {
         "id": 48,
         "animationId": 1,
-        "description": "A fish that slices everything it touches. Delicious. Slash, one direction long,\nopening 60",
+        "description": "A fish that slices everything it touches. Delicious. Slash, one\ndirection long, opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -1550,7 +1550,7 @@
     {
         "id": 50,
         "animationId": 1,
-        "description": "A pie that's not enveloped in kindness. Food, one direction long, opening 40",
+        "description": "A pie that's not enveloped in kindness. Food, one direction long,\nopening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -1606,7 +1606,7 @@
     {
         "id": 52,
         "animationId": 1,
-        "description": "Everyone's favorite things in small portions. Food, one direction, opening 50",
+        "description": "Everyone's favorite things in small portions. Food, one direction,\nopening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1634,7 +1634,7 @@
     {
         "id": 53,
         "animationId": 1,
-        "description": "A fish pie for stargazing. Eating it turns you into a star. Food, one direction\nlong, opening 70",
+        "description": "A fish pie for stargazing. Eating it turns you into a star. Food, one\ndirection long, opening 70",
         "etypeId": 1,
         "traits": [
             {
@@ -1690,7 +1690,7 @@
     {
         "id": 55,
         "animationId": 1,
-        "description": "Appetizer soup, fish sorbet, meat vegetables sweetness coffee all together with\npoison. Food, one direction, opening 50",
+        "description": "Appetizer soup, fish sorbet, meat vegetables sweetness coffee all\ntogether with poison. Food, one direction, opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -1751,7 +1751,7 @@
     {
         "id": 57,
         "animationId": 1,
-        "description": "A love letter with hair or nails included along with the letter. Temptation,\nthree directions, opening 40",
+        "description": "A love letter with hair or nails included along with the letter.\nTemptation, three directions, opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -1812,7 +1812,7 @@
     {
         "id": 59,
         "animationId": 1,
-        "description": "A gun that drills holes with water pressure. Reload with a shuko-shuko sound.\nWater, one direction long, opening 180",
+        "description": "A gun that drills holes with water pressure. Reload with a shuko-shuko\nsound. Water, one direction long, opening 180",
         "etypeId": 1,
         "traits": [
             {
@@ -1845,7 +1845,7 @@
     {
         "id": 60,
         "animationId": 1,
-        "description": "A power-up version of a water gun. It can make holes in walls. Water, one\ndirection long, opening 210",
+        "description": "A power-up version of a water gun. It can make holes in walls. Water,\none direction long, opening 210",
         "etypeId": 1,
         "traits": [
             {
@@ -1878,7 +1878,7 @@
     {
         "id": 61,
         "animationId": 1,
-        "description": "A water gun that shoots high-pressure ice. Water, one direction long, opening\n240",
+        "description": "A water gun that shoots high-pressure ice. Water, one direction long,\nopening 240",
         "etypeId": 1,
         "traits": [
             {
@@ -1911,7 +1911,7 @@
     {
         "id": 62,
         "animationId": 1,
-        "description": "If you shoot downwards, the recoil seems to let you fly in the sky. Flame, one\ndirection, opening 6 fixed damage 3",
+        "description": "If you shoot downwards, the recoil seems to let you fly in the sky.\nFlame, one direction, opening 6 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -1944,7 +1944,7 @@
     {
         "id": 63,
         "animationId": 1,
-        "description": "Polaris brand handgun. Flame, one direction, opening 20 fixed damage equal to\nlevel",
+        "description": "Polaris brand handgun. Flame, one direction, opening 20 fixed damage\nequal to level",
         "etypeId": 1,
         "traits": [
             {
@@ -1977,7 +1977,7 @@
     {
         "id": 64,
         "animationId": 1,
-        "description": "A gun for close range that scatters a lot of bullets. Flame, ten directions\nshort, opening 30 fixed damage 3",
+        "description": "A gun for close range that scatters a lot of bullets. Flame, ten\ndirections short, opening 30 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2010,7 +2010,7 @@
     {
         "id": 65,
         "animationId": 1,
-        "description": "A device that accelerates objects using the Lorentz force. Thunder, one\ndirection long, opening 300 fixed damage 100 terrain penetration",
+        "description": "A device that accelerates objects using the Lorentz force. Thunder,\none direction long, opening 300 fixed damage 100 terrain penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2043,7 +2043,7 @@
     {
         "id": 66,
         "animationId": 1,
-        "description": "Machine gun of a female-type armed exploration robot. Flame, two directions\nlong, opening 6 fixed damage 3",
+        "description": "Machine gun of a female-type armed exploration robot. Flame, two\ndirections long, opening 6 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2076,7 +2076,7 @@
     {
         "id": 67,
         "animationId": 1,
-        "description": "Tonight at midnight someone will... Water, one direction long, opening 15 fixed\ndamage equal to level",
+        "description": "Tonight at midnight someone will... Water, one direction long, opening\n15 fixed damage equal to level",
         "etypeId": 1,
         "traits": [
             {
@@ -2109,7 +2109,7 @@
     {
         "id": 68,
         "animationId": 1,
-        "description": "A shotgun to make someone take responsibility. Flame, twenty directions short,\nopening 30 fixed damage 3",
+        "description": "A shotgun to make someone take responsibility. Flame, twenty\ndirections short, opening 30 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2142,7 +2142,7 @@
     {
         "id": 69,
         "animationId": 1,
-        "description": "Equipment of a security android. Thunder, five directions, opening 15 fixed\ndamage 3",
+        "description": "Equipment of a security android. Thunder, five directions, opening 15\nfixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2175,7 +2175,7 @@
     {
         "id": 70,
         "animationId": 1,
-        "description": "A gun that scatters bullets. Thunder, sixteen directions, opening 30 fixed\ndamage 3",
+        "description": "A gun that scatters bullets. Thunder, sixteen directions, opening 30\nfixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2208,7 +2208,7 @@
     {
         "id": 71,
         "animationId": 1,
-        "description": "Slice and offer as a sacrifice to demons. Slash, one direction short, opening\n150",
+        "description": "Slice and offer as a sacrifice to demons. Slash, one direction short,\nopening 150",
         "etypeId": 1,
         "traits": [
             {
@@ -2241,7 +2241,7 @@
     {
         "id": 72,
         "animationId": 1,
-        "description": "Step on it and divine thunder will rain down. Thunder, set up, opening 300\npenetration",
+        "description": "Step on it and divine thunder will rain down. Thunder, set up, opening\n300 penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2269,7 +2269,7 @@
     {
         "id": 73,
         "animationId": 1,
-        "description": "Step on it and arrows of light will rain down. Thunder, set up, opening 300\npenetration",
+        "description": "Step on it and arrows of light will rain down. Thunder, set up,\nopening 300 penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2297,7 +2297,7 @@
     {
         "id": 74,
         "animationId": 1,
-        "description": "A weapon that projects ignited liquid. Flame, five directions short, opening 15\nfixed damage 3",
+        "description": "A weapon that projects ignited liquid. Flame, five directions short,\nopening 15 fixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2330,7 +2330,7 @@
     {
         "id": 75,
         "animationId": 1,
-        "description": "The goddess's gun symbolizing divine wrath and punishment. Thunder, one\ndirection, opening 30 fixed damage of 50 minus level",
+        "description": "The goddess's gun symbolizing divine wrath and punishment. Thunder,\none direction, opening 30 fixed damage of 50 minus level",
         "etypeId": 1,
         "traits": [
             {
@@ -2363,7 +2363,7 @@
     {
         "id": 76,
         "animationId": 1,
-        "description": "Tonight again someone will lose their life. Thunder, two directions, opening 50\nfixed damage of 50 minus level",
+        "description": "Tonight again someone will lose their life. Thunder, two directions,\nopening 50 fixed damage of 50 minus level",
         "etypeId": 1,
         "traits": [
             {
@@ -2396,7 +2396,7 @@
     {
         "id": 77,
         "animationId": 1,
-        "description": "A tool used for welding metal. Flame, six directions short, opening 15 fixed\ndamage 3",
+        "description": "A tool used for welding metal. Flame, six directions short, opening 15\nfixed damage 3",
         "etypeId": 1,
         "traits": [
             {
@@ -2429,7 +2429,7 @@
     {
         "id": 78,
         "animationId": 1,
-        "description": "An easy-to-handle gun. Flame, one direction, opening 30 fixed damage 3 custom\nparts can be equipped",
+        "description": "An easy-to-handle gun. Flame, one direction, opening 30 fixed damage 3\ncustom parts can be equipped",
         "etypeId": 1,
         "traits": [
             {
@@ -2467,7 +2467,7 @@
     {
         "id": 79,
         "animationId": 1,
-        "description": "A modified handgun that shoots three bullets at once. Flame, three directions,\nopening 30 fixed damage 3 custom parts can be equipped",
+        "description": "A modified handgun that shoots three bullets at once. Flame, three\ndirections, opening 30 fixed damage 3 custom parts can be equipped",
         "etypeId": 1,
         "traits": [
             {
@@ -2505,7 +2505,7 @@
     {
         "id": 80,
         "animationId": 1,
-        "description": "A device that accelerates coins using the Lorentz force to shoot them out.\nThunder, two directions long, opening 300 fixed damage 100 terrain penetration",
+        "description": "A device that accelerates coins using the Lorentz force to shoot them\nout. Thunder, two directions long, opening 300 fixed damage 100\nterrain penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2538,7 +2538,7 @@
     {
         "id": 81,
         "animationId": 1,
-        "description": "It has enough power to send a torte flying 1km away. Fire. Set up. Opening 999",
+        "description": "It has enough power to send a torte flying 1km away. Fire. Set up.\nOpening 999",
         "etypeId": 1,
         "traits": [
             {
@@ -2726,7 +2726,7 @@
     {
         "id": 87,
         "animationId": 1,
-        "description": "Eating this poisoned apple will make you sleep continuously. Food. One direction\nlong. Opening 40",
+        "description": "Eating this poisoned apple will make you sleep continuously. Food. One\ndirection long. Opening 40",
         "etypeId": 1,
         "traits": [
             {
@@ -2759,7 +2759,7 @@
     {
         "id": 88,
         "animationId": 1,
-        "description": "A teddy bear that's just right for stress relief. Blunt force. One direction\nlong. Opening 60",
+        "description": "A teddy bear that's just right for stress relief. Blunt force. One\ndirection long. Opening 60",
         "etypeId": 1,
         "traits": [
             {
@@ -2792,7 +2792,7 @@
     {
         "id": 89,
         "animationId": 1,
-        "description": "If you talk about obtaining it to someone, you'll die. Water. Three directions\nshort. Opening 45",
+        "description": "If you talk about obtaining it to someone, you'll die. Water. Three\ndirections short. Opening 45",
         "etypeId": 1,
         "traits": [
             {
@@ -2825,7 +2825,7 @@
     {
         "id": 90,
         "animationId": 1,
-        "description": "An incredibly exciting box that explodes when opened. Fire. Set up. Opening 80",
+        "description": "An incredibly exciting box that explodes when opened. Fire. Set up.\nOpening 80",
         "etypeId": 1,
         "traits": [
             {
@@ -2853,7 +2853,7 @@
     {
         "id": 91,
         "animationId": 1,
-        "description": "Magical lightning strikes shot from the hands. Lightning. Three directions long.\nOpening 45 Penetration",
+        "description": "Magical lightning strikes shot from the hands. Lightning. Three\ndirections long. Opening 45 Penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2886,7 +2886,7 @@
     {
         "id": 92,
         "animationId": 1,
-        "description": "A fish that has mastered the way of the sword, its innards are bitter. Slash\nattack. One direction long. Opening 30",
+        "description": "A fish that has mastered the way of the sword, its innards are bitter.\nSlash attack. One direction long. Opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -2919,7 +2919,7 @@
     {
         "id": 93,
         "animationId": 1,
-        "description": "A mysterious book written in a unique language. Lightning. Set up. Opening 300\nPenetration",
+        "description": "A mysterious book written in a unique language. Lightning. Set up.\nOpening 300 Penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -2985,7 +2985,7 @@
     {
         "id": 95,
         "animationId": 1,
-        "description": "Wildcat brand revolver. Fire. One direction. Opening 35 Fixed damage 15 Custom\nparts can be equipped",
+        "description": "Wildcat brand revolver. Fire. One direction. Opening 35 Fixed damage\n15 Custom parts can be equipped",
         "etypeId": 1,
         "traits": [
             {
@@ -3023,7 +3023,7 @@
     {
         "id": 96,
         "animationId": 1,
-        "description": "A gun that compresses and shoots moisture in the air. Custom parts can be\nequipped. Water. One direction long. Opening 240",
+        "description": "A gun that compresses and shoots moisture in the air. Custom parts can\nbe equipped. Water. One direction long. Opening 240",
         "etypeId": 1,
         "traits": [
             {
@@ -3061,7 +3061,7 @@
     {
         "id": 97,
         "animationId": 1,
-        "description": "A chainsaw that has never been used before. Slash attack. One direction short.\nOpening 180",
+        "description": "A chainsaw that has never been used before. Slash attack. One\ndirection short. Opening 180",
         "etypeId": 1,
         "traits": [
             {
@@ -3094,7 +3094,7 @@
     {
         "id": 98,
         "animationId": 1,
-        "description": "The strongest sword that appeared from another world. Slash attack. One\ndirection. Opening 30",
+        "description": "The strongest sword that appeared from another world. Slash attack.\nOne direction. Opening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -3127,7 +3127,7 @@
     {
         "id": 99,
         "animationId": 1,
-        "description": "Undefeated in its hometown, a proof of clearing with zero game overs. Lightning.\nOne direction. Opening 100",
+        "description": "Undefeated in its hometown, a proof of clearing with zero game overs.\nLightning. One direction. Opening 100",
         "etypeId": 1,
         "traits": [
             {
@@ -3160,7 +3160,7 @@
     {
         "id": 100,
         "animationId": 1,
-        "description": "A mallet that makes you laugh even though it's not funny when hit with it. Blunt\nforce. One direction. Opening 50",
+        "description": "A mallet that makes you laugh even though it's not funny when hit with\nit. Blunt force. One direction. Opening 50",
         "etypeId": 1,
         "traits": [
             {
@@ -3221,7 +3221,7 @@
     {
         "id": 102,
         "animationId": 1,
-        "description": "Poison-packed onigiri made from Demon Lord rice. Food. One direction. Opening 80",
+        "description": "Poison-packed onigiri made from Demon Lord rice. Food. One direction.\nOpening 80",
         "etypeId": 1,
         "traits": [
             {
@@ -3287,7 +3287,7 @@
     {
         "id": 104,
         "animationId": 1,
-        "description": "The second favorite thing of Yuine, written in lightning and set up with an\nopening of 300 Penetration",
+        "description": "The second favorite thing of Yuine, written in lightning and set up\nwith an opening of 300 Penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -3320,7 +3320,7 @@
     {
         "id": 105,
         "animationId": 1,
-        "description": "Lip balm that increases the charm of your lips while preventing dryness at the\nsame time. Temptation. Two directions. Opening 70",
+        "description": "Lip balm that increases the charm of your lips while preventing\ndryness at the same time. Temptation. Two directions. Opening 70",
         "etypeId": 1,
         "traits": [
             {
@@ -3353,7 +3353,7 @@
     {
         "id": 106,
         "animationId": 1,
-        "description": "Lipstick that makes kisses even sweeter. Temptation. Three directions. Opening\n90",
+        "description": "Lipstick that makes kisses even sweeter. Temptation. Three directions.\nOpening 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3386,7 +3386,7 @@
     {
         "id": 107,
         "animationId": 1,
-        "description": "Lipstick of passionate red color. Temptation. Three directions. Opening 90",
+        "description": "Lipstick of passionate red color. Temptation. Three directions.\nOpening 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3419,7 +3419,7 @@
     {
         "id": 108,
         "animationId": 1,
-        "description": "A thrown kiss that causes a heart attack from too much excitement. Temptation.\nOne direction. Opening 200",
+        "description": "A thrown kiss that causes a heart attack from too much excitement.\nTemptation. One direction. Opening 200",
         "etypeId": 1,
         "traits": [
             {
@@ -3452,7 +3452,7 @@
     {
         "id": 109,
         "animationId": 1,
-        "description": "A kiss that mesmerizes and explodes the brain. Temptation. One direction.\nOpening 100",
+        "description": "A kiss that mesmerizes and explodes the brain. Temptation. One\ndirection. Opening 100",
         "etypeId": 1,
         "traits": [
             {
@@ -3513,7 +3513,7 @@
     {
         "id": 111,
         "animationId": 1,
-        "description": "When thrown, it makes consciousness hazy. Temptation. One direction. Opening 30",
+        "description": "When thrown, it makes consciousness hazy. Temptation. One direction.\nOpening 30",
         "etypeId": 1,
         "traits": [
             {
@@ -3584,7 +3584,7 @@
     {
         "id": 113,
         "animationId": 1,
-        "description": "Spreading poisonous mucus around in all nine directions long with an opening of\n90",
+        "description": "Spreading poisonous mucus around in all nine directions long with an\nopening of 90",
         "etypeId": 1,
         "traits": [
             {
@@ -3622,7 +3622,7 @@
     {
         "id": 114,
         "animationId": 1,
-        "description": "Firing a condensed mass of rough seas in one direction long with an opening of\n220",
+        "description": "Firing a condensed mass of rough seas in one direction long with an\nopening of 220",
         "etypeId": 1,
         "traits": [
             {
@@ -3655,7 +3655,7 @@
     {
         "id": 115,
         "animationId": 1,
-        "description": "Setting up ice around zero degrees Celsius in water with an opening of 100\nPenetration",
+        "description": "Setting up ice around zero degrees Celsius in water with an opening of\n100 Penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -3683,7 +3683,7 @@
     {
         "id": 116,
         "animationId": 1,
-        "description": "Eating it causes a sugar rush so intense it knocks you out, extremely delicious\nfood in two directions long with an opening of 60",
+        "description": "Eating it causes a sugar rush so intense it knocks you out, extremely\ndelicious food in two directions long with an opening of 60",
         "etypeId": 1,
         "traits": [
             {
@@ -3711,7 +3711,7 @@
     {
         "id": 117,
         "animationId": 1,
-        "description": "A cake with only the part for the wedding cake cutting made of cream, the rest\nis gunpowder, food set up with an opening of 500",
+        "description": "A cake with only the part for the wedding cake cutting made of cream,\nthe rest is gunpowder, food set up with an opening of 500",
         "etypeId": 1,
         "traits": [
             {
@@ -3739,7 +3739,7 @@
     {
         "id": 118,
         "animationId": 1,
-        "description": "The magical power of a senior who was easily devoured by a succubus, slash\nattack in three directions long with an opening of 60",
+        "description": "The magical power of a senior who was easily devoured by a succubus,\nslash attack in three directions long with an opening of 60",
         "etypeId": 1,
         "traits": [
             {
@@ -3767,7 +3767,7 @@
     {
         "id": 119,
         "animationId": 1,
-        "description": "Basic magic that shoots thin lightning strikes from the fingertips, lightning in\none direction long with an opening of 42 Penetration",
+        "description": "Basic magic that shoots thin lightning strikes from the fingertips,\nlightning in one direction long with an opening of 42 Penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -3800,7 +3800,7 @@
     {
         "id": 120,
         "animationId": 1,
-        "description": "It's not understandable in direct translation, probably the writer didn't\nunderstand it either, lightning set up with an opening of 300 Penetration",
+        "description": "It's not understandable in direct translation, probably the writer\ndidn't understand it either, lightning set up with an opening of 300\nPenetration",
         "etypeId": 1,
         "traits": [
             {
@@ -3828,7 +3828,7 @@
     {
         "id": 121,
         "animationId": 1,
-        "description": "Intermediate magic that wraps lightning in wind and flies it slowly, lightning\nin three directions long with an opening of 100 Penetration",
+        "description": "Intermediate magic that wraps lightning in wind and flies it slowly,\nlightning in three directions long with an opening of 100 Penetration",
         "etypeId": 1,
         "traits": [
             {
@@ -3861,7 +3861,7 @@
     {
         "id": 122,
         "animationId": 1,
-        "description": "A homemade bomb crafted from scrap materials. Set fire. Vulnerability 90",
+        "description": "A homemade bomb crafted from scrap materials. Set fire. Vulnerability\n90",
         "etypeId": 1,
         "traits": [
             {
@@ -3894,7 +3894,7 @@
     {
         "id": 123,
         "animationId": 1,
-        "description": "Letters with cute round handwriting folded during piecework in envelopes. Slash\nattack. 6 directions long. Vulnerability 70",
+        "description": "Letters with cute round handwriting folded during piecework in\nenvelopes. Slash attack. 6 directions long. Vulnerability 70",
         "etypeId": 1,
         "traits": [
             {
@@ -3927,7 +3927,7 @@
     {
         "id": 124,
         "animationId": 1,
-        "description": "Disciplining with a fist strike. Recently, it's been caught by compliance. Blunt\nattack. 1 direction short. Vulnerability 17",
+        "description": "Disciplining with a fist strike. Recently, it's been caught by\ncompliance. Blunt attack. 1 direction short. Vulnerability 17",
         "etypeId": 1,
         "traits": [
             {
@@ -3960,7 +3960,7 @@
     {
         "id": 125,
         "animationId": 1,
-        "description": "If stuck on the mysteries of the ruins, it seems they'll just break through the\nwall. Blunt attack. 1 direction. Vulnerability 50",
+        "description": "If stuck on the mysteries of the ruins, it seems they'll just break\nthrough the wall. Blunt attack. 1 direction. Vulnerability 50",
         "etypeId": 1,
         "traits": [
             {
@@ -3988,7 +3988,7 @@
     {
         "id": 126,
         "animationId": 1,
-        "description": "The poisonous red lipstick is now a lethal weapon. Temptation. 2 directions.\nVulnerability 70",
+        "description": "The poisonous red lipstick is now a lethal weapon. Temptation. 2\ndirections. Vulnerability 70",
         "etypeId": 1,
         "traits": [
             {
@@ -4021,7 +4021,7 @@
     {
         "id": 127,
         "animationId": 1,
-        "description": "An old book first written about fire magic, now common knowledge. Fire. 3\ndirections short. Vulnerability 45",
+        "description": "An old book first written about fire magic, now common knowledge.\nFire. 3 directions short. Vulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4054,7 +4054,7 @@
     {
         "id": 128,
         "animationId": 1,
-        "description": "A magic that enchants the opponent, but the heart comes out from the butt.\nTemptation. 2 directions long. Vulnerability 60",
+        "description": "A magic that enchants the opponent, but the heart comes out from the\nbutt. Temptation. 2 directions long. Vulnerability 60",
         "etypeId": 1,
         "traits": [
             {
@@ -4115,7 +4115,7 @@
     {
         "id": 130,
         "animationId": 1,
-        "description": "This will cancel the concert! Be crushed! Blunt attack. 1 direction short.\nVulnerability 320",
+        "description": "This will cancel the concert! Be crushed! Blunt attack. 1 direction\nshort. Vulnerability 320",
         "etypeId": 1,
         "traits": [
             {
@@ -4148,7 +4148,7 @@
     {
         "id": 131,
         "animationId": 1,
-        "description": "No matter what the floor is made of, rocks will protrude from the ground. Blunt\nattack. Set up. Vulnerability 120",
+        "description": "No matter what the floor is made of, rocks will protrude from the\nground. Blunt attack. Set up. Vulnerability 120",
         "etypeId": 1,
         "traits": [
             {
@@ -4181,7 +4181,7 @@
     {
         "id": 132,
         "animationId": 1,
-        "description": "A once-luxurious plate that's cracked and no longer usable. Blunt attack. 2\ndirections long. Vulnerability 40",
+        "description": "A once-luxurious plate that's cracked and no longer usable. Blunt\nattack. 2 directions long. Vulnerability 40",
         "etypeId": 1,
         "traits": [
             {
@@ -4214,7 +4214,7 @@
     {
         "id": 133,
         "animationId": 1,
-        "description": "Hitting the player temporarily increases the number of balls. HP recovery 1.\nBullet +1. Vulnerability 150",
+        "description": "Hitting the player temporarily increases the number of balls. HP\nrecovery 1. Bullet +1. Vulnerability 150",
         "etypeId": 1,
         "traits": [
             {
@@ -4247,7 +4247,7 @@
     {
         "id": 134,
         "animationId": 1,
-        "description": "Mainly aimed at the knees. Slash attack. 1 direction long. Vulnerability 45",
+        "description": "Mainly aimed at the knees. Slash attack. 1 direction long.\nVulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4280,7 +4280,7 @@
     {
         "id": 135,
         "animationId": 1,
-        "description": "Magical water bullets shot backward. Water. 5 directions short. Vulnerability 45",
+        "description": "Magical water bullets shot backward. Water. 5 directions short.\nVulnerability 45",
         "etypeId": 1,
         "traits": [
             {
@@ -4313,7 +4313,7 @@
     {
         "id": 136,
         "animationId": 1,
-        "description": "Highly likely to cause serious health damage or death. Food. 1 direction short.\nVulnerability 150",
+        "description": "Highly likely to cause serious health damage or death. Food. 1\ndirection short. Vulnerability 150",
         "etypeId": 1,
         "traits": [
             {
@@ -4374,7 +4374,7 @@
     {
         "id": 138,
         "animationId": 1,
-        "description": "We're going to the second party!! Blunt attack. 2 directions long. Vulnerability\n40",
+        "description": "We're going to the second party!! Blunt attack. 2 directions long.\nVulnerability 40",
         "etypeId": 1,
         "traits": [
             {

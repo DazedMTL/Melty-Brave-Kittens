@@ -5641,7 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>Lately, Radro-mama keeps talking about \\n[1]. You must have\ngiven mama a present or something to raise your\nfavorability! That's cheating!"
+                                "\\n<Francois>Lately, Radro keeps talking about \\n[1]. You must have\ngiven mama a present or something to raise your\nfavorability! That's cheating!"
                             ]
                         },
                         {
@@ -5740,7 +5740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>\"I wonder where Ladromama has gone. Ugh... I won't cry. If I\nhave time to cry, I have to do something.\""
+                                "\\n<Francois>\"I wonder where Radromama has gone. Ugh... I won't cry. If I\nhave time to cry, I have to do something.\""
                             ]
                         },
                         {
@@ -10153,7 +10153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>\\n[1]...♥...uh, um..."
+                                "\\n<Radro>\\n[1]...♥...uh, um..."
                             ]
                         },
                         {
@@ -10186,7 +10186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>You know...um..."
+                                "\\n<Radro>You know...um..."
                             ]
                         },
                         {
@@ -10219,7 +10219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>That's right! It's a thank you! A thank you for letting me\ngo♥ You understand what I mean, right?"
+                                "\\n<Radro>That's right! It's a thank you! A thank you for letting me\ngo♥ You understand what I mean, right?"
                             ]
                         },
                         {
@@ -10252,7 +10252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Is there something you want me to do? If it's something you,\n\\n[1], want, I'll do anything♥"
+                                "\\n<Radro>Is there something you want me to do? If it's something you,\n\\n[1], want, I'll do anything♥"
                             ]
                         },
                         {
@@ -10371,7 +10371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>You don't like it?"
+                                "\\n<Radro>You don't like it?"
                             ]
                         },
                         {
@@ -10490,7 +10490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Got it! Then make a donation♥ Donate for the orphanage♥ Then\nI'll thank you♥ That's good, right?"
+                                "\\n<Radro>Got it! Then make a donation♥ Donate for the orphanage♥ Then\nI'll thank you♥ That's good, right?"
                             ]
                         },
                         {
@@ -10600,7 +10600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Nfufu♥ (You're not being honest... but then again, neither\nam I.)"
+                                "\\n<Radro>Nfufu♥ (You're not being honest... but then again, neither\nam I.)"
                             ]
                         },
                         {

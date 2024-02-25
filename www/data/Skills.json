@@ -16121,7 +16121,7 @@
             "type": 2,
             "variance": 20
         },
-        "description": "A full-bodied tackle born from zero athletic ability. Ends up getting hurt from\nthe fall.",
+        "description": "A full-bodied tackle born from zero athletic ability. Ends up getting\nhurt from the fall.",
         "effects": [
             {
                 "code": 21,
@@ -16158,7 +16158,7 @@
             "type": 2,
             "variance": 20
         },
-        "description": "Luna somehow manages to use a low-level charm spell. It only works on opponents\nwho are mentally dominated.",
+        "description": "Luna somehow manages to use a low-level charm spell. It only works on\nopponents who are mentally dominated.",
         "effects": [
             {
                 "code": 21,
@@ -16195,7 +16195,7 @@
             "type": 2,
             "variance": 20
         },
-        "description": "A magic that drains power through pleasure. It can't be used without the\ntarget's permission due to low magical power.",
+        "description": "A magic that drains power through pleasure. It can't be used without\nthe target's permission due to low magical power.",
         "effects": [
             {
                 "code": 21,
@@ -17559,7 +17559,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A low-level beast art that adds the power of fire. Attack power UP small.",
+        "description": "A low-level beast art that adds the power of fire. Attack power UP\nsmall.",
         "effects": [
             {
                 "code": 21,
@@ -17596,7 +17596,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An advanced beast art that transforms flames into fighting spirit. Attack power\nUP large.",
+        "description": "An advanced beast art that transforms flames into fighting spirit.\nAttack power UP large.",
         "effects": [
             {
                 "code": 21,
@@ -17663,7 +17663,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A low-level beast art that uses the wind at your back to push you forward. Speed\nUP small.",
+        "description": "A low-level beast art that uses the wind at your back to push you\nforward. Speed UP small.",
         "effects": [
             {
                 "code": 21,
@@ -17700,7 +17700,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An advanced beast art that attacks as if dancing with whirlwinds. Vulnerability\nhalved.",
+        "description": "An advanced beast art that attacks as if dancing with whirlwinds.\nVulnerability halved.",
         "effects": [
             {
                 "code": 21,
@@ -29629,7 +29629,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Attack by slamming down a greatsword. Blunt attribute, skill-dependent, large TP\nincrease.",
+        "description": "Attack by slamming down a greatsword. Blunt attribute, skill-\ndependent, large TP increase.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 77,
@@ -29659,7 +29659,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Strike with all your might. Blunt attribute, skill-dependent, large TP increase.",
+        "description": "Strike with all your might. Blunt attribute, skill-dependent, large TP\nincrease.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 77,
@@ -29689,7 +29689,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Overpower and compress with brute force. Blunt attribute, skill-dependent, large\nTP increase.",
+        "description": "Overpower and compress with brute force. Blunt attribute, skill-\ndependent, large TP increase.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 77,
@@ -29809,7 +29809,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Turn the enemy into a bonfire. Fire attribute, skill-dependent, chance to\nflinch.",
+        "description": "Turn the enemy into a bonfire. Fire attribute, skill-dependent, chance\nto flinch.",
         "effects": [
             {
                 "code": 21,
@@ -29846,7 +29846,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Erupt a pillar of fire from the ground. Fire attribute, skill-dependent, chance\nto flinch.",
+        "description": "Erupt a pillar of fire from the ground. Fire attribute, skill-\ndependent, chance to flinch.",
         "effects": [
             {
                 "code": 21,
@@ -29883,7 +29883,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Reduce the enemy to ashes. Fire attribute, skill-dependent, chance to flinch.",
+        "description": "Reduce the enemy to ashes. Fire attribute, skill-dependent, chance to\nflinch.",
         "effects": [
             {
                 "code": 21,
@@ -29920,7 +29920,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Drench the enemy with water. Water attribute, skill-dependent, enfeeblement.",
+        "description": "Drench the enemy with water. Water attribute, skill-dependent,\nenfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -29957,7 +29957,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Smash the enemy with waterfall-like water. Water attribute, skill-dependent,\nenfeeblement.",
+        "description": "Smash the enemy with waterfall-like water. Water attribute, skill-\ndependent, enfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -29994,7 +29994,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Submerge the enemy in the sea. Water attribute, skill-dependent, enfeeblement.",
+        "description": "Submerge the enemy in the sea. Water attribute, skill-dependent,\nenfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -30031,7 +30031,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Electrocute the enemy. Lightning attribute, skill-dependent, sensitivity\nincrease.",
+        "description": "Electrocute the enemy. Lightning attribute, skill-dependent,\nsensitivity increase.",
         "effects": [
             {
                 "code": 21,
@@ -30068,7 +30068,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Douse with lightning strikes. Lightning attribute, skill-dependent, sensitivity\nincrease.",
+        "description": "Douse with lightning strikes. Lightning attribute, skill-dependent,\nsensitivity increase.",
         "effects": [
             {
                 "code": 21,
@@ -30105,7 +30105,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Create electricity powerful enough to split stars. Lightning attribute, skill-\ndependent, sensitivity increase.",
+        "description": "Create electricity powerful enough to split stars. Lightning\nattribute, skill- dependent, sensitivity increase.",
         "effects": [
             {
                 "code": 21,
@@ -30412,7 +30412,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Emit a shockwave that sounds like a dragon's roar. Slash attribute, skill-\ndependent, chance to flinch.",
+        "description": "Emit a shockwave that sounds like a dragon's roar. Slash attribute,\nskill- dependent, chance to flinch.",
         "effects": [
             {
                 "code": 21,
@@ -30449,7 +30449,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Unleash a rapid succession of strikes in the blink of an eye. Slash attribute,\nattack power-dependent.",
+        "description": "Unleash a rapid succession of strikes in the blink of an eye. Slash\nattribute, attack power-dependent.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 78,
@@ -30479,7 +30479,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Deliver a full-powered strike from the heavens. Lightning attribute, skill-\ndependent, defense ignoring, restraint.",
+        "description": "Deliver a full-powered strike from the heavens. Lightning attribute,\nskill- dependent, defense ignoring, restraint.",
         "effects": [
             {
                 "code": 21,
@@ -30516,7 +30516,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Swing that turns everything around into scorched earth. Fire attribute, skill-\ndependent, chance to flinch.",
+        "description": "Swing that turns everything around into scorched earth. Fire\nattribute, skill- dependent, chance to flinch.",
         "effects": [
             {
                 "code": 21,
@@ -30553,7 +30553,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A rampaging dragon severs limbs. Slash attribute, attack power-dependent.",
+        "description": "A rampaging dragon severs limbs. Slash attribute, attack power-\ndependent.",
         "effects": [],
         "hitType": 1,
         "iconIndex": 78,
@@ -30673,7 +30673,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mere trick that dazzles the enemy's eyes with bright light. Chance to flinch,\nenfeeblement.",
+        "description": "A mere trick that dazzles the enemy's eyes with bright light. Chance\nto flinch, enfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -30716,7 +30716,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "A slash with magic power that's better than nothing. Slash attribute, attack\npower-dependent, enfeeblement.",
+        "description": "A slash with magic power that's better than nothing. Slash attribute,\nattack power-dependent, enfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -30753,7 +30753,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Cast a minor spell to drain vitality from the enemy. Seduction attribute, skill-\ndependent, enfeeblement.",
+        "description": "Cast a minor spell to drain vitality from the enemy. Seduction\nattribute, skill- dependent, enfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -31300,7 +31300,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Grab and manipulate the breasts as you please. Breast attribute, skill-\ndependent.",
+        "description": "Grab and manipulate the breasts as you please. Breast attribute,\nskill- dependent.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 76,
@@ -31450,7 +31450,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Stir inside the pussy with fingers. Vaginal attribute, skill-dependent.",
+        "description": "Stir inside the pussy with fingers. Vaginal attribute, skill-\ndependent.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 76,
@@ -31510,7 +31510,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Lick the ears to lower the opponent's attack power. Kiss attribute, skill-\ndependent, enfeeblement.",
+        "description": "Lick the ears to lower the opponent's attack power. Kiss attribute,\nskill- dependent, enfeeblement.",
         "effects": [
             {
                 "code": 21,
@@ -31547,7 +31547,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Lick the nape of the neck to lower the opponent's defense power. Kiss attribute,\nskill-dependent, sensitivity increase.",
+        "description": "Lick the nape of the neck to lower the opponent's defense power. Kiss\nattribute, skill-dependent, sensitivity increase.",
         "effects": [
             {
                 "code": 21,
@@ -31644,7 +31644,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Swinging hips to attack, vaginal attribute, attack power + skill-dependent",
+        "description": "Swinging hips to attack, vaginal attribute, attack power + skill-\ndependent",
         "effects": [],
         "hitType": 0,
         "iconIndex": 76,
@@ -31674,7 +31674,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Fiercely swinging hips to attack, vaginal attribute, attack power + skill-\ndependent, with flinch effect",
+        "description": "Fiercely swinging hips to attack, vaginal attribute, attack power +\nskill- dependent, with flinch effect",
         "effects": [
             {
                 "code": 21,
@@ -31801,7 +31801,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Cure status abnormalities and gain resistance for several turns, status\nabnormality cure, concentration granted",
+        "description": "Cure status abnormalities and gain resistance for several turns,\nstatus abnormality cure, concentration granted",
         "effects": [
             {
                 "code": 22,
@@ -31874,7 +31874,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Cure status abnormalities and slightly recover stamina, skill-dependent, status\nabnormality cure, small stamina recovery",
+        "description": "Cure status abnormalities and slightly recover stamina, skill-\ndependent, status abnormality cure, small stamina recovery",
         "effects": [
             {
                 "code": 22,
@@ -31941,7 +31941,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shake off bitter memories of the past, defeat memory removal, defense power UP,\nmental strength UP",
+        "description": "Shake off bitter memories of the past, defeat memory removal, defense\npower UP, mental strength UP",
         "effects": [
             {
                 "code": 22,
@@ -31984,7 +31984,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Catch one's breath to recover stamina, skill-dependent, small stamina recovery",
+        "description": "Catch one's breath to recover stamina, skill-dependent, small stamina\nrecovery",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -32074,7 +32074,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Dispelling evil thoughts to return to a clear mind, full stamina recovery,\nstatus abnormality cure",
+        "description": "Dispelling evil thoughts to return to a clear mind, full stamina\nrecovery, status abnormality cure",
         "effects": [
             {
                 "code": 22,
@@ -32147,7 +32147,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Stare intently at the opponent to observe, enemy status, weakness display",
+        "description": "Stare intently at the opponent to observe, enemy status, weakness\ndisplay",
         "effects": [
             {
                 "code": 44,
@@ -32221,7 +32221,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Take a break to recover physical strength, agility-dependent, small health\nrecovery",
+        "description": "Take a break to recover physical strength, agility-dependent, small\nhealth recovery",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -32281,7 +32281,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Further go with the momentum to caress three times in a row, attack power-\ndependent",
+        "description": "Further go with the momentum to caress three times in a row, attack\npower- dependent",
         "effects": [],
         "hitType": 1,
         "iconIndex": 78,
@@ -32385,7 +32385,7 @@
             "type": 1,
             "variance": 20
         },
-        "description": "Ride the wave of momentum to caress four times in a row, attack power-dependent",
+        "description": "Ride the wave of momentum to caress four times in a row, attack power-\ndependent",
         "effects": [],
         "hitType": 1,
         "iconIndex": 78,
@@ -32415,7 +32415,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Use a special breathing technique to enhance physical abilities, full stamina\nrecovery, attack power UP, skill UP",
+        "description": "Use a special breathing technique to enhance physical abilities, full\nstamina recovery, attack power UP, skill UP",
         "effects": [
             {
                 "code": 21,
@@ -32452,7 +32452,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Draw energy from the outside air to recover physical strength, agility-\ndependent, large health recovery",
+        "description": "Draw energy from the outside air to recover physical strength,\nagility- dependent, large health recovery",
         "effects": [],
         "hitType": 0,
         "iconIndex": 72,
@@ -32512,7 +32512,7 @@
             "type": 5,
             "variance": 20
         },
-        "description": "A succubus technique to absorb the opponent's power, mental power-dependent",
+        "description": "A succubus technique to absorb the opponent's power, mental power-\ndependent",
         "effects": [
             {
                 "code": 21,
@@ -32579,7 +32579,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Make a vow in one's heart, full stamina recovery, action count +1 for 4 turns",
+        "description": "Make a vow in one's heart, full stamina recovery, action count +1 for\n4 turns",
         "effects": [
             {
                 "code": 21,
@@ -32616,7 +32616,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Regain composure through pain, excitement/arousal removal, calmness granted",
+        "description": "Regain composure through pain, excitement/arousal removal, calmness\ngranted",
         "effects": [
             {
                 "code": 22,
@@ -37432,7 +37432,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Summon hands for assistance with the CF family's secret beast technique, right\nhand left hand summoning",
+        "description": "Summon hands for assistance with the CF family's secret beast\ntechnique, right hand left hand summoning",
         "effects": [],
         "hitType": 0,
         "iconIndex": 142,

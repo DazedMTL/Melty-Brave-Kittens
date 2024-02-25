@@ -11535,7 +11535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! \\n[1], go around the town! Help everyone...!"
+                                "\\n<Radro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! \\n[1], go around the town! Help everyone...!"
                             ]
                         },
                         {
@@ -11568,7 +11568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>But don't do anything reckless...! If something happens to\n\\n[1]... I...! If you think it's dangerous, escape!"
+                                "\\n<Radro>But don't do anything reckless...! If something happens to\n\\n[1]... I...! If you think it's dangerous, escape!"
                             ]
                         },
                         {

@@ -224,7 +224,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Medicine that makes you feel refreshed for 4000 minutes: Heals the opponent by\n4000",
+        "description": "Medicine that makes you feel refreshed for 4000 minutes: Heals the\nopponent by 4000",
         "effects": [],
         "hitType": 0,
         "iconIndex": 176,
@@ -283,7 +283,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Medicine that makes you feel good for 900000 minutes: Deals 900000 damage",
+        "description": "Medicine that makes you feel good for 900000 minutes: Deals 900000\ndamage",
         "effects": [],
         "hitType": 0,
         "iconIndex": 176,
@@ -651,7 +651,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Crushed herbs seasoned to make them easier to drink: Restores 30% of vigor and\nstamina",
+        "description": "Crushed herbs seasoned to make them easier to drink: Restores 30% of\nvigor and stamina",
         "effects": [
             {
                 "code": 11,
@@ -690,7 +690,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A friend for adventures that revitalizes both body and mind: Restores 50% of\nvigor and stamina",
+        "description": "A friend for adventures that revitalizes both body and mind: Restores\n50% of vigor and stamina",
         "effects": [
             {
                 "code": 11,
@@ -729,7 +729,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Drops of magic condensed from the atmosphere into liquid form: Restores 70% of\nvigor and stamina",
+        "description": "Drops of magic condensed from the atmosphere into liquid form:\nRestores 70% of vigor and stamina",
         "effects": [
             {
                 "code": 11,
@@ -768,7 +768,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Alchemy product with an unestablished production method: Fully restores vigor\nand stamina, greatly increases TP",
+        "description": "Alchemy product with an unestablished production method: Fully\nrestores vigor and stamina, greatly increases TP",
         "effects": [
             {
                 "code": 11,
@@ -905,7 +905,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that temporarily boosts attack power and skill: Increases Attack,\nIncreases Skill, slightly increases TP",
+        "description": "Medicine that temporarily boosts attack power and skill: Increases\nAttack, Increases Skill, slightly increases TP",
         "effects": [
             {
                 "code": 21,
@@ -944,7 +944,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that temporarily boosts defense and mental strength: Increases Defense,\nIncreases Mental Strength, slightly increases TP",
+        "description": "Medicine that temporarily boosts defense and mental strength:\nIncreases Defense, Increases Mental Strength, slightly increases TP",
         "effects": [
             {
                 "code": 21,
@@ -983,7 +983,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine that temporarily boosts maximum vigor: Increases Max Vigor (stackable),\nslightly increases TP",
+        "description": "Medicine that temporarily boosts maximum vigor: Increases Max Vigor\n(stackable), slightly increases TP",
         "effects": [
             {
                 "code": 31,
@@ -1022,7 +1022,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A card with the power to twist fate: Fully restores vigor and stamina, boosts\nall abilities",
+        "description": "A card with the power to twist fate: Fully restores vigor and stamina,\nboosts all abilities",
         "effects": [
             {
                 "code": 21,
@@ -1079,7 +1079,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The phantom elixir that houses the power of demons in the body: All stats\nmultiplied by 1.5 (during battle)",
+        "description": "The phantom elixir that houses the power of demons in the body: All\nstats multiplied by 1.5 (during battle)",
         "effects": [
             {
                 "code": 21,
@@ -1112,7 +1112,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Medicine effective against all diseases: Fully restores vigor and stamina,\ngreatly increases TP",
+        "description": "Medicine effective against all diseases: Fully restores vigor and\nstamina, greatly increases TP",
         "effects": [
             {
                 "code": 11,
@@ -1157,7 +1157,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A new drug expected by the world: Restores 50% of vigor and stamina, has side\neffects",
+        "description": "A new drug expected by the world: Restores 50% of vigor and stamina,\nhas side effects",
         "effects": [
             {
                 "code": 11,
@@ -1273,7 +1273,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A healing potion you drink with your eyes: Restores 15% vigor, cures status\nabnormalities, causes blindness",
+        "description": "A healing potion you drink with your eyes: Restores 15% vigor, cures\nstatus abnormalities, causes blindness",
         "effects": [
             {
                 "code": 22,
@@ -1336,7 +1336,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Nutritional supplement that restores stamina: Restores 20 stamina, cures\nweakness",
+        "description": "Nutritional supplement that restores stamina: Restores 20 stamina,\ncures weakness",
         "effects": [
             {
                 "code": 22,
@@ -1369,7 +1369,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Medicine that soothes pain and fully restores stamina: Fully restores stamina,\ncures weakness",
+        "description": "Medicine that soothes pain and fully restores stamina: Fully restores\nstamina, cures weakness",
         "effects": [
             {
                 "code": 22,
@@ -1537,7 +1537,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Illegal drug that makes you feel good when used: Fully restores vigor and\nstamina, increases Attack Power, decreases Vigor",
+        "description": "Illegal drug that makes you feel good when used: Fully restores vigor\nand stamina, increases Attack Power, decreases Vigor",
         "effects": [
             {
                 "code": 21,
@@ -1588,7 +1588,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A skull-branded specialty of the Corpse Highway. Quite macabre. Restores 20 HP\nand has a detoxifying effect.",
+        "description": "A skull-branded specialty of the Corpse Highway. Quite macabre.\nRestores 20 HP and has a detoxifying effect.",
         "effects": [
             {
                 "code": 12,
@@ -1633,7 +1633,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rhododendron honey. Licking it causes intoxication and muscle relaxation.\nDefense is doubled, mental strength is zero for 5 turns.",
+        "description": "Rhododendron honey. Licking it causes intoxication and muscle\nrelaxation. Defense is doubled, mental strength is zero for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -1684,7 +1684,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dried banana fiber powder. Awakens and sensitizes the skin. Defense is zero,\nmental strength is doubled for 5 turns.",
+        "description": "Dried banana fiber powder. Awakens and sensitizes the skin. Defense is\nzero, mental strength is doubled for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -1735,7 +1735,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An irresistible portable food for cats. Buffs increase with every step taken.",
+        "description": "An irresistible portable food for cats. Buffs increase with every step\ntaken.",
         "effects": [
             {
                 "code": 21,
@@ -1786,7 +1786,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This portable food can feed a cat ten meals. Buffs greatly increase with every\nstep taken.",
+        "description": "This portable food can feed a cat ten meals. Buffs greatly increase\nwith every step taken.",
         "effects": [
             {
                 "code": 21,
@@ -1849,7 +1849,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A portable food that makes cats tearfully grateful for life. Buffs greatly\nincrease with every step taken, full recovery, and combat power +1 (permanent).",
+        "description": "A portable food that makes cats tearfully grateful for life. Buffs\ngreatly increase with every step taken, full recovery, and combat\npower +1 (permanent).",
         "effects": [
             {
                 "code": 21,
@@ -1956,7 +1956,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Eating this nut makes you want to push forward. Attack power +1 (permanent).",
+        "description": "Eating this nut makes you want to push forward. Attack power +1\n(permanent).",
         "effects": [
             {
                 "code": 42,
@@ -1989,7 +1989,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Eating this nut makes your skin slightly tougher. Defense power +1 (permanent).",
+        "description": "Eating this nut makes your skin slightly tougher. Defense power +1\n(permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2022,7 +2022,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Eating this nut makes your hands more skillful. Dexterity +1 (permanent).",
+        "description": "Eating this nut makes your hands more skillful. Dexterity +1\n(permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2055,7 +2055,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Eating this nut makes you mentally stronger. Mental strength +1 (permanent).",
+        "description": "Eating this nut makes you mentally stronger. Mental strength +1\n(permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2187,7 +2187,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Eating this nut makes it easier to build muscle. Max HP +5 (permanent).",
+        "description": "Eating this nut makes it easier to build muscle. Max HP +5\n(permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2220,7 +2220,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Crushing this sphere grants experience points. Raises the level of a chosen cat\nborrower.",
+        "description": "Crushing this sphere grants experience points. Raises the level of a\nchosen cat borrower.",
         "effects": [
             {
                 "code": 44,
@@ -2279,7 +2279,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "A cute, round sweet treat. The only thing not cute is the price. Restores 10 HP.",
+        "description": "A cute, round sweet treat. The only thing not cute is the price.\nRestores 10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2305,7 +2305,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "A specialty chocolate. A supreme morsel with terrible cost performance. Restores\n10 HP.",
+        "description": "A specialty chocolate. A supreme morsel with terrible cost\nperformance. Restores 10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2331,7 +2331,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "A cake with cherries and chocolate. A slightly adult flavor. Restores 10 HP.",
+        "description": "A cake with cherries and chocolate. A slightly adult flavor. Restores\n10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2383,7 +2383,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "A pastry with layers like a thousand leaves. Sometimes causes choking. Restores\n10 HP.",
+        "description": "A pastry with layers like a thousand leaves. Sometimes causes choking.\nRestores 10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2825,7 +2825,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A gemstone that glows ominously in response to the magic of succubi. Material.",
+        "description": "A gemstone that glows ominously in response to the magic of succubi.\nMaterial.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -3085,7 +3085,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Powder that becomes sticky and unremovable when mixed with water material",
+        "description": "Powder that becomes sticky and unremovable when mixed with water\nmaterial",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
@@ -3215,7 +3215,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mass compressed from the lives of six people inside a monster's stomach material",
+        "description": "Mass compressed from the lives of six people inside a monster's\nstomach material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
@@ -3553,7 +3553,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Unofficial request written on origami paper, adds a request to the guild's desk",
+        "description": "Unofficial request written on origami paper, adds a request to the\nguild's desk",
         "effects": [],
         "hitType": 0,
         "iconIndex": 193,
@@ -5959,7 +5959,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Long and sturdy lumber that could serve as a bridge material event item",
+        "description": "Long and sturdy lumber that could serve as a bridge material event\nitem",
         "effects": [],
         "hitType": 0,
         "iconIndex": 295,
@@ -6297,7 +6297,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A brooch with simple reflective magic, briefly protects against the erosion of\nmagic from succubi",
+        "description": "A brooch with simple reflective magic, briefly protects against the\nerosion of magic from succubi",
         "effects": [],
         "hitType": 0,
         "iconIndex": 147,
@@ -6349,7 +6349,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A seed that stores sound and releases it when it sprouts, can record words and\nmusic",
+        "description": "A seed that stores sound and releases it when it sprouts, can record\nwords and music",
         "effects": [],
         "hitType": 0,
         "iconIndex": 284,
@@ -6375,7 +6375,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A feather taken from Krilkril's Wing of Return, adds Krilkril to the inn's drain\nevent",
+        "description": "A feather taken from Krilkril's Wing of Return, adds Krilkril to the\ninn's drain event",
         "effects": [],
         "hitType": 0,
         "iconIndex": 225,
@@ -6453,7 +6453,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Magistones that naturally form around large amounts of blood and corpses,\ncurrently sealed by a wind barrier",
+        "description": "Magistones that naturally form around large amounts of blood and\ncorpses, currently sealed by a wind barrier",
         "effects": [],
         "hitType": 0,
         "iconIndex": 303,
@@ -13805,7 +13805,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Beer made from wheat with a sweet smell like bananas. Recovers 20 HP and adds 2\nbullets (100 steps)",
+        "description": "Beer made from wheat with a sweet smell like bananas. Recovers 20 HP\nand adds 2 bullets (100 steps)",
         "effects": [
             {
                 "code": 12,
@@ -13844,7 +13844,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A drink sweetened with honey and lemon juice. Recovers 15 HP and adds 2 bullets\n(100 steps)",
+        "description": "A drink sweetened with honey and lemon juice. Recovers 15 HP and adds\n2 bullets (100 steps)",
         "effects": [
             {
                 "code": 12,
@@ -21345,7 +21345,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A dream fragment filled with someone's embarrassing memories. Material. Infused\nwith aphrodisiac poison",
+        "description": "A dream fragment filled with someone's embarrassing memories.\nMaterial. Infused with aphrodisiac poison",
         "effects": [
             {
                 "code": 21,
@@ -21378,7 +21378,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "A dream fragment filled with someone's happy memories. Material. Increases\nattack power and skill. Recovers 500 stamina",
+        "description": "A dream fragment filled with someone's happy memories. Material.\nIncreases attack power and skill. Recovers 500 stamina",
         "effects": [
             {
                 "code": 21,
@@ -21411,7 +21411,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A dream fragment filled with someone's sad memories. Material. Inflicts\nflinching and sensitivity",
+        "description": "A dream fragment filled with someone's sad memories. Material.\nInflicts flinching and sensitivity",
         "effects": [
             {
                 "code": 21,
@@ -21450,7 +21450,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "A dream fragment filled with someone's angry memories. Material. Deals 500 fixed\ndamage to succubi",
+        "description": "A dream fragment filled with someone's angry memories. Material. Deals\n500 fixed damage to succubi",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
