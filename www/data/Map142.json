@@ -9653,7 +9653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Yes, yes! If you dig a hole, make sure to fill it back in!\nWe can't have someone falling in and getting hurt, right?"
+                                "\\n<Ladro>Yes, yes! If you dig a hole, make sure to fill it back in!\nWe can't have someone falling and getting hurt, right?"
                             ]
                         },
                         {
@@ -9707,7 +9707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Aventus is a child who recently arrived, and it seems like\ntheir emotional wounds haven't healed yet."
+                                "\\n<Ladro>Aventus is a child who recently arrived, and it seems like\ntheir emotional wounds haven't healed yet."
                             ]
                         },
                         {
@@ -9740,7 +9740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>The feelings of a child abandoned by their parents... I've\nbeen there before, but I wonder how I can save them."
+                                "\\n<Ladro>The feelings of a child abandoned by their parents... I've\nbeen there myself, but I wonder how I can save them."
                             ]
                         },
                         {
@@ -9794,7 +9794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Do you think it's strange to run an orphanage in a place\nlike this? It's precisely because it's here that it's\nneeded. Maybe it's still a difficult topic for Rui?"
+                                "\\n<Ladro>Do you think it's strange to run an orphanage in a place\nlike this? It's precisely because it's this kind of place\nthat it's needed. Maybe it's still a difficult topic for\nKatara?"
                             ]
                         },
                         {
@@ -9848,7 +9848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>There are so many tough things to deal with, but when I see\nthe children's energetic faces, all those troubles seem to\nfade away."
+                                "\\n<Ladro>There are so many tough things to deal with, but when I see\nthe children's energetic faces, all those troubles seem to\nfade away."
                             ]
                         },
                         {
@@ -9881,7 +9881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>It's not the time to be tired. Having something that only I\ncan do makes me feel happy."
+                                "\\n<Ladro>It's not the time to be tired. Realizing that there are\nthings only I can do makes me feel happy."
                             ]
                         },
                         {
@@ -9935,7 +9935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>This town, Dri-Ne, is called a \"dumping ground.\" People\nliving above throw away things they no longer need."
+                                "\\n<Ladro>This town, Dri-Ne, is called a \"dumping ground.\" People\nliving above throw away things they no longer need here."
                             ]
                         },
                         {
@@ -9968,7 +9968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>To them, we might just be \"ants swarming around spilled ice\ncream.\" In reality, we sometimes wait for usable things to\nfall down."
+                                "\\n<Ladro>To them, we might just be \"ants swarming over spilled ice\ncream.\" In reality, we sometimes wait for usable things to\nfall from above."
                             ]
                         },
                         {
@@ -10022,7 +10022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I wonder what kind of adults these children will become. The\npublic order is bad, it's dirty, and I can't provide them\nwith a proper education, but still, I have hope."
+                                "\\n<Ladro>I wonder what kind of adults these children will become. The\npublic order is bad, it's dirty, and I can't provide them\nwith a proper education, but still, I have hope for them."
                             ]
                         },
                         {
@@ -10055,7 +10055,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I was taught a lot of kindness by \"Mama.\" So, even in a\nplace like this, no matter how dirty it gets, I want to pass\nthat on to these children."
+                                "\\n<Ladro>I was taught a lot of kindness by \"Mama.\" So, even in a\nplace like this, no matter how dirty it gets, I want to pass\nthat on to these children."
                             ]
                         },
                         {
@@ -10109,7 +10109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Hey hey, cat beastfolk are cute, aren't they♥ I wish I had\nears like that. And a tail would be nice too. Can I touch\nit?"
+                                "\\n<Ladro>Hey hey, cat beastfolk are so cute♥ I wish I had ears like\nthat. And a tail would be nice too. Can I touch it?"
                             ]
                         },
                         {
@@ -10163,7 +10163,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I won't pry if you don't want me to, but you come from a\nprestigious family, right? Are you really okay with being in\na place like this?"
+                                "\\n<Ladro>I won't pry if you don't want me to, but you come from a\nprestigious family, right? Are you really okay with being in\na place like this?"
                             ]
                         },
                         {
@@ -10196,7 +10196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>If you have a place to return to, you should go back\nproperly, you know? Well, I'm sure there are various\ncircumstances so I won't say anything more."
+                                "\\n<Ladro>If you have a place to return to, you should go back\nproperly, you know? Well, I'm sure there are various\ncircumstances so I won't say anything more."
                             ]
                         },
                         {
@@ -10250,7 +10250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>The other day, trash falling from above almost hit a child\nand I just snapped! I went up there to complain!"
+                                "\\n<Ladro>The other day, trash falling from above almost hit a child\nand I just snapped! I went up there to complain!"
                             ]
                         },
                         {
@@ -10283,7 +10283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Then I was sincerely apologized to and even given money...\nThey were really nice people, and somehow, I couldn't stay\nmad at them."
+                                "\\n<Ladro>Then I was sincerely apologized to and even given money...\nThey were really nice people, and somehow, I couldn't stay\nmad at them."
                             ]
                         },
                         {
@@ -10316,7 +10316,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Maybe the one discriminating based on where we live was me\nafter all."
+                                "\\n<Ladro>Maybe the one who was discriminating based on where we live\nwas me after all."
                             ]
                         },
                         {
@@ -10370,7 +10370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>This town has a lot of drunks and criminals and the public\norder is terrible, but when it comes to the orphanage,\neveryone is kind. It's because the previous \"Mama\" was such\na wonderful person."
+                                "\\n<Ladro>It's a town with bad public order and lots of drunkards and\ncriminals, but when it comes to the orphanage, everyone is\nkind. It's because the previous \"Mama\" was such a wonderful\nperson."
                             ]
                         },
                         {
@@ -10403,7 +10403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Mama was quite the drinker too. In the end, she died from\nliver problems. But still, I will carry on her will."
+                                "\\n<Ladro>Mama was quite the drinker too. In the end, she died due to\nliver problems. But still, I will carry on her will."
                             ]
                         },
                         {
@@ -10595,7 +10595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Constance>Radlo-mama is really good at cooking! She praises me a lot\nif I finish my meal, but I can't leave any leftovers even if\nI wanted to! Because it's so delicious!"
+                                "\\n<Constance>Radlo-mama is so good at cooking! She praises me a lot if I\neat everything without leaving any, but I can't leave any\neven if I wanted to! Because it's delicious!"
                             ]
                         },
                         {
@@ -10612,7 +10612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Constance>But then, Samuel would mock me saying, \"You'll get fat,\" and\nthat always leads to a fight. I don't want to fight at all!"
+                                "\\n<Constance>But then, Samuel starts mocking me saying \"You'll get fat,\"\nand it always turns into a fight. I don't even want to\nfight!"
                             ]
                         },
                         {
@@ -11086,7 +11086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-chan>*pant*...*pant*... We sure ran a lot..."
+                                "\\n<Louie-chan>*pant*...*pant*...We sure ran a lot..."
                             ]
                         },
                         {
@@ -11119,7 +11119,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>Rui-chan... You're out of breath... *pant*...*pant*..."
+                                "\\n<Wanzworth>Louie-chan... You're out of breath... *pant*...*pant*..."
                             ]
                         },
                         {
@@ -11152,7 +11152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-chan>*pant*...*pant*... So, so are you... *sigh*..."
+                                "\\n<Louie-chan>*pant*...*pant*...So are you... *sigh*..."
                             ]
                         },
                         {
@@ -11185,7 +11185,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>So, it's a tie... then...! *pant*...*sigh*... We should be\nsafe for a while if we've come this far, right?"
+                                "\\n<Wanzworth>So, let's call it a draw...! *pant*...*sigh*... We should be\nsafe for a while if we've come this far, right?"
                             ]
                         },
                         {
@@ -11218,7 +11218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-chan>Ahh... Even so..."
+                                "\\n<Louie-chan>Yeah... But still..."
                             ]
                         },
                         {
@@ -11413,7 +11413,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>Ew... This town isn't very pretty, is it. (It smells a bit\nweird...)"
+                                "\\n<Wanzworth>Ew... This town isn't very pretty, is it. (It smells a bit\nstrange...)"
                             ]
                         },
                         {
@@ -11446,7 +11446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-chan>Mmm... It looks like there's an adventurers' guild and an\ninn."
+                                "\\n<Louie-chan>Mmm... It looks like there's an adventurers' guild and an\ninn."
                             ]
                         },
                         {
@@ -11479,7 +11479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>It might be a good town to hide in. It stinks though."
+                                "\\n<Wanzworth>It might be a good place to hide. It stinks though."
                             ]
                         },
                         {
@@ -11512,7 +11512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-chan>For now, let's just do what we can."
+                                "\\n<Louie-chan>For now, let's just do what we can."
                             ]
                         },
                         {

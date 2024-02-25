@@ -3602,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Haa... haa... If I've made it this far...!"
+                                "\\n<Katara>*pant*...*pant*...If I've made it this far...!"
                             ]
                         },
                         {
@@ -3635,7 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(There's no sign of anything... I've completely shaken\nthem off! Now, to deal with the coagulation crystal...)"
+                                "\\n<Katara>...(There's no sign of them... I've completely shaken them\noff! Now to deal with the coagulation crystal...)"
                             ]
                         },
                         {
@@ -3799,7 +3799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>The barrier is completely gone!! I have no choice but to\nthrow it into the sea... No, there are monsters in the sea\ntoo! I have to throw it as far away as possible, or it'll be\nfound immediately..."
+                                "\\n<Katara>The barrier is completely gone!! I have no choice but to\nthrow it into the sea... No, there are monsters in the sea\ntoo! I have to throw it as far away as possible, or it'll be\nfound immediately..."
                             ]
                         },
                         {
@@ -3839,7 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Ugh... uweeeeh!!! No, I can't! I can't touch this anymore...\nI feel nauseous...!!"
+                                "\\n<Katara>Ugh...ughhhhh!!! No, I can't! I can't touch this anymore...\nI feel nauseous...!!"
                             ]
                         },
                         {
@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>(You've done well, Rui.)"
+                                "\\n<???>(You've done well, Katara.)"
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Wh... who...? Whose voice..."
+                                "\\n<Katara>Wh...who...? Whose voice..."
                             ]
                         },
                         {
@@ -4014,7 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Eh...? Cat Borrower? The hand... spoke...?"
+                                "\\n<Katara>Huh...? Cat Borrower? The hand... spoke...?"
                             ]
                         },
                         {
@@ -4047,7 +4047,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(Since you're borrowing a hand, of course there's someone\nlending it, right? Fufufu♥ Did you think hands just sprouted\nfrom nowhere?)"
+                                "\\n<Cat Borrower>(Since you're borrowing a hand, of course there's someone\nlending it to you, right? Fufufu♥ Did you think hands just\nsprouted from nowhere?)"
                             ]
                         },
                         {
@@ -4064,7 +4064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(I will take the coagulation crystal and sink it to the\nbottom of the distant sea, in a deep sea where no monsters\ndwell. So, don't worry anymore.)"
+                                "\\n<Cat Borrower>(I will take the coagulation crystal and sink it to the\nbottom of the distant sea, in a deep sea area devoid of\nmonsters. So don't worry anymore.)"
                             ]
                         },
                         {
@@ -4081,7 +4081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(Magical power dissolves in water. Even a mass of malice\nlike this will eventually become part of the vast ocean and\nnaturally fade away over time.)"
+                                "\\n<Cat Borrower>(Magic dissolves in water. Even a mass of malice like this\nwill eventually become part of the vast ocean over time and\nnaturally disappear.)"
                             ]
                         },
                         {
@@ -4463,7 +4463,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(Ugh... this is quite a nasty piece of work. It feels\ndisgusting...)"
+                                "\\n<Cat Borrower>(Ugh...this is quite a nasty piece of work. It feels\ndisgusting...)"
                             ]
                         },
                         {
@@ -4496,7 +4496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(The reason Chelsea couldn't use the Cat Borrower was that I\nthought she didn't need it. She's straightforward and\nstrong, never wavering.)"
+                                "\\n<Cat Borrower>(The reason Chelsea couldn't use the Cat Borrower is that I\nthought she didn't need it. She's a straight and strong girl\nwho doesn't get lost.)"
                             ]
                         },
                         {
@@ -4513,7 +4513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(However, you twins are different. Special twins. Innate\ntalent. Born status. You've been pampered and grown arrogant\ndue to your superiority over others, and there's a danger of\nstraying from the path.)"
+                                "\\n<Cat Borrower>(However, you twins are different. Special twins. Innate\ntalent. Born status. There's a risk of becoming complacent\nand arrogant due to your superiority over others, and\nstraying from the path.)"
                             ]
                         },
                         {
@@ -4539,7 +4539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Cat Borrower>(Rui... no, Wanzworth. You were a very troublesome\ndaughter.)"
+                                "\\n<Cat Borrower>(Katara... no, Wanz Wars. You were quite a handful, my\ndaughter.)"
                             ]
                         },
                         {
@@ -4566,7 +4566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Cat Borrower>(Rui... no, Luisham. You were a very troublesome son.)"
+                                "\\n<Cat Borrower>(Katara... no, Louisham. You were quite a handful, my son.)"
                             ]
                         },
                         {
@@ -4616,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Mo... mother...?"
+                                "\\n<Katara>Mo...Mother...?"
                             ]
                         },
                         {
@@ -4656,7 +4656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(But now you're fine. You've gone outside, interacted with\npeople, clashed with them, been led astray, but you've come\nthis far without making mistakes.)"
+                                "\\n<Cat Borrower>(But now you're alright. You've gone outside, interacted\nwith people, clashed with them, and even if you were led\nastray, you didn't make mistakes and made it this far.)"
                             ]
                         },
                         {
@@ -4673,7 +4673,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(There's nothing to worry about. Both Luisham and Wanzworth\nare my pride and joy.)"
+                                "\\n<Cat Borrower>(There's nothing to worry about. Both Louisham and Wanz Wars\nare my pride and joy.)"
                             ]
                         },
                         {
@@ -4690,7 +4690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(Seize your future with your own hands. This is the last\ntime I lend you a hand.)"
+                                "\\n<Cat Borrower>(Seize the future with your own hands. This is the last time\nI will lend you a hand.)"
                             ]
                         },
                         {
@@ -4716,7 +4716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Cat Borrower>(But I'm always watching over you. My dear children.)"
+                                "\\n<Cat Borrower>(But I will always be watching over you. My dear children.)"
                             ]
                         },
                         {
@@ -5055,7 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Ah... don't go..."
+                                "\\n<Katara>Ah...don't go..."
                             ]
                         },
                         {
@@ -5111,7 +5111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>..."
+                                "\\n<Katara>..."
                             ]
                         },
                         {
@@ -5245,7 +5245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Thank you for everything!! I can do it too! Because I'm your\nchild, mom! I can do it! I will do it!!"
+                                "\\n<Katara>Thank you for everything!! I can do it too! Because I'm your\nchild, Mom! I'll keep trying! I'll keep going!!"
                             ]
                         },
                         {
@@ -5272,7 +5272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Thank you for everything!! I'll try even harder!! Because\nI'm a proud member of the Catfield family!"
+                                "\\n<Katara>Thank you for everything!! I'll try even harder!! Because\nI'm a proud member of the Catfield family!"
                             ]
                         },
                         {
@@ -5392,7 +5392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Count Noblesse was imprisoned after his conspiracy was\nexposed. The fact that he tried to bury the slum dwellers\nalive was made public. However, there are still not a few\namong the residents of the noble district who support him."
+                                "Noblesse Count was imprisoned after his conspiracy was\nexposed. The fact that he tried to bury the slum dwellers\nalive was made public. However, there are still not a few\nresidents in the noble district who support him."
                             ]
                         },
                         {
@@ -5409,7 +5409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Custom is a frightening thing; despite everything that\nhappened, slum dwellers still drink during the day and\nresidents of the noble district continue to litter."
+                                "Habits are frightening things; despite everything that\nhappened, slum dwellers still drink during the day and\nresidents of the noble district still litter."
                             ]
                         },
                         {
@@ -5426,7 +5426,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Just because they fought together once doesn't mean that\nyears of resentment were instantly resolved."
+                                "Just because they fought together once doesn't mean that\nyears of grudges were instantly resolved."
                             ]
                         },
                         {
@@ -5443,7 +5443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But things are steadily changing. Everyone, both high and\nlow, can feel it. Even if it's just a little, they're trying\nto truly understand each other."
+                                "But things are steadily changing. Everyone, both those above\nand those below, could feel it. Even if it's just a little,\nthey're trying to truly understand each other."
                             ]
                         },
                         {

@@ -10015,7 +10015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "While holding down the D key, you can move while keeping\nyour direction fixed. If your health or energy reaches 0,\nyou are defeated. (Normal attack → Pleasure attack on health\n→ Damage to energy)"
+                                "While holding down the D key, you can move without changing\ndirection. If your health or energy reaches 0, you are\ndefeated. (Normal attacks → Pleasure attacks on health →\nDamage to energy)"
                             ]
                         },
                         {

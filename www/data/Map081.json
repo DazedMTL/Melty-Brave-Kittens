@@ -7767,7 +7767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I haven't seen Ending 2 yet... To achieve it, your karma\nmust be at its maximum (by not making any wrong choices). To\nsave Meere."
+                                "I haven't seen Ending 2 yet... To achieve it, your Karma\nmust be at its maximum (by not making any wrong choices).\nYou must save Meere."
                             ]
                         },
                         {
@@ -7824,7 +7824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To save Meere, you will need a \"White Vial\". You can obtain\nthe White Vial during the \"Bijou-1st battle\" by not hitting\nthe treasure chest even once."
+                                "To save Meere, you need the \"White Vial.\" You can obtain the\nWhite Vial during the \"Bijou-1st battle\" by not hitting the\ntreasure chest even once."
                             ]
                         },
                         {
@@ -7841,7 +7841,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To use the White Vial, you must know what's inside. You can\nlearn how to use it by \"reading a book\" during the\ninvestigation of the ancient ruins in the \"Bijou-1st\nbattle\"."
+                                "To use the White Vial, you must know what's inside. You can\nlearn how to use it by \"reading a book\" during the\ninvestigation of the ancient ruins in the \"Bijou-1st\nbattle.\""
                             ]
                         },
                         {
@@ -7858,7 +7858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you \"have the White Vial\" and \"know how to use it\", you\ncan save Meere by resisting the temptation in the \"Meere 2nd\nbattle\"."
+                                "If you \"have the White Vial\" and \"know how to use it,\" you\ncan save Meere by resisting the temptation in the \"Meere 2nd\nbattle.\""
                             ]
                         },
                         {
@@ -7888,7 +7888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The basic rule is not to succumb to temptation. You must\ndefeat the succubus. However, the correct choice is to\nsuccumb to temptation only in the \"Ladro 2nd battle\" (the\ntext will also be in blue)."
+                                "The basic rule is not to succumb to temptation. You must\ndefeat the succubus. However, only in the \"Ladro 2nd\nbattle,\" succumbing to temptation is the correct choice.\n(The text will also turn blue.)"
                             ]
                         },
                         {
@@ -7905,7 +7905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you cut down Meere, your karma will still increase, but\nyou will no longer meet the conditions for the ending."
+                                "If you cut down Meere, your Karma will increase, but you\nwill no longer meet the conditions for the ending."
                             ]
                         },
                         {
@@ -8010,7 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ending 2 \"Phantom Thieves Kittens\". Karma is at its best.\nCleared after saving Mele."
+                                "Ending 2 \"Phantom Thieves Kittens\". Karma is at its best.\nCleared by saving Meere."
                             ]
                         },
                         {
@@ -8027,7 +8027,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The slums were half-destroyed, but we succeeded in repelling\nthe monsters. The cat's paw is no longer usable, but we\nshould be fine without borrowing anyone's help now."
+                                "The slums were half-destroyed, but we succeeded in repelling\nthe monsters. The cat borrower can no longer be used, but we\nshould be fine without borrowing anyone's help now."
                             ]
                         },
                         {
@@ -8044,7 +8044,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "However, taught by Radlo to have sticky fingers, the Kittens\ncontinue to steal for the sake of the children in the\norphanage today. Until the day when Dreamy and Lumare can\njoin hands together."
+                                "However, having been taught the art of thievery by Radlo,\nthe Kittens continue to steal for the sake of the children\nin the orphanage today. Until the day when Dreene and Lumare\ncan join hands."
                             ]
                         },
                         {
@@ -8135,7 +8135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Visual - Round 1: Licking the face"
+                                "Visual - First battle, face licking"
                             ]
                         },
                         {
@@ -8621,7 +8621,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ending 1 \"Evil Genius and the Failed Hero\". Cleared normally"
+                                "Ending 1 \"Evil Genius and Failed Hero\". Cleared normally"
                             ]
                         },
                         {
@@ -8638,7 +8638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thanks to the demon lord's group teleportation, they were\nlucky to survive, but the twins were corrupted by the hands\nof a succubus into evil."
+                                "Though they were lucky to survive thanks to the Demon Lord's\ngroup teleport, the twins were corrupted by the succubus and\nfell into evil."
                             ]
                         },
                         {
@@ -8820,7 +8820,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Any EXP and money lost in the Recollection Room will be\nreturned to you when you leave. Levels drained by abilities\nsuch as Drain will also be restored."
+                                "Any EXP and money lost in the Recollection Room will be\nreturned to you when you leave the room. Levels drained by\nabilities such as Drain will also be restored."
                             ]
                         },
                         {
@@ -8850,7 +8850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "All recollections will be unlocked. Once unlocked, you\ncannot return to the main story. Also, you will not be able\nto see events such as temptations that occur before scenes."
+                                "Unlocking all recollections will prevent you from returning\nto the main story. Additionally, you will not be able to see\nevents like pre-scene temptations."
                             ]
                         },
                         {
@@ -8884,7 +8884,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Especially in this game, seduction is a main feature. You\ncan rematch at any time through request format, so it is\nrecommended not to use the full unlock unless necessary."
+                                "Especially in this game, seduction is a main feature. You\ncan always rematch in a request format, so it is recommended\nnot to use the full unlock if possible."
                             ]
                         },
                         {
@@ -9303,7 +9303,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Start a New Game+",
+                                    "Start New Game+",
                                     "Return to before the slum raid",
                                     "Decide not to",
                                     "Description"
@@ -9591,7 +9591,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can start from the beginning again. Items and flags\nnecessary for game progression will be reset."
+                                "You can start over from the beginning again. Items and flags\nnecessary for game progression will be reset."
                             ]
                         },
                         {
@@ -9608,7 +9608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Carryover items: Endings, learned skills, increased stats,\nDrain, non-essential items, money."
+                                "Carryover items include: endings, learned skills, increased\nstats, Drain, non-essential items, and money."
                             ]
                         },
                         {
@@ -9625,7 +9625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Non-carryover items: Weapons, key items, level."
+                                "Non-carryover items include: weapons, key items, and levels."
                             ]
                         },
                         {
@@ -10045,7 +10045,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -10449,7 +10449,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -10651,7 +10651,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -11055,7 +11055,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -11450,7 +11450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Megna's second battle: begging for sex"
+                                "Megna's second battle: Begging for life sex"
                             ]
                         },
                         {
@@ -11459,7 +11459,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -11652,7 +11652,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Latier Event: Seduction Insertion"
+                                "Latier Event: Temptation and Insertion"
                             ]
                         },
                         {
@@ -11661,7 +11661,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -11863,7 +11863,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Refrain"
                                 ],
                                 1,
                                 0,
@@ -12056,7 +12056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Latier: First battle, blown kiss, defeat"
+                                "Latier's first battle defeat by a blown kiss"
                             ]
                         },
                         {
@@ -12065,7 +12065,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "Refrain"
                                 ],
                                 1,
                                 0,
@@ -12469,7 +12469,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -13066,7 +13066,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Latier: Second battle, tail suction"
+                                "Latier Round 2: Tail Suction"
                             ]
                         },
                         {
@@ -13470,7 +13470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Latier: \"Please spare me!\" (during the second battle)"
+                                "Latier's second battle plea for mercy"
                             ]
                         },
                         {
@@ -13479,7 +13479,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -13672,7 +13672,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soel's First Battle: Defeated by a Kiss"
+                                "Soel's first battle, defeated by a kiss"
                             ]
                         },
                         {
@@ -13874,7 +13874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soel's first battle chest exposure temptation"
+                                "Soel's first battle, chest-baring seduction"
                             ]
                         },
                         {
@@ -13883,7 +13883,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "Refrain"
                                 ],
                                 1,
                                 0,
@@ -14076,7 +14076,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soel's first battle plea for mercy"
+                                "Soel's first battle plea for life"
                             ]
                         },
                         {
@@ -14489,7 +14489,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -14691,7 +14691,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -15086,7 +15086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soel's HP reaches 0 in the second battle"
+                                "Soel's second battle, HP 0"
                             ]
                         },
                         {
@@ -15490,7 +15490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Undead 2 Cowgirl Position"
+                                "Undead 2: Cowgirl Position"
                             ]
                         },
                         {
@@ -15499,7 +15499,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -15692,7 +15692,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Undead 3-way fellatio"
+                                "Undead Triple Blowjob"
                             ]
                         },
                         {
@@ -15895,7 +15895,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Visual-1 First Battle HP 0"
+                                "Visu - First battle, health at 0"
                             ]
                         },
                         {
@@ -16106,7 +16106,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -16299,7 +16299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Visual - Second Battle, Kiss Medicine"
+                                "Visual - Second battle, kiss medicine"
                             ]
                         },
                         {
@@ -16308,7 +16308,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -16501,7 +16501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Titjob - Second Battle"
+                                "Visu - Second Battle Titjob"
                             ]
                         },
                         {
@@ -16510,7 +16510,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -16703,7 +16703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Visual-2 Second Battle, Health 0"
+                                "Visu - Second battle, health at 0"
                             ]
                         },
                         {
@@ -16914,7 +16914,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -17107,7 +17107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Visual 2 - Second Battle, Bed Self-Destruction"
+                                "Visual - Second Battle, Bed Self-Destruction"
                             ]
                         },
                         {
@@ -17511,7 +17511,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Megna: \"First battle, showing off my breasts to tempt you.\""
+                                "Megna's first battle chest exposure temptation"
                             ]
                         },
                         {
@@ -17713,7 +17713,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sheika & Barley Round 1 Double Handjob"
+                                "Sheika & Barley Round 1: Double Handjob"
                             ]
                         },
                         {
@@ -17915,7 +17915,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sheika & Barley Round 1 Puff Puff"
+                                "Sheika & Barley Round 1 Puff-Puff"
                             ]
                         },
                         {
@@ -18126,7 +18126,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -18328,7 +18328,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -18530,7 +18530,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -18717,7 +18717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Megna's Drain Event. Overlook Megna. Contribute to Megna at\nlevel 15 or above."
+                                "Megna's Drain Event. Let Megna go. Contribute over level 15\nto Megna."
                             ]
                         },
                         {
@@ -18819,7 +18819,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>You're just level 1. If I milk you any more, you'll\nseriously die, you know? Is that okay? Well, I don't really\nmind..."
+                                "\\n<Megna>You're only level 1. If I milk you any more, you'll\nseriously die, you know? Is that okay? Well, I don't really\nmind..."
                             ]
                         },
                         {
@@ -18852,7 +18852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>It makes me happy that you want to do it with Megna so\nbadly♥ But why don't you go back and level up first? Okay♥"
+                                "\\n<Megna>It's nice that you want to get naughty with Megna so badly♥\nBut why don't you go back and level up first? Okay♥"
                             ]
                         },
                         {
@@ -18967,7 +18967,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Rui is totally smitten with Megna now♥ You used to have such\na scary face♥ Now your face is all red - so cute♥"
+                                "\\n<Megna>Katara is totally smitten with Megna♥ You used to have such\na scary face, but now you're all blushing - so cute♥"
                             ]
                         },
                         {
@@ -19075,7 +19075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Ahh, I'm so hungry♥ Hurry up and take out your dick♥ That's\nwhat you came here for, right? Teehee♥"
+                                "\\n<Megna>Ahh, I'm so hungry♥ Hurry up and whip out your dick♥ That's\nwhat you came here for, right? Teehee♥"
                             ]
                         },
                         {
@@ -19129,7 +19129,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Did you come here just to chat with Megna? No way, right?\nBecause...♥ I'm really looking forward to it♥"
+                                "\\n<Megna>Did you come just to chat with Megna? No way, right?\nBecause...♥ I'm really looking forward to it♥"
                             ]
                         },
                         {
@@ -19291,7 +19291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>The once so strong Rui is now all lovey-dovey over Megna♥\nThat's so funny♥"
+                                "\\n<Megna>The once strong Katara is now all lovey-dovey with Megna♥\nThat's so funny♥"
                             ]
                         },
                         {
@@ -19454,7 +19454,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Titty Fuck",
+                                    "Titty fuck",
                                     "Footjob Lv10↑",
                                     "Sex Lv15↑"
                                 ],
@@ -19714,7 +19714,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Latier's Drain Event. Spare Latier. Contribute over level 15\nto Latier."
+                                "Latier's Drain Event. Overlook Latier. Contribute over level\n15 to Latier."
                             ]
                         },
                         {
@@ -19816,7 +19816,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Oh, you're not level 1, are you? That won't do. If we get\nintimate now, Rui's body won't be able to handle it."
+                                "\\n<Latier>Oh no, you're not level 1, are you? That won't do. If we get\nnaughty now, Katara's body won't be able to handle it."
                             ]
                         },
                         {
@@ -19849,7 +19849,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Go earn some experience points♥ Once you do, big sister will\ndo naughty things to you again♥ Okay♥? If we do it now, you\nmight die, you know?"
+                                "\\n<Latier>Go earn some experience points♥ Then big sis will do naughty\nthings to you again♥ Okay♥? If we do it now, you might die,\nyou know?"
                             ]
                         },
                         {
@@ -19910,7 +19910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>I'm so happy Rui came to see me♥ It's not like I charmed you\nor anything, so I was worried you might not come back♥"
+                                "\\n<Latier>I'm so happy Katara came to see me♥ It's not like I charmed\nyou or anything, so I was worried you might not come back♥"
                             ]
                         },
                         {
@@ -20018,7 +20018,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Of course, I love semen, but I also have a sweet tooth♥ I\nthink sweets are the greatest invention humans have ever\ncome up with♥"
+                                "\\n<Latier>Of course, I love semen, but I also have a sweet tooth♥ I\nthink sweets are the greatest invention humans ever came up\nwith♥"
                             ]
                         },
                         {
@@ -20072,7 +20072,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Ahh♥ What a nice smell♥ Rui's scent really whets my\nappetite♥ It's been that way since the first time I saw you♥"
+                                "\\n<Latier>Ahh♥ What a nice smell♥ Katara's scent really whets my\nappetite♥ It's been that way since the first time I saw you♥"
                             ]
                         },
                         {
@@ -20126,7 +20126,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Did you level up properly? If your body isn't sturdy, you\nwon't be able to withstand sex with me. It would be such a\nwaste if Rui died."
+                                "\\n<Latier>Did you level up properly? If your body isn't sturdy, you\nwon't be able to withstand sex with me. It would be such a\nwaste if Katara died."
                             ]
                         },
                         {
@@ -20180,7 +20180,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Good boy/girl♥ You've saved up lots of experience points for\nme♥ Thank you♥"
+                                "\\n<Latier>Good kid♥ You've saved up lots of experience points for me♥\nThank you♥"
                             ]
                         },
                         {
@@ -20342,7 +20342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>What will you do? Rui♥ Maybe big sister is lying and will\ndrain you dry♥"
+                                "\\n<Latier>What will you do, Katara♥? Maybe big sis is lying and will\ndrain you dry♥"
                             ]
                         },
                         {
@@ -20396,7 +20396,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Come here♥ Let's get along well♥ Rui♥"
+                                "\\n<Latier>Come here♥ Let's get along nicely♥ Katara♥"
                             ]
                         },
                         {
@@ -20822,7 +20822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Megna>Ah... It looks like you're level 1. If you'd like, you can\ncome back another day...♥"
+                                "\\n<Mele>Ah... It looks like you're level 1. If you'd like, you can\ncome back another day...♥"
                             ]
                         },
                         {
@@ -20865,7 +20865,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Megna>What? You're not level 1. Then go home. Come back after\nyou've raised your level♥"
+                                "\\n<Mele>What? You're not level 1? Then go home. Come back after\nyou've raised your level♥"
                             ]
                         },
                         {
@@ -20989,7 +20989,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Rui-san...♥ My life was saved by Rui. I'll do anything I can\nfor you♥"
+                                "\\n<Mele>Katara-san...♥ My life was saved by Katara. I'll do anything\nI can for you♥"
                             ]
                         },
                         {
@@ -21043,7 +21043,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>I mean, I was eaten by a monster once, right? And then I\ntook over its body, didn't I? Nfufu♥ Serves it right! I'll\ncontinue living with this body!"
+                                "\\n<Mele>I was eaten by a monster once, wasn't I? But then I took\nover its body, right? Nfufu♥ Serves it right! I'll continue\nliving with this body!"
                             ]
                         },
                         {
@@ -21097,7 +21097,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Jean keeps talking about Rui-san. He says he wants to become\nan adventurer when he grows up. It's a dangerous job, but if\nit helps someone, I won't stop him."
+                                "\\n<Mele>Jean keeps talking about Katara-san. They say they want to\nbecome an adventurer when they grow up. It's a dangerous\njob, but I won't stop them if they can help someone."
                             ]
                         },
                         {
@@ -21151,7 +21151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Even though I'm no longer human, the idea of my body melting\nis kind of interesting. If I do it right, I can even grab\nthings from afar."
+                                "\\n<Mele>I'm no longer human, but the fact that my body can melt is\nkind of interesting. If I do it right, I can even grab\nthings from afar."
                             ]
                         },
                         {
@@ -21205,7 +21205,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Nfufu♥ Rui-san has seen so many embarrassing parts of me...\nIt makes me blush♥"
+                                "\\n<Mele>Nfufu♥ Katara-san has seen so many embarrassing parts of\nme... It makes me feel shy♥"
                             ]
                         },
                         {
@@ -21259,7 +21259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>You came here to have your level drained, didn't you? Come\non, hurry up and get your dick out on the bed♥"
+                                "\\n<Mele>You came here to have your level drained, didn't you? Come\non, hurry up and get your dick out on the bed♥"
                             ]
                         },
                         {
@@ -21313,7 +21313,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Haa...♥ Haa...♥ Such a delicious smell of magical power♥ Let\nme eat it quickly♥"
+                                "\\n<Mele>Haa...♥ Haa...♥ Such a delicious smell of magical power♥ Let\nme eat it quickly♥"
                             ]
                         },
                         {
@@ -21367,7 +21367,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>I'm not being controlled by a monster♥ But if Rui-san\ndoesn't give me semen, I might get taken over♥ Kukuku♥"
+                                "\\n<Mele>I'm not being controlled by a monster♥ But if Katara-san\ndoesn't give me semen, I might get taken over♥ Kukuku♥"
                             ]
                         },
                         {
@@ -21421,7 +21421,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Are you excited? Hey♥ Maybe you're already ready? Kukuku♥\nTake off your pants and show me♥"
+                                "\\n<Mele>Are you excited? Hey♥ Maybe you're already ready? Kukuku♥\nTake off your pants and show me♥"
                             ]
                         },
                         {
@@ -21475,7 +21475,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>If you offer your level to me, I won't lay a hand on Jean,\nso don't worry♥ Kukuku♥ After all, with semen, I can\nmaintain a human heart♥"
+                                "\\n<Mele>If you offer your level to me, I won't lay a hand on Jean,\nso don't worry♥ Kukuku♥ After all, with semen, I can\nmaintain a human heart♥"
                             ]
                         },
                         {
@@ -21531,7 +21531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Umm...♥ Is there something you want me to do?\\C[14]（Megna\nLv\\v[704]）"
+                                "\\n<Mele>Umm...♥ Is there something you want me to do?\\C[14]（Mele\nLv\\v[704]）"
                             ]
                         },
                         {
@@ -21670,7 +21670,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>So, how do you want to be drained? Kus♥\\C[14]（Megna\nLv\\v[704]）"
+                                "\\n<Mele>So, how do you want to be milked? Kus♥\\C[14]（Mele Lv\\v[704]）"
                             ]
                         },
                         {
@@ -21678,7 +21678,7 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "Paizuri",
+                                    "Titjob",
                                     "Cowgirl Position Lv15↑"
                                 ],
                                 -2,
@@ -21894,7 +21894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melee 1st Encounter Defeat"
+                                "Melee 1st Encounter: Defeated by Contact"
                             ]
                         },
                         {
@@ -22096,7 +22096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melee 1: Begging for life"
+                                "Melee 1st battle: begging for life"
                             ]
                         },
                         {
@@ -22105,7 +22105,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -22298,7 +22298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melee 1st battle HP 0"
+                                "Melee 1st battle, health at 0"
                             ]
                         },
                         {
@@ -22509,7 +22509,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -22702,7 +22702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melee Round 2: Engage and Pressure"
+                                "Melee 2nd encounter: Pressing attack"
                             ]
                         },
                         {
@@ -22711,7 +22711,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -23091,7 +23091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melee 2nd Battle Trap"
+                                "Melee - Second Battle Trap"
                             ]
                         },
                         {
@@ -23100,7 +23100,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Refrain"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -23495,7 +23495,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melee Round 2: Begging for life"
+                                "Melee - Round 2: Begging for life"
                             ]
                         },
                         {
@@ -23504,7 +23504,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -23697,7 +23697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wanzuwarth's Temptation"
+                                "Wanz's Temptation"
                             ]
                         },
                         {
@@ -23899,7 +23899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wanzuwarth's Tentacle Handjob"
+                                "Wanz's Tentacle Handjob"
                             ]
                         },
                         {
@@ -23908,7 +23908,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -24101,7 +24101,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "One's Worth Stamina 0"
+                                "Wanz's HP is 0"
                             ]
                         },
                         {
@@ -24303,7 +24303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Wanzuwarth begging for life"
+                                "Wanz: \"Please spare my life!\""
                             ]
                         },
                         {
@@ -24312,7 +24312,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -24514,7 +24514,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Refrain"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -24716,7 +24716,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -25111,7 +25111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Arno: \"Please spare my life!\""
+                                "Arno begging for life"
                             ]
                         },
                         {
@@ -25120,7 +25120,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -25313,7 +25313,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Imp fellatio"
+                                "Imp Fellatio"
                             ]
                         },
                         {
@@ -25717,7 +25717,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Imp HP 0"
+                                "Imp's HP is 0"
                             ]
                         },
                         {
@@ -25919,7 +25919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Imp begging for its life"
+                                "Imp begging for their life"
                             ]
                         },
                         {
@@ -25928,7 +25928,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -26114,7 +26114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sheika & Barley's Drain Event. Overlook the two of them.\nContribute over level 15 to the pair."
+                                "Sheika & Barley's Drain Event. Overlook them. Contribute\nover level 15 to them."
                             ]
                         },
                         {
@@ -26284,7 +26284,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Rui, it's just you. I seriously went all out and lost. No,\nthat really got me pumped up."
+                                "\\n<Sheika>Katara, it was just you. I seriously went all out and lost.\nNo, that really got my adrenaline pumping."
                             ]
                         },
                         {
@@ -26338,7 +26338,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Just so you know, I only kill the idiots who come to me\nasking to be squeezed to death. I'm a super nice demon,\nright?"
+                                "\\n<Sheika>Just so you know, I only kill idiots who come to me asking\nto be squeezed to death. I'm a super nice demon, right?"
                             ]
                         },
                         {
@@ -26392,7 +26392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>You did level up properly, right? If your level is too low\nwhen you do erotic things with me, you'll seriously die."
+                                "\\n<Sheika>You did level up properly, didn't you? If your level is too\nlow when you do erotic things with me, you'll seriously die."
                             ]
                         },
                         {
@@ -26425,7 +26425,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Hmm, level ? Well, I'll stop just before you're about to\ndie."
+                                "\\n<Sheika>Hmm, level \\v[8], huh? Well, I'll stop just before you look\nlike you're gonna die."
                             ]
                         },
                         {
@@ -26479,7 +26479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Succubi inevitably suck out power when they do erotic things\nwith humans. It's not like I want to kill them, you know?"
+                                "\\n<Sheika>Succubi can't help but drain power when they get down and\ndirty with humans. It's not like I kill because I want to,\nyou know?"
                             ]
                         },
                         {
@@ -26533,7 +26533,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Hm? What's up? Are you embarrassed to be squeezed by me in\nfront of everyone? It's fine, let's show them what we've\ngot★"
+                                "\\n<Sheika>Hm? What's that? Are you embarrassed to be squeezed by me in\nfront of everyone? Come on, it's fine. Let's show them what\nyou've got★"
                             ]
                         },
                         {
@@ -26575,7 +26575,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Sheika>The female customers are increasing just to see you get\nsqueezed dry. Make sure to ejaculate properly and give them\na good show, okay?"
+                                "\\n<Sheika>The female customers are increasing just to see you get\ndrained. Make sure to ejaculate properly and give them a\ngood show, okay?"
                             ]
                         },
                         {
@@ -26648,7 +26648,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Losing two against one really pissed me off. Let's have a\nserious death match again next time."
+                                "\\n<Sheika>Losing two against one really pissed me off. Let's have a\nserious deathmatch again next time."
                             ]
                         },
                         {
@@ -26702,7 +26702,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Oh? Your cock is ready, huh? Kukuku★"
+                                "\\n<Sheika>Oh? Looks like your cock is ready★ Hehehe★"
                             ]
                         },
                         {
@@ -26744,7 +26744,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Sheika>Look, see? Kukuku★ They're looking forward to seeing you get\nsqueezed dry by me. Those women are probably getting wet\nwatching you get off★"
+                                "\\n<Sheika>Look, see? Hehehe★ Those women are looking forward to seeing\nyou get drained by me. They're probably getting wet just\nwatching you get off★"
                             ]
                         },
                         {
@@ -26808,7 +26808,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Other succubi think of humans as nothing but food, but I\nconsider them friends. Well, I'll still squeeze them to\ndeath as usual."
+                                "\\n<Sheika>Other succubi might think of humans as nothing but food, but\nI consider you a friend. Well, I'll still drain you dry as\nusual."
                             ]
                         },
                         {
@@ -26862,7 +26862,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Can't handle your liquor? It's nice to get totally wasted\nand make a scene with these guys once in a while, isn't it?"
+                                "\\n<Sheika>Can't handle your liquor? It's fun to watch these guys get\nwasted and make a ruckus once in a while, isn't it?"
                             ]
                         },
                         {
@@ -26916,7 +26916,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Nah, it's great that such a fun building is still standing.\nMusic, you know? It makes your body move on its own. If I\ndidn't know about this stuff, I wouldn't have become friends\nwith Barley."
+                                "\\n<Sheika>Nah, it's great that such a cool building is still standing.\nMusic, you know? It makes your body move on its own. If I\ndidn't know about this stuff, I wouldn't have become friends\nwith Barley."
                             ]
                         },
                         {
@@ -26963,7 +26963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>So, what should we do for today's show★\\C[14](Sheika &\nBarley Lv)"
+                                "\\n<Sheika>So, what should we do for today's show★ \\C[14](Sheika &\nBarley Lv\\v[703])"
                             ]
                         },
                         {
@@ -27427,7 +27427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>Ah, that stuff over there? I killed a merchant and stole it.\nIf there's anything you need, feel free to take it."
+                                "\\n<Imp>Ah, that stuff over there? Stole it from a merchant I\nkilled. If there's anything you want, feel free to take it."
                             ]
                         },
                         {
@@ -27622,7 +27622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>I don't know why, but lately, it seems the Demon Lord has\nbeen experimenting with \"turning existing monsters into\nsuccubi.\""
+                                "\\n<Imp>I don't know why, but lately, it seems the Demon Lord has\nbeen experimenting with \"transforming existing monsters into\nsuccubi.\""
                             ]
                         },
                         {
@@ -27655,7 +27655,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>I used to be a regular monster until not too long ago. This\nbody is more convenient for various things. I like it."
+                                "\\n<Imp>I used to be a regular monster until not too long ago. This\nbody is more convenient for various reasons. I like it."
                             ]
                         },
                         {
@@ -27709,7 +27709,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>Hey, you're an idiot, so you probably came here wanting to\ndo lewd things with me again, right? Fine. Let's get it over\nwith quickly."
+                                "\\n<Imp>Hey, you're an idiot, so you probably came back to do lewd\nthings with me again, right? Fine. Let's get it over with\nquickly."
                             ]
                         },
                         {
@@ -27763,7 +27763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>I've drained so much magical power from humans that I've\nbecome an upper-class imp. Well, I just call myself that."
+                                "\\n<Imp>Since I've drained so much magical power from humans, I was\nable to become a higher-ranking imp. Well, I just call\nmyself that."
                             ]
                         },
                         {
@@ -27817,7 +27817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>You know I'm a vile monster who's killed countless people,\nand yet you still want to do lewd things with me. You're\npretty low yourself."
+                                "\\n<Imp>You know I'm a despicable monster who's killed plenty of\npeople, and yet you still want to do lewd things with me.\nYou're pretty low yourself."
                             ]
                         },
                         {
@@ -27871,7 +27871,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>What's wrong? Getting horny? It looks like that thing of\nyours is getting bigger. Hey, why? Is my body that erotic?"
+                                "\\n<Imp>What's the matter? Getting horny? It looks like that thing\nof yours is getting bigger. Hey, why is that? Is my body\nthat erotic?"
                             ]
                         },
                         {
@@ -27925,7 +27925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Imp>I told you I'd kill you if you came back, right? Do you\nunderstand what will happen if we do it? Teehee♥"
+                                "\\n<Imp>I told you I'd kill you if you came back, right? Do you\nunderstand what will happen if we do lewd things? Teehee♥"
                             ]
                         },
                         {
@@ -28026,7 +28026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Imp>So? What do you want me to do to you?\\C[14] (Imp Lv\\v[706])"
+                                "\\n<Imp>So? How do you want me to do you?\\C[14]（Imp Lv\\v[706]）"
                             ]
                         },
                         {
@@ -28310,7 +28310,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -28503,7 +28503,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sheika's Minimum Titjob"
+                                "Sheika's Minimal Titjob"
                             ]
                         },
                         {
@@ -28916,7 +28916,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -29109,7 +29109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Latier's gentle kiss torment"
+                                "Latier's relentless mini-kisses"
                             ]
                         },
                         {
@@ -29311,7 +29311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Sheika & Barley: Begging for mercy in the second battle"
+                                "Sheika & Barley begging for their lives in the second battle"
                             ]
                         },
                         {
@@ -29320,7 +29320,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -29513,7 +29513,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Megna Minimum Trample"
+                                "Megna's Minimum Trample"
                             ]
                         },
                         {
@@ -29522,7 +29522,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Refrain"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -30085,8 +30085,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Increase",
-                                    "Decrease",
+                                    "Raise",
+                                    "Lower",
                                     "Cancel"
                                 ],
                                 2,
@@ -30260,7 +30260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Visual - Full Body Insertion"
+                                "Visual: Full-body insertion at minimum"
                             ]
                         },
                         {
@@ -30269,7 +30269,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -30462,7 +30462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Tera-contact kiss"
+                                "Terra Contact Kiss"
                             ]
                         },
                         {
@@ -30471,7 +30471,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -30664,7 +30664,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Mega butt job"
+                                "Tera assjob"
                             ]
                         },
                         {
@@ -30866,7 +30866,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Terra's HP is 0"
+                                "Katara's HP is 0"
                             ]
                         },
                         {
@@ -31068,7 +31068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Terra begging for life?※Unlocked after viewing Ending 1"
+                                "Katara begging for their life?※Unlocked after viewing Ending\n1"
                             ]
                         },
                         {
@@ -31150,7 +31150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Terra begging for her life?"
+                                "Katara, begging for your life?"
                             ]
                         },
                         {
@@ -31159,7 +31159,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -31554,7 +31554,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Terracharm※Unlocked by viewing Ending 2"
+                                "Terracharm ※ Unlocked after viewing Ending 2"
                             ]
                         },
                         {
@@ -31920,7 +31920,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Terrace Chase Contact Blowjob"
+                                "Throat-Chase Contact Blowjob"
                             ]
                         },
                         {
@@ -32122,7 +32122,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Terra's stamina 0※Unlocked after viewing Ending 2"
+                                "Katara's HP reduced to 0. Unlock after viewing Ending 2."
                             ]
                         },
                         {
@@ -32415,7 +32415,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop it"
+                                    "Stop"
                                 ],
                                 1,
                                 0,
@@ -32608,7 +32608,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Airin: \"Titty-fucking\""
+                                "Aerial Titfuck"
                             ]
                         },
                         {
@@ -32819,7 +32819,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -33021,7 +33021,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "I'll refrain"
+                                    "I'll stop"
                                 ],
                                 1,
                                 0,
@@ -33403,7 +33403,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>My mission is to investigate human ecology. To us demons,\nhumans are still an unknown factor."
+                                "\\n<Arno>My mission is to investigate human ecology. To us demons,\nhumans are an unknown variable after all."
                             ]
                         },
                         {
@@ -33457,7 +33457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>I might get scolded for saying this, but our current Demon\nLord is a bit of an odd one. Fond of intricate schemes, or\nrather, trying out new things."
+                                "\\n<Arno>I might get scolded for saying this, but our current Demon\nLord is a bit of an odd one. Fond of entanglements, or\nrather, trying out new things."
                             ]
                         },
                         {
@@ -33511,7 +33511,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>Succubi, as a species, generally have low combat abilities.\nWe allocate our resources to intelligence. Pure combat\nstrength is far higher in less intelligent demons."
+                                "\\n<Arno>Succubi as a species generally have low combat abilities. We\nallocate our resources to intelligence. Pure combat strength\nis far higher in less intelligent demons."
                             ]
                         },
                         {
@@ -33544,7 +33544,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>With a method called Energy Drain, we suck power from humans\nand finally become able to fight properly. A low-ranking\nsuccubus has about the same combat strength as an average\nwoman."
+                                "\\n<Arno>We use a method called Energy Drain to suck power from\nhumans, and only then can we fight properly. A low-ranking\nsuccubus has about the same combat strength as an average\nwoman."
                             ]
                         },
                         {
@@ -33652,7 +33652,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>Just between us, the recent increase in succubi seems to be\nbecause the Hero's weakness was seduction. It's quite a\nridiculous story, isn't it? Hehe♥"
+                                "\\n<Arno>Just between us, the recent increase in succubi seems to be\nbecause the Hero's weakness was seduction. It's a\nridiculously silly story, isn't it? Hehe♥"
                             ]
                         },
                         {
@@ -33739,7 +33739,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>It's fortunate for me... but humans really are\nincomprehensible creatures. They are foolish beings that\ncannot admit their mistakes."
+                                "\\n<Arno>It's fortunate for me... but humans really are an enigma.\nThey are foolish creatures that cannot admit their mistakes."
                             ]
                         },
                         {
@@ -33793,7 +33793,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>Oh my. You seem unable to contain yourself. Hehe♥ Are you\nsquirming with the desire to be stepped on by me?"
+                                "\\n<Arno>Oh my, you seem unable to contain yourself. Hehe♥ Are you\nitching to be stepped on by me?"
                             ]
                         },
                         {
@@ -33847,7 +33847,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>I've been waiting for Rui. Bound by the contract, they are\nthe only human I can attack."
+                                "\\n<Arno>I've been waiting for Katara. Bound by contract, they are\nthe only human I can attack."
                             ]
                         },
                         {
@@ -33901,7 +33901,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>Disguising oneself as a human is quite difficult, you know?\nHorns and tails can be left visible because of beastmen, but\nmore than that, it's hard to suppress the hunger."
+                                "\\n<Arno>Mimicking humans is quite difficult, you know? Horns and\ntails don't need to be hidden because of beastmen, but more\nthan that, it's hard to suppress our hunger."
                             ]
                         },
                         {
@@ -33934,7 +33934,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>If I were to compare it to something you understand... It's\nlike a roast chicken wearing clothes and talking to you.\nIt's no wonder you'd get hungry, right?"
+                                "\\n<Arno>If I were to compare it to something you'd understand...\nIt's like a roast chicken wearing clothes and talking to\nyou. It's no wonder we get hungry, right?"
                             ]
                         },
                         {
@@ -33988,7 +33988,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>Rui's magical power is of very high quality. Could it be\nthat you're twins? Such special magic power isn't something\nyou come across often."
+                                "\\n<Arno>Katara's magical power is of very high quality. Could it be\nthat you're a twin? Such special magic power isn't common."
                             ]
                         },
                         {
@@ -34087,7 +34087,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>When something unexpected happens, a tremendous amount of\nenergy is generated. The exceptional talent you possess is\nboth a gift and an anomaly bestowed by the world."
+                                "\\n<Arno>When something unexpected happens, a tremendous amount of\nenergy is generated. Your extraordinary talent is both a\ngift bestowed by the world and an anomaly."
                             ]
                         },
                         {
@@ -34134,7 +34134,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Arno>Now then, let us begin our union in accordance with the\ncontract.\\C[14]（Arno Lv\\v[707]）"
+                                "\\n<Arno>Now then, let us begin the ritual according to the\ncontract.\\C[14]（Arno Lv\\v[707]）"
                             ]
                         },
                         {
@@ -34341,7 +34341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Soel's Mana-Drain Event. Succumb to Soel's temptation\n(second battle). Unlocked by donating over 10000G to the\nchurch."
+                                "Soel's Mana-Drain Event. Succumb to Soel's temptation\n(second battle). Unlocked by donating over 10,000G to the\nchurch."
                             ]
                         },
                         {
@@ -34441,7 +34441,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Oh my, it seems like a lost kitten has run out of money.\nWithout any, I can't listen to your confessions."
+                                "\\n<Soeur>Oh my, it seems like our lost little kitten has run out of\nmoney. Without any, I can't listen to your confessions."
                             ]
                         },
                         {
@@ -34474,7 +34474,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>If you ever feel like making a donation to the church again,\nplease come back for confession♥ Teehee♥"
+                                "\\n<Soeur>If you ever feel like making a donation to the church again,\nplease come back for confession♥ hehe♥"
                             ]
                         },
                         {
@@ -34535,7 +34535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>You've become eager to confess♥ Teehee♥ How shall we atone\nfor your sins today♥"
+                                "\\n<Soeur>You've become eager to confess♥ hehe♥ How shall we atone for\nyour sins today♥"
                             ]
                         },
                         {
@@ -34589,7 +34589,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Eh? You thought confessionals were separate rooms? Please\ndon't be so stiff♥ That's how it is with the Storm Church.\n(Lie)"
+                                "\\n<Soeur>Eh? You thought confessionals were separate rooms? Please\ndon't be so stiff♥ That's how it is in the Storm Church.\n(Lie)"
                             ]
                         },
                         {
@@ -34643,7 +34643,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Rui-san, you have so many things to apologize for, don't\nyou♥ Ufufu♥ I'll listen to anything♥"
+                                "\\n<Soeur>Katara-san. You have so many things to apologize for, don't\nyou♥ ufufu♥ I'll listen to anything♥"
                             ]
                         },
                         {
@@ -34697,7 +34697,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>How much \"sin\" have you accumulated today? I'll cleanse you\ncompletely and make you feel refreshed♥ Teehee♥"
+                                "\\n<Soeur>How much \"sin\" have you accumulated today? I'll cleanse it\nall away for you♥ hehe♥"
                             ]
                         },
                         {
@@ -34751,7 +34751,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Rui-san♥ You and I are bound by fate♥ There's no escaping\nnow♥ Ufufu♥"
+                                "\\n<Soeur>Katara-san♥ You and I are bound by fate♥ There's no escaping\nnow♥ ufufu♥"
                             ]
                         },
                         {
@@ -34805,7 +34805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>You see, I'm quite skilled at barrier magic. That's why I've\ncovered this confessional with a simple barrier. Do you\nunderstand what that means?"
+                                "\\n<Soeur>I'm quite skilled at barrier magic. That's why I've covered\nthis confessional with a simple barrier. Do you understand\nwhat that means?"
                             ]
                         },
                         {
@@ -34838,7 +34838,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>No matter how loudly you moan, the sound won't leak outside♥\nYou can scream as much as you want♥"
+                                "\\n<Soeur>No matter how loudly you moan, the sound won't leak outside♥\nYou can scream as much as you want♥"
                             ]
                         },
                         {
@@ -34892,7 +34892,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Oh my♥ Rui-san♥ What's happened to make your crotch swell up\nlike that? I'm here to hear your confession, after all♥\nTeehee♥"
+                                "\\n<Soeur>Oh my♥ Katara-san♥ What's happened to make your crotch swell\nup like that? I'm here to hear your confession, after all♥\nhehe♥"
                             ]
                         },
                         {
@@ -34946,7 +34946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Don't worry♥ There's no need to be concerned♥ I've locked\nthe door, and no one will find out♥ I'll even take care of\nthe smell♥ Teehee♥"
+                                "\\n<Soeur>It's okay♥ Don't worry♥ I've locked the door, and no one\nwill find out♥ I'll take care of the smell too♥ hehe♥"
                             ]
                         },
                         {
@@ -35000,7 +35000,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>My, my♥ It's swollen up so much...♥ It seems you've\naccumulated quite a bit of impurity♥ I'll drain it all out\nfor you♥"
+                                "\\n<Soeur>My, my♥ Such a big swelling...♥ It seems you've accumulated\nquite a bit of impurity♥ I'll drain it all out for you♥"
                             ]
                         },
                         {
@@ -35066,7 +35066,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Nfufu♥ Smooch♥ Just a light kiss and you're already rock\nhard♥ What a lewd person you are. Really♥"
+                                "\\n<Soeur>Nfufu♥ *kiss* Just a light kiss and you're already rock\nhard♥ What a lewd person you are. Really♥"
                             ]
                         },
                         {
@@ -35100,7 +35100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soel>Now, let me purify you♥ \\C[14](The amount of money Soel took\n\\v[743]G)"
+                                "\\n<Soeur>Now, let me purify you♥\\C[14]（The amount of money Soeur took\nfrom you \\v[743]G）"
                             ]
                         },
                         {
@@ -35109,7 +35109,7 @@
                             "parameters": [
                                 [
                                     "Blowjob",
-                                    "Titjob 10000G↑",
+                                    "Titty Fuck 10000G↑",
                                     "Sex 20000G↑"
                                 ],
                                 -2,
@@ -35368,7 +35368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bijou's Money Drain Event. Lose to Bijou's temptation\n(second battle). Contribute over 10,000G to Bijou on the\nsecond floor of the guild."
+                                "Bijou's Money Drain Event. Succumb to Bijou's temptation\n(second battle). Contribute over 10,000G to Bijou on the\nsecond floor of the guild."
                             ]
                         },
                         {
@@ -35489,7 +35489,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Bijou>Since you've paid me so much money♥ I'll give you a special\nservice from your big sister♥ Take good care of it♥ Teehee♥"
+                                "\\n<Bijou>Since you've paid me so much♥, here's a special service from\nyour big sister♥ Take good care of it♥ Teehee♥"
                             ]
                         },
                         {
@@ -35569,7 +35569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Mm-♥ What a shame, it looks like you don't have any money.\nGo complete some quests and come back♥ Work hard for the\nchance to do naughty things with me♥"
+                                "\\n<Bijou>Mm-♥ What a pity, looks like you're out of money. Complete\nsome quests and come back again♥ Work hard if you want to do\nnaughty things with me♥"
                             ]
                         },
                         {
@@ -35684,7 +35684,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Aww♥ How cute♥ You're already getting hard in anticipation♥\nWhat do you want from me? Tell me♥ Rui♥"
+                                "\\n<Bijou>Aww♥ How cute♥ You're already getting hard in anticipation♥\nWhat do you desire from me? Tell me♥ Katara♥"
                             ]
                         },
                         {
@@ -35792,7 +35792,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>My swordsmanship and magic skills are quite something,\naren't they? Well, if Rui were to get serious, I'd be an\neasy win. If you could get serious, that is♥"
+                                "\\n<Bijou>My swordsmanship and magic are quite something, aren't they?\nWell, if Katara were to get serious, I'd be an easy win. If\nyou could get serious, that is♥"
                             ]
                         },
                         {
@@ -35900,7 +35900,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Were you nervous going up the stairs? It's okay, there are\nother rooms on the second floor. There's even a storage\nroom. Even if someone sees you coming up here, it's no\nproblem♥"
+                                "\\n<Bijou>Were you nervous going up the stairs? It's okay, there are\nother rooms on the second floor. There's even a storage\nroom. No one will mind if they see you coming up here♥"
                             ]
                         },
                         {
@@ -35954,7 +35954,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>This is the adventurers' guild, but it's pretty much like a\ntavern. The downstairs is always noisy with drunkards,\nright? So even if you raise your voice a bit, no one will\nhear you."
+                                "\\n<Bijou>This is the adventurers' guild, but it's pretty much like a\ntavern. The downstairs is always noisy with drunkards,\nright? So a little noise won't be heard at all."
                             ]
                         },
                         {
@@ -36116,7 +36116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Relax a little more♥ We're pressing our bodies together\nafter all♥ Don't be afraid♥ Let's love each other♥"
+                                "\\n<Bijou>Relax a bit more♥ We're pressing our bodies together after\nall♥ Don't be scared♥ Let's love each other♥"
                             ]
                         },
                         {
@@ -36150,7 +36150,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Which plan should I use to tease you with-♥\\C[14](The amount\nof money offered to Bijou \\v[744]G)"
+                                "\\n<Bijou>Which plan should I use to tease you-♥\\C[14](The amount of\nmoney offered to Bijou \\v[744]G)"
                             ]
                         },
                         {
@@ -36418,7 +36418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Thief's Maneuver - Drain Event. Spare the thief (second\nencounter). Unlocked by donating over 10000G to the\norphanage."
+                                "Thief's Maneuver - Drain Event. Spare the thief (second\nencounter). Unlocks upon donating over 10000G to the\norphanage."
                             ]
                         },
                         {
@@ -36518,7 +36518,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Ah! Are you okay? Your money... it's all gone... But, you\nknow, I don't need any money, okay?"
+                                "\\n<Ladro>Ah! Are you okay? Your money... it's all gone... But, you\nknow, I don't need any money, okay?"
                             ]
                         },
                         {
@@ -36551,7 +36551,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I-I want to do it because I like you. I want you to spoil\nme. Rui...♥"
+                                "\\n<Ladro>I-I want to do it because I like you. I want you to spoil\nme. Katara...♥"
                             ]
                         },
                         {
@@ -36612,7 +36612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Rui...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no choice."
+                                "\\n<Ladro>Katara...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no choice."
                             ]
                         },
                         {
@@ -36645,7 +36645,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>It's only because it's you, Rui. Don't get the wrong idea,\nokay?"
+                                "\\n<Ladro>I thought it was okay because it's you, Katara. Don't get\nthe wrong idea, okay?"
                             ]
                         },
                         {
@@ -36699,7 +36699,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Shh...♥ Okay? You can't make a loud noise, got it?"
+                                "\\n<Ladro>Shh-...♥ Keep it down, okay? You can't make a loud noise.\nGot it?"
                             ]
                         },
                         {
@@ -36753,7 +36753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Sigh... Seriously, I was so embarrassed, you know? I'd hate\nto be thought of as a slut or a pervert."
+                                "\\n<Ladro>Sigh... I was really, really embarrassed, you know? I'd hate\nto be thought of as a slut or a pervert."
                             ]
                         },
                         {
@@ -36807,7 +36807,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Rui...♥ This is a secret just between the two of us, okay?♥"
+                                "\\n<Ladro>Katara...♥ This is our little secret, okay? ♥"
                             ]
                         },
                         {
@@ -36861,7 +36861,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Look, you don't have to strain yourself over money, okay? I\nmean, I don't mind doing it for free... (Actually, I\nwouldn't mind paying you instead...)"
+                                "\\n<Ladro>Look, you don't have to strain yourself over money, okay? I\ndon't mind doing it for free... (Actually, I wouldn't mind\npaying you...)"
                             ]
                         },
                         {
@@ -36915,7 +36915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Ever since we first met, I actually felt something like\nfate. Ehehe♥ It's a strange feeling."
+                                "\\n<Ladro>Ever since we first met, I actually felt something fateful\nabout it. Ehehe♥ It's a strange feeling."
                             ]
                         },
                         {
@@ -36969,7 +36969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Don't hold back♥ After all, you've seen plenty of my\nembarrassing sides. I want to see lots of Rui's embarrassing\nsides too♥"
+                                "\\n<Ladro>Don't hold back♥ I've been seen in plenty of embarrassing\nsituations myself. I want to see all of Katara's\nembarrassing sides too♥"
                             ]
                         },
                         {
@@ -37023,7 +37023,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Wait, wait... it's already getting big...♥ Naughty♥"
+                                "\\n<Ladro>Wait, wait... it's already getting big...♥ Naughty♥"
                             ]
                         },
                         {
@@ -37077,7 +37077,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Nfufu♥ Leave it to your big sis♥"
+                                "\\n<Ladro>Nfufu♥ Leave it to your big sis♥"
                             ]
                         },
                         {
@@ -37131,7 +37131,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>...♥ (Wow...♥ What should I do♥ Rui...♥ I'm still so\nembarrassed♥)"
+                                "\\n<Ladro>...♥ (Wow...♥ What should I do♥ Katara...♥ I'm still so\nembarrassed♥)"
                             ]
                         },
                         {
@@ -37165,7 +37165,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Hey, Rui♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
+                                "\\n<Ladro>Hey, Katara♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
                             ]
                         },
                         {
@@ -37510,7 +37510,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Changing the state of Melee."
+                                "Changing the status of Melee."
                             ]
                         },
                         {
@@ -37518,8 +37518,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Save",
-                                    "Leave as a monster"
+                                    "Rescued",
+                                    "Left as a monster"
                                 ],
                                 1,
                                 0,
@@ -37667,8 +37667,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Saved",
-                                    "Remain as a monster"
+                                    "Rescued",
+                                    "Left as a monster"
                                 ],
                                 1,
                                 0,
@@ -37971,7 +37971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "→Mana Drain"
+                                "→Money Drain"
                             ]
                         },
                         {
@@ -38099,7 +38099,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "In the case of being caught in a minimum event, there may be\ndepictions of being eaten or regressed into the womb after\nextraction."
+                                "In a minimum event, if you get caught, there may be scenes\nwhere you're eaten or regress into the womb after being\ndrained."
                             ]
                         },
                         {
@@ -38116,7 +38116,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Turning on the Predation Scene Skip will cut out the\ndepiction of the predation part. Please use this if you are\nuncomfortable with such content."
+                                "Turning on the predation scene skip will cut out the\ndepiction of the predation part. Please use this if you're\nnot comfortable with it."
                             ]
                         },
                         {
@@ -38133,7 +38133,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even in predation, there is no depiction of pain or gore as\nit is accompanied by pleasure."
+                                "Even in predation, it is accompanied by pleasure, so there\nare no depictions of pain or gore."
                             ]
                         },
                         {
@@ -38150,7 +38150,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Even those who are uncomfortable with it should be okay with\nturning it on if they get a thrill from hearing about\nabsorption or draining. (Probably)"
+                                "If you're sensitive but get a thrill from absorption or\ndraining, you should be fine with it on. (Probably)"
                             ]
                         },
                         {
@@ -38158,8 +38158,8 @@
                             "indent": 1,
                             "parameters": [
                                 [
-                                    "View vore scenes",
-                                    "Do not view vore scenes"
+                                    "View predation scenes",
+                                    "Do not view predation scenes"
                                 ],
                                 -2,
                                 0,
@@ -38198,7 +38198,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I have set it to show the predation depiction."
+                                "I have set it to view the predation depiction."
                             ]
                         },
                         {
@@ -38237,7 +38237,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I have set it not to show the predation depiction."
+                                "I have set it not to view the predation depiction."
                             ]
                         },
                         {
@@ -38302,7 +38302,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "You can change the animation displayed when being eaten or\ncompletely swallowed in that place."
+                                "You can change the animation displayed when you're eaten or\nyour entire body is swallowed by that place."
                             ]
                         },
                         {
@@ -38319,7 +38319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "By default, the animation of the protagonist being kneaded\nby the flesh walls inside is displayed. If you switch, the\nenemy character's animation will be displayed as is. Please\nswitch according to your preference."
+                                "By default, the animation shows the protagonist being\nkneaded by the flesh walls inside. Switching will display\nthe enemy character's animation as is. Please switch\naccording to your preference."
                             ]
                         },
                         {
@@ -38556,7 +38556,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I wonder if it's enough..."
+                                "Is it okay now..."
                             ]
                         },
                         {
@@ -38810,7 +38810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Radro's first battle footjob"
+                                "Ladro's first battle footjob"
                             ]
                         },
                         {
@@ -38819,7 +38819,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -39017,7 +39017,7 @@
                             "parameters": [
                                 [
                                     "Change it",
-                                    "Keep it as it is"
+                                    "Leave it as is"
                                 ],
                                 1,
                                 0,
@@ -39347,7 +39347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Bandit's first battle begging for fellatio"
+                                "Bandit's first battle, begging for mercy with a blowjob"
                             ]
                         },
                         {
@@ -39549,7 +39549,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Radro first battle, health at 0"
+                                "Ladro first battle, HP 0"
                             ]
                         },
                         {
@@ -39751,7 +39751,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Radro 2nd battle, health at 0, face trampling"
+                                "Ladro second battle, health at zero, face trampling"
                             ]
                         },
                         {
@@ -39953,7 +39953,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Radro 2nd battle: back of the knee job"
+                                "Radro 2nd battle, back of the knee job"
                             ]
                         },
                         {
@@ -40164,7 +40164,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,
@@ -40357,7 +40357,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Radro's second battle, begging for life, licking → main\nevent"
+                                "Ladro, second battle, begging for mercy and licking → main\nevent"
                             ]
                         },
                         {
@@ -40366,7 +40366,7 @@
                             "parameters": [
                                 [
                                     "Recollection",
-                                    "Stop"
+                                    "Stop it"
                                 ],
                                 1,
                                 0,

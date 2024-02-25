@@ -4586,7 +4586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Roar>I want to become a scholar. If I can solve even one of the\n10,000 mysteries of how this world works, then it's my\nvictory!"
+                                "\\n<Roar>I want to become a scholar. If I can solve even one of the\n10,000 mysteries of this world, then it's my victory!"
                             ]
                         },
                         {
@@ -4685,7 +4685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Roar>In this world, there are four basic elements: fire, water,\nwind, and lightning. And with their combinations, there are\nsix more, making it 4C2. Including the single elements, that\nmeans there are ten types of elements in total."
+                                "\\n<Roar>In this world, there are four basic elements: fire, water,\nwind, and lightning. And with their combinations, there are\nsix more, making a total of ten different elements when you\ninclude the single attributes."
                             ]
                         },
                         {
@@ -4702,7 +4702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Roar>It seems like most people's elements are reflected in their\nhair color. You appear to have both fire and wind elements,\nbut your red hair might mean your fire element is stronger."
+                                "\\n<Roar>It seems like most people's attributes are reflected in\ntheir hair color. You appear to have fire and wind\nattributes, but since your hair is red, maybe your fire\nattribute is stronger."
                             ]
                         },
                         {
@@ -4719,7 +4719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Roar>People with brown hair like me often have the water and\nlightning elements. I'm not sure why water and lightning\nresult in brown, though."
+                                "\\n<Roar>People with brown hair like me often have water and\nlightning attributes. I don't know why water and lightning\nresult in brown though."
                             ]
                         },
                         {
@@ -4836,7 +4836,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Roar>Please keep the noise down a bit. Wrestling, right? Mama,\nyou're into martial arts, aren't you? Despite appearances,\nquite the physical type."
+                                "\\n<Roar>Please keep the noise down a bit. You're wrestling, right?\nMom, you really like martial arts, don't you? Despite\nappearances, you're quite the physical type."
                             ]
                         },
                         {
@@ -4889,7 +4889,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Roar>I think it's better to open doors by yourself, but I've\nheard they do everything from cooking to laundry, and even\ngrow vegetables! I'd love to visit someday."
+                                "\\n<Roar>I think it's better to open doors by yourself, but I heard\nthey even cook, do laundry, and grow vegetables! I'd love to\nvisit someday."
                             ]
                         },
                         {
@@ -4998,7 +4998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Roar>It's difficult for just us to keep living here. We need to\nquickly gain knowledge and strength, and somehow earn money.\nWe can't let the orphanage fall apart while Mama is away."
+                                "\\n<Roar>It's difficult for us to keep living here by ourselves. We\nneed to quickly gain knowledge and strength, and somehow\nearn money. We can't let the orphanage fall apart while Mama\nis away."
                             ]
                         },
                         {
@@ -5089,7 +5089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Fair>I'm the eldest here! That means I'm the most important!\nSecond only to Lady Radlo! Show some respect!"
+                                "\\n<Fair>I'm the oldest one here! That means I'm the most important!\nSecond only to Lady Radlo! Show some respect!"
                             ]
                         },
                         {
@@ -5106,7 +5106,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Fair>Ah, but I read in a book that important people don't say\nthey're important themselves! I'm not saying I'm important,\nbut I am the eldest! It's true, really!"
+                                "\\n<Fair>Ah, but I read in a book that important people don't say\nthey're important themselves! I'm not saying I'm important,\nbut I am the oldest! I'm really not important! It's true!"
                             ]
                         },
                         {
@@ -5188,7 +5188,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Fair>Mama bought me a new dress! But you know, I haven't worn it\nyet because I don't want to get it dirty! After all, it's my\ntreasure! Ehehe♥"
+                                "\\n<Fair>Mama bought me a new dress! But you know, I haven't worn it\nyet because I don't want to get it dirty! After all, it's my\ntreasure! Fufun♥"
                             ]
                         },
                         {
@@ -5352,7 +5352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Fair>When I can't sleep because I'm scared of ghosts, Mama hugs\nme tight! Then I feel all warm and fuzzy, and before I know\nit, it's morning!"
+                                "\\n<Fair>When I can't sleep because I'm scared of ghosts, Mama hugs\nme tight! Then I get all warm and fuzzy, and before I know\nit, it's morning!"
                             ]
                         },
                         {
@@ -5460,7 +5460,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>You know, I think Radlo's mom is, well, pretty cute!"
+                                "\\n<Francois>You know, I actually think that Radroma's mom is pretty\ncute!"
                             ]
                         },
                         {
@@ -5477,7 +5477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>Hey, keep it a secret, alright! Don't you dare tell anyone\nelse! If you do, I'll pinch you!"
+                                "\\n<Francois>Hey, keep it a secret, alright? Don't you dare tell anyone\nelse! If you do, I'll pinch you!"
                             ]
                         },
                         {
@@ -5559,7 +5559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>\"Ladro Mama sometimes goes out at night. I wonder if she\ncan't sleep? She's always working so hard by herself. I want\nto be able to help Mama too.\""
+                                "\\n<Francois>\"Madam Radlo sometimes goes out at night. I wonder if she\ncan't sleep? She's always working so hard on her own. I want\nto be able to help her too.\""
                             ]
                         },
                         {
@@ -5641,7 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>Radlo's mom has been talking about Rui all the time lately.\nYou must have given her a gift or something to raise her\naffection! That's sneaky!"
+                                "\\n<Francois>Lately, Radro-mama keeps talking about Katara. You must have\ngiven mama a present or something to raise your\nfavorability! That's cheating!"
                             ]
                         },
                         {
@@ -5658,7 +5658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>But I got a new toy from mom! Hmph! Did you get anything\nfrom mom?"
+                                "\\n<Francois>But I got a new toy from mama! Hmph! Did you get anything\nfrom mama?"
                             ]
                         },
                         {
@@ -5740,7 +5740,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>\"I wonder where Lady Radroma has gone. Ugh... No, I won't\ncry. If I have time to cry, I should be doing something.\""
+                                "\\n<Francois>\"I wonder where Ladromama has gone. Ugh... I won't cry. If I\nhave time to cry, I have to do something.\""
                             ]
                         },
                         {
@@ -6186,7 +6186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a tattered book... filled with densely written recipes.\nThe precious taste passed down from the previous Mama!"
+                                "It's a tattered book... filled with densely written recipes.\nPrecious flavors passed down from the previous Mama!"
                             ]
                         },
                         {
@@ -6459,7 +6459,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's the laundry. It smells nicely of soap."
+                                "It's laundry. It smells nicely of soap."
                             ]
                         },
                         {
@@ -6550,7 +6550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I think this is Radro's stuff. It'd be bad to touch it\nwithout permission, right?"
+                                "I think this is Radro's luggage. It would be bad to touch it\nwithout permission, right?"
                             ]
                         },
                         {
@@ -6908,7 +6908,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems a mischievous child has made a hole in the wall.\nIt's crudely covered with a board. I shouldn't throw stones,\nso I'll leave it be."
+                                "It seems a mischievous child has made a hole in the wall.\nIt's crudely covered with a plank. I'm not one to talk, so\nlet's not touch it."
                             ]
                         },
                         {
@@ -6999,7 +6999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A tattered toy is stored away. It's worn out, but you can\ntell at a glance that it's well cherished."
+                                "A tattered toy is stored away. It's worn out, but you can\ntell at a glance that it's cherished."
                             ]
                         },
                         {
@@ -7090,7 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a stuffed animal that has changed color. It's been torn\nand sewn back together so many times, it's full of patches.\nIt must have watched over a child's growth for a long time."
+                                "It's a stuffed animal whose color has changed. Patched up\nover and over again after being torn, it must have watched\nover a child's growth for a long time."
                             ]
                         },
                         {
@@ -7629,7 +7629,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A cold breeze blows in from the hole opened in the floor."
+                                "A cold breeze blows in from a hole opened in the floor."
                             ]
                         },
                         {
@@ -7802,7 +7802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A tattered toy box contains tattered toys."
+                                "A tattered toy box is filled with worn-out toys."
                             ]
                         },
                         {
@@ -9167,7 +9167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Step 2: Fetish! Figure out their fetish! Then use your own\nassets! You have legs! Since you don't have breasts! That's\nall!"
+                                "Step 2: Fetish! Figure out their fetish! Then use your own\nassets to your advantage! You have legs! Since you don't\nhave breasts! That's all!"
                             ]
                         },
                         {
@@ -9184,7 +9184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Step 3: Use your mouth! You can't always use both hands!\nSeduce with words! And while you're at it, give it a suck!\nThat's all!"
+                                "Step 3: Use your mouth! You can't always use both hands!\nSeduce with words! And while you're at it, give a blowjob!\nThat's all!"
                             ]
                         },
                         {
@@ -9234,7 +9234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "...I don't really get it, but this is adult content...!\nI-I'll pretend I didn't see this."
+                                "...I don't really get it, but this is adult content...!\nI-I'll pretend I didn't see it."
                             ]
                         },
                         {
@@ -9350,7 +9350,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Step 2: Fetish! Figure out their fetish! Then use your own\nassets! You've got legs! Since you don't have boobs! That's\nall!"
+                                "Step 2: Fetish! Figure out their fetish! Then use your own\nassets to your advantage! You've got legs! Since you don't\nhave breasts! That's all!"
                             ]
                         },
                         {
@@ -9367,7 +9367,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Step 3: Use your mouth! You can't always use both hands!\nSeduce with words! And while you're at it, give a suck!\nThat's all!"
+                                "Step 3: Use your mouth! You can't always use both hands!\nSeduce with words! And while you're at it, give a blowjob!\nThat's all!"
                             ]
                         },
                         {
@@ -9384,7 +9384,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Shed your shame! Remember what you're carrying on your back!\nYou may not have sex appeal, but you'll manage somehow! This\nis the ultimate secret technique! Etch it into your heart!"
+                                "Shed your shame! Remember what you're carrying on your\nshoulders! You may not be sexy, but you'll make it work\nsomehow! This is the ultimate secret technique! Engrave it\nin your heart!"
                             ]
                         },
                         {
@@ -9450,7 +9450,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uh...! So I've been completely taken in, huh... Well, as\nexpected of the previous Mama... I'm in awe..."
+                                "Uh...! So I've been completely taken in, huh... Well, as\nexpected of the previous Mama... I'm truly impressed..."
                             ]
                         },
                         {
@@ -10153,7 +10153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Rui...♥...uh, um..."
+                                "\\n<Ladro>Katara...♥...uh, um..."
                             ]
                         },
                         {
@@ -10186,7 +10186,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>You know...um..."
+                                "\\n<Ladro>You know...um..."
                             ]
                         },
                         {
@@ -10219,7 +10219,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>That's right! It's a thank you! A thank you for letting me\ngo♥ You understand what I mean, right?"
+                                "\\n<Ladro>That's right! It's a thank you! A thank you for letting me\ngo♥ You understand what I mean, right?"
                             ]
                         },
                         {
@@ -10252,7 +10252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Is there something you want me to do? If it's something you\nwant Rui to do, I'll do anything♥"
+                                "\\n<Ladro>Is there something you want me to do? If it's something you,\nKatara, want, I'll do anything♥"
                             ]
                         },
                         {
@@ -10294,7 +10294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>But... that's not it... It wasn't that I let you go, I just\ncouldn't hold back my dick anymore... fufu...///"
+                                "\\n<Katara>But... that's not... It wasn't that I let you go, it's just\nthat I couldn't hold back my dick and... nyaa...///"
                             ]
                         },
                         {
@@ -10328,7 +10328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>No, it's not like that...! It's not that I let you go, it's\nmore like I couldn't hold back... uh, um... that..."
+                                "\\n<Katara>No, it's not like that...! It's not that I let you go, it's\nmore like I couldn't hold back and... uh, um... that..."
                             ]
                         },
                         {
@@ -10371,7 +10371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>You don't like it?"
+                                "\\n<Ladro>You don't like it?"
                             ]
                         },
                         {
@@ -10404,7 +10404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I-I don't dislike it! I want to...! But not as a thank you\nor anything..."
+                                "\\n<Katara>I-I don't dislike it! I want to...! But not as a thank you\nor anything..."
                             ]
                         },
                         {
@@ -10438,7 +10438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>It's not like that... It's not something to be thanked\nfor...!"
+                                "\\n<Katara>It's not like that... It's not something to be thanked\nfor...!"
                             ]
                         },
                         {
@@ -10490,7 +10490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Got it! Then make a donation♥ A donation for the orphanage♥\nThen I'll thank you♥ That's good, right?"
+                                "\\n<Ladro>Got it! Then make a donation♥ Donate for the orphanage♥ Then\nI'll thank you♥ That's good, right?"
                             ]
                         },
                         {
@@ -10523,7 +10523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah...♥ Yeah...♥ That's good♥"
+                                "\\n<Katara>Ah...♥ Yeah...♥ That's good♥"
                             ]
                         },
                         {
@@ -10557,7 +10557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Uh...♥ If that's the case... definitely...♥"
+                                "\\n<Katara>Uh...♥ If that's the case... definitely...♥"
                             ]
                         },
                         {
@@ -10600,7 +10600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Nfufu♥ (You're not honest... but then again, neither am I.)"
+                                "\\n<Ladro>Nfufu♥ (You're not being honest... but then again, neither\nam I.)"
                             ]
                         },
                         {
@@ -10740,7 +10740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Radro>Rui, hold out your hand♥"
+                                "\\n<Radro>Katara, hold out your hand♥"
                             ]
                         },
                         {
@@ -10906,7 +10906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Radro>Rui♥ Take this with you. It's a charm filled with my water\nand wind magic."
+                                "\\n<Radro>Katara♥ take this with you. It's a charm filled with my\nwater and wind magic."
                             ]
                         },
                         {
@@ -11084,7 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I-I want to do it because I like you. I want you to depend\non me. Rui...♥"
+                                "\\n<Radro>I-I want to do it because I like you. I want you to be\nspoiled. Katara...♥"
                             ]
                         },
                         {
@@ -11145,7 +11145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Rui...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no other choice."
+                                "\\n<Radro>Katara...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no choice."
                             ]
                         },
                         {
@@ -11178,7 +11178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I thought it was okay because it's you, Rui. Don't get the\nwrong idea, okay?"
+                                "\\n<Radro>I thought it was okay because it's you, Katara. Don't get\nthe wrong idea, okay?"
                             ]
                         },
                         {
@@ -11232,7 +11232,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Sh-...♥ Right? You can't make a loud noise, okay?\nUnderstand?"
+                                "\\n<Radro>Sh-...♥ right? You can't make a loud noise, okay? Got it?"
                             ]
                         },
                         {
@@ -11340,7 +11340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Rui...♥ This is our little secret, okay?♥"
+                                "\\n<Radro>Katara...♥ This is our little secret, okay?♥"
                             ]
                         },
                         {
@@ -11394,7 +11394,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Look, you don't have to strain yourself over money, okay? I\nmean, I don't mind doing it for free... (Actually, I\nwouldn't mind paying you instead...)"
+                                "\\n<Radro>You know, you don't have to strain yourself with money? I\nmean, I don't mind doing it for free... (Actually, I\nwouldn't mind paying you instead...)"
                             ]
                         },
                         {
@@ -11448,7 +11448,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Ever since we first met, I actually felt something like\nfate. Ehehe♥ It's a strange feeling."
+                                "\\n<Radro>Ever since we first met, I actually felt something fateful\nabout it. Ehehe♥ It's a strange feeling."
                             ]
                         },
                         {
@@ -11502,7 +11502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Don't hold back♥ I've been seen in plenty of embarrassing\nsituations myself. I want to see all of Rui's embarrassing\nsides too♥"
+                                "\\n<Radro>Don't hold back♥ I've been seen in plenty of embarrassing\nsituations myself. I want to see all of Katara's\nembarrassing sides too♥"
                             ]
                         },
                         {
@@ -11664,7 +11664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>...♥ (Wow...♥ What should I do♥ Rui...♥ I'm still so\nembarrassed♥)"
+                                "\\n<Radro>...♥ (Wow...♥ What should I do♥ Katara...♥ I'm still so\nembarrassed♥)"
                             ]
                         },
                         {
@@ -11698,7 +11698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Hey, Rui♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
+                                "\\n<Radro>Hey, Katara♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
                             ]
                         },
                         {
@@ -11973,7 +11973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The number of cute stuffed animals has increased! It seems\nthey were bought with the money donated. I'd be happy if\nthey're pleased with them!"
+                                "The collection of cute stuffed animals has grown! It seems\nthey were bought with the money I donated. I'd be happy if\nthey're pleased with them!"
                             ]
                         },
                         {
@@ -12064,7 +12064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are so many toys inside! I wonder if they were bought\nwith the money donated? Somehow, it makes me happy!"
+                                "There are so many toys inside! I wonder if they were bought\nwith the money donated? It makes me happy somehow!"
                             ]
                         },
                         {
@@ -12155,7 +12155,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like we bought beds for the children! A child who\nsleeps well grows up healthy!"
+                                "It seems like we bought beds for the children! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {
@@ -12246,7 +12246,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like we bought beds for the children! A child who\nsleeps well grows up well!"
+                                "It looks like you bought beds for the children! They say\nkids who sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -12337,7 +12337,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like we bought beds for the children! A child who\nsleeps well, grows well!"
+                                "It seems like I bought beds for the children! They say kids\nwho sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -12428,7 +12428,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like I bought beds for the children! A child who\nsleeps well grows up well!"
+                                "It looks like you bought beds for the children! They say\nkids who sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -12519,7 +12519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like I bought beds for the children! They say a\nsleeping child grows well!"
+                                "It seems like you bought beds for the children! They say\nkids who sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -12610,7 +12610,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like you bought beds for the children! A child who\nsleeps well grows up well!"
+                                "It seems like we bought beds for the kids! A child who\nsleeps well, grows well!"
                             ]
                         },
                         {
@@ -12701,7 +12701,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like we bought beds for the children! A child who\nsleeps well grows up well!"
+                                "It seems like we bought beds for the kids! They say children\nwho sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -12792,7 +12792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like I bought beds for the children! A child who\nsleeps well grows up healthy!"
+                                "It seems like you bought beds for the kids! They say\nchildren who sleep well grow up healthy!"
                             ]
                         },
                         {
@@ -12883,7 +12883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems like you bought beds for the children! They say\nkids who sleep well grow up healthy!"
+                                "It seems like we bought beds for the kids! A child who\nsleeps well grows up well!"
                             ]
                         },
                         {

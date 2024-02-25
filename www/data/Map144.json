@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper>Your room is the VIP room at the very back. We've received a\nhefty payment upfront, so feel free to stay as many nights\nas you like. Even if you say you're leaving soon, I won't be\ngiving a refund."
+                                "\\n<Innkeeper>Your room is the VIP room at the very back. We've been paid\na hefty sum in advance, so feel free to stay as many nights\nas you like. Even if you say you're leaving soon, I won't be\ngiving a refund."
                             ]
                         },
                         {
@@ -3703,7 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper>Complaining that it's shabby? You should be grateful there's\neven a roof. The little one sure complains a lot."
+                                "\\n<Innkeeper>Calling it shabby? You should be grateful there's even a\nroof over your head. The little one sure complains a lot."
                             ]
                         },
                         {
@@ -3793,7 +3793,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper>\"Even if something gets stolen, I don't know anything about\nit. It's the fault of the one who got robbed. It's their own\nfault for not being careful.\""
+                                "\\n<Innkeeper>\"If something gets stolen, I don't know anything about it.\nIt's the fault of the one who got robbed. It's their own\nfault for not being careful.\""
                             ]
                         },
                         {
@@ -3900,7 +3900,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper>Hey, you little brat. Wanna try my new dish? It's the old\nlady's special lunch set."
+                                "\\n<Innkeeper>Hey, kitty brat. Wanna try my new dish? It's the old lady's\nspecial lunch set."
                             ]
                         },
                         {
@@ -3908,9 +3908,9 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Absolutely not",
-                                    "If it's just one bite",
-                                    "I'll eat it later"
+                                    "Absolutely not.",
+                                    "If it's just a bite.",
+                                    "I'll eat it later."
                                 ],
                                 1,
                                 0,
@@ -4047,7 +4047,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Innkeeper>Why does it make such a sound when you're eating? That's\nstrange, isn't it?"
+                                "\\n<Innkeeper>Why does it make such a sound when you eat? That's strange,\nisn't it?"
                             ]
                         },
                         {
@@ -4086,7 +4086,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Innkeeper>The one I gave you hasn't eaten it yet, have they? It's a\nmasterpiece. Let me hear your thoughts."
+                                "\\n<Innkeeper>Haven't you eaten the one I gave you yet? It's a\nmasterpiece. Let me hear your thoughts on it."
                             ]
                         },
                         {
@@ -4251,7 +4251,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper>\"Cat fur is shedding everywhere. Make sure you clean it up\nproperly. I won't do it. Show some respect for the elderly.\""
+                                "\\n<Innkeeper>\"Cat fur is going to get everywhere. Make sure you clean up\nproperly. I'm not doing it. Show some respect for the\nelderly.\""
                             ]
                         },
                         {
@@ -5386,7 +5386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>Hey, don't just barge in here, cat. I'll turn you into stew\nand eat you up."
+                                "\\n<Old Man>Hey, don't just barge in here, cat. I'll make a stew out of\nyou and eat you up."
                             ]
                         },
                         {
@@ -5676,7 +5676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Washing dirty clothes in dirty water, further soiling them."
+                                "Washing dirty clothes in dirty water, getting them even\ndirtier."
                             ]
                         },
                         {
@@ -6133,7 +6133,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is a diary since I've arrived. Maybe I should check\nwhat I've accomplished. (Elapsed Days \\v[516] Guild Rank\n\\v[1007])"
+                                "This is a diary since I arrived. Maybe I should check what\nI've done. (Days passed \\v[516] Guild Rank \\v[1007])"
                             ]
                         },
                         {
@@ -6152,7 +6152,7 @@
                                     "About the Guild Members",
                                     "About the Townspeople",
                                     "Other Matters",
-                                    "That's enough for now"
+                                    "That's enough"
                                 ],
                                 -2,
                                 0,
@@ -6208,7 +6208,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The investigation request for Galette Cave... It ended after\nLynx was attacked and rescued by Kunes. The investigation\nwas completed, but I feel terrible."
+                                "The investigation request for Galette Cave... In the middle\nof it, Lynx was attacked and saved by Kunes. The\ninvestigation was completed, but I feel terrible."
                             ]
                         },
                         {
@@ -6271,7 +6271,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I was able to defeat the succubus calling herself Megna.\n(She escaped though) But to feel such strange emotions...\nNormally, I would have easily won against such a creature!"
+                                "I was able to defeat a succubus calling herself Megna. (She\nescaped though) But to feel such strange emotions...\nNormally, I would have easily won against such a creature!"
                             ]
                         },
                         {
@@ -6307,7 +6307,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Thinking about Megna makes my chest hurt... I want to see\nher. But I have to work. I need to level up..."
+                                "Just thinking about Megna makes my chest hurt... I want to\nsee her. But I have to work. I need to level up..."
                             ]
                         },
                         {
@@ -6335,7 +6335,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I'm so in love with Megna, I can't stand it! I need to\nquickly offer a lot of EXP and make her strong so she won't\nbe killed by humans..."
+                                "I'm so in love with Megna, I can't stand it! I need to\nquickly offer lots of EXP and make her strong enough so she\nwon't be killed by humans..."
                             ]
                         },
                         {
@@ -6381,7 +6381,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I defeated Megna. Cutting down a monster in human form feels\ndisgusting. But I definitely didn't do anything wrong! It's\ngood that I took her down before there were more victims."
+                                "I defeated Megna. Cutting down a monster that looks human\nfeels disgusting. But I definitely did the right thing! It's\ngood that I took her down before she could harm others."
                             ]
                         },
                         {
@@ -6417,7 +6417,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I managed to repel the monster named Latier. But that sweet\nsmell still lingers in my nose! It almost drove me crazy. I\nneed to stay focused!"
+                                "I managed to repel a monster named Latier. But that sweet\nscent still lingers in my nose! It almost drove me crazy. I\nneed to stay focused!"
                             ]
                         },
                         {
@@ -6453,7 +6453,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "As a result, I ended up being spared by Latier. After what\nhappened, I might not be able to... fight anymore."
+                                "As a result, I ended up being spared by Latier. After what\nhappened, next time... I might not be able to fight."
                             ]
                         },
                         {
@@ -6481,7 +6481,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Lynx and Kunes were killed... I know it's terrible, but...\nI'll probably end up going to see Latier again."
+                                "Even though Lynx and Kunes were killed... I know it's\nterrible, but... I'll probably end up going to see Latier\nagain."
                             ]
                         },
                         {
@@ -6527,7 +6527,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I was able to avenge Lynx and Kunes. If only I had moved\nfaster at that time, I could have saved them both. I need to\nstrengthen my resolve!"
+                                "I was able to avenge Lynx and Kunes. If only I had moved\nfaster at that time, both could have been saved. I need to\nstrengthen my resolve!"
                             ]
                         },
                         {
@@ -6563,7 +6563,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The request to find a dead husband seems to have been\norchestrated by Sister Soel. I reported it, but... I wonder\nif they'll believe me?"
+                                "The request to find a dead husband seems to have been a\nscheme by Sister Soel. I reported it, but... I wonder if\nthey'll believe me?"
                             ]
                         },
                         {
@@ -6607,7 +6607,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The ruins investigation is complete! Yay! The treasure was\njust a white vial... What is it used for?"
+                                "The ruins investigation is complete! Yay! The treasure was\njust a white bottle... What is it used for?"
                             ]
                         },
                         {
@@ -6634,7 +6634,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "The ruins investigation is complete, but the treasure got\nbroken during a scuffle with Bijou... Such a shame. What was\nthe liquid in that broken vial?"
+                                "The ruins investigation was completed, but I had a dispute\nwith Bijou and the contents of the treasure were\ndestroyed... Such a pity. What was the liquid in that broken\nbottle?"
                             ]
                         },
                         {
@@ -6680,7 +6680,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I guarded the house of Count Noblesse in Lumare noble\ndistrict! I cornered the phantom thief, but due to various\nthings, they got away! It's embarrassing, so this is a\nsecret!"
+                                "I guarded the house of Count Noblesse in the noble district\nLumare! I cornered the phantom thief, but due to various\nthings, they got away! It's embarrassing, so this is a\nsecret!"
                             ]
                         },
                         {
@@ -6733,7 +6733,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "But maybe the Catfield house hasn't changed either. Coming\nhere made me realize how blessed I was. There must still be\nso much that I need to learn!"
+                                "But maybe the Catfield house is no different. Coming here\nmade me realize how privileged I've been. There must still\nbe so much that I don't know!"
                             ]
                         },
                         {
@@ -6769,7 +6769,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I finally caught the phantom thief! The Howling Stone turned\nout to be a fake from the start. Totally fooled me."
+                                "I finally caught the phantom thief! It turns out the Howling\nStone was a fake from the start. They really pulled one over\non us."
                             ]
                         },
                         {
@@ -6786,7 +6786,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Even though it's fake, it seems to be quite valuable. That\nmeans the count was serious too."
+                                "Even though it's a fake, it seems to be quite valuable. That\nmeans the count was serious too."
                             ]
                         },
                         {
@@ -6822,7 +6822,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Jean's mother, Mare, turned out to be an imposter! I don't\nknow what kind of monster she was, but her body melted like\nmud. I must rescue Jean quickly...!"
+                                "Jean's mother, Mare-san, was an imposter! I don't know what\nkind of monster she was, but her body melted like mud. I\nmust rescue Jean quickly...!"
                             ]
                         },
                         {
@@ -6858,7 +6858,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I couldn't kill Mare. Whether this was the right thing or\nnot, I don't know. But... let's stop thinking about it\nanymore."
+                                "I couldn't kill Mare-san. Whether this was the right thing\nor not, I don't know. But... let's stop thinking about it\nanymore."
                             ]
                         },
                         {
@@ -6886,7 +6886,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Doing lewd things with Mare is absolutely forbidden. She's\nalready a monster. So this has to be the last time.\nOtherwise..."
+                                "Doing lewd things with Mare-san is absolutely forbidden.\nShe's already a monster. So this has to be the last time.\nOtherwise..."
                             ]
                         },
                         {
@@ -6932,7 +6932,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I defeated Mare's imposter. Jean seems convinced and\ndetermined to live strongly from now on. But did I really do\nthe right thing? It's troubling."
+                                "I defeated Mare-san's imposter. Jean seems convinced and has\ndecided to live strongly. But did I really do the right\nthing? It's troubling."
                             ]
                         },
                         {
@@ -6968,7 +6968,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "When I spilled that white vial, Mare's monster aura\ndisappeared! Her body can't return to normal, but her heart\nis truly Mare's! I hope she continues to live happily with\nJean! So glad!"
+                                "When I spilled that white bottle, the monster aura\ndisappeared from Mare-san! Her body can't return to its\noriginal form, but her heart is truly Mare-san's! I hope she\ncontinues to live happily with Jean! So glad!"
                             ]
                         },
                         {
@@ -6996,7 +6996,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Mare regained her human heart, which is good, but she became\nincredibly aggressive... It can't be helped, but she drained\nme completely!"
+                                "Mare-san regained her human heart, which is good, but she\nbecame incredibly aggressive... It can't be helped, but she\ndrained me completely!"
                             ]
                         },
                         {
@@ -7042,7 +7042,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I went to exterminate a high-ranking imp but... Ah, no\ngood-. Can't write this in a diary! I lied and said the\nrequest was completed."
+                                "I went to exterminate a high-ranking imp but... Ah, no\ngood-. I can't write such things in a diary! I lied and said\nthe request was completed."
                             ]
                         },
                         {
@@ -7070,7 +7070,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I did something forbidden with an imp again... Even though I\nknow it's a monster. There's no way I could resist something\nlike that..."
+                                "I did something indecent with an imp again... Even though I\nknow it's a monster. There's no way I could endure that..."
                             ]
                         },
                         {
@@ -7116,7 +7116,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I exterminated the high-ranking imp. Who would have thought\neven imps would turn into succubi! What on earth is the\nDemon King thinking? Maybe they're a pervert."
+                                "I exterminated the high-ranking imp. To think that even imps\nhave turned into succubi! What on earth is the Demon King\nthinking? Maybe they're a pervert."
                             ]
                         },
                         {
@@ -7226,7 +7226,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I defeated the succubus named Arno! She was doing ecological\nresearch while blending in with humans! But it's scary that\nmonsters have infiltrated the town."
+                                "I defeated Arno, the succubus! She was doing ecological\nresearch disguised as a human! But it's scary that monsters\nhave infiltrated even inside the town."
                             ]
                         },
                         {
@@ -7262,7 +7262,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I took down the weird duo of succubi named Sheika and\nBarley. They almost escaped, but there won't be a next time!\nThe audience threw alcohol at me. Annoying!"
+                                "I beat those weird succubi duo Sheika and Barley. They\nalmost escaped but there won't be a next time! The audience\nthrew alcohol at me. Annoying!"
                             ]
                         },
                         {
@@ -7298,7 +7298,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I defeated Paripi! It was so loud my ears almost went crazy!\nThe audience was angry, but they should be thankful their\nlives were saved! Alcohol and succubi ruin people! Ahh! What\na loss helping them!"
+                                "I defeated Party People! It was so loud my ears almost went\nbad! The audience was angry, but they should be grateful\ntheir lives were saved! Both alcohol and succubi ruin\npeople! Ahh! What a loss helping them!"
                             ]
                         },
                         {
@@ -7362,7 +7362,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Those two drained me dry in front of everyone... Such an\nembarrassing thing, even though I hate it! Despite hating\nit, it might have been the most exciting thing ever..."
+                                "Those two drained me dry in front of everyone... Such an\nembarrassing thing, even though I hate it! Despite hating\nit, maybe it was the most exciting thing ever..."
                             ]
                         },
                         {
@@ -7455,7 +7455,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Kunes was taken down by Latier right before my eyes. If only\nI had been a little faster, maybe I could have saved him...\nBut let's stop thinking about it now."
+                                "Kunes was taken down by Latier right before my eyes. If only\nI had been a little faster, maybe he could have been\nsaved... But let's stop thinking about it now."
                             ]
                         },
                         {
@@ -7482,7 +7482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lynx is said to be among the top three strongest in the\nguild! He seems to be a wizard who controls wind magic. He\nhas a bit of a weakness for alcohol and women."
+                                "Lynx is said to be among the top three strongest in the\nguild! He seems to be a wizard who wields wind magic. He\nappears to have some issues with alcohol and women."
                             ]
                         },
                         {
@@ -7535,7 +7535,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Dodon was the first old man to sexually harass me. Despite\nhis looks, he seems to be quite capable in battle, but I\nwonder about that. He's big, but seems weak."
+                                "Dodon was the first old man who sexually harassed me.\nDespite his appearance, he seems to be quite capable in\nbattle, but I wonder. He's big, but he seems weak."
                             ]
                         },
                         {
@@ -7552,7 +7552,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Bijou is an adult woman with glasses. She specializes in\ntreasure hunting rather than monster extermination. But I\ncan sense high levels of fire and water magic power from\nher!"
+                                "Bijou is an adult woman with glasses. She specializes in\ntreasure hunting rather than monster hunting. But I can feel\nher high fire and water magic power!"
                             ]
                         },
                         {
@@ -7578,7 +7578,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Bijou suddenly made me drink some strange medicine! To think\nshe would do something like that... I was off guard... she's\nsomeone I better not get too close to!"
+                                "I was suddenly made to drink a strange medicine by Bijou! To\nthink she would do such a thing... I was off guard... she's\nsomeone I better not get too close to!"
                             ]
                         },
                         {
@@ -7650,7 +7650,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I was defeated in Bijou's revenge match. After what she did\nto me... ugh, just remembering it... if I have the money, I\ncan go to the second floor of the guild again..."
+                                "I was defeated and revenged by Bijou. After what she did...\nugh, just remembering it... if I have money and go to the\nsecond floor of the guild, then again..."
                             ]
                         },
                         {
@@ -7678,7 +7678,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Ugh... Bijou drained me again... I feel like my head is\ngoing to explode. If this keeps happening over and over..."
+                                "Ugh... I was drained again by Bijou... I feel like my mind\nis going crazy. If such things happen over and over..."
                             ]
                         },
                         {
@@ -7716,7 +7716,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I've already contributed over 30,000G to Bijou... Once you\nknow that pleasure, there's no turning back. I'm sorry."
+                                "I've already contributed over 30,000G to Bijou... Once you\nknow that pleasure, you can't go back. I'm sorry."
                             ]
                         },
                         {
@@ -7753,7 +7753,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Scheibel is a bright woman. It seems she lives by helping\nout the Guild Master. She smells a bit like alcohol."
+                                "Scheibel is a bright woman. She seems to live helping the\nGuild Master. She smells a bit like alcohol."
                             ]
                         },
                         {
@@ -7770,7 +7770,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Lakla is a slightly pretentious adventurer. But adventurers\nare cooler when they're pretentious. Because they're\nadventurers after all."
+                                "Lakra is a slightly pretentious adventurer. But adventurers\nare cooler when they're pretentious. Because they're\nadventurers after all."
                             ]
                         },
                         {
@@ -7804,7 +7804,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Linte seems like a very decent older brother. He always\ntries to judge things calmly. But he eats weird smelling\nfood."
+                                "Lintei seems like a very decent older brother. He always\ntries to judge things calmly. But he eats weird smelling\nrice."
                             ]
                         },
                         {
@@ -7834,7 +7834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This town is called Dreamy. It's a slum located inside a\nhuge hole that suddenly appeared in the noble district of\nLumare. The security doesn't seem very good..."
+                                "This town is called Dreamne. It's a slum located inside a\nlarge hole that suddenly appeared in the noble district of\nLumare. The security doesn't seem very good..."
                             ]
                         },
                         {
@@ -7860,7 +7860,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Ladro is a lively and cute person who runs an orphanage. She\nseems to be taking care of six children all by herself.\nAmazing! She's kind and smells good."
+                                "Ladro is an energetic and cute person who runs an orphanage.\nShe seems to be taking care of six children all by herself.\nAmazing! She's kind and smells good."
                             ]
                         },
                         {
@@ -7896,7 +7896,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I can't believe that Ladro was the true identity of the\nphantom thief \"L\"... She was doing such reckless things for\nthe sake of the children. But I'm really glad I didn't catch\nher."
+                                "I never imagined that Ladro was the true identity of the\nphantom thief \"L\"... She's doing such reckless things for\nthe children. But I'm really glad I didn't catch her."
                             ]
                         },
                         {
@@ -7913,7 +7913,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We had some embarrassing moments, but... let's keep that\nbetween us and lock it away in our hearts. I have to show my\nface at the orphanage too."
+                                "There were some embarrassing things, but... let's keep that\nbetween us and lock it away in our hearts. I have to show my\nface at the orphanage too."
                             ]
                         },
                         {
@@ -7979,7 +7979,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "Ladro is a very important person to me! I've decided to\nprotect her no matter what! She's the most precious treasure\nI've found since coming here!"
+                                "Ladro is a very important person to me! I've decided to\nprotect her no matter what! The most precious treasure I\nfound since coming here!"
                             ]
                         },
                         {
@@ -8114,7 +8114,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I never imagined that the sister would be controlling\ncorpses with necromancy... I reported it to the guild, but\nthey didn't believe me much. Now she seems to be barricaded\nin the church with a special barrier."
+                                "I never imagined that the sister was manipulating corpses\nwith necromancy... I reported it to the guild, but they\ndidn't believe me much. Now she seems to be barricaded in\nthe church with a special barrier."
                             ]
                         },
                         {
@@ -8131,7 +8131,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Necromancy is a taboo forbidden by magical law. It's merely\na technique for controlling corpses, not magic for bringing\nthem back to life. If there were magic for resurrection, it\nwould surely be an extension of healing magic."
+                                "Necromancy is a taboo forbidden by magical law. It's merely\na technique for manipulating corpses, not magic for\nresurrection. If there were magic for resurrection, it would\nsurely be an extension of healing magic."
                             ]
                         },
                         {
@@ -8195,7 +8195,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I fell for Soel's temptation again... Such an awful person,\nI'm supposed to hate her... I really hate her. But I can't\nresist."
+                                "I lost to Soel's temptation again... Such a terrible person,\nI'm supposed to hate her... I hate her so much. But I can't\nresist."
                             ]
                         },
                         {
@@ -8233,7 +8233,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "I hate Soel so much... yet I came inside her again... I hate\nthis. I hate myself. And yet, as I write this, I already\nwant to see her again."
+                                "I hate Soel so much... yet I came inside her again... I hate\nthis. I'm starting to hate myself. And yet, I already want\nto see her again even as I write this."
                             ]
                         },
                         {
@@ -8279,7 +8279,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I caught Soel and had her thrown in jail. The textbook said\nthat necromancy is taboo because it cheapens the value of\ndeath and leads to the destruction of the heart."
+                                "I caught Soel and had her put in jail. The textbook said\nthat necromancy is taboo because it cheapens the value of\ndeath and leads to the breakdown of the heart."
                             ]
                         },
                         {
@@ -8296,7 +8296,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I believe that if Soel cools her head in prison, she will\nsurely become calm again. At heart, she must be a kind\nperson. Although we'll probably never meet again..."
+                                "I believe that if Soel cools her head in jail, she will\nsurely become calm. At heart, I want to believe she's a kind\nperson. But we'll probably never meet again..."
                             ]
                         },
                         {
@@ -8336,7 +8336,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The quickest way to find my sister is to become an\nadventurer! Things have gone well, but I've run out of money\nfor lodging! Might as well work on guild jobs and earn some\nmoney!"
+                                "The fastest way to find my sister is to become an\nadventurer! Things went well, but I ran out of money for\nlodging! Might as well work on guild jobs and earn some\nmoney!"
                             ]
                         },
                         {
@@ -8362,7 +8362,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The book found in the ruins was partly unreadable, but it\nprobably studied how to exorcise demons possessing people.\nThat treasure might just be..."
+                                "The book found in the ruins was partly unreadable, but it\nprobably studied how to exorcise demons that possess people.\nThat treasure might just be..."
                             ]
                         },
                         {
@@ -8434,7 +8434,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I went to see the noble district! It's a beautiful town, but\nthe Catfield house is just as beautiful, so it wasn't that\nfresh of an experience!"
+                                "I went to the noble district! It's a beautiful town, but the\nCatfield house is just as beautiful, so it wasn't that fresh\nof an experience!"
                             ]
                         },
                         {
@@ -8470,7 +8470,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Suddenly there was a flood of requests! There seem to be\nsome that are direct nominations. As an adventurer, maybe\nI've become somewhat respectable?"
+                                "Suddenly there was a flood of requests! There seem to be\nsome that are direct nominations. As an adventurer, have I\nbecome somewhat respectable?"
                             ]
                         },
                         {
@@ -8506,7 +8506,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The innkeeper lady gave me a lunch plate. If I eat this,\nI'll surely die. You can tell just by looking at it. You can\ntell by the smell too. Sorry to say this about food, but\nthis should be used as a weapon."
+                                "The innkeeper lady gave me a lunch plate. If I eat this,\nI'll surely die. You can tell by looking at it. You can tell\nby the smell too. Sorry to say this about food, but let's\nuse this as a weapon."
                             ]
                         },
                         {
@@ -8650,7 +8650,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's Wanz's diary! Should I take a peek?"
+                                "It's Wanz's diary! Should I read it?"
                             ]
                         },
                         {
@@ -8707,7 +8707,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I've become an adventurer! I don't have any real combat\nexperience, but I've trained thoroughly with Rui, so I'm\nsure I'll be fine fighting monsters!"
+                                "I've become an adventurer! I don't have any real combat\nexperience, but I've trained thoroughly with Katara, so I'm\nsure I'll be fine fighting monsters!"
                             ]
                         },
                         {
@@ -8745,7 +8745,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bed is too hard, and the room is too small! It smells\nweird, and the snoring from the other rooms is loud! Ughhh!\nBut I'll endure it!"
+                                "The bed is too hard, and the room is too small! There's a\nstrange smell, and the snoring from the other rooms is loud!\nUgh... But I'll endure it!"
                             ]
                         },
                         {
@@ -8783,7 +8783,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rui is working hard too! I can't lose to them, so I'll do my\nbest too! I can't lose to my younger sibling!"
+                                "Katara is working hard too! I can't lose to them, so I'll do\nmy best! I can't lose to my younger sibling!"
                             ]
                         },
                         {
@@ -8821,7 +8821,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I thought I heard rustling noises in the middle of the\nnight, and it turned out to be the landlady sneaking into my\nroom trying to touch my belongings! I screamed thinking it\nwas a ghost! For some reason, I got scolded!"
+                                "I thought I heard rustling noises at night, and it turned\nout to be the landlady sneaking into my room trying to touch\nmy belongings! I screamed thinking it was a ghost! For some\nreason, I got scolded!"
                             ]
                         },
                         {
@@ -8859,7 +8859,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Someone apparently died after being hit by trash at the\ngarbage dump. The person throwing it should have looked\nbelow! I thought it was pretty awful of the person living\nabove!"
+                                "At the garbage dump, someone unluckily got hit by trash and\nseems to have died. The person throwing it should have\nlooked below! I thought the person living above was a bit\ntoo cruel!"
                             ]
                         },
                         {
@@ -8897,7 +8897,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I wonder if grandpa is getting scolded... Is everyone\nworried... I'm starting to feel a bit guilty. But I can't go\nback yet."
+                                "I wonder if grandpa is getting scolded... Is everyone\nworried...? I'm starting to feel a bit guilty. But I can't\ngo back yet."
                             ]
                         },
                         {
@@ -9011,7 +9011,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now that I think about it, my sister used to have many\nfriends. A rough kid, a dirty kid, a cute kid, a smart-\nlooking kid, a bad-looking kid... Humans, beastfolk,\neveryone adored my sister."
+                                "Speaking of which, my sister used to have various friends in\nthe past. A rough kid, a dirty kid, a cute kid, a smart-\nlooking kid, a bad-looking kid... Humans, beastfolk,\neveryone adored my sister."
                             ]
                         },
                         {
@@ -9028,7 +9028,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "We were always just studying and training, so we didn't have\nfriends, but my sister would secretly come to our room and\ntell us stories, which was the highlight of our day."
+                                "We were always just studying and training, so we didn't have\nfriends, but my sister would secretly come to my room and\ntell me stories, which was the highlight of my day."
                             ]
                         },
                         {
@@ -9066,7 +9066,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I gave some money to a beggar and got complained at! They\nsaid 10G was too little. Sure, but it's better than nothing!\nWhy get mad when it goes from 0 to 10?!"
+                                "I gave some money to a beggar and got complained at! They\nsaid 10G was too little. Sure, that's true, but it's better\nthan 0! Why do I get scolded for increasing it from 0 to\n10?!"
                             ]
                         },
                         {
@@ -9104,7 +9104,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I've developed the habit of being vigilant so as not to get\nrobbed. It's a necessary skill to live in this town, but I\nreally don't want to suspect anyone!"
+                                "I've developed the habit of being vigilant so as not to get\nrobbed. It's a necessary skill to live in this town, but\nhonestly, I don't want to suspect anyone!"
                             ]
                         },
                         {
@@ -9142,7 +9142,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "At first, I thought this was an unpleasant town, but now I\nunderstand that everyone is working hard in their own way. I\nwouldn't have realized this if I had just stayed home\nstudying."
+                                "At first, I thought this was an unpleasant town, but now I\nunderstand that everyone is working hard in their own way. I\nwouldn't have realized this if I had stayed home studying."
                             ]
                         },
                         {
@@ -9180,7 +9180,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It seems there was a fight at the guild. It's full of\ndrunkards, so it's a common occurrence. I hate the smell of\nalcohol!"
+                                "Apparently there was a fight at the guild. It's full of\ndrunkards, so it's a common occurrence. I hate the smell of\nalcohol!"
                             ]
                         },
                         {
@@ -9340,7 +9340,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's Rui's diary! Should I take a peek?"
+                                "It's Louie's diary! Should I take a peek?"
                             ]
                         },
                         {
@@ -9397,7 +9397,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I thought becoming an adventurer would make it easier to\nhear rumors about my sister, but this place seems a bit\nclosed off. Still, I'll try doing some work for now!"
+                                "I thought becoming an adventurer would make it easier to\ncatch wind of my sister's rumors, but this place seems a bit\nclosed off. Still, I should at least try doing some work!"
                             ]
                         },
                         {
@@ -9435,7 +9435,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "The bed is too hard, and the room is too small! There's a\nstrange smell, and the snoring from the other rooms is loud!\nUgh... But I'll endure it!"
+                                "The bed is too hard, and the room is too cramped! There's a\nweird smell, and the snoring from the other rooms is loud!\nUgh... But I'll endure it!"
                             ]
                         },
                         {
@@ -9473,7 +9473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Rui seems to be handling their guild work too! I can't lose\nto them! As their older sibling!"
+                                "It seems Katara is also handling guild tasks! I can't lose\nto them! As their older sibling!"
                             ]
                         },
                         {
@@ -9511,7 +9511,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I thought I heard rustling in the middle of the night, and\nit turned out to be the landlady trying to touch my\nbelongings! What a hag! I'll have to set up a simple barrier\non the door before I sleep!"
+                                "I thought I heard rustling in the middle of the night, and\nit turned out to be the landlady sneaking into my room\ntrying to tamper with my belongings! What a hag! I'll have\nto set up a simple barrier on the door before I sleep!"
                             ]
                         },
                         {
@@ -9549,7 +9549,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I wonder if grandpa is getting scolded... Is everyone\nworried... I'm starting to feel a bit guilty. But I can't go\nback yet."
+                                "I wonder if grandpa is being scolded... Is everyone\nworried...? I'm starting to feel a bit guilty. But I can't\ngo back yet."
                             ]
                         },
                         {
@@ -9587,7 +9587,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Apparently, someone died after being hit by 'heaven's\nblessing' (trash thrown from above). This is absolutely\nwrong! This town... and the town above..."
+                                "Someone apparently died after being hit by 'heaven's\nblessing' (trash thrown from above). This is definitely not\nright! This town... and the town above..."
                             ]
                         },
                         {
@@ -9701,7 +9701,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Now that I think about it, my sister used to have all sorts\nof friends. Rough kids, dirty kids, cute kids, smart-looking\nkids, bad kids... Humans and beastfolk alike, everyone\nadored my sister."
+                                "Come to think of it, my sister used to have all sorts of\nfriends back in the day. Rough kids, dirty kids, cute kids,\nsmart-looking kids, bad kids... Both humans and beastfolk,\neveryone adored my sister."
                             ]
                         },
                         {
@@ -9718,7 +9718,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Adored might not be the right word; she might have been more\nlike a bossy leader. Father said not to become like that,\nbut honestly, I've always been envious."
+                                "Adored might not be the right word; maybe she was more like\na bossy leader. Father said not to become like that, but\nhonestly, I've always been envious."
                             ]
                         },
                         {
@@ -9756,7 +9756,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I gave some money to a beggar and they complained! Annoyed,\nI used my pickpocketing skills to steal back what was in\ntheir pocket! Idiot!"
+                                "I gave some money to a beggar and got complained at!\nAnnoyed, I used sleight of hand to steal back what was in\ntheir pocket! Idiot!"
                             ]
                         },
                         {
@@ -9794,7 +9794,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I've developed the habit of being vigilant so as not to have\nmy things stolen. It's a necessary skill for living in this\ntown, but truthfully, I don't want to suspect anyone!"
+                                "I've developed the habit of staying alert so as not to get\nrobbed. It's a necessary skill for living in this town, but\ntruthfully, I don't want to suspect anyone!"
                             ]
                         },
                         {
@@ -9832,7 +9832,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "At first, I thought this was an unpleasant town, but now I\nsee that everyone is working hard in their own way. I\nwouldn't have understood this if I had stayed home studying."
+                                "At first, I thought this was an unpleasant town, but now I\nunderstand that everyone is just trying their best in their\nown way. I wouldn't have realized this if I had stayed home\nstudying."
                             ]
                         },
                         {
@@ -10102,7 +10102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Good morning, sleepyhead. I'm always the early bird. That\nmust be because I'm the big sister. Kufufu♥"
+                                "\\n<Wanz>Good morning, sleepyhead. I'm always up before you. It must\nbe because I'm the big sister. Kufufu♥"
                             ]
                         },
                         {
@@ -10156,7 +10156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>The breakfast from the lady here was so gross! It was my\nfirst time eating something that bad, I almost threw up♥ And\nthen I got smacked♥ Rui, be careful!"
+                                "\\n<Wanz>The breakfast from the lady here was so gross! It was the\nfirst time I've had something that bad, I almost threw up♥\nAnd then I got smacked♥ Katara, be careful!"
                             ]
                         },
                         {
@@ -10210,7 +10210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Brushing teeth before going to work. For a cat, fangs are\nlife."
+                                "\\n<Wanz>Brush your teeth before you go to work. For a cat, fangs are\nlife."
                             ]
                         },
                         {
@@ -10264,7 +10264,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Sniff sniff... This desk, it smells kind of weird..."
+                                "\\n<Wanz>Sniff sniff... This desk, it smells kinda weird..."
                             ]
                         },
                         {
@@ -10306,7 +10306,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>...!!!"
+                                "\\n<Wanz>...!!!"
                             ]
                         },
                         {
@@ -10339,7 +10339,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>...!!!"
+                                "\\n<Wanz>...!!!"
                             ]
                         },
                         {
@@ -10372,7 +10372,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>...!!!"
+                                "\\n<Wanz>...!!!"
                             ]
                         },
                         {
@@ -10414,7 +10414,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Hmm...? What was I doing again...?...???"
+                                "\\n<Wanz>Hm...? What was I doing again...?...???"
                             ]
                         },
                         {
@@ -10468,7 +10468,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>I feel like I had a good dream last night. But I can't\nremember it. I should've written it down in my diary right\nafter waking up!"
+                                "\\n<Wanz>I feel like I had a nice dream last night. But I can't\nremember it. I should've written it down in my diary right\nafter waking up!"
                             ]
                         },
                         {
@@ -10522,7 +10522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Mumble mumble... Good morning, Rui. I'm still sleepy nya..."
+                                "\\n<Wanz>Mumble mumble... Good morning, Katara. I'm still sleepy\nnya..."
                             ]
                         },
                         {
@@ -10576,7 +10576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Rui, you had, you know, a 'big' morning. Pukuku♥ It seems\nthat happens in the morning♥ Boys are so troublesome♥"
+                                "\\n<Wanz>Katara, you had, you know, a boner. Pukuku♥ It seems that\nhappens in the morning♥ Boys are so funny♥"
                             ]
                         },
                         {
@@ -10639,7 +10639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Good morning. Even though this place is unfamiliar, seeing\nRui's face makes me feel safe. Even though it's the same\nface."
+                                "\\n<Wanz>Good morning. Even though this place is unfamiliar, seeing\nyour face makes me feel at ease. Even though it's the same\nface."
                             ]
                         },
                         {
@@ -10693,7 +10693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>I heard from a kid at the orphanage that tanuki uncles eat\nbugs."
+                                "\\n<Wanz>They say that tanuki old man eats bugs. That's what the kids\nat the orphanage said."
                             ]
                         },
                         {
@@ -10747,7 +10747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Yawn... Somehow I still feel sleep deprived. The bed is as\nhard as a rock. It hurts."
+                                "\\n<Wanz>Yawn... Somehow I still feel sleep deprived. The bed is as\nhard as a rock. It hurts."
                             ]
                         },
                         {
@@ -10801,7 +10801,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Um... what day is it today... Oh, it's \\C[14]Sun Day\\C[0]."
+                                "\\n<Wanz>Um... what day is it today... Oh, it's \\C[14]Sun Day\\C[0]."
                             ]
                         },
                         {
@@ -10855,7 +10855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Is today \\C[14]Moon Day\\C[0]? I'm losing my sense of days...\nIt's because there's no class with the old man..."
+                                "\\n<Wanz>Is today \\C[14]Moon Day\\C[0]? I'm losing track of the\ndays... It's because there's no class with the old man..."
                             ]
                         },
                         {
@@ -10909,7 +10909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Today is \\C[14]Star Day\\C[0]! So tomorrow is Sun Day! Right?"
+                                "\\n<Wanz>Today is \\C[14]Star Day\\C[0]! So tomorrow is Sun Day! Right?"
                             ]
                         },
                         {
@@ -11071,7 +11071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Good morning, Rui. You were talking in your sleep. What kind\nof dream were you having? \"You, shampoo thief!\""
+                                "\\n<Louie>Good morning, Katara. You were talking in your sleep, saying\nsome weird things. What kind of dream were you having? \"You,\nshampoo thief!\""
                             ]
                         },
                         {
@@ -11125,7 +11125,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Hmm... (I had some kind of erotic dream... It's making me\nfeel queasy...)"
+                                "\\n<Louie>Hmm... (I had some kind of erotic dream... It's making me\nfeel queasy...)"
                             ]
                         },
                         {
@@ -11179,7 +11179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Alright! Let's do our best today too! I can't lose to Rui!"
+                                "\\n<Louie>Alright! Let's do our best today too! I can't lose to\nKatara!"
                             ]
                         },
                         {
@@ -11233,7 +11233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>The breakfast here is crazy bad! I threw up a hairball! It\nwas like being hit with a staff! It's the first time I've\nhad something so awful! You should try it later, Rui!"
+                                "\\n<Louie>The breakfast here is crazy bad! I threw up a hairball! Got\nwhacked with a wand too! Never tasted anything so awful\nbefore! You should try it later, Katara!"
                             ]
                         },
                         {
@@ -11287,7 +11287,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I bought some catnip cookies from a merchant staying here.\nLet's eat them together after work."
+                                "\\n<Louie>I ended up buying some catnip cookies from the merchant\nstaying here. Let's eat them together after work."
                             ]
                         },
                         {
@@ -11341,7 +11341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Mumble mumble... I don't feel like I slept at all... I miss\nthe fluffy bed at home..."
+                                "\\n<Louie>Mumble mumble... I don't feel like I slept at all... I miss\nthe fluffy bed at home..."
                             ]
                         },
                         {
@@ -11395,7 +11395,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Being an adventurer like big sis makes me happy. I'll do my\nbest so I can stand tall when we meet!"
+                                "\\n<Louie>Being an adventurer like my big sister, it kind of makes me\nhappy. I'll do my best so I can stand tall when we meet!"
                             ]
                         },
                         {
@@ -11449,7 +11449,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Lately... I've been having strange dreams... It's... kind of\nhard to talk about with others..."
+                                "\\n<Louie>Lately... I've been having strange dreams... It's... kind of\nhard to talk about with others..."
                             ]
                         },
                         {
@@ -11482,7 +11482,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>A woman... forcing herself on me... Maybe it's the work of a\nsuccubus..."
+                                "\\n<Louie>Being forced by a woman... Maybe it's the work of a\nsuccubus..."
                             ]
                         },
                         {
@@ -11536,7 +11536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Rui, are you okay with money? If you ever run out and are in\ntrouble, just let me know. I'll lend you some."
+                                "\\n<Louie>Katara, are you okay with money? If you ever find yourself\nin a pinch, just let me know. I'll lend you some."
                             ]
                         },
                         {
@@ -11590,7 +11590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I almost got fed bugs by that tanuki guy. He said freshly\nhatched ones are delicious. \"Now's your chance!\" he says,\nbut that's just troubling."
+                                "\\n<Louie>Almost got fed bugs by that tanuki guy. He said freshly\nhatched ones are delicious. \"Now's your chance!\" he says,\nbut that's just troubling."
                             ]
                         },
                         {
@@ -11644,7 +11644,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Uh... what day is it today again... Oh, it's \\C[14]Sun\nDay\\C[0]."
+                                "\\n<Louie>Uh... what day is it today again... Oh, it's \\C[14]Sun\nDay\\C[0]."
                             ]
                         },
                         {
@@ -11698,7 +11698,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Is today \\C[14]Moon Day\\C[0]? Being here makes you lose\ntrack of the days."
+                                "\\n<Louie>Is today \\C[14]Moon Day\\C[0]? Being here makes you lose\ntrack of the days."
                             ]
                         },
                         {
@@ -11752,7 +11752,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Today is \\C[14]Star Day\\C[0], isn't it. Not that it matters\nmuch. There's no class with the old man today, so no need to\nworry."
+                                "\\n<Louie>Today is \\C[14]Star Day\\C[0], isn't it. Not that it matters\nmuch. No classes with the old man today, so no need to\nworry."
                             ]
                         },
                         {
@@ -12394,14 +12394,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]※Entrance To The Recollection Room.\\C[0]"
+                                "\\C[1]※This Is The Entrance To The Recollection Room.\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "You can view the recollections of characters you've cleared.\nEvents such as pre-scene seductions are not viewable."
+                                "You can view the recollections of characters you've cleared.\nEvents such as seduction scenes before the scene are not\nviewable."
                             ]
                         },
                         {
@@ -12418,7 +12418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Especially in this game, seduction plays a main role. You\ncan rematch at any time with the request form, so it's\nrecommended to use the request form rather than the\nrecollection room as much as possible."
+                                "Especially in this game, seduction is the main theme. You\ncan rematch at any time with a request form, so it's\nrecommended to use the request form rather than the\nrecollection room as much as possible."
                             ]
                         },
                         {
@@ -12533,7 +12533,7 @@
                             "parameters": [
                                 [
                                     "Recollection Room",
-                                    "No need"
+                                    "Not Necessary"
                                 ],
                                 1,
                                 0,

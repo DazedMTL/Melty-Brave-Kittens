@@ -10311,7 +10311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>Oh...! A person with cat ears...! You must be new here! Are\nyou here to join our faith? To join us!?"
+                                "\\n<Sister>Oh...! You with the cat ears...! You must be new here! Are\nyou here to join our faith? To join us!?"
                             ]
                         },
                         {
@@ -10344,7 +10344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>Ah, you're not here to convert. That's alright, I'm just\nhappy someone came to visit♥ Nice to meet you. I'm Soel, a\nsister of the Storm Church."
+                                "\\n<Sister>Ah, you're not here to join. Well, I'm just happy that\nsomeone came to visit♥ Nice to meet you. I'm Soel, a sister\nof the Storm Church."
                             ]
                         },
                         {
@@ -10416,7 +10416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>You're Rui-san, right? It's a pleasure to meet you."
+                                "\\n<Sister>You're Katara-san, right? It's a pleasure to meet you."
                             ]
                         },
                         {
@@ -10482,7 +10482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>Please come to this church anytime♥ If you'd like, I would\nbe happy to talk to you about our doctrine."
+                                "\\n<Sister>Please come to this church anytime♥ If you'd like, I would\nalso be happy to talk to you about our doctrine."
                             ]
                         },
                         {
@@ -10608,7 +10608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>This is the church where the teachings of one of the Four\nSages, Storm-sama, are passed on. It seems you too are\nblessed with the wind's protection. Even if not all, perhaps\nhalf of it will resonate with your heart."
+                                "\\n<Sister>This is the church where we pass on the teachings of one of\nthe four sages, Storm-sama. It seems you too are blessed by\nthe wind. Even if not all, perhaps half of it will resonate\nwith your heart."
                             ]
                         },
                         {
@@ -10662,7 +10662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>That someone like you has drifted into this town... I\nunderstand there must have been very painful and complex\ncircumstances. Please allow me to at least pray for your\npeace."
+                                "\\n<Sister>That someone like you has drifted into this town... I\nunderstand there must have been very difficult and complex\ncircumstances. Please allow me to at least pray for your\npeace."
                             ]
                         },
                         {
@@ -10716,7 +10716,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>The human heart cannot always be pure. Anger, sorrow,\njealousy, hatred... unbearable emotions may arise."
+                                "\\n<Sister>The human heart cannot always be pure. Anger, sadness,\njealousy, hatred... unbearable emotions may arise at times."
                             ]
                         },
                         {
@@ -10749,7 +10749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>Sometimes, it's important to let go as you are. After a\nstorm rages, there must be a quiet and clear world that can\nonly be seen then."
+                                "\\n<Sister>Sometimes, it's important to let things be as they are.\nAfter a storm rages, there must be a quiet and clear world\nthat can only be seen then."
                             ]
                         },
                         {
@@ -10857,7 +10857,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>I do not like to say \"lower people,\" but this church was\nbuilt on the notion that \"even those from the lower strata\nneed prayers.\""
+                                "\\n<Sister>I do not like to use the term \"lower class,\" but it was said\nthat \"even those from the lower ranks need prayers,\" and\nthus this church was built."
                             ]
                         },
                         {
@@ -10944,7 +10944,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>This place is a church, but at the same time, it is also a\ngraveyard. If anything, its role as a graveyard might be\nstronger because, unfortunately, there aren't many devout\nbelievers."
+                                "\\n<Sister>This place is a church, but at the same time, it is also a\ngraveyard. If anything, its role as a graveyard might be\nstronger since, unfortunately, there aren't many devout\nbelievers."
                             ]
                         },
                         {
@@ -10998,7 +10998,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>But still... these cat ears... how should I put it... I\nreally want to touch them."
+                                "\\n<Sister>But still... what do you call it... these cat ears... they\nmake you want to touch them, don't they?"
                             ]
                         },
                         {
@@ -11139,7 +11139,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>What to consider as sin, and what to punish. Providing\nstandards to uphold and keeping from straying from the path.\nThat is the \"teaching.\""
+                                "\\n<Sister>What to consider a sin, and what to punish. Providing\nstandards to uphold and keeping from straying from the path.\nThat is the \"teaching.\""
                             ]
                         },
                         {
@@ -11343,7 +11343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sister>I'm not sleeping, I'm not sleeping. I was praying."
+                                "\\n<Sister>I wasn't sleeping, I wasn't sleeping. I was praying."
                             ]
                         },
                         {
@@ -11462,7 +11462,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>This is the church where the teachings of one of the Four\nSages, Lord Storm, are passed on. It seems you too are\nblessed by the wind. Not everything may resonate with you,\nbut perhaps half of it will touch your heart."
+                                "\\n<Soel>This is the church where we preach the teachings of one of\nthe Four Sages, Storm-sama. It seems you too are blessed by\nthe wind. Even if not all, perhaps half of it will resonate\nwith your heart."
                             ]
                         },
                         {
@@ -11603,7 +11603,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>The human heart cannot always be pure. Anger, sadness,\njealousy, hatred... Overwhelming emotions can arise."
+                                "\\n<Soel>The human heart cannot always be pure. Anger, sadness,\njealousy, hatred... Overwhelming emotions may arise."
                             ]
                         },
                         {
@@ -11690,7 +11690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Rui-san♥ What's the matter? Did you come to see me? Fufu♥"
+                                "\\n<Soel>Katara-san♥ What's the matter? Did you come to see me? Fufu♥"
                             ]
                         },
                         {
@@ -11788,7 +11788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Just kidding♥ It's a joke♥ It can't grow that fast, can it?\nTeehee♥"
+                                "\\n<Soel>Just kidding♥ It's a joke, a joke♥ It can't grow that fast,\ncan it? Teehee♥"
                             ]
                         },
                         {
@@ -11891,7 +11891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>This is a true story. I've just used it a bit for my hobby,\nbut there's no mistake that I am a real sister."
+                                "\\n<Soel>This is a true story. I've just utilized it a bit for my\nhobby, but there's no mistake that I am a real sister."
                             ]
                         },
                         {
@@ -12119,7 +12119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Hey♥ Rui-san♥ Would you mind making a donation? A donation♥"
+                                "\\n<Soel>Hey♥ Katara-san♥ Would you mind making a donation? A\ndonation♥"
                             ]
                         },
                         {
@@ -12206,7 +12206,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>What to consider as sin, and what to punish. Providing\nstandards to adhere to and keeping one from straying off the\npath. That is the \"teaching.\""
+                                "\\n<Soel>What to consider as sin, and what to punish. Providing\nstandards to abide by and keeping one from straying off the\npath. That is the \"teaching.\""
                             ]
                         },
                         {
@@ -12239,7 +12239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Lord Storm had a realistic point of view. I'm just acting\naccording to those teachings. Sometimes, that means stepping\noutside of ethics."
+                                "\\n<Soel>Storm-sama had a realistic point of view. I'm just acting\naccording to those teachings. Sometimes, that means stepping\noutside of ethics."
                             ]
                         },
                         {
@@ -12656,7 +12656,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>This person in the portrait... Yes, I remember. They passed\naway due to an illness..."
+                                "\\n<Sister>This person in the portrait... Yes, I remember. They passed\naway from an illness..."
                             ]
                         },
                         {
@@ -12787,7 +12787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>Investigate the area around the church, you say? Yes, of\ncourse, that's fine. There are no services today, after all."
+                                "\\n<Sister>You want to investigate around the church? Yes, of course,\nthat's fine. There are no services today, so..."
                             ]
                         },
                         {
@@ -12926,7 +12926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>I feel so happy when Rui-san comes to visit♥ Even if it's\njust for work♥ Nfufu♥"
+                                "\\n<Sister>I feel so happy when Katara-san comes to visit♥ Even if it's\njust for work♥ Nfufu♥"
                             ]
                         },
                         {
@@ -13033,7 +13033,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I love the piano. Someday, I want to play a duet using the\ncat's cradle technique."
+                                "I love the piano. Someday, I want to play a duet using cat's\ncradle."
                             ]
                         },
                         {
@@ -13247,7 +13247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The stained glass feels out of place in the slums. I feel\nreluctant to break such a grand window."
+                                "The stained glass feels out of place in the slums. I feel\nresistant to breaking such a fine window."
                             ]
                         },
                         {
@@ -13338,7 +13338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Suspicious Man>\"This town has a church that doesn't quite fit, all fancy\nand such. Seems it was built with the money from those\nhigher-ups. If they've got that kind of money, they should\nbe handing out food instead, damn hypocrites.\""
+                                "\\n<Suspicious Man>\"This town doesn't suit such a grand church, does it? Seems\nlike it was built with the money from those higher-ups. If\nthey have that kind of money, they should be handing out\nfood instead, damn hypocrites.\""
                             ]
                         },
                         {
@@ -13355,7 +13355,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Suspicious Man>\"Oops, I might get punished for saying something like\nthat... If faith could fill one's stomach, I'd pray for a\nlifetime.\""
+                                "\\n<Suspicious Man>\"Oops, maybe I'll be punished for saying such things... If\nfaith could fill one's stomach, I'd pray for a lifetime.\""
                             ]
                         },
                         {
@@ -13488,7 +13488,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Suspicious Man>With the sister gone, this church is finished, huh. Or will\nsomeone else come along to take her place, I wonder?"
+                                "\\n<Suspicious Man>\"With the sister gone, this church is finished, huh? Or will\nsomeone else come to take her place, I wonder?\""
                             ]
                         },
                         {
@@ -13570,7 +13570,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Suspicious Man>Necromancy or whatever is fine, but just make sure to clean\nup the corpses properly. They're the most troublesome kind\nof trash after all."
+                                "\\n<Suspicious Man>\"Necromancy or whatever is fine, but just make sure to clean\nup the corpses properly. They're the most troublesome kind\nof trash after all.\""
                             ]
                         },
                         {
@@ -13587,7 +13587,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Suspicious Man>I might think faith can go to hell, but cemeteries do serve\na purpose. Maybe I'll make a donation once in a while."
+                                "\\n<Suspicious Man>\"I may think faith can go to hell, but graveyards do serve a\npurpose. Maybe I'll make a donation once in a while.\""
                             ]
                         },
                         {
@@ -13678,7 +13678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Believer?>\"By offering prayers, you can gradually remove the black\nmold that spreads in your heart. Now, you too should pray.\""
+                                "\\n<Believer?>By offering prayers, you can gradually remove the black mold\nthat spreads in your heart. Now, you too should pray."
                             ]
                         },
                         {
@@ -13702,7 +13702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>(They seem to be praying, but their eyes are slightly open,\nsearching for something. It looks like they're scoping out\nsomething to steal...)"
+                                "\\n<Katara>(While making a gesture of prayer, they're slightly opening\ntheir eyes looking for something. It seems like they're\ncasing the place for something to steal...)"
                             ]
                         },
                         {
@@ -13835,7 +13835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Believer?>I knew there was something fishy about this. Such a grand\nchurch and all. Better steal what I can while I have the\nchance."
+                                "\\n<Believer?>\"I knew it was suspicious. Such a grand church like this...\nLet's steal what we can while we still have the chance.\""
                             ]
                         },
                         {
@@ -13917,7 +13917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Believer?>I thought I might find something to steal passing by, but I\nwas touched by the Sister's earnestness. Seriously, who is\nit? Who's the scumbag spreading those nasty rumors?"
+                                "\\n<Believer?>\"I thought I might find something to steal passing by, but I\nwas truly touched by the Sister's earnestness. Who the hell\nstarted that awful rumor, seriously? What a scumbag.\""
                             ]
                         },
                         {
@@ -14017,7 +14017,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>At first, I didn't think we needed a church, but having\nsomeone to perform funerals and manage the cemetery is a\nrelief. Leaving corpses unattended could spread disease."
+                                "\\n<Follower>At first, I didn't think we needed a church, but having\nsomeone to perform services for the dead and manage the\ncemetery is a relief. If bodies are left as they are, they\ncan spread disease."
                             ]
                         },
                         {
@@ -14034,7 +14034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>And the sister is such a good person. She listens to our\ntroubles with empathy, she's gentle and pure-hearted.\nTalking to her feels like it cleanses your own soul."
+                                "\\n<Follower>And the sister is such a good person. She listens to our\ntroubles with compassion, she's gentle and pure-hearted.\nTalking to her feels like it cleanses your own soul."
                             ]
                         },
                         {
@@ -14184,7 +14184,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>No, even if there was a reason, it's not acceptable. Perhaps\nher mind was already broken when she arrived here."
+                                "\\n<Follower>No, even if there was a reason, it's not acceptable. Perhaps\nher mind was already broken when she came here."
                             ]
                         },
                         {
@@ -14266,7 +14266,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>Even though you've been taking care of the graves, to be\naccused of necromancy... It's such a malicious rumor being\nspread, poor Sister. Who could do such a thing..."
+                                "\\n<Follower>Even though you've been tending to the graves, to be accused\nof necromancy... It's a cruel rumor that's been spread, poor\nSister. Who could do such a thing..."
                             ]
                         },
                         {
@@ -14299,7 +14299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(It's me! It's me! It's not a rumor... Ugh...)"
+                                "\\n<Katara>(It's me! It's me! It's not a rumor... Ugh...)"
                             ]
                         },
                         {
@@ -14333,7 +14333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(A rumor, huh... Maybe it was better for these people this\nway...)"
+                                "\\n<Katara>(A rumor, huh... Maybe it was better this way for these\npeople...)"
                             ]
                         },
                         {
@@ -14434,7 +14434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Believer?>Soel-chan is amazing, isn't she?♥ She has the air of a pure\nlady, yet those breasts are something else. No wonder people\ncome to pray."
+                                "\\n<Believer?>Soel-chan is amazing, isn't she?♥ She has the air of a pure\nlady, yet those breasts are something else. It's no wonder\npeople come to pray."
                             ]
                         },
                         {
@@ -14451,7 +14451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Believer?>Makes you want to offer something up, huh?"
+                                "\\n<Believer?>Makes you want to offer something up, right?"
                             ]
                         },
                         {
@@ -14475,7 +14475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Offer what?"
+                                "\\n<Katara>Offer what?"
                             ]
                         },
                         {
@@ -14690,7 +14690,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Believer?>Poor Soel-chan, being the subject of such weird rumors. I\ndon't know if they're true or not, but hey, you can play\nwith my corpse as much as you want. Hehe♥"
+                                "\\n<Believer?>Poor Soel-chan, it's sad how weird rumors are being spread\nabout her. I don't know if they're true or not, but hey, you\ncan mess with my corpse as much as you want. Hehe♥"
                             ]
                         },
                         {
@@ -14723,7 +14723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Gross! (But if I die, you can keep me by your side...)"
+                                "\\n<Katara>Gross! (You can keep my dead body by your side...)"
                             ]
                         },
                         {
@@ -14757,7 +14757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Even if they knew her true identity, this person probably\nwouldn't care...)"
+                                "\\n<Katara>(Even if he knew her true identity, it seems like this\nperson wouldn't care...)"
                             ]
                         },
                         {
@@ -14858,7 +14858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>I'm of the thunder and water elements, so there's no church\nfor me. Hey, little one, you're of fire and wind, aren't\nyou? You must have it tough too."
+                                "\\n<Follower>I'm of the thunder and water elements, so there's no church\nfor me. Hey, little one, you're of fire and wind, aren't\nyou? You must have your own struggles too."
                             ]
                         },
                         {
@@ -14875,7 +14875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>Well, elements and such aren't the essence of a person. It's\nall about experience, more than birth. \"It's how you live,\"\nmy grandpa always said. He's dead now, though."
+                                "\\n<Follower>Well, elements and such aren't the essence of a person. It's\nall about experiences rather than birth. \"It's how you\nlive,\" my grandpa always said. He's dead now, though."
                             ]
                         },
                         {
@@ -15008,7 +15008,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>The sister has been captured. Well, I've lost my old man\ntoo, and I can't count how many times I've wished he could\ncome back to life."
+                                "\\n<Believer>The sister's been captured. Well, I've also lost my old man\nand wished countless times for him to come back to life."
                             ]
                         },
                         {
@@ -15025,7 +15025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>Someone who gets obsessed with necromancy must have really\nwanted to bring someone back to life, I suppose. But I don't\nknow."
+                                "\\n<Believer>Those obsessed with necromancy must have someone they\ndesperately wanted to bring back to life, I suppose. But I\ndon't know."
                             ]
                         },
                         {
@@ -15107,7 +15107,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>Whoever spread the nasty rumor that the Sister is using\nnecromancy must be mistaken. Just look at those sparkling\neyes."
+                                "\\n<Follower>Someone's been spreading nasty rumors about the Sister using\nnecromancy. Just look into those sparkling eyes."
                             ]
                         },
                         {
@@ -15124,7 +15124,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Follower>Ah, she's the epitome of innocence. You can tell when you've\nlived as long as I have. She's not a bad kid."
+                                "\\n<Follower>Ah, the very picture of innocence. You can tell when you've\nlived as long as I have. She's not a bad kid."
                             ]
                         },
                         {
@@ -15157,7 +15157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(You're not seeing clearly, granny...)"
+                                "\\n<Katara>(You're not seeing clearly, granny...)"
                             ]
                         },
                         {
@@ -15191,7 +15191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Even with age, there are things you just don't\nunderstand...)"
+                                "\\n<Katara>(Even with age, there are things you just don't\nunderstand...)"
                             ]
                         },
                         {
@@ -15583,7 +15583,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Where should I start apologizing from... Maybe from\nGrandpa's vase, I guess."
+                                "Where should I start apologizing from... Maybe from\ngrandpa's vase, huh."
                             ]
                         },
                         {

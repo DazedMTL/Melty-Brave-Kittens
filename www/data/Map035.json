@@ -14114,7 +14114,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Oh, you're on trash duty too, huh? I wonder where all these\nmonsters keep popping up from. There are quite a few caverns\naround; maybe they're connected to somewhere else."
+                                "\\n<Dodon>Oh, you're on trash duty too, huh? I wonder where all these\nmonsters keep popping up from. There must be quite a few\ncaverns around here, maybe connected to somewhere else."
                             ]
                         },
                         {
@@ -14131,7 +14131,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>The ground's sunk that much, after all. Well, we're\nsurveying the ground too, so I doubt Lumare will collapse\nany further than this."
+                                "\\n<Dodon>The ground's sunk that much, after all. Well, we're\nsurveying the terrain, so I doubt Lumare will collapse any\nfurther than this, at least."
                             ]
                         },
                         {
@@ -14273,7 +14273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Oh, it's Rui. Slimeys have been flowing in from the\nunderground water cavern. Creatures coming from such a place\ngive me the creeps."
+                                "\\n<Dodon>Oh, it's Katara. Slimeys have been flowing in from the\nunderground water cavern. Creatures coming from such a place\ngive me the creeps."
                             ]
                         },
                         {
@@ -14415,7 +14415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Oh♥ Rui-chan♥ Hey there! How are you?"
+                                "\\n<Annie>Oh♥ Katara-chan♥ Hey there! How are you?"
                             ]
                         },
                         {
@@ -14551,7 +14551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Blunt weapons are the best! Smashing an orc's skull is just\nso satisfying! You think so too, right Rui?"
+                                "\\n<Annie>Blunt weapons are the best! Smashing an orc's skull is just\nso satisfying! You think so too, right Katara?"
                             ]
                         },
                         {
@@ -14566,7 +14566,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Maybe so",
+                                    "Probably so",
                                     "Partially so"
                                 ],
                                 1,
@@ -14604,7 +14604,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Annie>You've got the image of a mage, but you're pretty versatile,\nhuh! Nice! Let's crush those orcs quickly and go back for\nsome drinks!"
+                                "\\n<Annie>You've got the image of a mage, but you're pretty versatile,\nhuh! Nice! Let's hurry up and crush those orcs so we can go\nback and drink!"
                             ]
                         },
                         {
@@ -14641,7 +14641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Annie>What do you mean by 'partial'? Does it mean that the\npleasure varies depending on the part you smash? You really\nget it♥"
+                                "\\n<Annie>What do you mean by 'partial'? Does it feel different\ndepending on which part you smash? You really get it♥"
                             ]
                         },
                         {
@@ -14767,7 +14767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Ah! I've accepted the quest! I'm going to defeat more orcs\nthan you! Huh? More orcs...?"
+                                "\\n<Wanz>Ah! We've got competing requests! I'm going to defeat more\norcs than you, just watch! Huh? More orcs...?"
                             ]
                         },
                         {
@@ -14807,7 +14807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Thump! Ahahaha! So many orcs♥ Ahahahaha! So many♥ So many♥\nUhehehehehe♥"
+                                "\\n<Wanz>Thud! Ahahaha! More orcs, you say♥ Ahahahaha! So many♥ So\nmany♥ Uhehehehehe♥"
                             ]
                         },
                         {
@@ -14840,7 +14840,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Upon further thought, it wasn't that funny."
+                                "\\n<Wanz>Now that I think about it, it wasn't that funny."
                             ]
                         },
                         {
@@ -14947,7 +14947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>I don't think Rui would get hurt in a place like this, but\nlet's stay alert and do our best. By the way, what should we\neat when we get home today?"
+                                "\\n<Louie>I don't think Katara would get hurt in a place like this,\nbut let's stay alert and do our best. By the way, what\nshould we eat when we get home today?"
                             ]
                         },
                         {
@@ -14971,7 +14971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Rui is being careless. Thinking about food during work."
+                                "\\n<Katara>Louie, you're getting careless. Thinking about food while\nwe're working."
                             ]
                         },
                         {
@@ -15004,7 +15004,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>This is what you call being at ease. By the way, I wonder if\nwe can eat salami?"
+                                "\\n<Louie>This is what you call being at ease. By the way, I wonder if\nwe can eat salami?"
                             ]
                         },
                         {
@@ -15171,7 +15171,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>One, two-, three... Huh? How many did I defeat? I've lost\ncount."
+                                "\\n<Wanz>One, two-, three... Huh? How many did I defeat? I've lost\ncount."
                             ]
                         },
                         {
@@ -15204,7 +15204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Maybe I could report a few extra? It's just 100G after all."
+                                "\\n<Wanz>Maybe it's okay to report a few extra? It's just 100G after\nall."
                             ]
                         },
                         {
@@ -15213,7 +15213,7 @@
                             "parameters": [
                                 [
                                     "Why not?",
-                                    "Isn't that bad?"
+                                    "Isn't that a bad idea?"
                                 ],
                                 1,
                                 0,
@@ -15259,7 +15259,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Nihihi♥ Then, I'll say a bit more♥ About a hundred million\ndefeated. My arms remember."
+                                "\\n<Wanz>Nihhi♥ Then, I'll say a bit more♥ About a hundred million\ndefeated. My arms remember."
                             ]
                         },
                         {
@@ -15305,7 +15305,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Hmm, I forgot. It's not good to lose out! But cheating isn't\ngood either."
+                                "\\n<Wanz>Mm-, I forgot. It sucks to lose out! But cheating isn't good\neither, right?"
                             ]
                         },
                         {
@@ -15422,7 +15422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Doing work that helps people like this feels good, doesn't\nit? We've always been focused solely on studying and\ntraining, right?"
+                                "\\n<Louie>Doing work that helps people like this feels good, doesn't\nit? We've been doing nothing but studying and training all\nthis time, right?"
                             ]
                         },
                         {
@@ -15455,7 +15455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>It's a dirty town, but becoming independent in the outside\nworld is quite an experience, isn't it?"
+                                "\\n<Louie>It's a dirty town, but becoming independent in the outside\nworld is quite an experience, isn't it?"
                             ]
                         },
                         {
@@ -15479,7 +15479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Mr. Serious~"
+                                "\\n<Katara>Mr. Serious~"
                             ]
                         },
                         {
@@ -15512,7 +15512,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>If I don't think that way, I can't stand that dirty bed.\nIt's hard, the futon is heavy, and despite being heavy, it's\nnot even warm."
+                                "\\n<Louie>If I don't think that way, I can't stand that dirty bed.\nIt's hard, the futon is heavy, and despite being heavy, it's\nnot even warm."
                             ]
                         },
                         {

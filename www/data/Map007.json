@@ -3081,7 +3081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Embalming tools... used for preserving corpses..."
+                                "It's an embalming tool... used for preserving dead bodies..."
                             ]
                         },
                         {
@@ -3354,7 +3354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's something more intriguing than the book... someone\nwho's far too captivating... Let's investigate that."
+                                "There's something more intriguing than the book... someone\nwho's far too captivating... let's investigate that."
                             ]
                         },
                         {
@@ -3828,7 +3828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>It's troubling, Rui-san. You can't just enter as you\nplease..."
+                                "\\n<Sister>It's troubling, Katara-san. You can't just enter as you\nplease..."
                             ]
                         },
                         {
@@ -3894,7 +3894,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>As you've guessed, I am researching necromancy. But please\ndon't misunderstand. This is an act of goodwill."
+                                "\\n<Sister>As you've guessed, I am researching necromancy. But please,\ndo not misunderstand. This is an act of goodwill."
                             ]
                         },
                         {
@@ -3960,7 +3960,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>For example, even if it costs 10 million G for just an hour\nof conversation, if you could reclaim that time with a\ndeceased person, it wouldn't be too much to ask, would it?"
+                                "\\n<Sister>For example, even if it costs 10 million G for just an hour\nof conversation, if you could reclaim that time with a\ndeceased loved one, it wouldn't be too much to ask, would\nit?"
                             ]
                         },
                         {
@@ -3993,7 +3993,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>I'm not greedy for money. It's just that \"living and\nspending time together\" has that much value, that's what I\nmean."
+                                "\\n<Sister>I'm not being greedy for money. It's about the value of\n\"spending the same time alive.\" That's what I'm trying to\nsay."
                             ]
                         },
                         {
@@ -4026,7 +4026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>However, one only realizes this after everything is over.\nIsn't it too cruel? To think that an unchanging daily life\nis the most irreplaceable thing."
+                                "\\n<Sister>However, one only realizes this after everything is over.\nIsn't that too cruel? To think that an unchanging daily life\nis the most irreplaceable thing."
                             ]
                         },
                         {
@@ -4059,7 +4059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>To meet again beyond death. It's something everyone dreams\nof and then gives up on. Is this still a difficult concept\nfor you to grasp?"
+                                "\\n<Sister>To meet again beyond death. It's something everyone dreams\nof and then gives up on. Is this still too difficult for you\nto understand?"
                             ]
                         },
                         {
@@ -4115,7 +4115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>But that doesn't mean you can just use people for\nexperiments as you please! Necromancy isn't such a good\nthing! You'll turn into a zombie!"
+                                "\\n<Katara>But that doesn't mean you can just use it for experiments as\nyou please! Necromancy isn't such a good thing! You'll just\nturn into a zombie!"
                             ]
                         },
                         {
@@ -4142,7 +4142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Necromancy is banned by magical law. Besides, even if they\ncome back, they'll only be zombies."
+                                "\\n<Katara>Necromancy is banned by magical law. Besides, even if they\ncome back, they'll only be zombies."
                             ]
                         },
                         {
@@ -4192,7 +4192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>That's why experiments are necessary. It's unfinished\nbecause it's taboo. Ethics can sometimes cloud our vision."
+                                "\\n<Sister>That's why experiments are necessary. It remains incomplete\nbecause it's taboo. Ethics can sometimes cloud our vision."
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Nyah...! (This malevolent magic...! My tail is tingling...!\nIs she out of her mind...?)"
+                                "\\n<Katara>Nya...! (This malevolent magic...! My tail is tingling...!\nIs she out of her mind...?)"
                             ]
                         },
                         {
@@ -4348,7 +4348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>...(There's a good reason why necromancy is banned. It's\nbecause it's possessed by death. The Sister is no longer\nsane.)"
+                                "\\n<Katara>...(There's a good reason why necromancy is banned. It's\nbecause it's possessed by death. The Sister is no longer\nsane.)"
                             ]
                         },
                         {
@@ -4391,7 +4391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>If I didn't manage the graveyard, the abandoned corpses\nwould rot and eventually spread disease. I should be\nthanked, not condemned."
+                                "\\n<Sister>If I didn't manage the graveyard, the neglected corpses\nwould rot and eventually spread disease. I should be\nthanked, not condemned."
                             ]
                         },
                         {
@@ -4424,7 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>Rui-san. I do not wish for this place to be disturbed. Let's\ngo outside."
+                                "\\n<Sister>Katara-san. I do not wish for this place to be disturbed.\nLet's go outside."
                             ]
                         },
                         {
@@ -4562,7 +4562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a skeletonized corpse. Parts of it are so badly\ncrumbled that even the gender is indistinguishable."
+                                "It's a skeletonized corpse. Some parts are so badly crumbled\nthat even the gender can no longer be identified."
                             ]
                         },
                         {
@@ -5518,7 +5518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Such a beautiful woman... Her body has gone cold, not moving\nat all, just like a doll..."
+                                "Such a beautiful woman... Her body is cold, not moving at\nall, just like a doll..."
                             ]
                         },
                         {
@@ -5639,7 +5639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "He looks just like the man in the portrait from the request!\nBut why here..."
+                                "He looks just like the man in the portrait from the request!\nBut why here of all places..."
                             ]
                         },
                         {

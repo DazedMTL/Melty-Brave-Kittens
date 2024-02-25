@@ -7329,7 +7329,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Please select your language.※Automatic translation."
+                                "Choose your language.※Automatic translation."
                             ]
                         },
                         {
@@ -7754,7 +7754,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Would you like to turn ON the female protagonist's voice?\n(Voices will be played during damage and ejaculation.)"
+                                "Would you like to turn on the voice for the female\nprotagonist? (Voices will play during damage and\nejaculation.)"
                             ]
                         },
                         {
@@ -8001,7 +8001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Land of Fire, the Land of Water, the Land of Wind, and\nthe Land of Thunder. They have official names, but... that's\nnot important right now."
+                                "The Fire Nation, the Water Nation, the Wind Nation, and the\nThunder Nation. They have official names, but... that's not\nimportant right now."
                             ]
                         },
                         {
@@ -8018,7 +8018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The people of Fire were bright and passionate, valuing their\ncomrades above all else. The people of Water cherished\nfairness as a virtue and possessed a righteousness that\nadhered to discipline."
+                                "The people of Fire were bright and passionate, valuing their\ncomrades above all else. The people of Water prized fairness\nas a virtue and possessed a righteousness that adhered to\ndiscipline."
                             ]
                         },
                         {
@@ -8035,7 +8035,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The people of Wind were deeply compassionate and gentle,\nloving nature and living in harmony with it. The people of\nThunder were intelligent and quick-witted, using their\nintellect to create machines."
+                                "The people of Wind were compassionate and gentle, loving\nnature and living in harmony with it. The people of Thunder\nwere wise and quick-witted, using their intelligence to\ncreate machinery."
                             ]
                         },
                         {
@@ -8052,7 +8052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "What triggered it, or who started it, is not important."
+                                "What triggered it and who started it is not important."
                             ]
                         },
                         {
@@ -8069,7 +8069,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Humans are not made to accept \"what is different.\" As such,\nconflict was inevitable and arose naturally."
+                                "Humans are not made to accept \"what is different.\" As such,\nconflict was inevitable."
                             ]
                         },
                         {
@@ -8086,7 +8086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "For their own sake, they excluded others; justice was\nimposed, mercy led to tragedy, and machines became tools for\nkilling."
+                                "For their own sake, they excluded others, imposed their\njustice, mercy led to tragedy, and machinery became a tool\nfor killing."
                             ]
                         },
                         {
@@ -8103,7 +8103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This went on for generations, as people continued to\ndecrease in number, each praying for their own version of\npeace from the bottom of their hearts."
+                                "This went on for generations, as people continued to\ndecrease in number, all while sincerely praying for \"their\nown\" peace."
                             ]
                         },
                         {
@@ -8258,7 +8258,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But for the majority, such matters are of no concern... Even\nin \"such a world,\" most people live their modest lives, each\nburdened with their own worries."
+                                "But for the majority, such matters are of no concern... Even\nin \"such a world,\" most people live their petty lives, each\nburdened with their own worries."
                             ]
                         },
                         {
@@ -8275,7 +8275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Some run shops, others till the fields. There are those who\nfight to protect the town from monsters, and then there are\nthose who just laze about in safety."
+                                "Some run shops, others till the fields. There are those who\nfight to protect the town from monsters, and those who just\nlaze about in safety."
                             ]
                         },
                         {
@@ -8292,7 +8292,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Everyone has their own \"way of life,\" doing the best they\ncan, or maybe just slacking off for just today."
+                                "Everyone has their own \"way of life,\" doing their best with\nwhat they can, or maybe just slacking off for just today."
                             ]
                         },
                         {

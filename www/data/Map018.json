@@ -4928,7 +4928,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Treasure...! It's real! So it does exist in places like\nthis."
+                                "\\n<Katara>Treasure...! It's real! So there really are things like this\nhere."
                             ]
                         },
                         {
@@ -4952,7 +4952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>What's inside, I wonder? I'm so excited♥"
+                                "\\n<Katara>What's inside, I wonder? I'm so excited♥"
                             ]
                         },
                         {
@@ -4979,7 +4979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Is this the treasure of the ruins? There don't seem to be\nany traps... Alright, mission accomplished!"
+                                "\\n<Katara>Is this the treasure of the ruins? There don't seem to be\nany traps... Alright, mission accomplished!"
                             ]
                         },
                         {
@@ -5316,7 +5316,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Sorry, but you're not the only one who's been searching for\nthat. Just because you found it first doesn't mean it\nbelongs to you."
+                                "\\n<Bijou>Sorry, but you're not the only one who's come all this way\nsearching for that. Just because you found it first doesn't\nmean it's yours."
                             ]
                         },
                         {
@@ -5653,7 +5653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Nyah♥ What's this...? I think I drank something...!"
+                                "\\n<Katara>Nyah♥ What's this...? I think I drank something...!"
                             ]
                         },
                         {
@@ -5680,7 +5680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Mmm...!! Let go...! What did you make me drink...?!"
+                                "\\n<Katara>Mmm...!! Let... go! What did you make me drink...!"
                             ]
                         },
                         {
@@ -5778,7 +5778,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Mmm♥ Slurp♥ Your lips taste like milk♥ Teehee♥ Cute♥"
+                                "\\n<Bijou>Nfufu♥ Slurp♥ Your lips taste like milk♥ Teehee♥ Cute♥"
                             ]
                         },
                         {
@@ -5818,7 +5818,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Don't worry. It's not poison. On the contrary, it's a very\nnice drug that'll make you feel good♥ Look, throbbing...♥\nthrobbing...♥"
+                                "\\n<Bijou>Don't worry. It's not poison. On the contrary, it's a very\nnice drug that'll make you feel good♥ Look, it's\nswelling...♥ swelling...♥"
                             ]
                         },
                         {
@@ -5924,7 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Just kidding. Let's make a bet on the treasure. Despite\nappearances, I'm quite skilled with sword and magic. I\nwonder if you can beat me in that state, no matter how\nstrong you are."
+                                "\\n<Bijou>Just kidding. Let's make a bet on the treasure. Despite\nappearances, I'm skilled with both the sword and magic. I\nwonder if you can beat me in that state, no matter how\nstrong you are."
                             ]
                         },
                         {
@@ -5957,7 +5957,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>I'll cut you, burn you, and make it so you can't defy me♥"
+                                "\\n<Bijou>I'll cut you, burn you, and make you unable to defy me♥"
                             ]
                         },
                         {

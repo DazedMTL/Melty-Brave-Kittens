@@ -46,7 +46,7 @@
             }
         ],
         "gold": 10,
-        "name": "Barley",
+        "name": "Test Mob",
         "note": "",
         "params": [
             3000,
@@ -652,7 +652,7 @@
             }
         ],
         "gold": 0,
-        "name": "Rui",
+        "name": "Katara",
         "note": "VSユイネ",
         "params": [
             2000,
@@ -2581,7 +2581,7 @@
             }
         ],
         "gold": 500,
-        "name": "Toxin Rope",
+        "name": "Dokuchinawa",
         "note": "",
         "params": [
             4545,
@@ -3629,7 +3629,7 @@
             }
         ],
         "gold": 1500,
-        "name": "Wadsworth",
+        "name": "Wanzworth",
         "note": "ボストルテ",
         "params": [
             2000,
@@ -4874,7 +4874,7 @@
             }
         ],
         "gold": 1500,
-        "name": "Errata",
+        "name": "Eratta",
         "note": "ボストルテ",
         "params": [
             12000,
@@ -7710,7 +7710,7 @@
             }
         ],
         "gold": 15,
-        "name": "Sticky Slimey",
+        "name": "Neb Slimey",
         "note": "",
         "params": [
             35,
@@ -7759,7 +7759,7 @@
             }
         ],
         "gold": 30,
-        "name": "Slippery Slimey",
+        "name": "Nuru Slimey",
         "note": "",
         "params": [
             45,
@@ -8004,7 +8004,7 @@
             }
         ],
         "gold": 70,
-        "name": "Nightmare Bear",
+        "name": "Night Bear",
         "note": "",
         "params": [
             75,
@@ -8505,7 +8505,7 @@
             }
         ],
         "gold": 20,
-        "name": "Nyanthom",
+        "name": "Nyantom",
         "note": "",
         "params": [
             185,
@@ -9394,7 +9394,7 @@
             }
         ],
         "gold": 100,
-        "name": "Makisa Attack",
+        "name": "Maxa Attack",
         "note": "",
         "params": [
             9999,
@@ -10123,7 +10123,7 @@
             }
         ],
         "gold": 10,
-        "name": "Makisa",
+        "name": "Maxa",
         "note": "",
         "params": [
             800,
@@ -10362,7 +10362,7 @@
             }
         ],
         "gold": 22,
-        "name": "Venom Snake",
+        "name": "Poison Snake",
         "note": "",
         "params": [
             100,
@@ -11717,7 +11717,7 @@
             }
         ],
         "gold": 50,
-        "name": "Wadsworth",
+        "name": "Wansworth",
         "note": "ワンズワース戦",
         "params": [
             1200,
@@ -11801,7 +11801,7 @@
             }
         ],
         "gold": 0,
-        "name": "Nekokarite",
+        "name": "Cat Borrower",
         "note": "ワンズワース戦",
         "params": [
             1,

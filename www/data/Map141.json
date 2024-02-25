@@ -3686,7 +3686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Ah, the hero... Oops, my apologies. We must keep your\nidentity a secret here, right?"
+                                "\\n<Guild Master>Ah, the hero... Oops, my apologies. We mustn't let on in\nthis place, right."
                             ]
                         },
                         {
@@ -3703,7 +3703,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>I have heard about your situation. Please leave the search\nfor Lady Pirika to us. In the meantime, it would be a great\nhelp if you could assist with the requests from this town."
+                                "\\n<Guild Master>I've heard about your situation. Please leave the search for\nLady Pirika to us. In the meantime, it would be a great help\nif you could assist with the requests from this town."
                             ]
                         },
                         {
@@ -3720,7 +3720,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Also, I've been informed that Lady Pirika's father will\ncover all of your lodging expenses. Please do not worry\nabout it."
+                                "\\n<Guild Master>Also, I've been informed that Lady Pirika's father will\ncover all the inn expenses. Please don't worry about it."
                             ]
                         },
                         {
@@ -3802,7 +3802,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Succubi in the Imp Cave? Was there a mistake in the request\ndetails? We'll investigate the cause on our end as well."
+                                "\\n<Guild Master>Imp Cave infested with succubi? Could there have been a\nmistake in the request? We'll investigate the cause on our\nend as well."
                             ]
                         },
                         {
@@ -3819,7 +3819,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Regarding Lady Pirika's matter, we've received information\nfrom a merchant who had dealings with a person matching her\ndescription. It seems they purchased some jewelry."
+                                "\\n<Guild Master>Regarding Lady Pirika's matter, we've received information\nfrom a merchant who dealt with someone matching her\ndescription. It seems they traded in decorative items."
                             ]
                         },
                         {
@@ -3836,7 +3836,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>She must have earned enough for her lodging expenses.\nWhether it's at an inn or a vacant house... either way, it\nseems she's definitely hiding out in Anis."
+                                "\\n<Guild Master>She must have earned enough for her stay. Whether it's at an\ninn or a vacant house... either way, it seems she is indeed\nhiding out in Anis."
                             ]
                         },
                         {
@@ -3918,7 +3918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>There's still no sighting information on Lady Pirika. We've\ninformed the gatekeeper, so we should know if she leaves\ntown. It's highly likely she's still in hiding."
+                                "\\n<Guild Master>There's still no sighting information on Pirika-sama. The\ngatekeepers have been informed, so we should know if she\nleaves town. It's highly likely she's still in hiding."
                             ]
                         },
                         {
@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Yuu... Please continue to handle requests for a while\nlonger, Rui-sama. We will certainly find Lady Pirika."
+                                "\\n<Guild Master>Sigh... Katara-sama, please continue to handle quests for a\nlittle while longer. We will surely find Pirika-sama."
                             ]
                         },
                         {
@@ -4117,7 +4117,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>There are no decent requests. The rewards aren't worth the\ndifficulty."
+                                "\\n<Adventurer>There are no decent quests. The rewards aren't worth the\ndifficulty."
                             ]
                         },
                         {
@@ -4208,7 +4208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Thanks to us going around defeating monsters, this town is\nsafe, you know? And yet, that idiot king goes and skimps on\nthe budget."
+                                "\\n<Adventurer>Thanks to us taking down monsters, this town is safe, you\nknow? And yet, that idiot king goes and skimps on the\nbudget."
                             ]
                         },
                         {
@@ -4225,7 +4225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>The reward has been halved compared to a year ago. Tch. As\nif we're not risking our lives working here."
+                                "\\n<Adventurer>The rewards are half of what they were a year ago. Tch. As\nif we're not risking our lives for this job."
                             ]
                         },
                         {
@@ -4333,7 +4333,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Anis's liquor really is delicious. It's almost like I work\njust to drink."
+                                "\\n<Adventurer>Anise's liquor really is delicious. It's almost like I work\njust to drink."
                             ]
                         },
                         {
@@ -4424,7 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Even if monsters don't come into town, we still need to\nclean up the surroundings. You never know when they might\ngather and attack."
+                                "\\n<Adventurer>Even if monsters don't come into town, we still need to\nclean up the surroundings. You never know when they might\nform a group and attack."
                             ]
                         },
                         {
@@ -4515,7 +4515,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>A drink before work is the best. A drink after work is even\nbetter. And I drink during work too!"
+                                "\\n<Adventurer>A drink before work is the best. A drink after work is even\nbetter. And I'll drink during work too!"
                             ]
                         },
                         {
@@ -4739,7 +4739,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>Zzz... Did someone just talk about me?"
+                                "\\n<Chelsea>Zzzz... Did someone just talk about me?"
                             ]
                         },
                         {
@@ -4784,7 +4784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Big Man>Oh ho! Sneezing before a fight, you've got guts, cat lady!"
+                                "\\n<Large Man>Oh-ho! Sneezing before a fight, you've got guts, cat lady!"
                             ]
                         },
                         {
@@ -4847,7 +4847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>I'm betting 1000G on the cat chick! Go for it, go for it!"
+                                "\\n<Adventurer A>I'm betting 1000G on the cat girl! Go for it, go for it!"
                             ]
                         },
                         {
@@ -4910,7 +4910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>I'm playing it safe with 1000G on the big guy! No mercy,\neven if it's a woman! Take her down!"
+                                "\\n<Adventurer B>I'm going with the sure bet on the big guy for 1000G! No\nmercy, even against a woman! Take her down!"
                             ]
                         },
                         {
@@ -4973,7 +4973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>Just don't hit the face, alright? 1000G on the big man!"
+                                "\\n<Adventurer C>Just don't hit the face, alright? 1000G on the big guy!"
                             ]
                         },
                         {
@@ -5006,7 +5006,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Big Man>The little lady challenged me, see? Said \"let's have a test\nof strength\". If I win, I get to grope at least one of her\ntits. Ghehehe♥"
+                                "\\n<Large Man>The little lady challenged me, see? Said \"let's have a test\nof strength.\" If I win, I get to grope at least one of her\nboobs. Ghehehe♥"
                             ]
                         },
                         {
@@ -5140,7 +5140,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer D>Hahaha! Awesome! 1000G on the cat lady! No, make that 2000!"
+                                "\\n<Adventurer D>Hahaha! Awesome! I'm putting 1000G on the cat girl! No, make\nthat 2000!"
                             ]
                         },
                         {
@@ -5166,7 +5166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Big Man>Hmph! I'll go all out from the start! Don't take it\npersonally!"
+                                "\\n<Large Man>Hmph! I'll go all out from the start! Don't take it\npersonally!"
                             ]
                         },
                         {
@@ -5237,7 +5237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Big Man>My body is heating up...! Power awakening...!! Ultimate\ntechnique!! Dragon"
+                                "\\n<Large Man>My body is heating up...! Power awakening...!! Ultimate\ntechnique!! Dragon"
                             ]
                         },
                         {
@@ -5576,7 +5576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>I want more resistance... bite... or talk back... Anything\nwill do, someone step up."
+                                "\\n<Chelsea>I want more of a challenge... Something to bite into...\nAnyone else want to step up?"
                             ]
                         },
                         {
@@ -5756,7 +5756,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Adventurer>That big sword of yours is just for show, right? It's\nprobably stuffed with sponge on the inside."
+                                "\\n<Adventurer>That big sword of yours is just for show, isn't it? What's\nit stuffed with, sponge?"
                             ]
                         },
                         {
@@ -5857,7 +5857,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>I came all the way to the royal capital thinking there would\nbe good work, but this was a mistake. Oregano was still\nbetter."
+                                "\\n<Adventurer>I came all the way to the royal capital hoping for a good\njob, but this turned out to be a mistake. Oregano was still\nbetter."
                             ]
                         },
                         {
@@ -5874,7 +5874,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>I want to go somewhere else quickly, but earning travel\nexpenses is tough too. Sheesh."
+                                "\\n<Adventurer>I want to go somewhere else quickly, but it's tough to earn\ntravel expenses. Good grief."
                             ]
                         },
                         {
@@ -5965,7 +5965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>I came all the way to the royal capital thinking there would\nbe good work, but this was a mistake. Oregano was still\nbetter."
+                                "\\n<Adventurer>I came all the way to the royal capital thinking there'd be\ngood work, but this was a mistake. Oregano was still better."
                             ]
                         },
                         {
@@ -5982,7 +5982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>I want to go somewhere else quickly, but it's tough to earn\ntravel expenses. Good grief."
+                                "\\n<Adventurer>I want to go somewhere else quickly, but earning travel\nexpenses is tough too. Sheesh."
                             ]
                         },
                         {
@@ -6073,7 +6073,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>I wonder what kind of person the hero is. They say he swings\na big sword and cuts monsters in two with a single stroke.\nHe must be a muscular macho man, no doubt about it."
+                                "\\n<Adventurer>I wonder what kind of person the hero is. They say they\nswing a huge sword and cut monsters in two with a single\nstroke. They must be a muscular macho man, no doubt about\nit."
                             ]
                         },
                         {
@@ -6180,7 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>Rui, are you really doing a guard's job? Just watching over\npeople who've done bad things? Sounds boring!"
+                                "\\n<Chelsea>Katara, are you really doing a guard's job? Just watching\nover people who did bad things? Sounds boring!"
                             ]
                         },
                         {
@@ -6354,7 +6354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>You can punch the bad guys, you know! Swoosh! Swoosh!"
+                                "\\n<Chelsea>You know, it's okay to hit the bad guys! Whoosh! Whoosh!"
                             ]
                         },
                         {
@@ -6418,7 +6418,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>Alrighty! After I eat this, maybe I'll go defeat some\nmonsters! Power!"
+                                "\\n<Chelsea>Alrighty! After I eat this, maybe I'll go defeat some\nmonsters! Power up!"
                             ]
                         },
                         {
@@ -6519,7 +6519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Munch munch. Gulp gulp... Ahh-."
+                                "\\n<Adventurer>*munch munch* *gulp gulp*... *sigh*..."
                             ]
                         },
                         {
@@ -6536,7 +6536,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Anis's liquor really is delicious. It's almost like I work\njust to drink this."
+                                "\\n<Adventurer>Anis's liquor really is delicious. It's almost like I work\njust to drink."
                             ]
                         },
                         {

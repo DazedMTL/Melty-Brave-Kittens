@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Rui...! What's the situation in town?"
+                                "\\n<Guild Master>Katara...! What's the situation in town?"
                             ]
                         },
                         {
@@ -5024,7 +5024,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Rui has disappeared!? At a time like this...!"
+                                "\\n<Guild Master>Louie has disappeared!? At a time like this...!"
                             ]
                         },
                         {
@@ -5051,7 +5051,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Something's wrong with the Wanz! Have the monsters done\nsomething...?"
+                                "\\n<Guild Master>Something's wrong with Wanz!? Did the monsters do something\nto her...?"
                             ]
                         },
                         {
@@ -5261,7 +5261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>This is a Howlstone. You know about it, right Rui? It was\ncertainly glowing yellow. But..."
+                                "\\n<Guild Master>This is a Howlstone. You know about it, right Katara? It was\ncertainly glowing yellow. But..."
                             ]
                         },
                         {
@@ -5315,7 +5315,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>It was emitting a blood-like red glow... covered by a green\nmembrane of wind barrier, making it appear yellow."
+                                "\\n<Guild Master>It was emitting a blood-like red light... covered by a green\nmembrane of wind barrier, making it glow yellow."
                             ]
                         },
                         {
@@ -5394,7 +5394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>Could it be... a Blood Crystal!? Why is such a thing here!!"
+                                "\\n<Grandpa>Could it be... a Blood Crystal!? Why is such a thing here!!"
                             ]
                         },
                         {
@@ -5420,7 +5420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>A negative legacy from the ancient Elemental Wars. In an era\nwhen people fought and killed each other. A crystal of\nmalice formed from blood and corpses..."
+                                "\\n<Grandpa>It's a negative legacy from the ancient Attribute Wars. In\nan era when people fought and killed each other. A crystal\nof malice formed from blood and corpses..."
                             ]
                         },
                         {
@@ -5446,7 +5446,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Monsters are masses of malice. With something this big, no\nwonder they're gathering... It's their favorite treat."
+                                "\\n<Guild Master>Monsters are masses of malice. With such a big piece, no\nwonder they're gathering... it's their favorite treat."
                             ]
                         },
                         {
@@ -5514,7 +5514,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Had Radlo steal it on purpose. Do they hate us that much...?\nIsn't looking down on us from above enough for them?"
+                                "\\n<Guild Master>He had Radlo steal it on purpose. Do they hate us that\nmuch...? Isn't looking down on us from above enough for\nthem?"
                             ]
                         },
                         {
@@ -5541,7 +5541,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>The light's getting stronger and stronger... Just touching\nit makes me feel like I'm gonna puke... That damn raccoon\npushed this onto us."
+                                "\\n<Guild Master>The light is getting stronger and stronger... just touching\nit makes me feel like vomiting... that raccoon pushed this\ncrap onto us."
                             ]
                         },
                         {
@@ -5577,7 +5577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>Even if we give it to the monsters, they won't just\nobediently go back. Rather, they might gain strength and\ndestroy the town even more."
+                                "\\n<Grandpa>Even if we give it to the monsters, they won't simply return\nhome. Rather, they might gain strength and destroy the town\neven more."
                             ]
                         },
                         {
@@ -5643,7 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>The power of wind... I might be able to do it. I'll try!"
+                                "\\n<Katara>The power of wind... I might be able to do it. I'll try!"
                             ]
                         },
                         {
@@ -5897,7 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>I did it... hah... hah... but this might not hold for very\nlong..."
+                                "\\n<Katara>I did it... hah... hah... but this might not hold for very\nlong..."
                             ]
                         },
                         {
@@ -5930,7 +5930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>No, well done! If we move this thing somewhere now... the\nmonsters will be drawn to it."
+                                "\\n<Guild Master>No, you did well! If we move this thing somewhere now... the\nmonsters will be drawn to it."
                             ]
                         },
                         {
@@ -5963,7 +5963,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>Surely not to the noble district!? If we do that, it will\nonly result in a large number of deaths again!"
+                                "\\n<Grandpa>Surely not to the noble district!? If we do that, it will\nonly result in a large number of deaths again!"
                             ]
                         },
                         {
@@ -6015,7 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>...For now, let's have Rui, who can cast barriers, hold onto\nit. By sealing its ominous power, the monsters should become\na bit more docile."
+                                "\\n<Grandpa>...For now, let's have Katara, who can cast barriers, hold\nonto it. By sealing its ominous power, the monsters should\nbecome a bit more subdued."
                             ]
                         },
                         {
@@ -6041,7 +6041,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Tch... Well, that's true. Let's reduce the number of\nmonsters while we can."
+                                "\\n<Guild Master>Tch... well, that's true. Let's reduce the number of\nmonsters while we can."
                             ]
                         },
                         {
@@ -6201,7 +6201,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Would you like to save the progress of the story so far?"
+                                "Would you like to save the story so far?"
                             ]
                         },
                         {
@@ -6348,7 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Rui...! What's the situation in town?"
+                                "\\n<Guild Master>Katara...! What's the situation in town?"
                             ]
                         },
                         {
@@ -6493,7 +6493,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Rui has disappeared!? At a time like this...!"
+                                "\\n<Guild Master>Louie has disappeared!? At a time like this...!"
                             ]
                         },
                         {
@@ -6520,7 +6520,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Something's wrong with the Wanz! Have the monsters done\nsomething...?"
+                                "\\n<Guild Master>Something's wrong with Wanz!? Has she been affected by the\nmonsters...?"
                             ]
                         },
                         {
@@ -6775,7 +6775,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>But in reality, it wasn't yellow. It was emitting a blood-\nlike red light... through a green filter of a wind barrier,\nmaking it appear yellow."
+                                "\\n<Guild Master>But in reality, it wasn't yellow. It was emitting a blood-\nlike red light... through the green filter of the wind\nbarrier, it appeared yellow."
                             ]
                         },
                         {
@@ -6847,7 +6847,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>The barrier has weakened, and ominous magical power is\noverflowing. With such a big piece, it's no wonder monsters\nare gathering. It's their favorite..."
+                                "\\n<Guild Master>The barrier has weakened, and ominous magical power is\noverflowing. With such a big lure, it's no wonder monsters\nare gathering. It's their favorite..."
                             ]
                         },
                         {
@@ -6946,7 +6946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>That Noblesse bastard, he intentionally had Ladro steal it.\nDoes he hate us that much...? Isn't it enough for him to\nlook down on us from above?"
+                                "\\n<Guild Master>That Noblesse bastard, he intentionally let Ladro steal it.\nDoes he hate us that much...? Isn't looking down on us from\nabove enough for him?"
                             ]
                         },
                         {
@@ -6989,7 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>No way! If we just hand it over to the monsters...!"
+                                "\\n<Katara>Forget about that! Just give it to the monsters already...!"
                             ]
                         },
                         {
@@ -7022,7 +7022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Even if we hand this over to the monsters, they won't just\nobediently go back. On the contrary, they'll gain strength\nand slaughter everyone."
+                                "\\n<Guild Master>Handing this over to the monsters won't make them obediently\ngo back. On the contrary, they'll gain strength and\nslaughter everyone."
                             ]
                         },
                         {
@@ -7039,7 +7039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>If only Lynx were here at a time like this. He was a barrier\nmage with the power of wind. If we could seal it again..."
+                                "\\n<Guild Master>If only Lynx were here at a time like this. He was a barrier\nmage with wind magic. If we could seal it again..."
                             ]
                         },
                         {
@@ -7079,7 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>The power of wind... I might be able to do it. I'll try!"
+                                "\\n<Katara>Wind magic... I might be able to do it. I'll try!"
                             ]
                         },
                         {
@@ -7371,7 +7371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>I did it! Haah... haah... But this might not last very long.\nBarrier magic isn't my specialty..."
+                                "\\n<Katara>I did it! Haah... haah... But this might not last very long.\nBarrier magic isn't my specialty..."
                             ]
                         },
                         {
@@ -7404,7 +7404,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>No, you did well! If it's going to come undone soon, we\nshould transport this thing now... The monsters should be\nlured that way."
+                                "\\n<Guild Master>No, you did well! If it's going to come undone soon, we\nshould move this thing now... The monsters should be lured\nthat way."
                             ]
                         },
                         {
@@ -7451,7 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Wait! You mean to take this to the nobles' district...!?\nThat's not okay!"
+                                "\\n<Katara>Wait! You mean to take this to the nobles' district...!?\nThat's not right!"
                             ]
                         },
                         {
@@ -7541,7 +7541,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Can you hold onto it? So you can respond immediately when\nthe seal breaks... I'm counting on you."
+                                "\\n<Guild Master>Can you hold onto it? When the seal breaks, you'll be able\nto respond immediately... I'm counting on you."
                             ]
                         },
                         {
@@ -7998,7 +7998,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>How strange. I thought it was this building. Well, never\nmind. Let's take a little break."
+                                "\\n<Terra>How strange. I thought it was coming from this building.\nWell, never mind. Let's take a little break."
                             ]
                         },
                         {
@@ -8336,7 +8336,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Hm? You're offering to be my chair? How considerate of you."
+                                "\\n<Terra>Hm? Are you offering to be my chair? How considerate of you."
                             ]
                         },
                         {
@@ -8394,7 +8394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Ahh♥ Ahh♥ Aah...♥ (Just brushing hands as we passed by...\nGah... Ugh...♥)"
+                                "\\n<Guild Master>Ah♥ Ah♥ Aah...♥ (Just brushing hands as we passed by...\nGah... Ugh...♥)"
                             ]
                         },
                         {
@@ -8411,7 +8411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Haa...♥ Haa...♥ (Did I just... ejaculate? No way... Damn, I\ncan't... calm down the excitement...!)"
+                                "\\n<Guild Master>Haa...♥ Haa...♥ (Did I just... ejaculate? No way... Damn it,\nI can't... calm down the excitement...!)"
                             ]
                         },
                         {
@@ -8613,7 +8613,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Haah... Haah...! Wait...! Don't just suddenly...!"
+                                "\\n<Guild Master>Haah... haah...! Wait... please...! Su, suddenly like\nthat...!"
                             ]
                         },
                         {
@@ -8630,7 +8630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>I'm just a bit tired and want to sit down. Normally, chairs\ndon't talk, you know."
+                                "\\n<Terra>I'm just a bit tired and want to sit down. Normally, chairs\ndon't talk, I thought."
                             ]
                         },
                         {
@@ -8709,7 +8709,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Ahh! Ahh! Ahh...♥"
+                                "\\n<Guild Master>Ahh ahh ahh...♥"
                             ]
                         },
                         {
@@ -8733,7 +8733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Aghhhhhhhhh♥♥♥"
+                                "\\n<Guild Master>Agaaahhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -8757,7 +8757,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Fwah... Haah... Just by putting it in. You're such a boring\nman."
+                                "\\n<Terra>Faaah... haah... Just by putting it in. You're really such a\nboring man."
                             ]
                         },
                         {
@@ -8774,7 +8774,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Ugh... Guh...♥ (I can't... muster any... strength...)"
+                                "\\n<Guild Master>Ugh... guh...♥ (I can't... muster any... strength...)"
                             ]
                         },
                         {
@@ -8822,7 +8822,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Ugh... Hngh...♥ A mere monster... won't..."
+                                "\\n<Guild Master>Ugh... kuh...♥ A, a monster... like you..."
                             ]
                         },
                         {
@@ -8839,7 +8839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Oh♥ Isn't that nice♥ You're the first one to give me such a\ndefiant look while I'm riding you♥ Teehee♥"
+                                "\\n<Terra>Oh♥ Isn't that nice♥ You're the first one who's managed to\ngive me such a defiant look while I'm on top of you♥ Teehee♥"
                             ]
                         },
                         {
@@ -8856,7 +8856,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Haah... Haah... Damn it...♥"
+                                "\\n<Guild Master>Haah... haah... Damn it...♥"
                             ]
                         },
                         {
@@ -8873,7 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Rui...! Cut this one down...♥ Ki...♥ Ahh! Ahh!♥"
+                                "\\n<Guild Master>Katara...! Cut this one down...♥ Ki...♥ Ahh ahh♥"
                             ]
                         },
                         {
@@ -8897,7 +8897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Aaaaaahhhhhhh♥♥♥♥"
+                                "\\n<Guild Master>Aaaaahhhhhhhhh♥♥♥♥"
                             ]
                         },
                         {
@@ -8914,7 +8914,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Haah... The only thing you're good at is talking. I wonder\nif there's anyone who can make me feel good."
+                                "\\n<Terra>Haah... haah... All talk and no action, huh. I wonder if\nthere's anyone who can make me feel good."
                             ]
                         },
                         {
@@ -8981,7 +8981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Rui. You're not going to cut me? I'm defenseless right now.\nFufu♥"
+                                "\\n<Terra>Katara. You're not going to cut me down? I'm defenseless\nright now. Fufu♥"
                             ]
                         },
                         {
@@ -9016,7 +9016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ugh... Uwaaaaaaaaaah!!!"
+                                "\\n<Katara>Ugh... uwaaaaaaaahhhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -9239,7 +9239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Ah... Guh...♥ Haah...♥ Haah...♥ Rui... sorry... I owe you\none...!"
+                                "\\n<Guild Master>Ah... guh...♥ Haah...♥ Haah...♥ Katara... sorry... I owe you\none...!"
                             ]
                         },
                         {
@@ -9294,7 +9294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Phew... Phew... (That was close! My legs were frozen; I\ncouldn't move...! This one's strong!!)"
+                                "\\n<Katara>Phew... phew... (That was close! My legs were frozen; I\ncouldn't move...! This one's... strong!!)"
                             ]
                         },
                         {
@@ -9391,7 +9391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Master! Run away! (Damn it, what should I do...!)"
+                                "\\n<Katara>Master! Run away! (Damn it, what should I do...!)"
                             ]
                         },
                         {
@@ -9424,7 +9424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Rui...! My bad! Don't you die on me!"
+                                "\\n<Guild Master>Katara...! My bad! Don't die on me!"
                             ]
                         },
                         {
@@ -9667,7 +9667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Aaaaaaaaaaaaaahhhhhhhh♥♥♥"
+                                "\\n<Guild Master>Aaaaaaaaaaaaaaahhhhhhhh♥♥♥"
                             ]
                         },
                         {
@@ -9708,7 +9708,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Ahh! Ahh...! Aguh! Ahh!! Aaaaaahhhh♥♥♥"
+                                "\\n<Guild Master>Ahh ahh...♥ Aguh! Ahh!! Aaaahhhh♥♥♥"
                             ]
                         },
                         {
@@ -9732,7 +9732,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>I'm cuuummmiiingggggggggg♥♥♥"
+                                "\\n<Guild Master>I'm cuuummmiiiiingggggggg♥♥♥"
                             ]
                         },
                         {
@@ -9749,7 +9749,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>Fwah~ Boring. Isn't there something interesting to do?"
+                                "\\n<Terra>Faaah... Boring. Isn't there something interesting to do?"
                             ]
                         },
                         {
@@ -9766,7 +9766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Rui... run..."
+                                "\\n<Guild Master>Katara... run..."
                             ]
                         },
                         {
@@ -9845,7 +9845,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>Ah-ah. He's all dried up. Such a fragile chair. And his\nsemen wasn't even tasty."
+                                "\\n<Terra>Ah-ah. He's all dried up now. Such a fragile chair. And his\nsemen wasn't even tasty."
                             ]
                         },
                         {
@@ -10022,7 +10022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Now then, what to do with you. Just milking you normally\nwould be boring."
+                                "\\n<Terra>Now then, what shall we do with you? Just milking you\nnormally is so boring."
                             ]
                         },
                         {
@@ -10064,7 +10064,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>Teehee...♥ But really, you look so much alike. You must be\nRui's twin, right?"
+                                "\\n<Terra>Teehee...♥ But really, you look so much alike. You must be\nLouie's twin, aren't you."
                             ]
                         },
                         {
@@ -10104,7 +10104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Rui...!? Where's Rui!! (Was that strange hallucination\nearlier also this one's doing!?)"
+                                "\\n<Katara>Louie...!? Where is Louie!! (Was that strange hallucination\nearlier also this one's doing!? )"
                             ]
                         },
                         {
@@ -10147,7 +10147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>But really, you look so much alike. You must be the twins\nfrom Wanz, right? Ufufu♥"
+                                "\\n<Terra>But really, you look so much alike. You must be Wanz's twin,\naren't you. Ufufu♥"
                             ]
                         },
                         {
@@ -10187,7 +10187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Wanz...!? Did you do something to Wanz...!?"
+                                "\\n<Katara>Wanz...!? What have you done to Wanz...!?"
                             ]
                         },
                         {
@@ -10263,7 +10263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Prey doesn't show their true effort unless they have no\nchance. Struggle and cling desperately to life, then give up\nand despair. That's how to make the most delicious dessert♥"
+                                "\\n<Terra>Prey doesn't show their true spirit unless they have no\nchance left. Struggle and struggle, cling desperately to\nlife, then give up and despair. That's how to make the most\ndelicious dessert♥"
                             ]
                         },
                         {
@@ -10411,7 +10411,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Oh, how cute♥ You look just like a doll♥ Ufufu♥"
+                                "\\n<Terra>Oh, how cute♥ You look just like a little doll♥ Ufufu♥"
                             ]
                         },
                         {
@@ -10460,7 +10460,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...! (Huh? My body's shrinking...!? Minimum! No, no way... I\ncan't win like this...)"
+                                "\\n<Katara>...! (Huh? My body's shrinking...! Minimum! No, no way... I\ncan't win like this...)"
                             ]
                         },
                         {
@@ -10484,7 +10484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>(I-I have to escape...! Master, I'm sorry! I couldn't move\nagain...! But I must protect Rui at least...!)"
+                                "\\n<Katara>(I-I have to escape...! Master, I'm sorry! I couldn't move\nagain...! But at least Louie...!)"
                             ]
                         },
                         {
@@ -10518,7 +10518,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...! (My body's shrinking...! Minimum...! There's no way I\ncan win like this...)"
+                                "\\n<Katara>...! (My body's shrinking...! Minimum...! There's no way I\ncan win like this...)"
                             ]
                         },
                         {
@@ -10542,7 +10542,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>(I have to escape! Ah, my legs can move again...! Master...\nI couldn't be saved again... But I must protect Wanz at\nleast...!)"
+                                "\\n<Katara>(I have to escape! Ah, my legs can move again...! Master...\nI couldn't be saved again... But at least Wanz...!)"
                             ]
                         },
                         {
@@ -10595,7 +10595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...! (Huh? My body's shrinking...!? Minimum! If I hadn't\nused my magic for the barrier spell, this would be nothing\nto me!)"
+                                "\\n<Katara>...! (Huh? My body's shrinking...! Minimum! If I hadn't used\nmy magic power for the barrier spell, this would be nothing\nto me!)"
                             ]
                         },
                         {
@@ -10619,7 +10619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...(But maybe this size is just right for escaping? I am a\ncat after all! If I run, no one should be able to catch up!)"
+                                "\\n<Katara>...(But maybe this size is just right for escaping? I am a\ncat after all! If I run, no one should be able to catch up!)"
                             ]
                         },
                         {
@@ -10653,7 +10653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...! (My body's shrinking...! Minimum...! If I hadn't used\nmy magic for that barrier spell earlier, this would be\nnothing...)"
+                                "\\n<Katara>...! (My body's shrinking...! Minimum...! If it weren't for\nthe magic power I used on that barrier spell earlier, this\nwould be nothing...)"
                             ]
                         },
                         {
@@ -10677,7 +10677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...(The only thing to do is run around and recover my magic.\nEven if I'm small, I'm still a cat! Being hard to catch\nmight be an advantage!)"
+                                "\\n<Katara>...(The only thing to do is run around and recover my magic\npower. Even if I'm small, I'm still a cat! Being hard to\ncatch might be an advantage!)"
                             ]
                         },
                         {
@@ -10726,7 +10726,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>If you can survive in that form, you win. But the outside is\nswarming with succubi. I wonder if you can recover your\nmagic and return to your original size..."
+                                "\\n<Terra>If you can survive in that form, you win. But the outside is\nswarming with succubi. I wonder if you can recover your\nmagic power and return to your original size..."
                             ]
                         },
                         {
@@ -10779,7 +10779,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>I underestimated the speed of a beastperson's legs. Oh well.\nIt's fine. Magic communication..."
+                                "\\n<Terra>I underestimated the speed of a beast person's legs. Oh\nwell. It's fine. Magic communication..."
                             ]
                         },
                         {
@@ -10827,7 +10827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\n<Terra>\"A cat beastperson named Rui escaped after I cast Minimum on\nthem. They have interesting magic. First come, first\nserved.\"\\C[0]"
+                                "\\C[14]\\n<Terra>\"A beast person cat named Katara escaped even with Minimum\ncast on them. An interesting child with unique magic power.\nFirst come, first served.\" \\C[0]"
                             ]
                         },
                         {

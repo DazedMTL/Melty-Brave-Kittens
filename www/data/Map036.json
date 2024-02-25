@@ -9938,7 +9938,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are ... types of demon possessions. One is where the\nsoul is entirely devoured by ... and used for ... purposes.\nThe other is when a demon possesses the human mind and takes\nover their personality."
+                                "There are ... types of demon possessions. One is where the\nsoul is entirely devoured by ... and used for ... purposes.\nAnother is when a demon takes over a human's mind and\npersonality."
                             ]
                         },
                         {
@@ -9967,7 +9967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "As a special case, there are times when ... is instead taken\nby ... This often occurs with low-intelligence creatures\nlike Slime-ees."
+                                "As a special case, there are times when ... reversely has\ntheir ... stolen. This is mainly seen in lower intelligence\ncreatures like Slime-."
                             ]
                         },
                         {
@@ -10025,7 +10025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The last one is located in ... It's a simple mechanism, but\ntheir intelligence probably won't be enough to ... it."
+                                "The last one is located in .... It's a simple mechanism, but\ntheir intelligence probably won't be enough to ... it."
                             ]
                         },
                         {
@@ -10054,7 +10054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "We were so close. Just a little more and we could have ...\nsaved."
+                                "We were so close. Just a little more and we could have saved\n... ."
                             ]
                         },
                         {
@@ -10083,7 +10083,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I'm sorry. The last vial is for someone who needs it...\nplease give it to them."
+                                "I'm sorry. The last vial is for someone who needs it...\nplease take it."
                             ]
                         },
                         {
@@ -10850,7 +10850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>But I was thinking, suddenly this door won't open. It\ndoesn't seem to be sealed by any barrier magic, and there's\nno keyhole either. That leads me to believe it might be\ncontrolled by machinery..."
+                                "\\n<Bijou>But I was thinking, suddenly this door won't open. It\ndoesn't seem to be sealed by magic, and there's no keyhole\neither. That leads me to believe it's controlled by\nmachinery..."
                             ]
                         },
                         {
@@ -10883,7 +10883,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>It's okay. Even if it's old, the door mechanisms are made to\nbe the most durable, so they should definitely work. It\nwould be a problem if we got trapped by a malfunction."
+                                "\\n<Bijou>It's okay. Even if it's old, the door mechanisms are made to\nbe very sturdy, so they should definitely work. It would be\na problem if we got trapped here due to a malfunction."
                             ]
                         },
                         {
@@ -10916,7 +10916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Hmm... I wonder if there's a switch somewhere, like behind\nthe walls or pillars. Could you look for it?"
+                                "\\n<Bijou>Hmm... I wonder if there's a switch somewhere, like behind\nthe walls or pillars. Could you help me look for it?"
                             ]
                         },
                         {
@@ -11022,7 +11022,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Could you look around for a switch in any suspicious places?\nLike, for example... behind a pillar?"
+                                "\\n<Bijou>Could you look around for a switch in a suspicious place?\nLike, for example... behind a pillar?"
                             ]
                         },
                         {
@@ -11213,7 +11213,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>There's something written on this floor. Let's see, it's a\nsimple cipher. It's meant to thwart monsters with low\nintelligence. Now, let's see..."
+                                "\\n<Bijou>There's something written on this floor. Let's see, it's a\nsimple cipher. It's meant to thwart monsters with low\nintelligence. Hmm..."
                             ]
                         },
                         {
@@ -11279,7 +11279,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>You just need to press three more switches, it seems. Then\nsome sort of secret vault should appear somewhere."
+                                "\\n<Bijou>It says we need to press three more switches. Then, it seems\na secret vault will appear somewhere."
                             ]
                         },
                         {
@@ -11470,7 +11470,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>My wild sensual sixth sense is telling me there's something\naround here... though I have no basis for it."
+                                "\\n<Bijou>My wild sensual sixth sense is telling me there's something\naround here... No basis for it, though."
                             ]
                         },
                         {
@@ -11849,7 +11849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Aaah-!! It's hot!! So hot!"
+                                "\\n<Adventurer>Aaah-!! Hot!! It's so hot!"
                             ]
                         },
                         {
@@ -11906,7 +11906,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>No, not steak! I'm sorry! I'll go home now! Please forgive\nme!"
+                                "\\n<Adventurer>I hate steak! I'm sorry! I'll go home now! Please forgive\nme!"
                             ]
                         },
                         {
@@ -11939,7 +11939,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>It's okay♥ I'll forgive you♥ But in exchange, leave just a\nlittle bit of your stuff behind♥ And by a little, you know\nwhat I mean? Everything."
+                                "\\n<Bijou>It's okay♥ I'll forgive you♥ But in exchange, leave just a\nlittle bit of your stuff behind♥ You know what 'a little\nbit' means, right? Everything."
                             ]
                         },
                         {
@@ -12023,7 +12023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Kugyuu..."
+                                "\\n<Adventurer>Mmmph..."
                             ]
                         },
                         {
@@ -12100,7 +12100,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer>Ugh... I didn't expect a behemoth to be here... Maybe I\nshould have come earlier."
+                                "\\n<Adventurer>Ugh... I didn't expect a Bijuu to be here... Maybe I should\nhave come earlier."
                             ]
                         },
                         {
@@ -13242,7 +13242,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There's a switch! Let's try pressing it!"
+                                "There's a switch here! Let's try pressing it!"
                             ]
                         },
                         {
@@ -13400,7 +13400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That's a different sound than before! It seems to be coming\nfrom the north-central direction. Let's go check it out!"
+                                "That's a different sound than before! It seems to be coming\nfrom the north-central area. Let's go check it out!"
                             ]
                         },
                         {

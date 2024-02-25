@@ -183,7 +183,7 @@
     {
         "id": 21,
         "expanded": true,
-        "name": "VS Sheika & Barley",
+        "name": "VS Sheika Barley",
         "order": 67,
         "parentId": 138,
         "scrollX": 807.3333333333334,
@@ -192,7 +192,7 @@
     {
         "id": 22,
         "expanded": true,
-        "name": "Sheika & Barley Event",
+        "name": "Sheika Barley Event",
         "order": 68,
         "parentId": 21,
         "scrollX": 1035.3333333333333,
@@ -201,7 +201,7 @@
     {
         "id": 23,
         "expanded": true,
-        "name": "VS Imp Mutant",
+        "name": "VS Imp Variant",
         "order": 70,
         "parentId": 138,
         "scrollX": 636.75,
@@ -264,7 +264,7 @@
     {
         "id": 30,
         "expanded": true,
-        "name": "VS Wadsworth",
+        "name": "VS Wanzworth",
         "order": 74,
         "parentId": 138,
         "scrollX": 692.6666666666666,
@@ -273,7 +273,7 @@
     {
         "id": 31,
         "expanded": true,
-        "name": "Wadsworth Event",
+        "name": "Wanz Event",
         "order": 75,
         "parentId": 30,
         "scrollX": 1518.6666666666667,
@@ -309,7 +309,7 @@
     {
         "id": 35,
         "expanded": true,
-        "name": "Doline Wall Hole",
+        "name": "Dreene Wall Hole",
         "order": 80,
         "parentId": 146,
         "scrollX": 1508,
@@ -354,7 +354,7 @@
     {
         "id": 40,
         "expanded": false,
-        "name": "The Place to Create Events",
+        "name": "Event Creation Area",
         "order": 5,
         "parentId": 1,
         "scrollX": 636.75,
@@ -669,7 +669,7 @@
     {
         "id": 75,
         "expanded": true,
-        "name": "Demon King's Castle (Tentative)",
+        "name": "Demon King's Castle (Provisional)",
         "order": 92,
         "parentId": 74,
         "scrollX": 1518.6666666666667,
@@ -696,7 +696,7 @@
     {
         "id": 78,
         "expanded": true,
-        "name": "Demon King's Castle (Tentative) Report",
+        "name": "Demon King's Castle (Provisional) Report",
         "order": 93,
         "parentId": 75,
         "scrollX": 1200.857142857143,
@@ -871,7 +871,7 @@
     {
         "id": 133,
         "expanded": true,
-        "name": "Slum Street (Dreene)",
+        "name": "Slums (Dreene)",
         "order": 25,
         "parentId": 135,
         "scrollX": 1316.6666666666667,
@@ -889,7 +889,7 @@
     {
         "id": 135,
         "expanded": true,
-        "name": "Meruble Kituns",
+        "name": "Melbrekithuns",
         "order": 14,
         "parentId": 0,
         "scrollX": 636.75,
@@ -926,7 +926,7 @@
     {
         "id": 140,
         "expanded": true,
-        "name": "Berchoco Sample",
+        "name": "Belt Choco Sample",
         "order": 13,
         "parentId": 1,
         "scrollX": 1518.6666666666667,

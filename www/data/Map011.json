@@ -9707,7 +9707,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Aventus is a child who arrived recently, and it seems like\ntheir emotional wounds haven't healed yet."
+                                "\\n<Radro>Aventus is a child who recently arrived, and it seems like\ntheir emotional wounds haven't healed yet."
                             ]
                         },
                         {
@@ -9740,7 +9740,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>The feelings of a child abandoned by their parents... I've\nbeen there myself, but I wonder how I can save them."
+                                "\\n<Radro>The feelings of a child abandoned by their parents... I've\nbeen there before, but I wonder how I can save them."
                             ]
                         },
                         {
@@ -9794,7 +9794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Do you think it's strange to run an orphanage in a place\nlike this? It's precisely because it's this kind of place\nthat it's needed. Maybe it's still a difficult topic for\nRui?"
+                                "\\n<Radro>Do you think it's strange to run an orphanage in a place\nlike this? It's necessary because it's a place like this.\nMaybe it's still a difficult topic for Katara?"
                             ]
                         },
                         {
@@ -9848,7 +9848,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>There are so many tough things, but when I see the\nchildren's energetic faces, all of that seems to fade away."
+                                "\\n<Radro>There are so many tough things, but when I see the\nchildren's lively faces, all those troubles seem to fade\naway."
                             ]
                         },
                         {
@@ -9881,7 +9881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>It's not the time to be tired. Realizing that there are\nthings only I can do makes me feel happy."
+                                "\\n<Radro>It's not the time to be tired. Having something that only I\ncan do makes me feel happy."
                             ]
                         },
                         {
@@ -9935,7 +9935,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>This town, Dreen, is called a \"dumping ground.\" People\nliving above throw away things they no longer need here."
+                                "\\n<Radro>This town, Drine, is called a \"dumping ground.\" People\nliving above throw away things they no longer need."
                             ]
                         },
                         {
@@ -9968,7 +9968,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>To them, we might just be \"ants swarming over spilled ice\ncream.\" In reality, we do wait for usable things to fall\ndown here."
+                                "\\n<Radro>To them, we might just be \"ants swarming over spilled ice\ncream.\" In fact, we sometimes wait for usable things to fall\ndown."
                             ]
                         },
                         {
@@ -10250,7 +10250,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>The other day, trash falling from above almost hit a child\nand I just snapped! I went to complain! Up there!"
+                                "\\n<Radro>The other day, right? Trash thrown from above almost hit a\nchild and I just snapped! Went up there to give them a piece\nof my mind!"
                             ]
                         },
                         {
@@ -10283,7 +10283,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Then I was sincerely apologized to and even given money...\nThey were really nice people, and somehow, I couldn't stay\nmad."
+                                "\\n<Radro>Then they sincerely apologized and even gave me money...\nThey were really nice people, and somehow, I couldn't stay\nmad at them."
                             ]
                         },
                         {
@@ -10370,7 +10370,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>It's a town with bad public order and lots of drunkards and\ncriminals, but everyone is kind when it comes to the\norphanage. The previous \"Mama\" was a really good person."
+                                "\\n<Radro>It's a town with bad public order and lots of drunkards and\ncriminals, but everyone is kind when it comes to the\norphanage. The previous \"Mama\" was a very good person."
                             ]
                         },
                         {
@@ -10595,7 +10595,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Constance>Radlo-mama is really good at cooking! She praises me a lot\nif I eat everything, but I can't leave any even if I wanted\nto because it's so delicious!"
+                                "\\n<Constance>Radlo-mama is really good at cooking! She praises me a lot\nif I eat everything without leaving anything behind, but I\ncan't leave any even if I wanted to! Because it's so\ndelicious!"
                             ]
                         },
                         {
@@ -10612,7 +10612,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Constance>But then, Samuel starts teasing me saying 'You'll get fat,'\nand it always turns into a fight. I don't even want to\nfight!"
+                                "\\n<Constance>But then, Samuel starts teasing me saying, \"You'll get fat,\"\nand that always leads to a fight. I don't even want to\nfight!"
                             ]
                         },
                         {
@@ -11019,7 +11019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Girl>Stop it! The squirming legs, I hate it aaaaah!!"
+                                "\\n<Girl>Stop it! The way it wriggles its legs is so gross, nooo!"
                             ]
                         },
                         {
@@ -11068,7 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Blue-Haired Woman>Samuel, stop that! Constance is getting upset! Gross bug!\nDon't come crying to me if you get stung!"
+                                "\\n<Blue-Haired Woman>Samuel, stop that! Constance is clearly upset! That's a\nnasty bug! Don't come crying to me if you get stung!"
                             ]
                         },
                         {
@@ -11282,7 +11282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Blue-Haired Woman>This is the Glory Hole Orphanage. It means 'a gathering\nplace of glory'! It's a fitting name, don't you think?"
+                                "\\n<Blue-Haired Woman>This is the Glory Hole Orphanage. It means 'a place where\nglory gathers'! It's a fitting name, don't you think?"
                             ]
                         },
                         {
@@ -11387,7 +11387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>You're called Rui? That's rare. We don't have many beastfolk\naround here. Those cat ears are nice. So cute♥"
+                                "\\n<Radro>You're called Katara? That's unusual. We don't have many\nbeastfolk around here. I like your cat ears. They're so\ncute♥"
                             ]
                         },
                         {
@@ -11420,7 +11420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>This town has bad security, right? Everyone has their\nreasons, no money, just drifting in. Well, it's what you'd\ncall a slum."
+                                "\\n<Radro>This city has a bad reputation, doesn't it? Everyone has\ntheir reasons, and no money, just drifting in. It's what\nyou'd call a slum."
                             ]
                         },
                         {
@@ -11486,7 +11486,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>You've got your reasons too, right? I won't ask. That's\ntaboo in this town."
+                                "\\n<Radro>You've got your own reasons too, right? I won't ask. That's\ntaboo in this town."
                             ]
                         },
                         {
@@ -11519,7 +11519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>If you ever have any trouble, feel free to rely on me. I'll\nhelp you out. Come by anytime♥"
+                                "\\n<Radro>If you ever find yourself in trouble, feel free to rely on\nme. I'll help you out. Come by anytime♥"
                             ]
                         },
                         {
@@ -11552,7 +11552,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>In exchange, maybe you could chat with the kids too♥ Just be\ncareful not to get your tail pulled, especially by Samuel,\nhe's rough."
+                                "\\n<Radro>In return, maybe you could chat with the kids♥ Just be\ncareful they don't pull on your tail or anything. Especially\nSamuel, he's quite rough."
                             ]
                         },
                         {

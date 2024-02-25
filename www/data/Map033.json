@@ -10644,7 +10644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>\"Well, I presume you all are already aware of this? No? If\nthere's anyone who isn't, they can leave right now. Let me\nexplain once more.\""
+                                "\\n<Count Noblesse>Well, I presume you all are already aware of this...? No, if\nthere's anyone who isn't, they may leave right now...? Allow\nme to explain once more."
                             ]
                         },
                         {
@@ -10707,7 +10707,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>\"Captain~!!!\""
+                                "\\n<Count Noblesse>Captain~!!!"
                             ]
                         },
                         {
@@ -10733,7 +10733,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"Sir!\""
+                                "\\n<Captain>Sir!"
                             ]
                         },
                         {
@@ -10750,7 +10750,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"The other day, we received a notice from that detestable,\nvulgar thief \\C[14]Phantom Thief \"L\"\\C[0].\""
+                                "\\n<Captain>The other day, we received a warning letter from that\ndetestable, vulgar thief \\C[14]Phantom \"L\"\\C[0]."
                             ]
                         },
                         {
@@ -10767,7 +10767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"I believe our private soldiers have faced him several times\nbefore, but since we also have personnel from the\nAdventurers' Guild here today, let me explain about Phantom\nThief \"L\" once again.\""
+                                "\\n<Captain>I believe our private soldiers have faced him several times\nbefore, but since we also have personnel from the\nAdventurers' Guild this time, let me explain about Phantom\n\"L\" once again."
                             ]
                         },
                         {
@@ -10784,7 +10784,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"\"L\" is so confident and arrogant that he sends a notice\nbefore his thefts. He steals people's wealth and then mocks\nthem. He is nothing but a lump of exhibitionism and a\ndespicable villain.\""
+                                "\\n<Captain>\"L\" is so confident and arrogant that he sends a warning\nletter before committing his thefts. He steals people's\nwealth and then mocks them. He's nothing but a lump of\nexhibitionism and a despicable villain."
                             ]
                         },
                         {
@@ -10801,7 +10801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"Count Noblesse's mansion alone has already suffered 15\nincidents, and the entire noble district has experienced\nwell over 30 thefts.\""
+                                "\\n<Captain>Count Noblesse's mansion alone has already suffered 15\nincidents, and the entire noble district has experienced\nwell over 30 thefts."
                             ]
                         },
                         {
@@ -10827,7 +10827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>\"Isn't this place getting robbed too much...?\""
+                                "\\n<Adventurer A>Isn't this place being robbed too much...?"
                             ]
                         },
                         {
@@ -10853,7 +10853,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>\"Aren't the private soldiers incompetent?\""
+                                "\\n<Adventurer B>Could it be that the private soldiers are incompetent?"
                             ]
                         },
                         {
@@ -10916,7 +10916,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"Who just spoke out of turn?\""
+                                "\\n<Captain>Who just spoke out of turn?"
                             ]
                         },
                         {
@@ -10967,7 +10967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"It's a shameful truth. We've been outwitted by \"L\" time and\nagain, having our money and valuables stolen.\""
+                                "\\n<Captain>It's a shameful admission, but it's true. We've been\noutwitted by \"L\" time and again, and had our valuables\nstolen."
                             ]
                         },
                         {
@@ -10984,7 +10984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"But this time it's different! We've fortified the mansion\nwith a moat, added barriers, traps, and more personnel!\nWe've strengthened our security even more than before to\nensure everything is foolproof.\""
+                                "\\n<Captain>But this time it's different! In addition to a major\nrenovation with a moat, we've added barriers, traps, and\nmore personnel! We've further strengthened our security\nbeyond what it was before to ensure we're completely\nprepared."
                             ]
                         },
                         {
@@ -11001,7 +11001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"If by any chance something gets stolen again, you may as\nwell bury me under a spruce tree. That's how prepared I am\nfor this challenge.\""
+                                "\\n<Captain>If by some chance we are robbed again, you may as well bury\nme under a spruce tree. That's how prepared I am for this\nchallenge."
                             ]
                         },
                         {
@@ -11018,7 +11018,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>\"Now, regarding the assignments, our private soldiers will\nhandle the security inside the mansion, while those\ndispatched from the Guild will take care of the outdoor\nwatch.\""
+                                "\\n<Captain>Now, regarding the assignments, our private soldiers will\nhandle the security inside the mansion, while those\ndispatched from the Guild will take care of the outdoor\nwatch."
                             ]
                         },
                         {
@@ -11051,7 +11051,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>\"And if the notice is to be believed~? The bow moon. In\nother words! The crime will take place tonight~.\""
+                                "\\n<Count Noblesse>And if the warning holds true~? The crescent moon. In other\nwords! The crime will be committed tonight~."
                             ]
                         },
                         {
@@ -11068,7 +11068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>\"To the one who captures the cat, furthermore~? Ah,\nfurthermore! A special reward of a bag of gold will be\ngiven!\""
+                                "\\n<Count Noblesse>Whoever captures the cat will receive an additional~? Ah,\nadditionally! A special reward of a purse full of gold!"
                             ]
                         },
                         {
@@ -11085,7 +11085,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>\"Be encouraged~!! And keep up the spirit~!!\""
+                                "\\n<Count Noblesse>Be encouraged~!! And strive on~!!"
                             ]
                         },
                         {
@@ -11134,7 +11134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>\"(This seems fun! I'm getting excited♥ I'll catch them and\nget lots of money! Fufufu♥)\""
+                                "\\n<Katara>(This sounds exciting! I'm getting pumped♥ I'll catch them\nand get a whole lot of money! Hehehe♥)"
                             ]
                         },
                         {
@@ -11161,7 +11161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>\"(A phantom thief, huh... I don't know what kind of person\nthey are, but stealing from others is wrong. Alright. I'll\ncatch them!)\""
+                                "\\n<Katara>(A phantom thief, huh... I don't know what kind of person\nthey are, but stealing from others is wrong. Alright. I'll\ncatch them!)"
                             ]
                         },
                         {
@@ -11509,7 +11509,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>As the previous captain was buried under the spruce tree, I\nhave been appointed as the new captain. Without further ado,\nI will read the advance notice from the phantom thief \"L\"."
+                                "\\n<Captain>As the captain who was buried under the spruce tree the\nother day has been replaced, I have been appointed as the\nnew captain. I will now read the advance notice from the\nphantom thief \"L\"."
                             ]
                         },
                         {
@@ -11526,7 +11526,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\n<Captain>Not only the moon shines yellow. Not only wolves howl at the\nmoon. On a night of a full circle mirror. Just as your face\nreflects upon the water's surface. Phantom thief \"L\""
+                                "\\C[14]\\n<Captain>Not only the moon shines yellow. Not only wolves howl at the\nmoon. On a night of a round mirror. Just as your face\nreflects on the water's surface. Phantom thief \"L\""
                             ]
                         },
                         {
@@ -11543,7 +11543,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Based on this notice, it seems that one of the world's four\ngreat diamonds, \\C[14]\"The Howling Wolf Stone\"\\C[0], is\nbeing targeted."
+                                "\\n<Captain>From this advance notice, it is presumed that they are\ntargeting one of the world's four great diamonds, the\n\\C[14]\"Call of the Wolf Stone\"\\C[0]."
                             ]
                         },
                         {
@@ -11560,7 +11560,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\n<Captain>The \"Howling Wolf Stone\" is so named because it emits a\nbeautiful yellow light that wolves mistake for the moon and\nhowl at."
+                                "\\C[14]\\n<Captain>The \"Call of the Wolf Stone\" was so named because it emits a\nbeautiful yellow light that wolves mistake for the moon and\nhowl at."
                             ]
                         },
                         {
@@ -11577,7 +11577,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Normally, even the fact that Count Noblesse possesses it\nshould be kept a secret of such magnitude."
+                                "\\n<Captain>Normally, even the fact that Count Noblesse possesses it\nshould be kept a secret."
                             ]
                         },
                         {
@@ -11594,7 +11594,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>This time, we deliberately leaked information about the\nHowling Wolf Stone as bait to lure out phantom thief \"L\".\nAnd he took the bait splendidly."
+                                "\\n<Captain>This time, we deliberately leaked information about the Call\nof the Wolf Stone as bait to lure out phantom thief \"L\". And\nhe took the bait splendidly."
                             ]
                         },
                         {
@@ -11689,7 +11689,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>A night of a full circle mirror refers to a full moon night,\nwhich is still a few days away. However, given the\nimportance of the item, we will start guarding it from\ntonight."
+                                "\\n<Captain>The night of the round mirror refers to a full moon, but it\nwill take a few more days for the moon to be full. However,\ngiven what's at stake, we will start guarding from tonight."
                             ]
                         },
                         {
@@ -11706,7 +11706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Regarding the positions, known private soldiers will be\ninside the mansion, while guild reinforcements will handle\nthe outside. Also, the former captain will be outside as\nwell."
+                                "\\n<Captain>Regarding the positions, known private soldiers will be\ninside the mansion, and guild reinforcements will take care\nof the outside. Also, the former sergeant will be outside as\nwell."
                             ]
                         },
                         {
@@ -11765,7 +11765,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>This is a kind of gamble. It could even be called a clash of\nwills. If the Howling Wolf Stone is stolen, I won't get off\nlightly either."
+                                "\\n<Count Noblesse>This is a kind of gamble. It could be called a clash of\nwills. If the Call of the Wolf Stone is stolen, I won't get\noff lightly either."
                             ]
                         },
                         {
@@ -11782,7 +11782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>But... I will definitely throw Cats into jail and make him\nreceive his due punishment. Let's make this the last time."
+                                "\\n<Count Noblesse>But... I will definitely throw Cats into jail and make them\nreceive their due punishment. Let's make this the last time."
                             ]
                         },
                         {
@@ -11888,7 +11888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Uncle Count seems different from last time? I have a\nstrange feeling in my chest...)"
+                                "\\n<Katara>(Uncle Count seems different from last time? I have a\nstrange feeling...)"
                             ]
                         },
                         {
@@ -11915,7 +11915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(The Count has a stern look on his face. If only I had\ncaught him last time... last time...)"
+                                "\\n<Katara>(The Count has a stern look on his face. If only I had\ncaught him last time... last time...)"
                             ]
                         },
                         {
@@ -11946,7 +11946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Ugh... Let's try not to remember too much...)"
+                                "\\n<Katara>(Ugh... let's not dwell on those memories...)"
                             ]
                         },
                         {

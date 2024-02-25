@@ -5364,7 +5364,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Gotcha! Ahahaha♥ A titjob in the middle of battle♥ If you\ndon't escape, I'll make you spurt uncontrollably-?"
+                                "\\n<[Enemysuccubus]>Gotcha! Ahahaha♥ A titjob in the middle of battle♥ If you\ndon't escape, you'll be made to spurt out!"
                             ]
                         },
                         {
@@ -5432,7 +5432,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Ahha♥ It's coming out, isn't it-? You're going to cum from a\nmonster's breasts-? Even though we're in the middle of\nfighting, huh♥"
+                                "\\n<[Enemysuccubus]>Ahha♥ It's coming out, isn't it-? You're going to cum from a\nmonster's breasts? Even though we're in the middle of\nfighting, huh♥"
                             ]
                         },
                         {
@@ -5456,7 +5456,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Ahahaha! You came so much♥ You can't move anymore because\nyour hips are broken, right♥ I'll take you all the way to\nheaven just like this♥"
+                                "\\n<[Enemysuccubus]>Ahahaha! You came so much♥ You can't move anymore because\nyour hips are broken, right?♥ I'll take you all the way to\nheaven just like this♥"
                             ]
                         },
                         {
@@ -6031,7 +6031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Eek! W-Wait...! Megna's losing, losing!! It hurts-!!"
+                                "\\n<[Enemysuccubus]>Eek! W-Wait...! Megna's losing, losing!! It hurts-!!"
                             ]
                         },
                         {
@@ -6048,7 +6048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Stop the painful stuff and let's only do pleasurable\nthings...? Please...♥"
+                                "\\n<[Enemysuccubus]>Stop the painful stuff and let's only do pleasurable\nthings...? Please...♥"
                             ]
                         },
                         {
@@ -6283,7 +6283,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Ahh, I give up... I won't say anything cheeky or defy humans\nanymore...♥"
+                                "\\n<[Enemysuccubus]>Ahh, I give up... I won't say anything cheeky or defy humans\nanymore...♥"
                             ]
                         },
                         {
@@ -6331,7 +6331,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>You can do whatever you like with Megna? Look, these breasts\nyou've been staring at are all yours♥"
+                                "\\n<[Enemysuccubus]>You can do whatever you like with Megna? Look, these breasts\nyou've been staring at are all yours♥"
                             ]
                         },
                         {
@@ -6379,7 +6379,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>I've sweated so much... If you squeeze them now, they'll\ncling to you all squishy♥ I'll give you a titjob♥ so please\nforgive me♥"
+                                "\\n<[Enemysuccubus]>I've sweated so much... If you squeeze them now, they'll\ncling to you all squishy♥ I'll give you a titjob♥ so please\nforgive me♥"
                             ]
                         },
                         {
@@ -6467,7 +6467,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...♥ Yay♥ I'll serve you lots♥ So let's stop the painful\nstuff♥ Let's get along well~♥"
+                                "\\n<[Enemysuccubus]>Ah...♥ Yay♥ I'll serve you lots♥ So no more pain, let's be\nfriends♥"
                             ]
                         },
                         {
@@ -6704,7 +6704,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Gyaah!! Don't you have a human heart, you stupid stupid\ndick!!"
+                                "\\n<[Enemysuccubus]>Eeek!! Don't you have a human heart, you stupid stupid\ndick!!"
                             ]
                         },
                         {
@@ -6737,7 +6737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>I can't take it anymore!! Escape, escape, escape!! Die, die,\ndie!! Die forever!! Next time I'll definitely kill you!!"
+                                "\\n<[Enemysuccubus]>I can't take it anymore!! Escape, escape, escape!! Die, die,\ndie!! Die forever!! Next time I'll definitely kill you!!"
                             ]
                         },
                         {
@@ -7010,21 +7010,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "10-Way Shot Event Bullet Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Shot"
+                                "Aimed Shot at Player's Vessel"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "All-Around Barrage"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -7422,7 +7422,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Aim at Me, Fire Homing Shots"
+                                "Aim at the Player's Ship and Fire"
                             ]
                         },
                         {
@@ -9555,7 +9555,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Shot"
+                                "Aim at Me, Fire Directly"
                             ]
                         },
                         {
@@ -10777,7 +10777,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding down the D key, you\ncan move while keeping your direction fixed."
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding the D key, you can\nmove while keeping your direction fixed."
                             ]
                         },
                         {
@@ -10794,7 +10794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If either your stamina or health reaches zero from the\nenemy's attacks, you will be defeated. Generally, ranged\nattacks will decrease health, and contact will decrease\nstamina."
+                                "If either your energy or health reaches zero from the\nenemy's attacks, you will be defeated. Generally, ranged\nattacks decrease health, and contact decreases energy."
                             ]
                         },
                         {
@@ -10811,7 +10811,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let me show you the timing bar."
+                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let's try out the timing bar."
                             ]
                         },
                         {
@@ -10852,7 +10852,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, taking damage to your stamina from the enemy\nwill put you in a [Color_14]state of arousal\\C[0], reducing\nthe number of slashes during your attack. A heart mark will\nappear on your status during arousal."
+                                "Furthermore, if you take damage to your energy from the\nenemy, you'll enter a [Color_14]state of arousal\\C[0], which\nreduces the number of slashes during an attack. A heart mark\nwill appear on your status during arousal."
                             ]
                         },
                         {
@@ -10869,7 +10869,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Arousal can be dispelled by walking around a set number of\nsteps. It can also be dispelled by achieving a critical. If\npossible, try to stop on red to dispel it."
+                                "Arousal can be removed by walking around a set number of\nsteps. It can also be removed by achieving a critical to\nshake off the enemy. If possible, aim to stop on red."
                             ]
                         },
                         {
@@ -10906,7 +10906,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on dodging first to memorize them."
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on avoiding them first to learn them."
                             ]
                         },
                         {
@@ -10923,7 +10923,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile backing away can make the fight easier."
+                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and evade. Attacking\nwhile retreating can make battles easier."
                             ]
                         },
                         {
@@ -10940,7 +10940,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Use healing items and skills. There are no usage\nrestrictions on healing items and skills (like deep\nbreathing). You can heal and push through with brute force\nif necessary."
+                                "Use healing items and skills. There are no usage\nrestrictions on healing items and skills (such as deep\nbreaths). It's possible to heal and push through\naggressively."
                             ]
                         },
                         {
@@ -10957,7 +10957,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Use the Action Easer option. Turning on the Action Easer\nfrom the options will significantly lower the difficulty\nlevel. There are no downsides to this."
+                                "Utilize Action Ease. By turning on Action Ease from the\noptions, the difficulty level will significantly decrease.\nThere are no disadvantages."
                             ]
                         },
                         {
@@ -11646,7 +11646,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[3]>Look♥ I've caught you♥ A slimy, slippery onahole♥ And it's\neven got poison♥ Kyahaha♥"
+                                "\\n<[Enemysuccubus]>Look♥ I've caught you♥ A slimy, slippery onahole♥ And it's\neven got poison♥ Kyahaha♥"
                             ]
                         },
                         {
@@ -11684,7 +11684,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[3]>This is what happens when you get a hard-on during battle,\nyou know? Do you understand? Or are you too pleasured to\nthink straight?"
+                                "\\n<[Enemysuccubus]>It's because you're getting hard during battle that you end\nup like this, you know? Do you understand? Or are you too\npleasured to think straight?"
                             ]
                         },
                         {
@@ -11722,7 +11722,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<\\n[3]>It feels so slippery and good, doesn't it♥ Just let it out,\nlet it out♥ You'll feel so much better once you do♥ Don't\ntry to escape♥"
+                                "\\n<[Enemysuccubus]>It feels so slippery and good, doesn't it♥ Just let it out,\nlet it out♥ You'll feel so much better if you do♥ Don't try\nto escape♥"
                             ]
                         },
                         {
@@ -11800,7 +11800,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Ahh♥ It's coming out♥ Even though we're in the middle of a\nbattle♥ Being made to ejaculate by the enemy♥ Your cock\nfeels so good♥ Ahahaha♥"
+                                "\\n<[Enemysuccubus]>Ahh♥ It's coming out♥ Even though we're in the middle of a\nfight♥ You're being made to ejaculate by your enemy♥ Your\ncock feels so good♥ Ahahaha♥"
                             ]
                         },
                         {
@@ -11824,7 +11824,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>That's right, you lose♥ You can't fight anymore, can you? Or\nare you going to keep fighting while spurting away?"
+                                "\\n<[Enemysuccubus]>That's right, you lose♥ You can't fight anymore, can you? Or\nare you going to keep fighting while spurting away?"
                             ]
                         },
                         {
@@ -12541,14 +12541,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Special 206 (Individual Attack Types)"
+                                "Special 206 (Individual Attack Type)"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1 Apple, 2 Plates, 3 Eggs"
+                                "1 Apple 2 Plates 3 Eggs"
                             ]
                         },
                         {

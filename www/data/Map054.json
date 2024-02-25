@@ -7850,7 +7850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Barley>Sheika!! I will never forgive you...!!"
+                                "\\n<Barley>Sheika!! I'll never forgive you...!!"
                             ]
                         },
                         {
@@ -8074,21 +8074,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot Event Bullet Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Fire"
+                                "Aim at the Player's Ship and Fire"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "All-Directional Barrage"
+                                "FullShot All-Around Firing"
                             ]
                         },
                         {
@@ -8551,14 +8551,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Twin Way Shot Event Bullet Fired"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Aimed Shot at Player's Craft"
+                                "Aim at Me, Fire Directly"
                             ]
                         },
                         {
@@ -11630,10 +11630,10 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Battle Start!",
+                                    "Battle start!",
                                     "Save",
-                                    "View Explanation",
-                                    "Strategy Tips"
+                                    "View explanation",
+                                    "Strategy hints"
                                 ],
                                 -1,
                                 0,
@@ -11729,7 +11729,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If either your energy or health reaches 0 from the enemy's\nattacks, you will be defeated. In the case of seductive\nattacks, a timing bar will be displayed."
+                                "If either your energy or health reaches 0 from the enemy's\nattacks, you will be defeated. In case of a seduction\nattack, a timing bar will be displayed."
                             ]
                         },
                         {
@@ -11746,7 +11746,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, if you take damage to your energy from the\nenemy, you will enter a \\C[14]state of arousal\\C[0], and the\nnumber of slashes during your attack will decrease. A heart\nmark will appear on your status while in arousal."
+                                "Furthermore, if you take damage to your energy from the\nenemy, you will enter a \\C[14]state of arousal\\C[0], and the\nnumber of slashes during your attack will decrease. A heart\nmark ♡ will appear on your status while you are aroused."
                             ]
                         },
                         {
@@ -11763,7 +11763,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Arousal can be dispelled by walking around a certain number\nof steps. It can also be dispelled by shaking off a critical\nhit. If you can afford it, try to stop it when it's red."
+                                "Arousal can be dispelled by walking around a certain number\nof steps. It can also be dispelled by shaking off a critical\nhit. If possible, try to stop it when it's red."
                             ]
                         },
                         {
@@ -11800,7 +11800,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. First, focus on avoiding them to learn their\npatterns."
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. First, focus on avoiding them to learn the\npatterns."
                             ]
                         },
                         {
@@ -11834,7 +11834,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Use healing items and skills. There are no usage\nrestrictions on healing items and skills (such as deep\nbreathing). It's possible to heal and push through\naggressively."
+                                "Use healing items and skills. There are no usage\nrestrictions on healing items and skills (such as deep\nbreathing). It is possible to heal and push through\naggressively."
                             ]
                         },
                         {
@@ -13078,7 +13078,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>Ughhh...!! I-I'm sorry, Sheika...! I... I can't anymore..."
+                                "\\n<Barley>Aguuu...!! I-I'm sorry, Sheika...! I... I can't anymore..."
                             ]
                         },
                         {
@@ -13378,7 +13378,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Aimed Shot at Player's Craft"
+                                "Aimed Shot at Player's Vessel"
                             ]
                         },
                         {
@@ -19422,7 +19422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>Darn it! What the hell is this guy?! Too strong!"
+                                "\\n<Sheika>Damn it! What the hell is with this guy?! He's too strong!"
                             ]
                         },
                         {
@@ -19497,7 +19497,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>...(Whether I cry or laugh, this is the end. Here I go.)"
+                                "\\n<Sheika>... (Whether I cry or laugh, this is the end. Here I go.)"
                             ]
                         },
                         {
@@ -19539,7 +19539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>...(Pouring all my magic power into this...!)"
+                                "\\n<Barley>... (I'll put all my magic power into this...!)"
                             ]
                         },
                         {
@@ -19809,7 +19809,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>Mmm♥ Mmmm♥ Please...♥ I won't do anything bad anymore...♥"
+                                "\\n<Barley>Mmm♥ Mmm♥ Please...♥ I won't do anything bad anymore...♥"
                             ]
                         },
                         {
@@ -19855,7 +19855,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>We never forced humans to do anything against their will,\nyou know...? Smooch♥ Mmmm♥"
+                                "\\n<Barley>You know, we never really forced ourselves on humans to\nbegin with...? Smooch♥ Mmm♥"
                             ]
                         },
                         {
@@ -19884,7 +19884,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>The only ones we've been with are those who offered their\ncocks willingly. What's wrong with having consensual sex?"
+                                "\\n<Sheika>The only ones we've been with are those who offered their\ndicks willingly. It was consensual sex, what's so wrong\nabout that?"
                             ]
                         },
                         {
@@ -19995,7 +19995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>Sure, we might have gone a bit too far. Smooch★ From now on,\nwe'll be careful to milk in moderation..."
+                                "\\n<Sheika>Sure, we might have gone a bit too far. Smooch★ From now on,\nwe'll be careful not to overdo it..."
                             ]
                         },
                         {
@@ -20031,7 +20031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>Please♥ Forgive me♥ Smooch♥ Mmmm♥ You look like you're in\npain with that hard dick, don't you want to cum? Teehee♥"
+                                "\\n<Barley>Please♥ Forgive me♥ Smooch♥ Mmm♥ You look like you're in\npain with your cock all hard, don't you want to cum? Teehee♥"
                             ]
                         },
                         {
@@ -20067,7 +20067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>This is a promise. Smooch★ I never break my promises. Let's\nmake up, okay? Huh? Mmmm★"
+                                "\\n<Sheika>This is a promise. Smooch★ I never break my promises. Let's\nmake up, okay? Huh? Mmm★"
                             ]
                         },
                         {
@@ -20091,7 +20091,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>Wanna do naughty things with us? Smooch♥ Smooch♥ Let's get\nall lovey-dovey♥ Mmmmm♥"
+                                "\\n<Barley>Wanna do naughty things with us? Smooch♥ Smooch♥ Let's get\nall lovey-dovey♥ Mmm♥"
                             ]
                         },
                         {
@@ -20154,7 +20154,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "\\C[10]Succumb to temptation Karma-1",
+                                    "\\C[10]Give in to temptation Karma-1",
                                     "\\C[1]Deliver the final blow Karma+1",
                                     "<random><timer>"
                                 ],
@@ -20218,7 +20218,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Barley>Nfufu♥ Love-struck eyes♥ It seems like you finally\nunderstand how we feel♥ Teehee♥"
+                                "\\n<Barley>Nfufu♥ Love-struck eyes♥ Looks like you finally understand\nhow we feel♥ Teehee♥"
                             ]
                         },
                         {
@@ -20771,7 +20771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Barley>Ah... ha... I'm really... done for... it seems..."
+                                "\\n<Barley>Ah... ha... I guess... I'm really done for..."
                             ]
                         },
                         {
@@ -20797,7 +20797,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Don't get too cocky... You bastard... I'll definitely...\nkill you..."
+                                "\\n<Sheika>Don't get too full of yourself... You bastard... I'll\ndefinitely... kill you..."
                             ]
                         },
                         {

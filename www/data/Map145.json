@@ -5212,7 +5212,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>What's with these cat brats. Hey! Who's the guardian of\nthese kids? Stray cats, huh?! Kick 'em out!"
+                                "\\n<Guild Master>What's with this cat brat. Hey! Who's the guardian of these\nkids? Stray cats, huh?! Kick them out!"
                             ]
                         },
                         {
@@ -5245,7 +5245,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-Chan>We're not lost. This is the adventurers' guild, right? I\nbelieve everyone has the right to enter."
+                                "\\n<Louie-Chan>We didn't wander in by mistake. This is the Adventurer's\nGuild, right? I believe everyone has the right to enter."
                             ]
                         },
                         {
@@ -5344,7 +5344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>I'm looking for my sister. A beastman, a very strong\nadventurer. Do you know anything?"
+                                "\\n<Wanzworth>I'm looking for my sister. A beastman, a very strong\nadventurer. Do you know anything?"
                             ]
                         },
                         {
@@ -5368,7 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Even if I knew something, you think I'd tell you for free?\nDon't they teach you that information has value in school\nthese days?"
+                                "\\n<Guild Master>Even if I did know, you think I'd tell you for free? Don't\nthey teach you in school these days that information has\nvalue?"
                             ]
                         },
                         {
@@ -5410,7 +5410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui-Chan>Then, how about this..."
+                                "\\n<Louie-Chan>Then, how about this..."
                             ]
                         },
                         {
@@ -5581,7 +5581,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>What's that about! Then give me back my money!"
+                                "\\n<Wanzworth>What's that about! Then give me back my money!"
                             ]
                         },
                         {
@@ -5614,7 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>You've just obtained the information that \"I don't know\nanything.\" Now that you understand, get out, cat brat."
+                                "\\n<Guild Master>You've just obtained the information that \"I don't know\nanything.\" Got it? Now get out, cat brat."
                             ]
                         },
                         {
@@ -5640,7 +5640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>Hey, wait a sec. You've got a pretty cute face there♥\nDespite being baby-faced, you've got curves in all the right\nplaces♥ Uhihi♥"
+                                "\\n<Adventurer B>Hey, wait a sec. You've got quite a cute face there, don't\nya♥ Despite the baby face, you've got curves in all the\nright places♥ Uhihi♥"
                             ]
                         },
                         {
@@ -5812,7 +5812,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wadsworth>Hey! Don't touch me! Ew! You reek of alcohol! Don't come any\ncloser!"
+                                "\\n<Wanzworth>Hey! Don't touch me! Ew! You reek of alcohol! Don't come any\ncloser!"
                             ]
                         },
                         {
@@ -5845,7 +5845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>Oh come on, don't be like that. Uncle here will take good\ncare of you♥ Kukuku♥"
+                                "\\n<Adventurer B>Come on, don't be like that. Uncle will take good care of\nyou♥ Kukuku♥"
                             ]
                         },
                         {
@@ -6583,7 +6583,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>Oh, sorry. I might have gone too far. You're not dead, are\nyou? Did it hurt? But it's your fault, you know."
+                                "\\n<Wanzworth>Oh, sorry. I might have gone too far. You're not dead, are\nyou? Did it hurt? But it's your fault, you know."
                             ]
                         },
                         {
@@ -6616,7 +6616,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>So, it would be in everyone's best interest not to\nunderestimate us too much..."
+                                "\\n<Louie-Chan>So, it would be in everyone's best interest not to\nunderestimate us too much..."
                             ]
                         },
                         {
@@ -6659,7 +6659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>You really shouldn't underestimate us. We've been practicing\nquite a bit, and it would be bad if we accidentally killed\nsomeone because we couldn't control our strength."
+                                "\\n<Louie-Chan>You really shouldn't underestimate us. We've been practicing\nquite a bit, and it would be bad if we accidentally killed\nsomeone because we couldn't control it well."
                             ]
                         },
                         {
@@ -6692,7 +6692,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>That was a bit much. Did you really have control? Are you\nokay, mister?"
+                                "\\n<Wanzworth>That was a bit too much. Did you really have control? Are\nyou okay, mister?"
                             ]
                         },
                         {
@@ -7104,7 +7104,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>Eek♥ Kitty cats♥ So strong♥ So cute♥"
+                                "\\n<Adventurer C>Yaaay♥ Kitty cats♥ So strong♥ So cute♥"
                             ]
                         },
                         {
@@ -7290,7 +7290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Well done! Hahahaha! Yeah, sorry for teasing you! Forgive my\nrudeness."
+                                "\\n<Guild Master>You're good! Hahahaha! Sorry for mocking you! Forgive my\nrudeness."
                             ]
                         },
                         {
@@ -7307,7 +7307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>You said you were looking for your adventurer sister..."
+                                "\\n<Guild Master>You said you were looking for an adventurer sister..."
                             ]
                         },
                         {
@@ -7324,7 +7324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Alright then, you guys should register as adventurers!\nThat's the best course of action. Information comes in\neasily here."
+                                "\\n<Guild Master>Alright then, you guys register as adventurers! That's the\nbest course of action. Information comes in easily here."
                             ]
                         },
                         {
@@ -7358,7 +7358,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>How about it? Why don't you work here for now? With that\nkind of fighting ability, you guys aren't ordinary. You must\nhave your own circumstances, right?"
+                                "\\n<Guild Master>How about it? Why don't you work here for now? With that\nkind of fighting power, you're not ordinary. You must have\nyour own circumstances, right?"
                             ]
                         },
                         {
@@ -7417,7 +7417,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>Thank you very much. (Good, this is more or less what I\nexpected.)"
+                                "\\n<Louie-Chan>Thank you very much. (Good, this is pretty much what I\nexpected.)"
                             ]
                         },
                         {
@@ -7460,7 +7460,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>Thank you very much! (Yeah, everything has gone smoothly so\nfar! Just as planned!)"
+                                "\\n<Wanzworth>Thank you very much! (Yeah, everything's gone smoothly so\nfar! Just as planned!)"
                             ]
                         },
                         {
@@ -7565,7 +7565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>... (We can't use our full names. Let's use nicknames or\naliases.)"
+                                "\\n<Louie-Chan>... (We can't use our full names. Let's use nicknames or\naliases.)"
                             ]
                         },
                         {
@@ -7625,7 +7625,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>... (We should use aliases. You understand, right?)"
+                                "\\n<Wanzworth>... (We should use aliases. You understand, right?)"
                             ]
                         },
                         {
@@ -7742,7 +7742,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui-Chan>Rui... that's just as it is. Well, whatever. Then I'll go by\nLouie... there."
+                                "\\n<Louie-Chan>Katara... that's just as it is. Well, whatever. Then I'll be\nLouie... there."
                             ]
                         },
                         {
@@ -7785,7 +7785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui-Chan>Rui, huh... then I'll go by Louie... there."
+                                "\\n<Louie-Chan>Katara, huh... then I'll go with Louie... there."
                             ]
                         },
                         {
@@ -7864,7 +7864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wadsworth>Rui? Really? That's fine then. As for me... I'll go by Wanz\nfor now. Not much of a change though."
+                                "\\n<Wanzworth>Katara? Really? That's okay? Well then, I'll tentatively go\nwith... Wanz. It's not much of a change."
                             ]
                         },
                         {
@@ -7907,7 +7907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wadsworth>Rui, huh... then I'll just be Wanz."
+                                "\\n<Wanzworth>Katara, huh... then I'll just be Wanz."
                             ]
                         },
                         {
@@ -7951,7 +7951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Aliases are OK too, and you can change them anytime. Well,\nthat's how laid-back our guild is. Want something to drink?"
+                                "\\n<Guild Master>Aliases are okay too, and you can change them anytime. Well,\nthat's how laid-back our guild is. Want something to drink?"
                             ]
                         },
                         {
@@ -7993,7 +7993,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Carrot juice, please!"
+                                "\\n<Louie>Carrot juice, please!"
                             ]
                         },
                         {
@@ -8026,7 +8026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>And a hot milk♥ But not too hot♥"
+                                "\\n<Katara>A hot milk, please♥ But not too hot♥"
                             ]
                         },
                         {
@@ -8069,7 +8069,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>Yeah, a hot milk♥ But make sure it's not too hot♥"
+                                "\\n<Wanz>Umm, a hot milk, please♥ But make sure it's not too hot♥"
                             ]
                         },
                         {
@@ -8102,7 +8102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Carrot juice, please!"
+                                "\\n<Katara>Carrot juice, please!"
                             ]
                         },
                         {
@@ -8327,7 +8327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lynx>But once you get on their good side, they'll treat you well.\nIt's like that exclusive camaraderie you find in the slums,\nyou know? Anyway, they're not a bad person."
+                                "\\n<Lynx>But once you get on their good side, they'll treat you well.\nIt's like that exclusive camaraderie unique to the slums,\nyou know? Anyway, they're not a bad person."
                             ]
                         },
                         {

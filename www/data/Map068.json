@@ -10080,7 +10080,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Plum>Did that thing fly off somewhere? This seems like it's going\nto be a hassle. Please give me a break."
+                                "\\n<Plum>Didn't that just fly off somewhere? This seems like it's\ngoing to be a hassle. Please give me a break."
                             ]
                         },
                         {
@@ -10115,7 +10115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Plum>Megna and the others got blown away too, you know? You could\nat least give us a heads up before doing that."
+                                "\\n<Plum>Megna and the others got blown away too, you know? You could\nat least give a shout before doing that."
                             ]
                         },
                         {
@@ -10160,7 +10160,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Plum>Latier and the others got blown away too, you know? You\ncould at least give us a heads up before doing that."
+                                "\\n<Plum>Latier and the others got blown away too, you know? You\ncould at least give a shout before doing that."
                             ]
                         },
                         {
@@ -10205,7 +10205,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Plum>Sheika and Barley got blown away too, you know? You could at\nleast give us a heads up before doing that."
+                                "\\n<Plum>Sheika and Barley also got blown away and are sprawled out,\nyou know? You could at least give a shout before doing that."
                             ]
                         },
                         {
@@ -10388,7 +10388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>I'm a succubus, you know? Just because there's a scent of\ncoagulation crystals, why do I have to go out of my way to\nsearch for them?"
+                                "\\n<Terra>I am a succubus, you know? Just because there's a scent of\ncoagulation crystals, why do I have to go out of my way to\nsearch for them?"
                             ]
                         },
                         {
@@ -10421,7 +10421,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Plum>There it is, the 'why should I' argument. The most fruitless\none. You just happened to be nearby, you know? Do you\nunderstand?"
+                                "\\n<Plum>There it is, the 'first of all' argument. The most fruitless\none. It's because you happened to be nearby. Do you\nunderstand?"
                             ]
                         },
                         {
@@ -10529,7 +10529,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Maybe I should do it now after all."
+                                "\\n<Terra>Maybe we should do it now after all."
                             ]
                         },
                         {
@@ -10641,7 +10641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Where is Ruisham!!"
+                                "\\n<Katara>Where is Louie Sham!!"
                             ]
                         },
                         {
@@ -10675,7 +10675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Where is Wanzwas!!"
+                                "\\n<Katara>Where is Wanz Warth!!"
                             ]
                         },
                         {
@@ -10768,7 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Rui... Have you returned to your senses already? Impressive.\nJust as I expected."
+                                "\\n<Terra>Katara... Have you returned to your senses already?\nImpressive. Just as I expected."
                             ]
                         },
                         {
@@ -10810,7 +10810,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>Ruisham is safe. Don't worry. They're nearby."
+                                "\\n<Terra>Louie Sham is safe. Don't worry. They're nearby."
                             ]
                         },
                         {
@@ -10853,7 +10853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>Wanzwas is safe. Don't worry. They're nearby."
+                                "\\n<Terra>Wanz Warth is safe. Don't worry. They're nearby."
                             ]
                         },
                         {
@@ -10896,7 +10896,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Asteria>Can you really call that safe? Under Lady Terra's charm...\nthey're completely smitten..."
+                                "\\n<Asteria>Can you call that safe? Under Terra's charm... they're\ncompletely smitten..."
                             ]
                         },
                         {
@@ -11026,7 +11026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Now that we have a wide and easy place to fight, let's have\nsome fun♥"
+                                "\\n<Terra>Now that we have more space and it's easier to fight, let's\nhave some fun♥"
                             ]
                         },
                         {
@@ -11059,7 +11059,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Airia>Um, Lady Terra. The coagulation crystal...?"
+                                "\\n<Airia>Um, Lady Terra... the coagulation crystal...?"
                             ]
                         },
                         {
@@ -11092,7 +11092,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Some other demon will find it eventually. Reinforcements\nwill come too. Searching through the rubble isn't a\nsuccubus' job."
+                                "\\n<Terra>Some other demon will find it eventually. Reinforcements\nwill come too. Searching through the rubble isn't a\nsuccubus's job."
                             ]
                         },
                         {
@@ -11234,7 +11234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ugh...♥ Ah...♥ (This is beyond anything before...! I must\nkeep my sanity...!)"
+                                "\\n<Katara>Ugh... Ah...♥ (This is unprecedented...! I must keep my\nsanity...!)"
                             ]
                         },
                         {
@@ -11268,7 +11268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah...♥ Ah...♥ (What is this...♥ My sanity is...♥ I need to\ncalm down...!)"
+                                "\\n<Katara>Ah... Ah...♥ (What is this...♥ My sanity is...♥ I need to\ncalm down...!)"
                             ]
                         },
                         {
@@ -11311,7 +11311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Oh♥ Despite being so small, it's trying so hard to get hard\nand big♥ How cute♥"
+                                "\\n<Terra>Oh♥ It's small but standing so proudly♥ Working hard to get\nhard and big♥ Cute♥"
                             ]
                         },
                         {
@@ -11351,7 +11351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>In recognition of your courage to confront me, I'll go easy\non you♥ We have the numbers advantage anyway."
+                                "\\n<Terra>In recognition of your courage to confront me, I'll go easy\non you♥ We have numbers on our side anyway."
                             ]
                         },
                         {
@@ -11391,7 +11391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>You all. No naughty stuff except for me. I'll fight freely\nthough."
+                                "\\n<Terra>You all. No naughty stuff except for me. I will fight freely\nthough."
                             ]
                         },
                         {
@@ -11433,7 +11433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Terra...! I will... defeat you...!!"
+                                "\\n<Katara>Terra...! I will... defeat you...!!"
                             ]
                         },
                         {
@@ -11473,7 +11473,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>Ahh♥ Those eyes♥ My favorite kind of eyes♥ Always keep\nlooking at me with them♥ Don't let them cloud over so\nsoon...♥"
+                                "\\n<Terra>Ahh♥ Those eyes♥ My favorite kind of eyes♥ Always keep them\nlike that for me♥ Don't let them cloud over so soon...♥"
                             ]
                         },
                         {
@@ -11507,7 +11507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ha... Ugh...♥ (No good...♥ This is...♥ My body is burning\nup...♥)"
+                                "\\n<Katara>Ha... Ugh...♥ (No good...♥ This is...♥ My body is so\nhot...♥)"
                             ]
                         },
                         {
@@ -11556,7 +11556,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Terra>Oh dear♥ Weren't you going to save Rui? Now all you can\nthink about is feeling good? I don't like kids who can't try\nhard?"
+                                "\\n<Terra>Oh dear♥ Weren't you going to save Louie? Now all you can\nthink about is feeling good? I don't like kids who can't try\nhard enough?"
                             ]
                         },
                         {
@@ -11599,7 +11599,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Terra>Oh dear♥ Weren't you going to save Wanz? Now all you can\nthink about is feeling good? I don't like kids who can't try\nhard?"
+                                "\\n<Terra>Oh dear♥ Weren't you going to save Wanz? Now all you can\nthink about is feeling good? I don't like kids who can't try\nhard enough?"
                             ]
                         },
                         {
@@ -12009,7 +12009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Are you okay, Rui!? That was close... Sorry for being late!\nThe explosion at the guild made the children cry...!"
+                                "\\n<Radro>Are you okay, Katara!? That was close... I'm sorry for being\nlate! The explosion at the guild made the children cry...!"
                             ]
                         },
                         {
@@ -12060,7 +12060,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>M-Mom...? Where's mom...?"
+                                "\\n<Louie>M-Mom...? Where's mom...?"
                             ]
                         },
                         {
@@ -12093,7 +12093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Hey! Rui! Pull yourself together!"
+                                "\\n<Radro>Hey! Louie! Pull yourself together!"
                             ]
                         },
                         {
@@ -12136,7 +12136,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>M-Mom...? Where's mom...? Waaah..."
+                                "\\n<Wanz>M-Mom...? Where's mom...? Fueee..."
                             ]
                         },
                         {
@@ -12169,7 +12169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Hey! Ones! Pull yourself together!"
+                                "\\n<Radro>Hey! Wanz! Pull yourself together!"
                             ]
                         },
                         {
@@ -12363,7 +12363,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ouch!! What are you doing... huh? What's going on with me..."
+                                "\\n<Louie>Ouch!! What are you doing... huh? What's going on with me..."
                             ]
                         },
                         {
@@ -12406,7 +12406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Huh? Radro? Radro mom? Huh? What am I doing...? Radro is\nmom?"
+                                "\\n<Wanz>Huh? Radro? Radro mama? Huh? What am I doing...? Radro is\nmama?"
                             ]
                         },
                         {
@@ -12449,7 +12449,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>How many do you think I've disciplined. A punch with love.\nAre you awake now?"
+                                "\\n<Radro>Do you have any idea how many people I've disciplined? A\npunch with love. Are you awake now?"
                             ]
                         },
                         {
@@ -12498,7 +12498,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>But that's not the point! I heard it from the master! Not\nthe Call Wolf Stone... \\C[10]\"Coagulation Crystal\"!"
+                                "\\n<Radro>But that's not the point! I heard it from the master! Not\nthe call wolf stone... \\C[10]\"Coagulation Crystal\"!"
                             ]
                         },
                         {
@@ -12531,7 +12531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>They are looking for it! The monster reinforcements are\nclosing in...! We're out of time!! How about the barrier!?"
+                                "\\n<Radro>They are looking for it! The monster reinforcements are\nclosing in...! We're out of time!! What about the barrier!?"
                             ]
                         },
                         {
@@ -12850,7 +12850,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I see! I've got the situation! There's not much left, but...\nI'll use all my magic power!"
+                                "\\n<Louie>I see! I've grasped the situation! There's not much left,\nbut... I'll use all my magic power!"
                             ]
                         },
                         {
@@ -12902,7 +12902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>I don't really get it, but if we need to put up a barrier,\nthen that's what we'll do! I don't have much magic power\nleft, but I'll use it all!"
+                                "\\n<Wanz>I don't really get it, but if we need to put up a barrier,\nthen that's what we'll do! I don't have much magic power\nleft, but I'll use it all!"
                             ]
                         },
                         {
@@ -13147,7 +13147,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>This... will only last a few minutes at best... haa...\nhaa... Damn, they drained more magic power than I thought..."
+                                "\\n<Louie>This... we can only hold it for a few minutes at best...\nhee... hee... Damn, they drained more magic power than I\nthought..."
                             ]
                         },
                         {
@@ -13199,7 +13199,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Cough! Cough! No good... My body, can't muster any\nstrength... The barrier might not last long..."
+                                "\\n<Wanz>Cough! Cough! No good... my body, can't muster any\nstrength... the barrier might not last long..."
                             ]
                         },
                         {
@@ -13307,7 +13307,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Rui!?"
+                                "\\n<Radro>Louie!?"
                             ]
                         },
                         {
@@ -13349,7 +13349,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Cough... It's okay... It's just that my body can't move\nbecause of magic power depletion... It'll heal if I rest a\nbit..."
+                                "\\n<Louie>Cough... I'm, I'm okay... just out of magic power... my body\nwon't move... it'll heal if I rest a bit..."
                             ]
                         },
                         {
@@ -13392,7 +13392,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Ones!?"
+                                "\\n<Radro>Wanz!?"
                             ]
                         },
                         {
@@ -13434,7 +13434,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Oh, seems like they drained more than I thought... Fweeh...\nI can't get married now..."
+                                "\\n<Wanz>Oh, seems like... they drained more than I thought...\nFueee... I can't get married now..."
                             ]
                         },
                         {
@@ -13558,7 +13558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>It's okay! I'll carry it outside! Beyond Dri-Ne, beyond\nLuma-Re, even further away! I'll show you the speed of a\ncat's feet!"
+                                "\\n<Katara>It's okay! I'll take it outside! Beyond Dri-Ne, beyond\nRumare, even further away! I'll show you the speed of a\ncat's feet!"
                             ]
                         },
                         {
@@ -13585,7 +13585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Leave the rest to me! I'll carry it! Beyond Dri-Ne, beyond\nLuma-Re, even further away! Don't underestimate a cat's\nspeed!"
+                                "\\n<Katara>Leave the rest to me! I'll take it! Beyond Dri-Ne, beyond\nRumare, even further away! Don't underestimate the speed of\na cat's feet!"
                             ]
                         },
                         {
@@ -13637,7 +13637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Rui...!"
+                                "\\n<Radro>Katara...!"
                             ]
                         },
                         {
@@ -13855,7 +13855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Radro! Thanks for saving me♥ Now, take care of \"little\nbrother\"!"
+                                "\\n<Katara>Radro! Thanks for your help ♥ Take care of \"little brother\"\nfor me!"
                             ]
                         },
                         {
@@ -13882,7 +13882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Radro! Thank you! Take care of \"little sister\" for me!"
+                                "\\n<Katara>Radro! Thank you! Take care of \"little sister\" for me!"
                             ]
                         },
                         {
@@ -14159,7 +14159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Rui!!! Hang in there!!!"
+                                "\\n<Radro>Katara!!! Hang in there!!!"
                             ]
                         },
                         {
@@ -14210,7 +14210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>\"Little brother\", huh... sigh. Totally defeated, Rui. Ahh,\nnow I have two older sisters. Tch."
+                                "\\n<Louie>\"Little brother,\" huh... haah. Totally defeated by you,\nKatara. Ahh, now I have two older sisters. Tch."
                             ]
                         },
                         {
@@ -14262,7 +14262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>\"Little sister\", huh... Well, whatever. Big bro, do your\nbest♥ Cough."
+                                "\\n<Wanz>\"Little sister,\" huh... well, whatever. Big bro, do your\nbest ♥ Cough."
                             ]
                         },
                         {
@@ -15023,7 +15023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Rui! The town's in trouble! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -15163,7 +15163,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15571,7 +15571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey! Rui!\nIt's an attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\nKatara! It's an attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -15597,7 +15597,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Rui!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
+                                "\\n<Dodon>Ahh!? Louie!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -15624,7 +15624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Ones!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
+                                "\\n<Dodon>Ahh!? Wanz!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {

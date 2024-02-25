@@ -4020,7 +4020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Moo>\"...! Shion, be careful. I sense a magic power that's\nclearly not normal!\""
+                                "\\n<Moo>\"...! Sion, be careful. I sense an abnormal magical power!\""
                             ]
                         },
                         {
@@ -4062,7 +4062,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Hero Shion>\"...\""
+                                "\\n<Brave Sion>\"...\""
                             ]
                         },
                         {
@@ -4105,7 +4105,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Hero Shion>\"...\""
+                                "\\n<Brave Sion>\"...\""
                             ]
                         },
                         {
@@ -4887,7 +4887,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>\"Hm, so you're the hero? I see. You sure took your time\ngetting here.\""
+                                "\\n<Wanzworth>\"Hmph, so you're the hero? I see. You sure took your time.\""
                             ]
                         },
                         {
@@ -4930,7 +4930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>\"Oh? You're the hero? I see. You've certainly taken your\ntime.\""
+                                "\\n<Louie-Chan>\"Oh? You're the hero? I see. You've certainly taken your\ntime.\""
                             ]
                         },
                         {
@@ -4991,7 +4991,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>\"I heard you were traveling with a dragon, but could it be\nthat Pomeranian-looking thing? Ahaha!\""
+                                "\\n<Louie-Chan>\"I heard you were traveling with a dragon, but could it be\nthat Pomeranian-looking thing? Ahaha!\""
                             ]
                         },
                         {
@@ -5034,7 +5034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>\"I heard you were traveling with a dragon, but could it be\nthat Pomeranian-looking thing? Ahaha!\""
+                                "\\n<Wanzworth>\"I heard you were traveling with a dragon, but could it be\nthat Pomeranian-looking thing? Ahaha!\""
                             ]
                         },
                         {
@@ -5093,7 +5093,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>\"Ruisham!? Wanzworth!?\""
+                                "\\n<Chelsea>\"Louie-Chan!? Wanzworth!?\""
                             ]
                         },
                         {
@@ -5135,7 +5135,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Luna>\"Hm? Someone you know? ...Or rather, don't they look alike?\""
+                                "\\n<Luna>\"Huh? Someone you know? ...Or rather, don't they look\nalike?\""
                             ]
                         },
                         {
@@ -5177,7 +5177,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>\"They're my younger sister and brother. Why are you here...\nWhat's going on?\""
+                                "\\n<Chelsea>\"They're my younger sister and brother. Why are they here...\nWhat's going on?\""
                             ]
                         },
                         {
@@ -5242,7 +5242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>\"As usual, big sis is slow on the uptake. We're not the same\nas we used to be.\""
+                                "\\n<Louie-Chan>\"As usual, big sis is slow on the uptake. We're not the same\nas we used to be.\""
                             ]
                         },
                         {
@@ -5285,7 +5285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>\"You're as oblivious as ever, big sis. Can't you see? We're\nnot who we used to be.\""
+                                "\\n<Wanzworth>\"You're as oblivious as ever, big sis. Can't you see? We're\nnot who we used to be.\""
                             ]
                         },
                         {
@@ -5346,7 +5346,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>\"Persuasion is futile. We've come to know too much. Various\nthings. We can't let you pass here.\""
+                                "\\n<Wanzworth>\"Persuasion is futile. We've come to know too much. Various\nthings. We can't let you pass here.\""
                             ]
                         },
                         {
@@ -5389,7 +5389,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>\"Persuasion is futile. We know too much now. Various things.\nThat's why we can't let you pass here.\""
+                                "\\n<Louie-Chan>\"Persuasion is futile. We know too much now. Various things.\nThat's why we can't let you pass here.\""
                             ]
                         },
                         {
@@ -5455,7 +5455,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Moo>\"...(What do we do? Can I really ask Shion to cut down\nChelsea's siblings...?)\""
+                                "\\n<Moo>\"...(What do we do? Can I really ask Sion to cut down\nChelsea's siblings...?)\""
                             ]
                         },
                         {
@@ -5539,7 +5539,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Moo>\"...(I can't let such a cruel thing happen. Should we run?\nNo, escaping from beastmen is...)\""
+                                "\\n<Moo>\"...(I can't let them do such a cruel thing. Should we run?\nBut escaping from beastmen is...)\""
                             ]
                         },
                         {
@@ -5627,7 +5627,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>\"Nnnn! Ruisham, Wanzworth. I don't know what happened after\nI left home, but...\""
+                                "\\n<Chelsea>\"Nnnn! Louie-Chan, Wanzworth. I don't know what happened\nafter I left home, but...\""
                             ]
                         },
                         {
@@ -5706,7 +5706,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>\"It's okay! Shion, leave this to me! It's a sibling fight\nafter all. I'll handle it.\""
+                                "\\n<Chelsea>\"It's okay! Leave this to me, Sion! It's a sibling fight\nafter all. I'll handle it.\""
                             ]
                         },
                         {
@@ -5748,7 +5748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Luna>\"Are you okay, Chelsea... (But I sense a level of magic\npower that could instantly kill someone like Luna.)\""
+                                "\\n<Luna>\"Are you okay, Chelsea... (But Luna feels a level of magical\npower that could instantly kill her.)\""
                             ]
                         },
                         {
@@ -5790,7 +5790,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Moo>\"Shion. Step back... Leave it to me, Chelsea.\""
+                                "\\n<Moo>\"Sion... step back. I'm entrusting this to you, Chelsea.\""
                             ]
                         },
                         {
@@ -6308,7 +6308,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wadsworth>\"Do you really think we can be defeated by a big sis who\ncan't even borrow a cat's paw, a failure at that?\""
+                                "\\n<Wanzworth>\"Do you think we can be defeated by a big sis who can't even\nborrow a cat's paw, a failure like you?\""
                             ]
                         },
                         {
@@ -6351,7 +6351,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui-Chan>\"Do you really think a big sis who can't even borrow a cat's\npaw, a failure at that, can beat us?\""
+                                "\\n<Louie-Chan>\"Do you think a big sis who can't even borrow a cat's paw, a\nfailure like you, can beat us?\""
                             ]
                         },
                         {
@@ -6417,7 +6417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>\"'Can't do' it, is that such a bad thing?\""
+                                "\\n<Chelsea>\"'Can't do it,' is that really such a bad thing?\""
                             ]
                         },
                         {
@@ -6483,7 +6483,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>\"You probably just got dragged along by someone else's hand.\nA little runt who can't fight without borrowing someone\nelse's strength. Really, such troublesome twins.\""
+                                "\\n<Chelsea>\"You must have been led by someone else's hand, carried\nalong without any effort. A little one who can't fight\nwithout borrowing someone's hand. Really, such troublesome\ntwins.\""
                             ]
                         },
                         {
@@ -6688,7 +6688,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]ED1 \"The Evil Genius and the Failure of Justice\""
+                                "\\C[14]ED1 \"The Evil Genius and the Failed Hero\""
                             ]
                         },
                         {
@@ -6705,7 +6705,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Melty Brave main story continues..."
+                                "Melty Brave continues..."
                             ]
                         },
                         {

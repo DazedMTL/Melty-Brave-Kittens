@@ -11632,7 +11632,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>We can't go on any longer! The explosion at the Adventurer's\nGuild earlier confirms the presence of a \"high-ranking\"\nmonster!"
+                                "\\n<Commander>It's impossible to continue! The explosion at the\nAdventurer's Guild earlier confirms the presence of a \"high-\nranking\" monster!"
                             ]
                         },
                         {
@@ -11658,7 +11658,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>Our forces are desperately engaged in battle below, but\nwe're being overpowered. And now, even more powerful\nmonsters have arrived as reinforcements. There's not even a\none in ten thousand chance of victory!"
+                                "\\n<Commander>The troops below are desperately engaged in battle, but\nthey're being pushed back. And now, even more powerful\nmonster reinforcements have arrived. There's not even a one\nin ten thousand chance of victory!"
                             ]
                         },
                         {
@@ -11675,7 +11675,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>We're also aware that there are still many residents alive.\nHowever, it's only a matter of time..."
+                                "\\n<Commander>We're aware that there are still many residents alive.\nHowever, it's only a matter of time..."
                             ]
                         },
                         {
@@ -11787,7 +11787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>The gunpowder has already been set up! Mage squad! Unleash\nall your magical power!! Barrier mages, prevent the spread\nto Lumare with your barriers!!"
+                                "\\n<Commander>The gunpowder has already been set up! Mages! Unleash all\nyour magical power!! Barrier mages, prevent the spread to\nLumare with your barriers!!"
                             ]
                         },
                         {
@@ -12067,7 +12067,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>(Some may condemn this as a cold-hearted decision. However,\nthere will surely come a day when this is hailed as the best\ncourse of action. A victory for humanity, won upon the noble\nsacrifices.)"
+                                "\\n<Count Noblesse>(Some may condemn this as a cold-hearted decision. However,\nthe day will come when this will be hailed as the best\ncourse of action. A victory for humanity, won upon the\nprecious sacrifices made.)"
                             ]
                         },
                         {
@@ -12383,7 +12383,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>We can't go on any longer! Given the explosion at the\nAdventurer's Guild earlier, it's certain that there are\n\"executive class\" monsters present!"
+                                "\\n<Commander>It's impossible to continue! Given the explosion at the\nAdventurer's Guild earlier, it's confirmed that there are\n\"executive class\" monsters present!"
                             ]
                         },
                         {
@@ -12538,7 +12538,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>The explosives have already been set! Magician squad! Throw\nall your magical power at them!! Barrier mages, prevent the\nspread to Lumare with your barriers!!"
+                                "\\n<Commander>The gunpowder has already been set up! Magician squad!\nUnleash all your magical power!! Barrier mages, prevent the\nspread to Lumare with your barriers!!"
                             ]
                         },
                         {
@@ -12601,7 +12601,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>This is our only chance to wipe out the monsters!! Collapse\nthe cliff along with the barricade!! Bury them aliveeeee!!"
+                                "\\n<Commander>This is our only chance to wipe out the monsters!! Collapse\nthe cliff along with the ramparts!! Bury them aliveeeee!!"
                             ]
                         },
                         {
@@ -12801,7 +12801,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>...(Executive class monsters, coagulation crystals, and the\nslum problem all taken care of at once. Could there be a\nmore efficient method?)"
+                                "\\n<Count Noblesse>...(With the executive class monsters, the coagulation\ncrystal, and the slum problem all taken care of at once,\ncould there be a more efficient method?)"
                             ]
                         },
                         {
@@ -12835,7 +12835,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>(Kukuku... Hahahahaha! Those detestable poor people, I'll\ngrant them an honorable death in the end! With this, my\nposition is secured forever!)"
+                                "\\n<Count Noblesse>(Kukuku... Hahahahaha! Those detestable poor people, I'll\ngrant them an honorable death in the end! With this, my\nposition is unshakable!)"
                             ]
                         },
                         {
@@ -13001,7 +13001,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>Even if we cause an explosion now, it won't be powerful\nenough to collapse the cliff! We'll only lose the barricade!"
+                                "\\n<Lumare Gatekeeper B>Even if we cause an explosion now, it won't be powerful\nenough to collapse the cliff! We'll only lose the ramparts!"
                             ]
                         },
                         {
@@ -13063,7 +13063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Magician A>Whoa! What's this? The ground is all slippery! When did this\nhappen!?"
+                                "\\n<Magician A>Whoa! What's this? The ground is all slimy! When did this\nhappen!?"
                             ]
                         },
                         {
@@ -13125,7 +13125,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Magician B>Whoa, wait! Slip...! This will mess up our chanting...!!"
+                                "\\n<Magician B>Whoa, hey! Slip...! With this, I can't... cast spells...!!"
                             ]
                         },
                         {
@@ -13197,7 +13197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>Abort the plan!! Abort!! Magician squad, stop chanting and\nfall back! Abort!! ABORT-!!!"
+                                "\\n<Commander>Abort the plan!! Abort!! Magician squad, stop chanting and\nfall back! Abort!! Abort-!!!"
                             ]
                         },
                         {
@@ -13237,7 +13237,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>It's no use! I can't watch this anymore! Move! I'm going\ndown to fight! I don't care if I can't come back!!"
+                                "\\n<Adventurer A>I can't stand this anymore! Move aside! I'm going down to\nfight! I don't care if I can't come back!!"
                             ]
                         },
                         {
@@ -13303,7 +13303,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier D>I'm going to fight too!! Who cares about Driane or Lumare!!"
+                                "\\n<Soldier D>I'm going to fight too!! Whether Driane or Lumare exists or\nnot!!"
                             ]
                         },
                         {
@@ -13369,7 +13369,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier F>Who was that! Who just said something clever!? When this is\nover, I'll buy you a beer!! Men! Let's goooooo!!!"
+                                "\\n<Soldier F>Who was that! Who just said something clever!? After this is\nover, I'll treat you to a beer!! Men! Let's goooooo!!!"
                             ]
                         },
                         {
@@ -14952,7 +14952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mele>Besides, Rui is here. That child will surely save both\nDriane and Lumare. I can tell."
+                                "\\n<Mele>Besides, Katara is here. That child will surely save both\nDriane and Lumare. I can tell."
                             ]
                         },
                         {
@@ -15105,7 +15105,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>Damn it...!!! Idiots!!! Don't bring the coagulation crystal\nhere!!!"
+                                "\\n<Count Noblesse>Damn it...!!! Idiots!!! Don't bring the coagulation crystal\nover here!!!"
                             ]
                         },
                         {
@@ -15174,7 +15174,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Commander>I see, gunpowder and magicians. You've arranged things quite\nwell. We'll have a detailed discussion about this later."
+                                "\\n<Commander>I see, gunpowder and magicians. You've made quite the\narrangements. We'll have a detailed discussion about this\nlater."
                             ]
                         },
                         {
@@ -16330,7 +16330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A lodging with beds so comfortable you look forward to\nsleeping, and a delicious breakfast that makes waking up a\ndelight! Please inquire at the reception when you stay♪"
+                                "A lodging so delightful that you look forward to going to\nbed, and with a breakfast so delicious that you look forward\nto waking up! Please enjoy your stay and check in at the\nreception♪"
                             ]
                         },
                         {
@@ -16347,7 +16347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(A bed you can't sleep in, and a breakfast so awful it\nmakes you want to vomit. It's a far cry from the inn below.)"
+                                "\\n<Katara>...(A bed you can't sleep in, and a breakfast so awful it\nmakes you want to puke. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -17913,7 +17913,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>Greetings. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the most charming\nlodging I've found."
+                                "\\n<Magician>Greetings. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the most charming place\nto stay."
                             ]
                         },
                         {
@@ -17930,7 +17930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so your skin will be glowing♥"
+                                "\\n<Magician>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so your skin will be glowing♥"
                             ]
                         },
                         {
@@ -17947,7 +17947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>The food was also exquisite, with a focus on quality\ningredients. The bed felt like sleeping on clouds, giving a\nsense of floating."
+                                "\\n<Magician>The cuisine is also exquisite, with a focus on quality\ningredients. The beds are like sleeping on clouds, they even\ngive you a sense of floating."
                             ]
                         },
                         {
@@ -17971,7 +17971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18055,7 +18055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the entrance to the Rumare Guild. It doesn't smell\nas much of alcohol compared to downstairs... I should have\nregistered here."
+                                "This is the entrance to the Rumare Guild. It doesn't smell\nas much of alcohol compared to downstairs... I should have\nregistered here instead."
                             ]
                         },
                         {
@@ -18139,7 +18139,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the most charming\nlodging I've found."
+                                "\\n<Magician>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and this has been the most wonderful lodging."
                             ]
                         },
                         {
@@ -18156,7 +18156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has infused it with magic, so it\nleaves your skin glowing♥"
+                                "\\n<Magician>There's even a little hot spring out back. It's not natural,\nbut a healing mage has dissolved magical power into it, so\nyour skin will be glowing♥"
                             ]
                         },
                         {
@@ -18173,7 +18173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>The cuisine is also exquisite, with a focus on quality\ningredients. The beds are like sleeping on clouds, they even\ngive you a sense of floating."
+                                "\\n<Magician>The food was also exquisite, with a focus on quality\ningredients. The bed felt like sleeping on clouds, giving a\nsense of floating."
                             ]
                         },
                         {
@@ -18197,7 +18197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18528,7 +18528,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and it turned out to be the loveliest lodging\nI've found."
+                                "\\n<Magician>Greetings. Are you also staying at this inn? I stopped by on\nmy journey, and this has been the most wonderful lodging\nI've found."
                             ]
                         },
                         {
@@ -18545,7 +18545,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magic into it, so\nit leaves your skin glowing♥"
+                                "\\n<Magician>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so it makes your skin silky smooth♥"
                             ]
                         },
                         {
@@ -18562,7 +18562,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>The food was also exquisite, with a focus on quality\ningredients. The bed was like sleeping on a cloud, they even\nmanaged to give it a sense of floating."
+                                "\\n<Magician>The food is also exquisite, with a focus on quality\ningredients. The bed felt like sleeping on clouds, giving a\nsense of floating."
                             ]
                         },
                         {
@@ -18586,7 +18586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18797,7 +18797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>Are you an adventurer from below? You may pass. Adventurers\nare treated as \"those who belong nowhere.\" Basically, if\nthere's a request, you can enter anywhere."
+                                "\\n<Soldier>Are you one of the adventurers below? You may pass.\nAdventurers are treated as \"those who belong nowhere.\"\nBasically, if there's a request, you can enter anywhere."
                             ]
                         },
                         {
@@ -19519,7 +19519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Oh, it's you from the other day! How are you? Did you come\nup here for work today?"
+                                "\\n<Adventurer A>Oh, you're from that time! How are you? Did you come up here\nfor work today?"
                             ]
                         },
                         {
@@ -19730,7 +19730,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Heavily Armored Adventurer>Rumors about a cat beastman adventurer...? Ah, I know of\nthem. They're twins, right?"
+                                "\\n<Heavily-Armored Adventurer>Rumors of a cat beastman adventurer...? Ah, I know of them.\nThey're twins, right?"
                             ]
                         },
                         {
@@ -19747,7 +19747,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Heavily Armored Adventurer>Oh, it's you. Anything else? Hmm... sorry, I can't think of\nanything."
+                                "\\n<Heavily-Armored Adventurer>Oh, that's you? Anyone else? Hmm... sorry, I can't think of\nanyone."
                             ]
                         },
                         {
@@ -19905,7 +19905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
+                                "\\n<Katara>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -19932,7 +19932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
+                                "\\n<Katara>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {

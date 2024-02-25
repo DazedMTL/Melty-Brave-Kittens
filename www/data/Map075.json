@@ -4103,7 +4103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Constance>Radlo's mom is such a great cook! She praises me a lot if I\nfinish my meal, but I can't leave any even if I wanted\nto—it's too delicious!"
+                                "\\n<Constance>Radlo-mama is really good at cooking! She praises me a lot\nif I eat everything, but I can't leave any even if I wanted\nto because it's so delicious!"
                             ]
                         },
                         {
@@ -4393,7 +4393,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Fair>I'm the eldest here! That means I'm the most important!\nSecond only to Lady Radlo! Show some respect!"
+                                "\\n<Fair>I'm the oldest one here! That means I'm the most important!\nSecond only to Lady Radlo! Show some respect!"
                             ]
                         },
                         {
@@ -4410,7 +4410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Fair>Ah, but I read in a book that important people don't say\nthey're important themselves! I'm not saying I'm important,\nbut I am the eldest! I'm really not important! It's true!"
+                                "\\n<Fair>Ah, but I read in a book that important people don't say\nthey're important themselves! I'm not saying I'm important,\nbut I am the oldest! I'm really not important! It's true!"
                             ]
                         },
                         {
@@ -4501,7 +4501,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>You know, I actually think that Radlo's mom is pretty cute!"
+                                "\\n<Francois>You know, I actually think that Radroma mama is pretty cute!"
                             ]
                         },
                         {
@@ -4518,7 +4518,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>Hey, this is a secret, alright? Don't you dare tell anyone\nelse! If you do, I'll pinch you!"
+                                "\\n<Francois>Hey, this is a secret, alright! Don't you dare tell anyone\nelse! If you do, I'll pinch you!"
                             ]
                         },
                         {
@@ -4609,7 +4609,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>\"I want to become a scholar. If I can solve even one of the\n10,000 mysteries of this world, then it's a victory for me!\""
+                                "\\n<Roar>I want to become a scholar. If I can solve even one of the\n10,000 mysteries of this world, then it's my victory!"
                             ]
                         },
                         {
@@ -4626,7 +4626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>\"Some people say this place isn't suited for studying, but\nI'm sure there are things that can only be learned here.\nI'll show them that one's birth and upbringing have nothing\nto do with scholarship!\""
+                                "\\n<Roar>Some people say this place isn't suited for studying, but\nthere must be things that can only be learned here. I'll\nshow them that one's birth and upbringing have nothing to do\nwith scholarship!"
                             ]
                         },
                         {
@@ -5481,7 +5481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"Staying in the noble district means a lot of climbing up\nand down, which is quite harsh on an old body like mine.\""
+                                "\\n<Grandpa>Staying in the noble district means a lot of climbing up and\ndown. It's quite harsh on an old body like mine."
                             ]
                         },
                         {
@@ -5519,7 +5519,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"The head of the house is furious. If it's discovered that\nI've been turning a blind eye like this, I might lose my\nhead. Please persuade them if that happens.\""
+                                "\\n<Grandpa>The head of the family is furious. If they find out I've\nbeen turning a blind eye, I might lose my head. Please plead\non my behalf if that happens."
                             ]
                         },
                         {
@@ -5557,7 +5557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"Right now, everyone in the mansion is searching for the two\nof you. Well, they'd never imagine you're in Dri-Ne, so\nthere's no worry of being found.\""
+                                "\\n<Grandpa>Right now, everyone in the mansion is searching for the two\nof you. Well, they'd never imagine you're in Drine, so\nthere's no worry of being found."
                             ]
                         },
                         {
@@ -5595,7 +5595,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"How did I know you were here? Well, as your educator, I can\nsee right through both of your thoughts.\""
+                                "\\n<Grandpa>How did I know you were here? Well, as your tutor, I can see\nright through your thoughts."
                             ]
                         },
                         {
@@ -5612,7 +5612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"However, my body can't keep up anymore... It took quite\nsome time to get here. It was about six days of rest and\ntravel by carriage.\""
+                                "\\n<Grandpa>But my body can't keep up anymore... It took quite some time\nto get here. It was about a six-day journey by carriage,\nwith plenty of rests."
                             ]
                         },
                         {
@@ -5629,7 +5629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"You didn't come all this way in one night, did you? No\nmatter how high your physical abilities and the blessings of\nthe wind are... Goodness. You're practically a monster.\""
+                                "\\n<Grandpa>[Human], did you really get here in one night? No matter how\nhigh your physical abilities and the blessing of the wind...\nGoodness. You're practically a monster."
                             ]
                         },
                         {
@@ -5667,7 +5667,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"It seems beastfolk are rare around here. I've only seen an\nelderly tanuki. I'm an old dog myself.\""
+                                "\\n<Grandpa>It seems beastfolk are rare around here. I've only seen an\nelderly tanuki. I'm an old dog myself."
                             ]
                         },
                         {
@@ -5705,7 +5705,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"I should have dressed more shabbily. The residents of the\nslums are giving me quite the look.\""
+                                "\\n<Grandpa>I should have dressed more shabbily. The residents of the\nslums are giving me some intense stares."
                             ]
                         },
                         {
@@ -5722,7 +5722,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"I'm well-versed in self-defense, so there's no problem if\nI'm attacked. Still spry in my old age. Just a bit of joint\npain, though.\""
+                                "\\n<Grandpa>I'm well-versed in self-defense, so it's no problem if I'm\nattacked. Still spry in my old age. Just a bit of joint\npain, though."
                             ]
                         },
                         {
@@ -5760,7 +5760,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"I won't enter the Adventurers' Guild. It would be\ntroublesome if your identities were questioned. I'll just\nloiter around here.\""
+                                "\\n<Grandpa>I won't enter the Adventurer's Guild. It would be\ntroublesome if your identities were questioned. I'll just\nloiter around here."
                             ]
                         },
                         {
@@ -5798,7 +5798,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"That vase was a gift from the head of the house two\ngenerations ago. We were close in age, and he treated me\nlike a friend... He was a bright person, like Miss Chelsea.\""
+                                "\\n<Grandpa>That vase was a gift from the head of the family two\ngenerations ago. We were close in age, and he treated me\nlike a friend... He was as cheerful as Miss Chelsea."
                             ]
                         },
                         {
@@ -5815,7 +5815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"The fact that it was broken by you might have been some\nsort of divine revelation. I take it as a message from two\ngenerations ago.\""
+                                "\\n<Grandpa>That [Human] broke it might have been some kind of divine\nrevelation. I take it as a message from the previous head of\nthe family."
                             ]
                         },
                         {
@@ -5853,7 +5853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"You use 'Cat's Paw' in combat, but it was originally meant\nto assist with writing documents and such. It's a magic used\nby the executive branch.\""
+                                "\\n<Grandpa>[Human] uses \"Cat's Paw\" in combat, but originally it was\nmeant to assist with writing documents and such. It's a\nmagic used by the executive branch."
                             ]
                         },
                         {
@@ -5870,7 +5870,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"There's a saying, 'even a cat's hand is desired,' right?\nThat's the origin of this phrase. It's that venerable a\nmagic.\""
+                                "\\n<Grandpa>There's a saying, \"even a cat's hand is desired,\" right?\nThat's where it comes from. It's a magic with quite an\nhonorable history."
                             ]
                         },
                         {
@@ -5908,7 +5908,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"I am watching over both of your growths. However, since you\nleft home on your own, I will not lend a hand. My hands,\nthat is.\""
+                                "\\n<Grandpa>I am watching over your growth, but since you left home on\nyour own, I won't lend a hand. My hands, that is."
                             ]
                         },
                         {
@@ -5946,7 +5946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"By the way... You are still in the midst of growing up. I\nhope you make the right choices.\\C[1] (Current Karma Value\n0)\""
+                                "\\n<Grandpa>By the way... [Human], you are still in the midst of growing\nup. I hope you make the right choices.\\C[1] (Current Karma\nValue 0)"
                             ]
                         },
                         {
@@ -5984,7 +5984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"By the way... You seem to have grown since before you came\nhere. This old man is a bit relieved.\\C[1] (Current Karma\nValue \\v[270])\""
+                                "\\n<Grandpa>By the way... since coming here, it seems [Human] has grown.\nThis old man is a bit relieved.\\C[1] (Current Karma Value\n\\v[270])"
                             ]
                         },
                         {
@@ -6022,7 +6022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>\"By the way... You seem to have changed your aura. Don't do\nanything too reckless.\\C[14] (Current Karma Value \\v[270])\""
+                                "\\n<Grandpa>By the way... [Human], you seem to have changed somehow.\nDon't do anything too reckless.\\C[14] (Current Karma Value\n\\v[270])"
                             ]
                         },
                         {
@@ -6417,7 +6417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>Ugh...! I'm weak against these sudden attacks! I'm the type\nwho needs to prepare thoroughly!"
+                                "\\n<Rintei>Ugh...! I'm weak against these sudden attacks! I'm the type\nwho needs to prepare thoroughly!"
                             ]
                         },
                         {
@@ -6434,7 +6434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>But I can't afford to lose! Lynx, Cunes... lend me your\nstrength...!"
+                                "\\n<Rintei>But I can't afford to lose! Lynx, Cunes... lend me your\nstrength...!"
                             ]
                         },
                         {
@@ -6603,7 +6603,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>The name of this town is \"Drain\". It means sinkhole. It's a\nhole that suddenly appeared due to the ground collapsing.\nThis town was built inside of it."
+                                "\\n<Female>\"The name of this town is 'Dri-Ne'. It means 'sinkhole'. A\nhole that suddenly appeared due to the ground collapsing.\nThat's how this town came to be.\""
                             ]
                         },
                         {
@@ -6620,7 +6620,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>The upper class lives above this town, and people like us,\nthe lower class, live off the scraps they throw away."
+                                "\\n<Female>\"Above this town live the upper class, and us commoners like\nme live off the scraps they throw away.\""
                             ]
                         },
                         {
@@ -6637,7 +6637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>This is where those who have lost their way end up,\nswallowed up like into a drain. All sorts of schemes and\ndesires swirl around here."
+                                "\\n<Female>\"This is where those who have lost their way end up,\nswallowed up like into a drain. All sorts of schemes and\ndesires swirl around here.\""
                             ]
                         },
                         {
@@ -6826,7 +6826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Rui! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -6951,7 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey! Rui!\nIt's an attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\nKatara! It's an attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -6977,7 +6977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Rui!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
+                                "\\n<Dodon>Ahh!? Louie!? I'm not looking! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -7004,7 +7004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Ones!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
+                                "\\n<Dodon>Ahh!? Wanz!? I'm not looking! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -7275,7 +7275,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper>\"What's this? Monsters are attacking? Is this how the town\nends? Pathetic.\""
+                                "\\n<Innkeeper>\"What's this? Monsters attacking? Is this how the town ends?\nPathetic.\""
                             ]
                         },
                         {
@@ -7391,7 +7391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Peddler>Good grief. This is what happens during my drinking time.\nWhat a hassle this has become. You're going to fight, aren't\nyou? Huh."
+                                "\\n<Peddler>Good grief. This is what happens during my time for an\nevening drink. What a hassle this has become. You're going\nto fight, aren't you? Huh."
                             ]
                         },
                         {
@@ -7519,7 +7519,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Peddler>Money? Of course, I'm taking it. I'm a merchant till I die.\nWhen I'm dead, you can take it all. But don't kill me, okay?"
+                                "\\n<Peddler>Money? Of course, I'm going to take it. I'm a merchant until\nI die. When I'm dead, you can take it all. But don't kill\nme, okay?"
                             ]
                         },
                         {
@@ -7846,7 +7846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Tanuki Beastman>I got caught living it up after transforming leaves into\nbills. Ended up fleeing to this town. It's better than a\ncell, right? They say home is where you make it."
+                                "\\n<Tanuki Beastman>I got caught living it up after transforming leaves into\nbills. Ended up fleeing to this town. It's better than a\ncell, I guess. They say home is where you make it, right?"
                             ]
                         },
                         {
@@ -11243,7 +11243,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -12223,7 +12223,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -12930,7 +12930,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>\"Ah, what? Suddenly rocks are falling... Hmm?\""
+                                "\\n<Annie>Ah, what? Suddenly rocks are falling...hmm?"
                             ]
                         },
                         {
@@ -12956,7 +12956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>\"Uh... Ah? Is this heaven?\""
+                                "\\n<Dodon>Uh...ah? Is this heaven?"
                             ]
                         },
                         {
@@ -12982,7 +12982,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rakura>\"...This isn't Dreamy Meadow. Where is this?\""
+                                "\\n<Rakura>...This isn't Dreamy-Ne. Where is this?"
                             ]
                         },
                         {
@@ -13068,7 +13068,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\"Cough! Cough! Hah? Seriously...? There are too many humans\nhere! Ugh...!!\""
+                                "\\n<???>*cough*! *cough*! Haa? Seriously...? There are too many\nhumans! Ugh...!!"
                             ]
                         },
                         {
@@ -13094,7 +13094,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>\"Wh-what's all this... Cough! Bleh...!\""
+                                "\\n<???>Wh-what's with this... *cough*! *gag*...!"
                             ]
                         },
                         {
@@ -13146,7 +13146,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord'S Aide>\"Eh-... Welcome to the Demon Lord's castle, humans.\""
+                                "\\n<The Demon Lord's Aide>Eh-...Welcome. To the Demon Lord's castle, humans."
                             ]
                         },
                         {
@@ -13172,7 +13172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>\"Wha, Demon Lord's castle...!? What do you mean!?\""
+                                "\\n<Grandpa>Wha, Demon Lord's castle...!? What do you mean!?"
                             ]
                         },
                         {
@@ -13198,7 +13198,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>\"Eh...? It's just a forest. There's just a chair placed in\nthe forest. Eh? Demon Lord?\""
+                                "\\n<Seibel>Eh...? It's just a forest. There's just a chair placed in\nthe forest. Eh? Demon Lord?"
                             ]
                         },
                         {
@@ -13247,7 +13247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>\"Um... Demon Lord? What exactly is this...\""
+                                "\\n<Terra>Um... Demon Lord? What is all this..."
                             ]
                         },
                         {
@@ -13280,7 +13280,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"You know... you all were about to be buried alive. Do you\nget that... ugh... I feel sick...\""
+                                "\\n<The Demon Lord>You know... you all were about to be buried alive. Do you\nunderstand that... ugh... uweehh!! I feel like vomiting..."
                             ]
                         },
                         {
@@ -13306,7 +13306,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord'S Aide>\"By the Demon Lord's ingenious arrangement, you were all\ninvited to the Demon Lord's castle via a wide-range\nteleport. Isn't that right?\""
+                                "\\n<The Demon Lord's Aide>By the Demon Lord's ingenious arrangement, you were all\ninvited to the Demon Lord's castle via a wide-range\nteleport. Isn't that right?"
                             ]
                         },
                         {
@@ -13339,7 +13339,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"No, that's not it... Look, you wouldn't understand... ha...\nha...\""
+                                "\\n<The Demon Lord>No, that's not it... Look here... *sigh*... *sigh*... You\nwouldn't understand..."
                             ]
                         },
                         {
@@ -13365,7 +13365,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"To me, demons are like... umm. Bottle ships. You get it? Do\nyou know what a bottle ship is?\""
+                                "\\n<The Demon Lord>To me, demons are like... umm. Bottle ships. You get it? Do\nyou know what a bottle ship is?"
                             ]
                         },
                         {
@@ -13391,7 +13391,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"You use toothpicks, tweezers, and stuff to make intricate\nship models inside a bottle. That's what I'm talking about.\nCough!\""
+                                "\\n<The Demon Lord>You know, using toothpicks and tweezers to make an intricate\nmodel ship inside a bottle. That's what I'm talking about.\n*cough*!"
                             ]
                         },
                         {
@@ -13408,7 +13408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"They're like works of art. Super delicate. Especially the\nhigher-ups. Well, imps and such are fine even if they get\ncrushed.\""
+                                "\\n<The Demon Lord>It's a work of art. Extremely delicate. Especially the\nhigher-ups. Well, imps and such are fine even if they get\ncrushed."
                             ]
                         },
                         {
@@ -13425,7 +13425,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Every single day, gluing tiny parts together, meticulously,\nmeticulously, inserting tweezers into the bottle, and if\neven one part is wrong, it's all over.\""
+                                "\\n<The Demon Lord>Every single day, gluing tiny parts together, meticulously,\nmeticulously, inserting tweezers into the bottle, and if\neven one part is wrong, it's all over."
                             ]
                         },
                         {
@@ -13442,7 +13442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"It's madness, isn't it? And when it's finally complete.\nHave you ever thought about how it feels to have it\ndestroyed?\""
+                                "\\n<The Demon Lord>It's not sane, right? And when it's finally complete. Have\nyou ever thought about how it feels to have it destroyed?"
                             ]
                         },
                         {
@@ -13468,7 +13468,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"It's beyond just flipping out. To me, demons are bottle\nships. How about that. Did I make myself clear? Ugh, I feel\nlike vomiting...\""
+                                "\\n<The Demon Lord>It's beyond just flipping out. To me, demons are bottle\nships. How about that. It got through to you clearly, didn't\nit. Ugh, uweh..."
                             ]
                         },
                         {
@@ -13494,7 +13494,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aide>\"As expected, your analogy is very easy to understand. Even\nthe dim-witted war bears would have grasped it.\""
+                                "\\n<Aide>As expected of you. An extremely easy-to-understand analogy.\nEven a low-intelligence Warbear would have understood."
                             ]
                         },
                         {
@@ -13607,7 +13607,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>\"So, in other words... you teleported us over a wide area to\nsave us, and humans came along too, is that correct?\""
+                                "\\n<Terra>So, in other words... you teleported us over a wide area to\nsave us, and humans came along too, is that correct?"
                             ]
                         },
                         {
@@ -13640,7 +13640,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"I only knew the approximate location. Thanks to that, I've\nbeen feeling dizzy and nauseous since... cough! I'm drained\nof magic power.\""
+                                "\\n<The Demon Lord>I only knew the approximate location. Thanks to that, I've\nbeen feeling dizzy and nauseous since earlier... *cough*!\nI'm running out of magical power."
                             ]
                         },
                         {
@@ -13657,7 +13657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Wait a minute... let me rest. Don't you all move... cough!\ncough!\""
+                                "\\n<The Demon Lord>Wait a minute... let me rest. Don't move, any of you...\n*cough*! *cough*!"
                             ]
                         },
                         {
@@ -13715,7 +13715,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>\"(Is he hiding behind the chair because he's weakened...?)\""
+                                "\\n<Latier>(Is he hiding behind the chair because he's weakened...?)"
                             ]
                         },
                         {
@@ -13758,7 +13758,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>\"(So he's hiding behind the chair because he's weakened...)\""
+                                "\\n<Terra>(So he's hiding behind the chair because he's weakened...)"
                             ]
                         },
                         {
@@ -13817,7 +13817,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>\"(Demon Lord, to go to such lengths for Megna's sake...!\nMegna is so moved♥)\""
+                                "\\n<Megna>(Demon Lord, to go to such lengths for Megna...! Megna is\nmoved♥)"
                             ]
                         },
                         {
@@ -13876,7 +13876,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>\"(Barley, you better not laugh at all. Seriously, you'll get\nkilled.)\""
+                                "\\n<Sheika>(Barley, you better not laugh at all. Seriously, you'll get\nkilled.)"
                             ]
                         },
                         {
@@ -13909,7 +13909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Barley>\"(No, but the Demon Lord behind the chair...♥ I can't stand\nthis atmosphere...♥)\""
+                                "\\n<Barley>(No, but the Demon Lord behind the chair...♥ I can't stand\nthis atmosphere...♥)"
                             ]
                         },
                         {
@@ -13942,7 +13942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>\"(Ah, I can't take this either. Someone change the mood,\nplease!)\""
+                                "\\n<Sheika>(Ah, I can't take it either. Someone change the mood.\nPlease!)"
                             ]
                         },
                         {
@@ -13975,7 +13975,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Barley>\"(Ugh...♥ Ah...♥)\""
+                                "\\n<Barley>(Ugh...♥ Kuh...♥)"
                             ]
                         },
                         {
@@ -14034,7 +14034,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ladro>\"(The stronghold of demons...? But for now, it's good that\nthe children are safe. We're not out of danger yet\nthough...)\""
+                                "\\n<Ladro>(The stronghold of demons...? But for now, it's good that\nthe children are safe. We're not out of danger yet\nthough...)"
                             ]
                         },
                         {
@@ -14093,7 +14093,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>\"(Teleporting this many from a distance...? It must have\nconsumed an extraordinary amount of magic power. Even\nweakened, I can't stop shivering...)\""
+                                "\\n<Soel>(A group teleport from a distance with this number of\npeople...? It must have consumed an extraordinary amount of\nmagical power. Even though he's weakened, I can't stop\nshivering...)"
                             ]
                         },
                         {
@@ -14143,7 +14143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>\"(I only remember up until the guild was blown away. If I\nknew this would happen, I should have escaped sooner... My\ndrunkenness has completely worn off.)\""
+                                "\\n<Bijou>(I only remember up until the guild was blown away. If I\nknew this would happen, I should have escaped sooner... My\ndrunkenness has completely sobered up.)"
                             ]
                         },
                         {
@@ -14185,7 +14185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>\"(That's the Demon Lord? Damn it. Can't see from here. Quite\nthe talkative one.)\""
+                                "\\n<Guild Master>(Is that the Demon Lord? Damn it. Can't see from here. He\nsure talks a lot.)"
                             ]
                         },
                         {
@@ -14221,7 +14221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>\"(The young master and young lady seem safe as well... But\nwhy are they on that side...?)\""
+                                "\\n<Grandpa>(The young master and young lady seem to be safe as well...\nBut why are they on that side...?)"
                             ]
                         },
                         {
@@ -14247,7 +14247,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Phew... I'm starting to feel a bit better. It's tough...\""
+                                "\\n<The Demon Lord>Phew... I'm starting to feel a bit better. So tired..."
                             ]
                         },
                         {
@@ -14273,7 +14273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"So, what I'm trying to say is this. What's done is done.\nHumans. You're all going to be killed.\""
+                                "\\n<The Demon Lord>So, what I'm trying to say is this. What's done is done.\nHumans. All of you are going to be killed."
                             ]
                         },
                         {
@@ -14290,7 +14290,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"But that's not a constructive conversation. Rather, it's\nnot interesting. This must be some kind of fate.\""
+                                "\\n<The Demon Lord>But that's not a constructive conversation. Rather, it's not\ninteresting. This must be some kind of fate."
                             ]
                         },
                         {
@@ -14307,7 +14307,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Humans are ugly creatures. You're humans yet you were\nalmost killed by humans. Judging from the coagulation\ncrystal matter, it was planned from the start.\""
+                                "\\n<The Demon Lord>Humans are ugly creatures. You humans were almost killed by\nother humans. Judging from the coagulation crystal matter,\nit was planned from the start."
                             ]
                         },
                         {
@@ -14324,7 +14324,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Using the coagulation crystal to lure demons and attack the\nslums. Then burying everyone alive to catch them all in one\nfell swoop. Anyone here have an idea who might be\nresponsible?\""
+                                "\\n<The Demon Lord>Using the coagulation crystal to lure demons and attack the\nslums. Then burying everyone alive to catch them all in one\nfell swoop. Anyone here have an idea who might be\nresponsible?"
                             ]
                         },
                         {
@@ -14359,7 +14359,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>\"Ah... Yeah, no doubt about it. What the Demon Lord is\nsaying is correct. It was orchestrated by Count Noblesse.\""
+                                "\\n<Guild Master>Ah... yes, there's no doubt about it. What the Demon Lord is\nsaying is correct. It was orchestrated by Count Noblesse."
                             ]
                         },
                         {
@@ -14401,7 +14401,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Radro>\"...(It's my fault for stealing it. Even if I was forced to\nsteal, it's... my fault that everyone got involved.)\""
+                                "\\n<Radro>... (It's my fault for stealing it. Even if I was forced to\nsteal, it's... my fault that everyone got involved.)"
                             ]
                         },
                         {
@@ -14470,7 +14470,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Radro>\"...(It's my fault for stealing it. Even if I was forced to\nsteal, it's... my fault that everyone got involved.)\""
+                                "\\n<Radro>... (It's my fault for stealing it. Even if I was forced to\nsteal, it's... my fault that everyone got involved.)"
                             ]
                         },
                         {
@@ -14504,7 +14504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Demon Lord>\"Such a plan couldn't have been concocted overnight. There\nmust have been meticulous preparation. Gunpowder, sorcerers,\nbarrier technicians. Could they have conveniently gathered\nin such a short time?\""
+                                "\\n<The Demon Lord>Such a plan couldn't have been concocted overnight. There\nmust have been meticulous preparation. Gunpowder, sorcerers,\nbarrier technicians. Could they really gather all that in\nsuch a short time?"
                             ]
                         },
                         {
@@ -14531,7 +14531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"If things had stayed the same, you all would have been\nburied alive by those above. In other words, I'm your\nlifesaver. Right?\""
+                                "\\n<The Demon Lord>If things had continued as they were, you all would have\nbeen buried alive by those above. In other words, I'm your\nlifesaver. Isn't that right?"
                             ]
                         },
                         {
@@ -14548,7 +14548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Your lives were picked up by me. It's only logical to use\nthem for me. You were about to be killed by humans. Become\nmy subordinates and let's take revenge on the humans.\""
+                                "\\n<The Demon Lord>Your lives were picked up by me. It's only logical to use\nthem for my sake. You were about to be killed by humans.\nBecome my subordinates and let's take revenge on the humans."
                             ]
                         },
                         {
@@ -14574,7 +14574,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>\"True... Unforgivable. They tried to kill us... all the\npeople in the slums.\""
+                                "\\n<Dodon>T-true... Unforgivable. They tried to kill us... all the\npeople in the slums."
                             ]
                         },
                         {
@@ -14600,7 +14600,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>\"We were certainly a thorn in their side. Or rather, under\ntheir eye. But being buried alive... that's too much.\""
+                                "\\n<Seibel>We were certainly a thorn in their side. Or should I say\nunder their eyes? But being buried alive... that's too much."
                             ]
                         },
                         {
@@ -14626,7 +14626,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Innkeeper Granny>\"Those scumbags above. They even tried to bury this old\nlady. They could at least wait until I die.\""
+                                "\\n<Innkeeper Granny>Those scumbags above. They even tried to bury this old\nwoman. They could at least wait until I die."
                             ]
                         },
                         {
@@ -14661,7 +14661,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>\"I'm boiling with rage. That bastard...\""
+                                "\\n<Guild Master>I feel like my guts are boiling. That bastard..."
                             ]
                         },
                         {
@@ -14716,7 +14716,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>\"No! If the demons hadn't attacked, those above wouldn't\nhave done such a thing!\""
+                                "\\n<Rintei>No, you're wrong! If the demons hadn't attacked, those above\nwouldn't have done such a thing!"
                             ]
                         },
                         {
@@ -14792,7 +14792,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>\"You mustn't listen to what the Demon Lord says! We are\nhumans! Humans shouldn't harbor hatred towards each other!\nDemons are meant to lead people astray...\""
+                                "\\n<Rintei>You mustn't listen to what the Demon Lord says! We are\nhumans! Humans shouldn't harbor hatred towards each other!\nDemons are meant to lead people astray..."
                             ]
                         },
                         {
@@ -14942,7 +14942,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rakura>\"Lintei!!\""
+                                "\\n<Rakura>Rintei!!"
                             ]
                         },
                         {
@@ -14968,7 +14968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Don't get the choices mixed up. I'm not talking about\nsiding with humans or demons. It's about whether you become\nmy subordinates or die right now.\""
+                                "\\n<The Demon Lord>Don't get the choices mixed up. I'm not talking about\nwhether to side with humans or demons. The choice is whether\nto become my subordinate or die right now."
                             ]
                         },
                         {
@@ -14994,7 +14994,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>\"It's... okay. It's not a... fatal wound...\""
+                                "\\n<Rintei>It's... okay. It's not a fatal wound... not yet..."
                             ]
                         },
                         {
@@ -15020,7 +15020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Aide>\"No, it's definitely a fatal wound. Your guts are spilling\nout.\""
+                                "\\n<Aide>No, it's definitely a fatal wound. Your guts are spilling\nout."
                             ]
                         },
                         {
@@ -15053,7 +15053,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>\"Okay, I understand! We'll do as you say! But please heal\nLintei! I beg you!\""
+                                "\\n<Annie>O-okay! I'll do as you say! But please heal Rintei! I beg\nyou!"
                             ]
                         },
                         {
@@ -15086,7 +15086,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Fine. Well, that's acceptable. Always obey my orders. If\nyou do, I'll at least guarantee your lives.\""
+                                "\\n<The Demon Lord>Fine. Well, that's okay then. You must obey every command.\nIf you do, I'll at least guarantee your lives."
                             ]
                         },
                         {
@@ -15176,7 +15176,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>\"Please, Demon Lord-sama. I don't care what happens to me.\nCould you please spare just the children?\""
+                                "\\n<Radro>Please, Demon Lord-sama. I don't care what happens to me.\nBut please, spare the children."
                             ]
                         },
                         {
@@ -15209,7 +15209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Demon Lord>\"I'm not talking about forgiving or not forgiving.\nSeriously, humans don't listen. Fine! Whatever! It's so\nannoying! Do as you like!\""
+                                "\\n<The Demon Lord>I'm not talking about forgiving or not forgiving. Seriously,\nhumans just don't listen. Fine! Whatever! It's so annoying!\nDo as you like!"
                             ]
                         },
                         {
@@ -15242,7 +15242,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>\"...(Ah, as soon as I felt relieved, suddenly my strength\nis... I feel dizzy...)\""
+                                "\\n<Radro>... (Ah, as soon as I felt relieved, suddenly the strength\nis... I feel dizzy...)"
                             ]
                         },
                         {
@@ -15275,7 +15275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>\"...(Rui...)\""
+                                "\\n<Radro>... (Katara...)"
                             ]
                         },
                         {
@@ -15341,7 +15341,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>\"(I see. How interesting. If it means my life is saved, I\ndon't care which side I'm on.)\""
+                                "\\n<Bijou>(I see. How interesting. If it means my life is saved, I\ndon't care which side I'm on.)"
                             ]
                         },
                         {
@@ -15381,7 +15381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"Hey! Demons! If you eat these guys without my permission,\nI'll kill you! Got it? Those who try to escape can be\neaten!\""
+                                "\\n<The Demon Lord>Hey! Demons! If you eat these guys without my permission,\nI'll kill you! Got it? Those who try to escape can be eaten!"
                             ]
                         },
                         {
@@ -15398,7 +15398,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Demon Lord>\"For now, make these guys build a house or something. Keep a\nclose watch on them. That's all! Dismissed! Succubi, stay\nbehind!\""
+                                "\\n<The Demon Lord>For now, make these guys build a house or something. Keep a\nclose watch on them. That's all! Dismissed! Succubi, stay\nbehind!"
                             ]
                         },
                         {

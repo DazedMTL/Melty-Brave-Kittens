@@ -10055,7 +10055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rakura>Ugh, out of magical power... Looks like this is it for me.\nSorry! I'm dead."
+                                "\\n<Rakura>Ugh, out of magic power... Looks like this is it for me.\nSorry! I'm as good as dead."
                             ]
                         },
                         {
@@ -10081,7 +10081,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Ah, I can't go on either. I'm out of strength... To think\nI'd end up dying here with you guys. Well, it was pretty\nfun, Dodon. Rakura."
+                                "\\n<Annie>Ah, I'm done for too. My strength is... To think I'd end up\ndying here with you guys. Well, it was pretty fun, Dodon.\nRakura."
                             ]
                         },
                         {
@@ -10153,7 +10153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Prim>Hmm...? Do you feel a sinister presence?"
+                                "\\n<Prim>Hmm...? Do you feel that ominous presence?"
                             ]
                         },
                         {
@@ -10228,7 +10228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Rui...! Huh? Could that be..."
+                                "\\n<Terra>Katara...! What? Could it be that..."
                             ]
                         },
                         {
@@ -10381,7 +10381,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>What! So you had it from the start. To think you were\ncasting a barrier and sealing away the magical power. Haah,\nI was worried you were blown to smithereens."
+                                "\\n<Terra>What the-! So you had it from the start. To think you were\ncasting a barrier and sealing away the magic power. Haah, I\nwas worried you were blown to smithereens."
                             ]
                         },
                         {
@@ -10474,7 +10474,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Well then, let's go ahead and massacre the rest of the\nvillagers..."
+                                "\\n<Terra>Well then, let's go ahead and massacre the remaining\nvillagers..."
                             ]
                         },
                         {
@@ -11611,7 +11611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Rui! The town's in chaos! We've evacuated everyone who can't\nfight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -12034,7 +12034,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -12159,7 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey! Rui!\nIt's an attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\nKatara! It's an attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -12185,7 +12185,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Rui!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You protect the town too!"
+                                "\\n<Dodon>Ahh!? Louie!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -12212,7 +12212,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Ones!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You protect the town too!"
+                                "\\n<Dodon>Ahh!? Wanz!? Not looking, huh! Maybe they're fighting\nsomewhere else! You protect the town too!"
                             ]
                         },
                         {
@@ -13842,7 +13842,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guaaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -14834,7 +14834,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -15837,7 +15837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -17166,7 +17166,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -17586,7 +17586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -18299,7 +18299,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -18579,7 +18579,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaaaaahhh!!!"
+                                "\\n<Monster>Guaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -18719,7 +18719,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guaaaaaaahhh!!!"
                             ]
                         },
                         {
@@ -18999,7 +18999,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guuaaaaaaauuuu!!!"
                             ]
                         },
                         {

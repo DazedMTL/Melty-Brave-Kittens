@@ -11019,7 +11019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Don't come too close, it's dangerous. We throw trash down\nfrom here. If you lean out too much, you might fall\nyourself."
+                                "\\n<Man>Don't come any closer, it's dangerous. We throw trash down\nfrom here. If you lean out too much, you might fall\nyourself."
                             ]
                         },
                         {
@@ -11036,7 +11036,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Even if you survive a fall from here, you'd be stripped to\nthe skin and left naked. They're like demons, peeling\neverything off, even if you're injured."
+                                "\\n<Man>If you fall from here and by some miracle survive, you'll be\nstripped bare to the skin. They're like demons, peeling\neverything off, even if you're injured."
                             ]
                         },
                         {
@@ -11127,7 +11127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>I guess I don't need this bed anymore. If I drop it down, it\ncould at least serve as firewood. I'm someone who can\nconsider the people living below, after all."
+                                "\\n<Man>I really don't need this bed anymore. If I drop it down, it\ncould at least serve as firewood. I'm someone who can\nconsider the people living below, after all."
                             ]
                         },
                         {
@@ -11304,7 +11304,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Man>You know, what do you think of the residents of Dori-ne? Oh,\nare you the type who can easily cut down a monster that\nlooks like a person? I see. So you're the type with no\nqualms about that. An unpleasant type."
+                                "\\n<Man>You know, what do you think of the residents of Dri-Ne? Oh,\nare you the type who can easily cut down a monster that\nlooks like a person? I see. So you're the type with no\nqualms about that. An unpleasant type."
                             ]
                         },
                         {
@@ -11405,7 +11405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Oh, it's you from that time! How are you? Are you here on\nbusiness today?"
+                                "\\n<Adventurer A>Oh, it's you from that time! How are you? Are you here for\nwork today?"
                             ]
                         },
                         {
@@ -11422,7 +11422,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>The security job for the phantom thief before was easy,\nwasn't it? After all, we just stood around, and we got paid\nas usual."
+                                "\\n<Adventurer A>The security job for that thief last time was easy, huh?\nAfter all, we just stood around, and we got paid as usual."
                             ]
                         },
                         {
@@ -11439,7 +11439,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>After that, the captain of the guards got a serious\nscolding. That's definitely a demotion."
+                                "\\n<Adventurer A>After that, the captain of the guards got a real earful.\nThat's definitely going to be a demotion."
                             ]
                         },
                         {
@@ -11514,7 +11514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Hey, Rui... that was your name, right? How are you doing?"
+                                "\\n<Adventurer A>Hey, Katara... that was your name, right? How's it going?"
                             ]
                         },
                         {
@@ -11531,7 +11531,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Ever since then, there's been something odd about Count\nNoblesse. It seems like he's preparing for something big. A\nlot of large carriages have been passing through."
+                                "\\n<Adventurer A>Ever since then, the Count Noblesse has been acting strange.\nIt seems like he's preparing for something big. A lot of\nlarge carriages have been passing through."
                             ]
                         },
                         {
@@ -11548,7 +11548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Well, it's not really any of my business. I'm an adventurer,\nafter all. Non-interference in domestic affairs unless it's\nwork-related, that's the principle. I just want to live\nfreely, you know."
+                                "\\n<Adventurer A>Well, it's none of my business really. I'm an adventurer,\nafter all. Non-interference in domestic affairs outside of\nwork is my principle. I just want to live freely, you know."
                             ]
                         },
                         {
@@ -11702,7 +11702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It looks like a high-class inn... I'm sure the futons and\nbeds are soft and warm. The receptionist must be more\npleasant than that old lady too."
+                                "It looks like a fancy inn... I'm sure the futons and beds\nare soft and warm. The receptionist must be more pleasant\nthan that old lady too."
                             ]
                         },
                         {
@@ -11728,7 +11728,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is probably the inn where the old man is staying. Hmm,\nit's starting to make me angry."
+                                "This is probably the inn where grandpa is staying. Hmm, it's\nkind of making me angry."
                             ]
                         },
                         {
@@ -11832,7 +11832,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I bet the people in the upper guild are properly training.\nAs for everyone below... I haven't really seen them doing\nmuch other than drinking."
+                                "I bet the people in the upper guild are training properly.\nAs for everyone below... I hardly see them doing anything\nother than drinking."
                             ]
                         },
                         {
@@ -11909,7 +11909,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Training log. This is a very sturdy wood. It's been\nreinforced with a barrier spell, so it seems like it would\nfeel great to cast magic on it."
+                                "A training log. This is a very sturdy piece of wood. It's\nbeen reinforced with a barrier spell, so it seems like it\nwould feel great to cast magic on it."
                             ]
                         },
                         {
@@ -11926,7 +11926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The guard station is close by, so it seems the town guards\nare properly training. The guard below... was there a guard\nbelow?"
+                                "Since the guard station is nearby, it seems the town guards\nare properly trained. The guard below... was there a guard\nbelow?"
                             ]
                         },
                         {
@@ -12234,7 +12234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Quality material for clothes. They seem comfortable to wear.\nDurable and simple, but definitely worth buying. If only\nthere was a hole for the tail..."
+                                "Quality material for clothes. They seem comfortable to wear,\ndurable, and while simple, these are definitely worth\nbuying. If only there was a hole for the tail..."
                             ]
                         },
                         {
@@ -12311,7 +12311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a robe for magicians. Although magicians can wear\narmor, somehow robes just seem to fit better."
+                                "It's a robe for magicians. It's not like magicians can't\nwear armor, but somehow a robe just feels more fitting."
                             ]
                         },
                         {
@@ -12388,7 +12388,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A garment that combines cuteness with practicality. Perfect\nfor an adventure! I'll buy it next time."
+                                "Clothes that are both cute and practical. Perfect for an\nadventure! I'll buy them next time."
                             ]
                         },
                         {
@@ -12465,7 +12465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The symbol of the noble district \"Luma-Le,\" the Water Dragon\nFountain. It is said that if you make a wish and throw coins\ninto the fountain, the probability of your wish coming true\nincreases with the amount of money you throw in."
+                                "The symbol of the noble district \"Ruma-Re,\" the Water Dragon\nFountain. It is said that if you make a wish and throw a\ncoin into the fountain, the probability of your wish coming\ntrue increases with the amount of money you throw in."
                             ]
                         },
                         {
@@ -12697,7 +12697,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bread from Dori-ne is as hard as a rock! Bread that\ncould kill you if you hit your head on it isn't really bread\nat all..."
+                                "The bread in Dori-ne is as hard as a rock! Bread that could\nkill you if you hit your head with it isn't really bread at\nall..."
                             ]
                         },
                         {
@@ -12865,7 +12865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>It's dripping!"
+                                "\\n<Katara>T-taru!"
                             ]
                         },
                         {
@@ -12956,7 +12956,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A lodging with beds so comfortable you look forward to\nsleeping, and a delicious breakfast that makes waking up a\njoy! Please inquire at the reception when you stay♪"
+                                "A lodging with beds so comfortable you look forward to\nsleeping, and a delicious breakfast that makes waking up a\ndelight! Please inquire at the reception when you stay♪"
                             ]
                         },
                         {
@@ -12973,7 +12973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(A bed you can't sleep in, and a breakfast so awful it's\nmade by an old lady. It's a far cry from the inn below.)"
+                                "\\n<Katara>...(A bed you can't sleep in, and a breakfast so awful it's\nmade by an old lady. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -13071,7 +13071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>T-take this!"
+                                "\\n<Katara>T-tar!"
                             ]
                         },
                         {
@@ -13260,7 +13260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>It's dripping!"
+                                "\\n<Katara>T-tar!"
                             ]
                         },
                         {
@@ -13351,7 +13351,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Some kind of trash. I guess this should be thrown away too.\nIt smells and seems like no one would want it."
+                                "Some kind of trash. I guess this goes down below too. It\nstinks and seems like no one would want it."
                             ]
                         },
                         {
@@ -13442,7 +13442,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a slightly worn-out bed. It seems better than the dirty\none below. I want to take it home..."
+                                "It's a slightly worn-out bed. It seems better than the dirty\none below. I wish I could take it home..."
                             ]
                         },
                         {
@@ -13533,7 +13533,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A log is placed here. It has holes here and there where bugs\nhave eaten through it."
+                                "A log is placed here. It's riddled with holes where bugs\nhave eaten through it."
                             ]
                         },
                         {
@@ -13732,7 +13732,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "But more than that, I want to eat it."
+                                "But more importantly, I want to eat it."
                             ]
                         },
                         {
@@ -13823,7 +13823,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Who would have thought I'd be this envious of fried eggs and\nbread... But for now, I must resist. I'll persevere until\neverything is finished. But I do want to eat it."
+                                "I never thought I'd be this envious of fried eggs and\nbread... But for now, I must resist. I'll keep at it until\neverything is finished. But I want to eat it."
                             ]
                         },
                         {
@@ -14096,7 +14096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The scent of the black tea is lovely. I'd be content just\nsmelling it, but if possible, I'd love to have a taste."
+                                "The aroma of the black tea is delightful. I'd be content\njust smelling it, but if possible, I'd love to have a taste."
                             ]
                         },
                         {
@@ -14295,7 +14295,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rabbit Beastman>We're treated the same as humans, but being a beastman still\nmakes us stand out, huh? Are you free after this? Let's go\ngrab some food♥"
+                                "\\n<Rabbit Beastman>We're treated the same as humans, but being a beastman still\nmakes us stand out a bit, doesn't it? Are you free after\nthis? Let's go grab some food♥"
                             ]
                         },
                         {
@@ -14337,7 +14337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah, sorry! I've got work to do! Maybe next time♥ (Rabbits...\nI'm not good with them...)"
+                                "\\n<Katara>Ah, sorry! I have to work, so maybe another time♥\n(Rabbits... I'm not good with them...)"
                             ]
                         },
                         {
@@ -14371,7 +14371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah, um, well... I, I have work! Let's do it another time! (I\ndon't have good memories with rabbit beastmen...)"
+                                "\\n<Katara>Ah, um, well... I, I have work! So let's do it another time!\n(I don't have good memories with rabbit beastmen...)"
                             ]
                         },
                         {
@@ -14414,7 +14414,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rabbit Beastman>Work? You're lying♥ I can tell♥ Come on-come on♥ Let's hang\nout to kill some time? Come on-come on-come on♥"
+                                "\\n<Rabbit Beastman>Work? You're kidding, right♥ I can tell these things♥ Come\non- come on♥ Let's kill some time together? Come on- come\non- come on♥"
                             ]
                         },
                         {
@@ -14478,7 +14478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah-! Don't pull my arm! It's broken there! Ouch ouch ouch!\nSee you later! Bye-bye! (So persistent! Are they all like\nthis?!)"
+                                "\\n<Katara>Ah-! Don't pull my arm! It's broken there! Ouch ouch ouch!\nSee you later! Bye-bye! (So persistent! Are they all like\nthis?!)"
                             ]
                         },
                         {
@@ -14512,7 +14512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>No, really, I have work! Hey, don't pull on my arm! Guard!\nGuard!! (Rabbits are always so pushy!)"
+                                "\\n<Katara>No, really, I have work! Hey, don't pull on my arm! Guard!\nGuard!! (Rabbits are really forceful, huh!)"
                             ]
                         },
                         {
@@ -14546,7 +14546,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rabbit Beastman>Hmph. So that's how you're going to be. Uuu... I'm lonely...\nFeh... Fehhhhhhhn! Just kidding-pyon♥ Ahahahaha♥"
+                                "\\n<Rabbit Beastman>Hmph. So that's how you're going to be. Uuu... I'm sad...\nFeh... Fehhhhhhhn! Just kidding-pyon♥ Ahahahaha♥"
                             ]
                         },
                         {
@@ -14588,7 +14588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>... (What a pain... Better not to get involved. So tiring.)"
+                                "\\n<Katara>...(What a hassle... Better not to get involved. So tiring.)"
                             ]
                         },
                         {
@@ -14622,7 +14622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>... (Ugh. Annoying.)"
+                                "\\n<Katara>...(Ugh. Annoying.)"
                             ]
                         },
                         {
@@ -14821,7 +14821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The scent of the black tea is lovely. I'd be content just\nsmelling it, but if possible, I'd love to have a taste."
+                                "The aroma of the black tea is delightful. I'd be content\njust smelling it, but if possible, I'd love to have a taste."
                             ]
                         },
                         {
@@ -14912,7 +14912,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The scent of the black tea is lovely. I'd be content just\nsmelling it, but if possible, I'd love to have a taste."
+                                "The scent of the black tea is lovely. I'd be content with\njust the smell, but I'd love to have a taste if possible."
                             ]
                         },
                         {
@@ -15654,7 +15654,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a Flame Tree stove. By setting the sap of the Flame\nTree below and igniting it, it burns for a long time—an\nexcellent piece of equipment."
+                                "It's a Flame Tree stove. By setting the sap of the Flame\nTree below and igniting it, it burns for a long time—a truly\nexcellent item."
                             ]
                         },
                         {
@@ -15671,7 +15671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The Flame Tree is a conifer that burns its own leaves before\nwinter to become completely bare. It often causes forest\nfires."
+                                "The Flame Tree is a conifer that burns its own leaves before\nwinter, becoming completely bare. It often causes forest\nfires."
                             ]
                         },
                         {
@@ -15902,7 +15902,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is the guard station of Rumare. It's divided into the\nextermination team, which ensures that monsters don't\napproach the town's outer walls, and the security team,\nwhich maintains order within the town."
+                                "This is the guard station of Rumare. It's divided into the\nextermination team, which ensures that monsters don't\napproach the town walls, and the security team, which\nmaintains order within the town."
                             ]
                         },
                         {
@@ -15919,7 +15919,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Incidentally, one of the adventurer's jobs is to go further\nthan the extermination team and eliminate monsters."
+                                "Incidentally, one of the adventurer's jobs is to go further\nthan the extermination team to defeat monsters."
                             ]
                         },
                         {
@@ -16003,7 +16003,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>I heard that the hero carries a big sword and travels with a\ndragon as a pet! He must be a huge man with an incredible\npresence, right?"
+                                "\\n<Female>I heard the hero carries a big sword and travels with a\ndragon as a pet! They must be an incredibly imposing man!"
                             ]
                         },
                         {
@@ -16020,7 +16020,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>If you see someone with a big sword and a dragon, that's the\nmark of a hero. It's easy to recognize, but it's a bit\nintimidating to approach, isn't it? Scary!"
+                                "\\n<Female>If you see someone with a big sword and a dragon, that's the\nmark of the hero. It's easy to recognize, but it's a bit\nintimidating to approach, isn't it? Scary!"
                             ]
                         },
                         {
@@ -16145,7 +16145,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>Oh, I'm sorry! Please don't misunderstand me? I just don't\nwant it to become like the old days where beastfolk were\ndiscriminated against. That's what I'm a little worried\nabout."
+                                "\\n<Female>Oh, I'm sorry! Please don't misunderstand me? I just don't\nwant it to become like the old days where beastfolk were\ndiscriminated against. That's something I'm a bit worried\nabout."
                             ]
                         },
                         {
@@ -16236,7 +16236,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Student>Hey, you know? That rumor about that kid. Like, there's this\nboy who went missing, right? That, what's his name... I\nforgot, but the plain-looking one."
+                                "\\n<Student>You know, have you heard about that rumor? There's this boy\nwho went missing, you know. That, what's his name... I\nforgot, but he's a plain-looking guy."
                             ]
                         },
                         {
@@ -16253,7 +16253,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Student>Apparently, he was with the student council president right\nup until he went missing. You think she's the culprit? For\nreal."
+                                "\\n<Student>They say he was with the student council president right up\nuntil he disappeared. Maybe she's the culprit? For real."
                             ]
                         },
                         {
@@ -16352,7 +16352,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Student>No, really! Remember the day we couldn't use the classroom\nbecause of the barrier spell? Arno has been missing since\nthen. It's definitely true."
+                                "\\n<Student>No, really! Remember the day we couldn't use the classroom\nbecause of the barrier spell? Arno has been missing since\nthen. It's gotta be true."
                             ]
                         },
                         {
@@ -16477,7 +16477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Student>What do you mean by 'the culprit behind the disappearance'?\nAre you suggesting they killed someone and buried the body?\nThat's a seriously scary thought. It's more believable that\nyou bullied them into not coming to school."
+                                "\\n<Student>What do you mean by 'the culprit of the disappearance'? Are\nyou suggesting they killed someone and buried the body?\nThat's a seriously scary thought. It's more believable that\nyou bullied them into not coming to school."
                             ]
                         },
                         {
@@ -16559,7 +16559,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Student>So, like, Arno-chan isn't a monster, okay? It's because of\npeople like you spreading weird rumors that she's been out\nthis whole time. Poor thing."
+                                "\\n<Student>So, like, Arno-chan isn't a monster, you know. It's because\nof weird rumors spread by people like you that she's been\nout for so long. Poor thing."
                             ]
                         },
                         {
@@ -16576,7 +16576,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Student>And about that barrier spell in the classroom, there was an\nexplanation that dangerous gas was released because\nchemicals got mixed up, right? You really love those kinds\nof rumors. Conspiracy theories and all."
+                                "\\n<Student>And about that barrier spell incident in the classroom,\nthere was an explanation that dangerous gas was released\nbecause chemicals got mixed up, right? You really love those\nkinds of rumors. Like conspiracy theories and stuff."
                             ]
                         },
                         {
@@ -16667,7 +16667,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Street Stall>Hm? Are you two twins? Oh my, you look so alike♥ How cute♥\nSeeing you both side by side makes you twice as adorable♥\nI'll give you a little service♥"
+                                "\\n<Stall>Hm? Are you two twins? Oh my, you look so alike♥ How cute♥\nSeeing you both side by side makes you twice as adorable♥\nI'll give you a little service♥"
                             ]
                         },
                         {
@@ -16742,7 +16742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>For all that talk, it's pretty expensive. Give us more of a\nservice."
+                                "\\n<Katara>For all that talk, it's pretty expensive. Give us more of a\nservice."
                             ]
                         },
                         {
@@ -16824,7 +16824,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Street Stall>Oh, what a cute customer♥ If there's anything you'd like to\neat, just let me know♥ If you let me touch your ears, I'll\nthrow in a little extra♥"
+                                "\\n<Stall>Oh, what a cute customer♥ If there's anything you'd like to\neat, just let me know♥ If you let me touch your ear, I'll\ngive you a little extra♥"
                             ]
                         },
                         {
@@ -16899,7 +16899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>You're giving a bonus at this price?"
+                                "\\n<Katara>You're giving a bonus at this price?"
                             ]
                         },
                         {
@@ -16990,7 +16990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>Good day. Are you also staying at this inn? I stopped by on\nmy journey, and this has been the most wonderful lodging\nI've found."
+                                "\\n<Magician>Greetings. Are you also staying at this inn? I stopped by on\nmy journey, and this has been the most splendid lodging I've\nfound."
                             ]
                         },
                         {
@@ -17007,7 +17007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so it leaves your skin glowing♥"
+                                "\\n<Magician>There's even a little hot spring in the back. It's not\nnatural, but a healing mage has dissolved magical power into\nit, so it leaves your skin glowing♥"
                             ]
                         },
                         {
@@ -17024,7 +17024,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mage>The food was also exquisite, with a focus on quality\ningredients. The bed was like sleeping on a cloud, giving a\nsense of floating."
+                                "\\n<Magician>The cuisine was also marvelous, with a focus on quality\ningredients. The bed was like sleeping on a cloud, they even\nmanaged to give it a sense of floating."
                             ]
                         },
                         {
@@ -17048,7 +17048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -17173,7 +17173,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>It was a phenomenon called a sinkhole. Suddenly one day, the\nground collapsed and a hole opened up, swallowing many homes\nand people."
+                                "\\n<Man>It was a phenomenon called a sinkhole. One day, the ground\nsuddenly collapsed, and the hole opened up. Many homes and\npeople were caught up in it and sank down."
                             ]
                         },
                         {
@@ -17190,7 +17190,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>I bet those people were probably saying \"It's so peaceful\ntoday. What nice weather,\" right up until the moment it\nhappened."
+                                "\\n<Man>Those people probably were saying things like \"It's peaceful\ntoday. The weather is nice,\" right up until the moment it\nhappened."
                             ]
                         },
                         {
@@ -17281,7 +17281,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>My father died in the great collapse 50 years ago. But\nthat's okay. It was a natural disaster. Sad as it was, I had\nno choice but to accept it."
+                                "\\n<Man>My father died in the great collapse 50 years ago. But\nthat's okay. It was a natural disaster. Sad as it was, I had\nto accept it."
                             ]
                         },
                         {
@@ -17298,7 +17298,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>What I can't forgive, though, are those who came after.\nHearing that the nobles' district had collapsed, scoundrels\nfrom all over the world flocked here, greedy for money and\nvaluables."
+                                "\\n<Man>But what I can't forgive are those who came after. Hearing\nthat the nobles' district had collapsed, scoundrels from all\nover the world gathered, lured by the prospect of gold and\ngoods."
                             ]
                         },
                         {
@@ -17332,7 +17332,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>As a child, I watched it all from the cliff every day. They\nwere scrambling over each other, sometimes fighting, all\nover the debris where my house once stood."
+                                "\\n<Man>As a child, I watched from the cliffs every day. They were\nscrambling over each other, sometimes fighting, all over the\ndebris where my home once stood."
                             ]
                         },
                         {
@@ -17349,7 +17349,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Now it's called \"Dri-ne\" and has become a different\nautonomous district... But I still can't accept those\npeople, even now."
+                                "\\n<Man>Now it's called \"Dri-Ne\" and has become a different\nautonomous district... But I still don't acknowledge those\npeople, not even now."
                             ]
                         },
                         {
@@ -17440,7 +17440,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper A>Are you an adventurer from below? You may pass. Adventurers\nare treated as \"those who belong nowhere.\" Basically, if\nthere's a request, you can enter anywhere."
+                                "\\n<Lumare Gatekeeper A>Are you one of the adventurers from below? You may pass.\nAdventurers are treated as \"those who belong nowhere.\"\nBasically, if there's a request, you can enter anywhere."
                             ]
                         },
                         {
@@ -17457,7 +17457,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper A>But that also means \"you always have no allies.\" If there's\nany trouble, we, the guards of Lumare, will thoroughly\neliminate you. Understood?"
+                                "\\n<Lumare Gatekeeper A>But that also means \"you always have no allies.\" If there's\nany inconvenience, we, the guards of Lumare, will thoroughly\neliminate you. Understood?"
                             ]
                         },
                         {
@@ -17548,7 +17548,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>A few years ago, there was a bit of a riot. My best friend\nwas stabbed to death by one of those Drine guys. He was a\nreally good guy."
+                                "\\n<Lumare Gatekeeper B>A few years back, there was a bit of a riot. My best friend\nwas stabbed to death by one of those Driane guys. He was a\nreally good person."
                             ]
                         },
                         {
@@ -17565,7 +17565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a little child... Just when\nhis life was about to start, everything was taken from him."
+                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a little kid... Just when\nhis life was about to start, everything was taken from him."
                             ]
                         },
                         {
@@ -17681,7 +17681,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a little kid... Just when\nhis life was about to really start, everything was taken\nfrom him."
+                                "\\n<Lumare Gatekeeper B>He had a beautiful wife and even a little kid... Just when\nhis life was about to start, everything was taken from him."
                             ]
                         },
                         {
@@ -17715,7 +17715,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>And yet, just recently... that guy's wife was killed by a\nmonster too. His son has been left all alone."
+                                "\\n<Lumare Gatekeeper B>And yet, just recently, that guy's wife was killed by a\nmonster too. His son has been left all alone."
                             ]
                         },
                         {
@@ -17749,7 +17749,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>I go to see him too, and he's a really strong kid. He says\nhe wants to become an adventurer specializing in monster\nextermination, to reduce the sorrow in this world even a\nlittle bit."
+                                "\\n<Lumare Gatekeeper B>I go to see him too, and he's really a strong kid. He says\nhe wants to become an adventurer specializing in monster\nextermination, to reduce the sorrow in this world even a\nlittle bit."
                             ]
                         },
                         {
@@ -17943,7 +17943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Are you talking about Mare-san and Jean?"
+                                "\\n<Katara>Are you talking about Mare-san and Jean?"
                             ]
                         },
                         {
@@ -17984,7 +17984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>Thank you for saving those two. My best friend must be\nthanking you from heaven too. Here, would you accept this?"
+                                "\\n<Lumare Gatekeeper B>Thank you for saving them. My best friend must be thanking\nyou from heaven too. Here, would you accept this?"
                             ]
                         },
                         {
@@ -18019,7 +18019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Lumare Gatekeeper B>This is something my best friend... Mare-san's husband gave\nto me. It's equipment that will increase your fighting\npower. I want you to have it."
+                                "\\n<Lumare Gatekeeper B>This is something Mare-san's husband, my best friend, gave\nto me. It's equipment that will increase your fighting\npower. I want you to have it."
                             ]
                         },
                         {
@@ -18137,7 +18137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>Hmph! Ha! Tuh!! Whoa there, you're in the middle of training\nnow! If you get too close, you might get hurt!"
+                                "\\n<Soldier>Hmph! Ha! Tuh!! Whoa there, you're in the middle of training\nright now! If you get too close, you might get hurt!"
                             ]
                         },
                         {
@@ -18260,7 +18260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>\"No, that won't work. I've always been bad at physical\nactivities. I can only take my time to charge up and\nrelease.\""
+                                "\\n<Adventurer C>\"No, that won't do. I've always been bad at physical\nactivities. I can only take my time to charge up and\nrelease.\""
                             ]
                         },
                         {
@@ -18335,7 +18335,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>\"It seems the Noblesse Earl is gathering magicians. I wonder\nwhat he's planning to do this time. I've been invited too,\nbut something smells fishy, so I'll pass.\""
+                                "\\n<Adventurer C>\"It seems the Noblesse Earl is gathering magicians. I wonder\nwhat he's planning this time. I've been invited too, but\nsomething smells fishy, so I'll pass.\""
                             ]
                         },
                         {
@@ -18436,7 +18436,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>No abnormalities! The streets are the same as always today!\nVery good, very good!"
+                                "\\n<Soldier>No abnormalities! The town remains unchanged today as well!\nAll is well, all is well!"
                             ]
                         },
                         {
@@ -18767,7 +18767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>\"You can throw away trash, but make sure to drop it from the\ndesignated place, okay? There are residents below. There are\nidiots who throw things over the barrier just because\nthey're small.\""
+                                "\\n<Soldier>You can throw away trash, but make sure to drop it from the\ndesignated place, okay? There are residents below. There are\nidiots who throw things over the barrier just because\nthey're small."
                             ]
                         },
                         {
@@ -18858,7 +18858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Beautiful Woman>Oh, hello. It's quite rare to see a cat beast-person around\nhere. Did you come from far away?"
+                                "\\n<Beautiful Woman>Oh, hello there. It's quite rare to see a cat beastperson\naround here. Did you come from far away?"
                             ]
                         },
                         {
@@ -18875,7 +18875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Beautiful Woman>Just a moment ago, someone who looks very much like you\npassed by. Are they your sibling?"
+                                "\\n<Beautiful Woman>Just a while ago, someone who looks a lot like you passed\nby. Are they your sibling?"
                             ]
                         },
                         {
@@ -18932,7 +18932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>No, that's not it! They say there are at least three people\nin the world who look like you! That's it!"
+                                "\\n<Katara>No, that's not it! They say there are at least three people\nin the world who look like you! That's it!"
                             ]
                         },
                         {
@@ -18965,7 +18965,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Beautiful Woman>Oh my! To think I'd see two out of three on such a day.\nToday must certainly be a special day. Have a good day\nyourself!"
+                                "\\n<Beautiful Woman>Oh my! To think I'd see two out of three on such a day.\nToday must be special indeed. Have a wonderful day yourself!"
                             ]
                         },
                         {
@@ -19063,7 +19063,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Beautiful Woman>Oh my, are you perhaps from the Catfield family? I am in\nyour debt. I never expected to meet someone from there in a\nplace like this."
+                                "\\n<Beautiful Woman>Oh my, could you possibly be from the Catfield family? I am\nin your debt. I never expected to meet you in such a place."
                             ]
                         },
                         {
@@ -19103,7 +19103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>N-No! I'm not from a fancy place like the Catfield family!"
+                                "\\n<Katara>N-No, that's not it! I'm not from a fine family like the\nCatfields!"
                             ]
                         },
                         {
@@ -19127,7 +19127,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Beautiful Woman>Oh, is that so? But, those letters \"CF\" on your chest..."
+                                "\\n<Beautiful Woman>Oh, is that so? But there's a \"CF\" embroidered on your\nchest..."
                             ]
                         },
                         {
@@ -19169,7 +19169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I admire them. It's fake! Ehehe♥ After all, it's a\nprestigious family, isn't it? Any beastperson cat would\ndream about it."
+                                "\\n<Katara>I'm just an admirer. It's fake! Ehehe♥ After all, it's a\nprestigious family, isn't it? Any beastperson cat would\ndream of it."
                             ]
                         },
                         {
@@ -19196,7 +19196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah, this was something I received from someone in the\nCatfield family a while ago. It was so honorable that I've\nkept it on me at all times."
+                                "\\n<Katara>Ah, this was something I received from someone of the\nCatfield family a while ago. It was so honorable that I've\nkept it on me at all times."
                             ]
                         },
                         {
@@ -19263,7 +19263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>... (Did I manage to get through that...)"
+                                "\\n<Katara>... (Did I manage to get through that...)"
                             ]
                         },
                         {
@@ -19327,7 +19327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>That's terrible! If I see them, I'll make sure to report it!\n(I need to get out of here quickly...)"
+                                "\\n<Katara>That's terrible! If I see them, I'll make sure to report it!\n(I need to get out of here quickly...)"
                             ]
                         },
                         {
@@ -19434,7 +19434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>It seems that the Noblesse Earl has received another advance\nnotice. His place is often targeted, must be tough. My house\nhas only been robbed three times in comparison. Hahaha!"
+                                "\\n<Man>It seems that the Noblesse Count has received another\nadvance notice. His place is often targeted, must be tough.\nMy house has only been robbed three times in comparison.\nHahaha!"
                             ]
                         },
                         {
@@ -19451,7 +19451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>The trick to not having your valuables stolen is to\ndeliberately place something fairly expensive in plain\nsight. That way, they get satisfied and leave quickly."
+                                "\\n<Man>The trick to not having your valuables stolen is to\ndeliberately leave something fairly expensive in plain\nsight. That way, they get satisfied and leave quickly."
                             ]
                         },
                         {
@@ -19550,7 +19550,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>It seems the Noblesse Earl has announced his possession of\nthe Call of the Wild Stone. Honestly, what is he thinking?\nDoing such a thing will surely make him a target of \"L\"."
+                                "\\n<Man>It seems the Noblesse Earl has announced possession of the\nCall of the Wolf Stone. Really, what is he thinking? Doing\nsuch a thing will surely make him a target for \"L\"."
                             ]
                         },
                         {
@@ -19567,7 +19567,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>That's one of the world's leading yellow diamonds. I've only\nseen it in an illustrated book myself. Frankly, I'm\nsuspicious if he really has it at all."
+                                "\\n<Man>That's one of the world's leading yellow diamonds. I've only\nseen it in an illustrated book myself. Honestly, it's\ndubious whether he truly has it or not."
                             ]
                         },
                         {
@@ -19649,7 +19649,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>It seems the Noblesse Earl's Howling Gem has been stolen.\nDespite my warnings not to make it public... Such a gem is\nbeyond the level of private ownership."
+                                "\\n<Man>It seems the Noblesse Earl's Call of the Wolf Stone has been\nstolen. Despite my warnings not to make it public... Such a\ngem is beyond the level of what an individual should\npossess."
                             ]
                         },
                         {
@@ -19748,7 +19748,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>It seems the phantom thief has been caught, but the\nwhereabouts of the Howling Stone remain unknown. We should\ninterrogate them, and if they spill the beans... Such a\ngemstone is not something an individual should possess."
+                                "\\n<Man>It seems the phantom thief has been caught, but the\nwhereabouts of the Howling Stone remain unknown. We should\ninterrogate them, and if they crack... Such a gem shouldn't\nbe owned by an individual."
                             ]
                         },
                         {
@@ -19782,7 +19782,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>Well, at least now I don't have to worry about it being\nstolen from our house. As for Count Noblesse, what on earth\nis he thinking? His thoughts are beyond my comprehension."
+                                "\\n<Man>Well, at least now I don't have to worry about it being\nstolen from our house. But what on earth is Count Noblesse\nthinking? I can't comprehend his thoughts at all."
                             ]
                         },
                         {
@@ -19873,7 +19873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>*burp* Ahh~♥ Daytime beer is the best♥ Watching the soldiers\nwork while I drink makes it even better... you know♥ The\nguilt just makes it go down smoother~♥"
+                                "\\n<Female>*burp* Ahh~♥ Daytime beer is the best♥ Watching the soldiers\nwork while I drink makes it even better... you know♥ It just\ngoes down smoother with a bit of guilt~♥"
                             ]
                         },
                         {
@@ -19890,7 +19890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>They really don't need to be on edge guarding every day.\nRiots hardly ever happen! And monsters don't come into town\neither♥"
+                                "\\n<Female>You really don't need to be on edge guarding every day.\nRiots hardly ever happen! And monsters don't come into town\neither♥"
                             ]
                         },
                         {
@@ -19990,7 +19990,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>Um, today I need to stop by the boutique, then get my hair\ndone. After that, it's tea time with friends, and then\ndinner with him. Ah, I'm so busy! I have no free time at\nall!"
+                                "\\n<Female>Let's see, today I'm stopping by the boutique, then getting\nmy hair done. After that, it's tea time with friends, and\nthen dinner with him. Ah, I'm so busy! I have absolutely no\nfree time!"
                             ]
                         },
                         {
@@ -20023,7 +20023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...(It looks like she has nothing but free time... But I\nguess everyone has different things they must do.)"
+                                "\\n<Katara>...(It looks like they have nothing but free time... But I\nguess everyone has different things they must do.)"
                             ]
                         },
                         {
@@ -20056,7 +20056,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>Tomorrow morning I have to go to the dog salon, then it's a\ngirls' lunch, right? After that, I'm off to see a play with\na different guy... Ahh! Seriously! Why am I so busy!"
+                                "\\n<Female>And tomorrow, I have to go to the dog salon in the morning,\nthen it's a girls' lunch, right? After that, I'm off to see\na play with a different guy... Ahh! Seriously! Why am I so\nbusy!"
                             ]
                         },
                         {
@@ -20089,7 +20089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>(No, I was right; this person really does have a lot of free\ntime.)"
+                                "\\n<Katara>(No, on second thought, this person really does seem to have\na lot of free time.)"
                             ]
                         },
                         {
@@ -20187,7 +20187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>My partner is usually kind, but when they drink, they just\nkeep complaining about the people of Dri-Ne. I can\nunderstand the feeling, though."
+                                "\\n<Female>My partner is usually kind, but when they drink, they just\nkeep complaining about the people from Dri-Ne. I can\nunderstand the feeling, though."
                             ]
                         },
                         {
@@ -20221,7 +20221,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>Even if they don't say it out loud, there are many who\nresent the people of Dri-Ne. Everyone looks down on them in\nsome part of their heart."
+                                "\\n<Female>Even if they don't say it out loud, there are many who\nresent the people from Dri-Ne. Everyone looks down on them\nin some part of their heart."
                             ]
                         },
                         {
@@ -20379,7 +20379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Sniff sniff...? I don't smell anything? My sense of smell is\nmany times better than an average person's. It must be your\nimagination."
+                                "\\n<Katara>Sniff sniff...? I don't smell anything? My sense of smell is\nmany times better than an average person's. It must be your\nimagination."
                             ]
                         },
                         {
@@ -20413,7 +20413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Sniff sniff...? Really? I can't smell anything at all. And I\nhave a much better nose than humans. Strange."
+                                "\\n<Katara>Sniff sniff...? Really? I can't smell anything at all. And I\nhave a much better nose than humans. Strange."
                             ]
                         },
                         {
@@ -20447,7 +20447,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Man>It's a matter of spirituality. The blood-soaked lifestyle of\nadventurers is incompatible with me. If you had normal\ncomprehension, no explanation would be necessary, would it?"
+                                "\\n<Man>It's a matter of spirituality. Adventurers with their bloody\nlifestyle are simply incompatible with me. If you had any\ncommon sense, no explanation would be necessary, would it?"
                             ]
                         },
                         {
@@ -20480,7 +20480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Sorry I don't understand! But I've figured out that you're\nan unpleasant person! I feel sorry for the tea that gets\ndrunk by you! Bye then!"
+                                "\\n<Katara>Sorry I don't get it! But I can tell you're a nasty person!\nI feel sorry for the tea that gets drunk by you! Bye then!"
                             ]
                         },
                         {
@@ -20504,7 +20504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(I secretly mixed some crushed coins into the tea with a\nsleight of hand. Drink up and get diarrhea! Idiot!)"
+                                "\\n<Katara>(I secretly mixed some crushed coins into the tea with a\nsleight of hand. Drink up and get diarrhea! Idiot!)"
                             ]
                         },
                         {
@@ -20538,7 +20538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah, please enjoy your time. (I see, so there are people who\nharbor such feelings towards adventurers. I'll make sure not\nto get involved anymore.)"
+                                "\\n<Katara>Ah, please enjoy your tea. (So there are people who harbor\nsuch feelings towards adventurers. Better to avoid further\ninvolvement.)"
                             ]
                         },
                         {
@@ -20562,7 +20562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(I also secretly added some sand to the tea with a sleight\nof hand. Drink your gravel tea then.)"
+                                "\\n<Katara>(I also secretly added some sand to the tea with a sleight\nof hand. Enjoy your gravel tea.)"
                             ]
                         },
                         {
@@ -20679,7 +20679,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Muscular Woman>Ahh, it's so heavy. I can't walk to the trash dump anymore!\nThis trash must weigh around 180kg! I'm gonna get muscles!"
+                                "\\n<Muscular Woman>Ahh, it's so heavy. I can't walk to the trash dump anymore!\nThis trash must weigh around 180kg! I'm gonna get all\nmuscly!"
                             ]
                         },
                         {
@@ -20893,7 +20893,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>The north side of the slum district \"Dori-ne\" was an area\nthat suffered severe collapse. It's almost a vertical cliff\nnow, isn't it?"
+                                "\\n<Soldier>The north side of the slum district \"Dori-ne\" was heavily\ncollapsed. It's almost a vertical cliff, isn't it?"
                             ]
                         },
                         {
@@ -20910,7 +20910,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>But the south side was a bit better off. That's why remnants\nof the time when it was a noble district still remain, and\ninstead of a cliff, it's more like a steep slope."
+                                "\\n<Soldier>But the south side was a bit better. That's why remnants of\nwhen it was a noble district still remain, and instead of a\ncliff, it's more like a steep slope."
                             ]
                         },
                         {
@@ -21109,7 +21109,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Heavily Armored Adventurer>Rumors about the cat beastfolk adventurers...? Ah, I know\nthem. They're twins, right?"
+                                "\\n<Heavily-Armored Adventurer>Rumors of a cat beastman adventurer...? Ah, I know of them.\nThey're twins, right?"
                             ]
                         },
                         {
@@ -21126,7 +21126,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Heavily Armored Adventurer>Oh, it's you. Anything else? Hmm... sorry, I can't think of\nanything."
+                                "\\n<Heavily-Armored Adventurer>Oh, that's you? Anyone else? Hmm... sorry, I can't think of\nanyone."
                             ]
                         },
                         {
@@ -21208,7 +21208,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Heavily Armored Adventurer>Rumors of a cat beastkin adventurer...? Ah, I know of them.\nThey're the one traveling with the hero, right?"
+                                "\\n<Heavily-Armored Adventurer>Rumors of a cat beastkin adventurer...? Ah, I know of them.\nThey're the one traveling with the hero, right?"
                             ]
                         },
                         {
@@ -21225,7 +21225,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Heavily Armored Adventurer>Despite fighting barehanded, they're said to be incredibly\nstrong. They were in the royal capital Anis until a little\nwhile ago, but who knows where they are now. Being an\nadventurer and all, they might have moved to a different\nbase."
+                                "\\n<Heavily-Armored Adventurer>Despite fighting barehanded, they're said to be incredibly\nstrong. They were in the royal capital of Anis not too long\nago, but who knows where they are now. Being an adventurer\nand all, they might have moved to a different base."
                             ]
                         },
                         {
@@ -21258,7 +21258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>An adventure with a hero...? My sister...? Hmm, could that\nreally be?"
+                                "\\n<Katara>An adventure with the hero...? My sister...? Hmm, could that\nreally be true?"
                             ]
                         },
                         {
@@ -21285,7 +21285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Fighting barehanded is like my sister, but... a hero? Part\nof such an amazing person's group? I doubt it..."
+                                "\\n<Katara>Fighting barehanded is just like my sister... But a hero?\nPart of such an amazing person's group? I doubt it..."
                             ]
                         },
                         {
@@ -21386,7 +21386,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Longsword Adventurer>A strong cat beast-person...? Hmm, I do have someone in\nmind, but... they're not an adventurer."
+                                "\\n<Longsword Adventurer>A strong cat beast-person...? Hmm, I do have someone in\nmind, but they're not an adventurer."
                             ]
                         },
                         {
@@ -21403,7 +21403,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Longsword Adventurer>There were rumors about a rampaging cat beast-person around\nthe Oregano area before. They were so uncontrollable that a\nsubjugation request was even issued, or so I've heard."
+                                "\\n<Longsword Adventurer>There were rumors about a cat beast-person causing a ruckus\naround the Oregano area. They were so out of control that a\nsubjugation request was even issued."
                             ]
                         },
                         {
@@ -21420,7 +21420,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Longsword Adventurer>They were causing a huge commotion, shouting \"Come out,\nstrong ones!\" while snapping trees and beating up\nadventurers. I don't know if that situation was ever\nresolved."
+                                "\\n<Longsword Adventurer>They were shouting \"Come out, strong ones!\" while snapping\ntrees and beating up adventurers, causing quite the\ncommotion. I don't know if that situation was ever resolved."
                             ]
                         },
                         {
@@ -21453,7 +21453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>A subjugation request, huh? Mmm, that doesn't sound like my\nsister. Thanks!"
+                                "\\n<Katara>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -21480,7 +21480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
+                                "\\n<Katara>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {
@@ -21722,7 +21722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Ah, Rui! I found a cute dress! I want to buy this after\nworking hard-♥ How much is it-?"
+                                "\\n<Wanz>Oh, Katara! I found a cute dress! I want to buy this after\nworking hard-♥ How much is it-?"
                             ]
                         },
                         {
@@ -21755,7 +21755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Let's see, zero and one, two-, three, four-, five-, six...\nIt's 1,000,000G?! Huh?"
+                                "\\n<Wanz>Hmm, let's see, zero and one, two-, three, four-, five-,\nsix... It's 1,000,000G?! Huh?"
                             ]
                         },
                         {
@@ -21795,7 +21795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>You can't just leave something like that outside! What about\nthe wind, or rain, or sand?!"
+                                "\\n<Wanz>You can't just leave something like that outside! What about\nthe wind, or rain, or sand?!"
                             ]
                         },
                         {
@@ -21828,7 +21828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>I hate this outfit. I don't need it."
+                                "\\n<Wanz>I hate this outfit. I don't need it."
                             ]
                         },
                         {
@@ -21917,7 +21917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Rui! Why are you looking at dresses?"
+                                "\\n<Katara>Louie! Why are you looking at dresses?"
                             ]
                         },
                         {
@@ -21950,7 +21950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Ah, Rui. No reason, just thought they were cute. I think\nthey'd suit you too."
+                                "\\n<Louie>Ah, Katara. No reason, just thought they looked cute. I\nthink you'd look good in one too."
                             ]
                         },
                         {
@@ -21974,7 +21974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Is that a compliment?"
+                                "\\n<Katara>Is that a compliment?"
                             ]
                         },
                         {
@@ -22007,7 +22007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Eh? Did it not sound like one? Sorry. I genuinely thought it\nwould suit you."
+                                "\\n<Louie>Eh? Did it not sound like one? Sorry. I genuinely thought it\nwould suit you."
                             ]
                         },
                         {
@@ -22031,7 +22031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Just genuinely?"
+                                "\\n<Katara>Just \"genuinely\"?"
                             ]
                         },
                         {
@@ -22064,7 +22064,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>I think it would suit you the best in the world. (Girls can\nbe so troublesome.)"
+                                "\\n<Louie>I think it would suit you the best in the world. (Girls can\nbe so troublesome.)"
                             ]
                         },
                         {
@@ -22088,7 +22088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Then buy it for me♥"
+                                "\\n<Katara>Then buy it for me♥"
                             ]
                         },
                         {
@@ -22121,7 +22121,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>No way."
+                                "\\n<Louie>No way."
                             ]
                         },
                         {
@@ -22377,7 +22377,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Munch munch munch munch...♥ Ah..."
+                                "\\n<Wanz>Munch munch munch munch...♥ Ah..."
                             ]
                         },
                         {
@@ -22410,7 +22410,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>You know, there are times when you just have to eat\nsomething sweet. It's not a waste of money or anything."
+                                "\\n<Wanz>You know, there are times when you just have to eat\nsomething sweet. It's not a waste of money or anything."
                             ]
                         },
                         {
@@ -22443,7 +22443,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Could you keep it a secret from the guild members? If they\nfound out I was eating strawberry mille-feuille in the noble\ndistrict, they'd think I'm a traitor."
+                                "\\n<Wanz>Please keep it a secret from the guild members, okay? If\nthey find out I was eating strawberry mille-feuille in the\nnoble district, they'll think I'm a traitor."
                             ]
                         },
                         {
@@ -22476,7 +22476,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>It seems like most people don't really like those from the\nupper ranks. Only Latier has a pass to go through, after\nall. They should get along better. It's delicious, after\nall."
+                                "\\n<Wanz>It seems like nobody really likes those higher-ups. Only\nLatier has a pass to go through, after all. They should get\nalong better. It's delicious, after all."
                             ]
                         },
                         {
@@ -22565,7 +22565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Rui! What are you eating?"
+                                "\\n<Katara>Louie! What are you eating?"
                             ]
                         },
                         {
@@ -22614,7 +22614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Rui! Mmph! Cough! Don't just start talking to me all of a\nsudden! Cough! It went down the wrong way! Cough cough!"
+                                "\\n<Louie>Katara! Mmph! Cough! Don't just start talking to me out of\nnowhere! Cough! It went down the wrong way! Cough cough!"
                             ]
                         },
                         {
@@ -22638,7 +22638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Oh, that's a strawberry mille-feuille, isn't it? Gimme a\nbite♥ Just one♥"
+                                "\\n<Katara>Oh, that's a strawberry mille-feuille, isn't it? Give me a\nbite♥ Just one♥"
                             ]
                         },
                         {
@@ -22671,7 +22671,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Only one bite, okay."
+                                "\\n<Louie>Only one bite, okay."
                             ]
                         },
                         {
@@ -22745,7 +22745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Ahhhhh♥ (Pops the whole thing into their mouth)"
+                                "\\n<Katara>Ahhhhh♥ (Pops the whole thing into their mouth)"
                             ]
                         },
                         {
@@ -22787,7 +22787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Darn it! I forgot about Rui's lack of restraint! It was only\nnatural for them to devour something the size of a mille-\nfeuille in one bite!"
+                                "\\n<Louie>Damn it! I forgot about Katara's lack of restraint! With the\nsize of that mille-feuille, it was only natural for them to\ndevour it in one bite!"
                             ]
                         },
                         {
@@ -22869,7 +22869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Yum yum...♥ munch munch...♥ gulp♥ Nyaaaahhh～～～♥ Delicious～～♥"
+                                "\\n<Katara>Yum yum...♥ Munch munch...♥ Gulp♥ Nyaaaahhh～～～♥ So\ndelicious～～♥"
                             ]
                         },
                         {
@@ -22921,7 +22921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Another one."
+                                "\\n<Katara>Another one."
                             ]
                         },
                         {
@@ -22954,7 +22954,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>You're being way too brazen."
+                                "\\n<Louie>You're being way too brazen."
                             ]
                         },
                         {
@@ -23158,7 +23158,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hm? It looks like there's something useful here."
+                                "Hm? There seems to be something useful here."
                             ]
                         },
                         {
@@ -23338,7 +23338,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nobleman>Hey! Don't come over here! The maid will find us! I'm so\ndone with meetings!"
+                                "\\n<Nobleman>Hey! Don't come over here! The maids will find us! I'm so\ndone with meetings!"
                             ]
                         },
                         {
@@ -23405,7 +23405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Isn't this something that shouldn't be used for playing?"
+                                "\\n<Katara>Isn't this not something to be used just for fun?"
                             ]
                         },
                         {
@@ -23496,7 +23496,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Nobleman>Don't come any closer! Geez! Why don't you go burn a forest\nand have fun? Destroying the environment feels great!"
+                                "\\n<Nobleman>Don't come any closer! Geez! Why don't you go burn down a\nforest and have fun? Destroying the environment feels great!"
                             ]
                         },
                         {
@@ -23520,7 +23520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Aren't the nobles' games just too cruel?"
+                                "\\n<Katara>Aren't the nobles' games just too cruel?"
                             ]
                         },
                         {

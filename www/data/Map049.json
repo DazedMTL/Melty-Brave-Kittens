@@ -5490,7 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>It seems either drugs were involved or it was a mutual\ntakedown, but that Rui managed to capture the phantom thief.\nSplendid, what an impressive feat!"
+                                "\\n<Count Noblesse>It seems either drugs were involved or it was a mutual\ntakedown, but that Katara managed to capture the phantom\nthief. Splendid, what an impressive feat!"
                             ]
                         },
                         {
@@ -5660,7 +5660,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>...Is this... a \\C[14]Call Wolf Stone\\C[0]?"
+                                "\\n<Guild Master>...Is this...\\C[14]the Howling Stone\\C[0]?"
                             ]
                         },
                         {
@@ -5795,7 +5795,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Ugh... gah... a fake...? You tricked me...!?"
+                                "\\n<Radro>Ugh... gah... a fake...? You deceived me...!?"
                             ]
                         },
                         {
@@ -5933,7 +5933,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Hey now, aren't you being quite generous. Did you hate that\nguy that much? Hah. It's hard to tell if the rich are really\ngenerous or just pretending."
+                                "\\n<Guild Master>Hey now, aren't you being quite generous. Did you hate that\nguy that much? Hah. Can't tell if the rich are just too\ncarefree or what."
                             ]
                         },
                         {
@@ -5959,7 +5959,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>Watch your mouth, commoner. I think you should gratefully\naccept kindness from those above you, don't you?"
+                                "\\n<Count Noblesse>Watch your mouth, commoner. Shouldn't you gratefully accept\nkindness from those above you?"
                             ]
                         },
                         {
@@ -5985,7 +5985,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Yes, yes~ I can't help but bow to the nobility's generosity."
+                                "\\n<Guild Master>Yes, yes~ I can't help but admire the nobility's generosity."
                             ]
                         },
                         {
@@ -6002,7 +6002,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>...(However, even if it's a fake, it will take time to sell\nthis off. I'll need to carefully select a trustworthy\nappraiser and dealer.)"
+                                "\\n<Guild Master>...(However, even if it's a fake, it'll take time to sell\nthis off. I'll need to carefully select a trustworthy\nappraiser and dealer.)"
                             ]
                         },
                         {
@@ -6019,7 +6019,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>(Tch. What a hassle. And is that 1 million G for real?\nSounds fishy.)"
+                                "\\n<Guild Master>(Tch. What a hassle. And is that 1 million G even real?\nSounds fishy.)"
                             ]
                         },
                         {
@@ -6052,7 +6052,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>Then, we shall take our leave. We must judge Cats in the\nhigher court and throw him into prison."
+                                "\\n<Count Noblesse>Then, we shall take our leave. We must judge Cats in the\nhigher court and throw them into prison."
                             ]
                         },
                         {
@@ -6108,7 +6108,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>P-Please, \\C[14]don't let go of me!!\\C[0] I might get hurt!"
+                                "\\n<Radro>P-Please, \\C[14]don't let go of me!!\\C[0] I might hurt you!"
                             ]
                         },
                         {
@@ -6141,7 +6141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>I may not look it, but I'm a rough woman♥ If you let go of\nme during the escort, I'll beat you all up♥ So, \\C[14]please\ndon't let go!\\C[0]"
+                                "\\n<Radro>I may not look it, but I'm a rough woman♥ If you let go of\nme during the escort, I'll beat you all up♥ So, \\C[14]please\ndon't let go!\\C[0]"
                             ]
                         },
                         {
@@ -6234,7 +6234,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Private Soldier>Don't get cocky! You thief! Do you even understand the\nsituation you're in?"
+                                "\\n<Private Soldier>Don't get cocky! You thief! Do you even understand your\ncurrent situation?"
                             ]
                         },
                         {
@@ -6260,7 +6260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>Farewell then. It's unlikely you'll come here again."
+                                "\\n<Count Noblesse>Farewell. It's unlikely you'll come here again."
                             ]
                         },
                         {
@@ -6293,7 +6293,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>..."
+                                "\\n<Radro>..."
                             ]
                         },
                         {
@@ -6375,7 +6375,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>...Well, I knew a day like this would come eventually.\nLadro."
+                                "\\n<Guild Master>...Well, I knew a day like this would come eventually.\nRadro."
                             ]
                         },
                         {
@@ -6392,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\n<Guild Master>Not telling Rui\\C[0], huh. If they knew the true identity of\nthe phantom thief, Rui would feel responsible. Understood."
+                                "\\C[14]\\n<Guild Master>Not telling anyone about it\\C[0], huh? If they knew the\nidentity of the phantom thief, Katara would feel\nresponsible. Got it."
                             ]
                         },
                         {
@@ -6409,7 +6409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>But to worry about Rui at a time like this. You're a tough\nwoman indeed. Sigh... What to do with this gemstone now."
+                                "\\n<Guild Master>But to worry about Katara at a time like this. What a tough\nwoman. Sigh... What to do with this gemstone."
                             ]
                         },
                         {
@@ -6639,7 +6639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Here it is! As usual, please take care of it♥"
+                                "\\n<Radro>Here you go! As usual, please take care of it♥"
                             ]
                         },
                         {
@@ -6886,7 +6886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Try to sell it for as much as possible, okay? It was quite a\nhassle to get. In various ways."
+                                "\\n<Radro>Try to sell it for as much as possible, okay? It was a lot\nof trouble to get. In many ways."
                             ]
                         },
                         {
@@ -6941,7 +6941,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Yeah, but this is going to take some time. I need to\ncarefully select a decent appraiser and a tight-lipped\nseller. Tch... It's a real pain to sell a treasure of this\ncaliber."
+                                "\\n<Guild Master>Yeah, but this is going to take some time. I need to\ncarefully select a decent appraiser and a seller who can\nkeep their mouth shut. Tch... Selling such a treasure is a\nreal hassle."
                             ]
                         },
                         {
@@ -6974,7 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Make sure you manage it properly, okay? If word gets out\nthat we have this, it could lead to a bloodbath. The only\nones who know about it are me, the Master, and Rui."
+                                "\\n<Radro>Make sure you manage it properly, okay? If word gets out\nthat we have this here, it could lead to a bloodbath. The\nonly ones who know are me, the Master, and Katara."
                             ]
                         },
                         {
@@ -7007,7 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Rui knows about it too, huh. Hmph... I bet you lost to Rui\nand begged for your life, didn't you? Am I wrong?"
+                                "\\n<Guild Master>Katara knows too, huh. Hmph... I bet you lost to Katara and\nbegged for your life, right? Am I wrong?"
                             ]
                         },
                         {
@@ -7090,7 +7090,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>I can't turn it into cash immediately, but I'll see what I\ncan do. For the time being, I'll be keeping this thing. Is\nthat okay with you? Ah, what a hassle."
+                                "\\n<Guild Master>I can't turn it into cash immediately, but I'll see what I\ncan do. I'll be keeping this for a while, is that okay? Ah,\nwhat a pain."
                             ]
                         },
                         {
@@ -7187,7 +7187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>But why is Rui sleeping so soundly? Take them to the inn.\nThey'll catch a cold and they're in the way."
+                                "\\n<Guild Master>But why is Katara sleeping so soundly? Take them to an inn\nor something. They'll catch a cold and they're in the way."
                             ]
                         },
                         {
@@ -7281,7 +7281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Mumble mumble... zzzZ"
+                                "\\n<Katara>Mumble mumble... zzzZ"
                             ]
                         },
                         {
@@ -7360,7 +7360,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>I'm not interested in the sleeping face of a bastard. Hurry\nup and take them away."
+                                "\\n<Guild Master>I'm not interested in the sleeping face of a bastard like\nthat. Hurry up and take them away."
                             ]
                         },
                         {

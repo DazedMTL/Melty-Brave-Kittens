@@ -9918,7 +9918,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>It would be faster to just clear the land. Coagulation\ncrystals might chip, but they won't break, right? You all,\nmake sure to protect yourselves."
+                                "\\n<Terra>It would be faster to just clear the land. Coagulation\ncrystals might chip, but they don't break, right? You all\nbetter take care of yourselves."
                             ]
                         },
                         {
@@ -10646,7 +10646,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>Hah, you fool! That way is a dead end! Don't underestimate\nthe intelligence of humans, you idiot! Bark there for the\nrest of your life!"
+                                "\\n<Seibel>Alright, you idiot! That's a dead end! Don't underestimate\nhuman intelligence, you fool! Bark there for the rest of\nyour life!"
                             ]
                         },
                         {
@@ -10685,7 +10685,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Grrraaaauuughhh!!!"
+                                "\\n<Monster>Guaaaaaaahhhhh!!!"
                             ]
                         },
                         {
@@ -10702,7 +10702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>Eeek!! I'm sorry, I'm so sorry! I'll behave, I promise~!"
+                                "\\n<Seibel>Eeek!! I'm sorry, I'm so sorry! I'll behave, I promise~!"
                             ]
                         },
                         {
@@ -13330,7 +13330,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guaaaaaaaahhhhh!!!"
                             ]
                         },
                         {

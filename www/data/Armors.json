@@ -18,7 +18,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "~Sexual Equipment~",
+        "name": "~Sex Toys~",
         "note": "テスト性具",
         "params": [
             0,
@@ -206,7 +206,7 @@
     {
         "id": 9,
         "atypeId": 1,
-        "description": "A cool and chilly dildo, sex toy, Recovery Effect +20%",
+        "description": "A cool and chilly dildo, sex toy, Healing Effect +20%",
         "etypeId": 2,
         "traits": [
             {
@@ -314,7 +314,7 @@
     {
         "id": 13,
         "atypeId": 1,
-        "description": "A dildo made of unmelting ice, sex toy, Recovery Effect +50%",
+        "description": "A dildo made of unmelting ice, sex toy, Healing Effect +50%",
         "etypeId": 2,
         "traits": [
             {
@@ -341,7 +341,7 @@
     {
         "id": 14,
         "atypeId": 1,
-        "description": "A dildo clad in raging winds, sex toy, Stamina Consumption -20%",
+        "description": "A dildo enveloped in raging winds, sex toy, Stamina Consumption -20%",
         "etypeId": 2,
         "traits": [
             {
@@ -476,7 +476,7 @@
     {
         "id": 19,
         "atypeId": 1,
-        "description": "A luxurious vibrator studded with diamonds, sex toy, Accuracy +5",
+        "description": "An extravagant vibrator studded with diamonds, sex toy, Accuracy +5",
         "etypeId": 2,
         "traits": [
             {
@@ -718,7 +718,7 @@
     {
         "id": 28,
         "atypeId": 1,
-        "description": "A vibrator named after swift wings, sex toy, Double Attack Accuracy -50",
+        "description": "A vibrator named after swift wings, sex toy, 2 attacks Accuracy -50",
         "etypeId": 2,
         "traits": [
             {
@@ -750,7 +750,7 @@
     {
         "id": 29,
         "atypeId": 0,
-        "description": "An improved vibrator modeled after a falcon, sex toy, Double Attack Accuracy -40",
+        "description": "A vibrator improved from a falcon model, sex toy, 2 attacks Accuracy -40",
         "etypeId": 2,
         "traits": [
             {
@@ -895,7 +895,7 @@
     {
         "id": 34,
         "atypeId": 1,
-        "description": "An improved vibrator that emits purple lightning, sex toy, Effective against\nmachines",
+        "description": "A vibrator improved from purple lightning model, sex toy, Effective against\nmachines",
         "etypeId": 2,
         "traits": [
             {
@@ -922,7 +922,7 @@
     {
         "id": 35,
         "atypeId": 1,
-        "description": "A slippery rotor, sex toy, Sensitivity Induced",
+        "description": "A slippery rotor, sex toy, Sensitivity granted",
         "etypeId": 2,
         "traits": [
             {
@@ -949,7 +949,7 @@
     {
         "id": 36,
         "atypeId": 1,
-        "description": "A dildo as if caressed gently by a fairy, sex toy, Sensitivity Induced",
+        "description": "A dildo as if caressed gently by a fairy, sex toy, Sensitivity granted",
         "etypeId": 2,
         "traits": [
             {
@@ -976,7 +976,7 @@
     {
         "id": 37,
         "atypeId": 1,
-        "description": "Gloves soaked in lotion, sex toy, Sensitivity Induced",
+        "description": "Gloves soaked in lotion, sex toy, Sensitivity granted",
         "etypeId": 2,
         "traits": [
             {
@@ -1003,7 +1003,7 @@
     {
         "id": 38,
         "atypeId": 1,
-        "description": "A rod that pops out suddenly, sex toy, Fear Induced",
+        "description": "A rod that pops out suddenly, sex toy, Flinch granted",
         "etypeId": 2,
         "traits": [
             {
@@ -1057,7 +1057,7 @@
     {
         "id": 40,
         "atypeId": 1,
-        "description": "A glowing stick that falls when cheering, sex toy, Fear Induced",
+        "description": "A glowing stick that falls when cheering on someone, sex toy, Flinch granted",
         "etypeId": 2,
         "traits": [
             {
@@ -1278,7 +1278,7 @@
     {
         "id": 48,
         "atypeId": 1,
-        "description": "Gloves to wear when working, sex toy, double the amount of money gained from\nenemies",
+        "description": "Gloves to wear when working, sex toy, double the amount of money obtained from\nenemies",
         "etypeId": 2,
         "traits": [
             {
@@ -1305,7 +1305,7 @@
     {
         "id": 49,
         "atypeId": 1,
-        "description": "Gloves that make fingertips more dexterous, sex toy",
+        "description": "Gloves that make fingertips nimble, sex toy",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
@@ -1374,7 +1374,7 @@
     {
         "id": 52,
         "atypeId": 1,
-        "description": "A carrot that has been chewed and sharpened, sex toy, Critical +5",
+        "description": "A carrot that has been chewed and become sharp, sex toy, Critical +5",
         "etypeId": 2,
         "traits": [
             {
@@ -1438,7 +1438,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "Excalipee",
+        "name": "Excalipear",
         "note": "<mat1:A53*1>\n<matG:5000>",
         "params": [
             0,
@@ -1459,7 +1459,7 @@
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "Excalipoo",
+        "name": "Excalipurr",
         "note": "<mat1:A54*1>\n<matG:5000>",
         "params": [
             0,
@@ -1513,7 +1513,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "Excalupper",
+        "name": "Excalipper",
         "note": "<mat1:A56*1>\n<matG:5000>",
         "params": [
             0,
@@ -1815,7 +1815,7 @@
     {
         "id": 68,
         "atypeId": 1,
-        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack",
+        "description": "A vibrator with ultra-vibration that evaporates moisture, sex toy, water\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1842,7 +1842,7 @@
     {
         "id": 69,
         "atypeId": 1,
-        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack",
+        "description": "A vibrator with ultra-vibration that evaporates moisture, sex toy, water\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1869,7 +1869,7 @@
     {
         "id": 70,
         "atypeId": 1,
-        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack",
+        "description": "A vibrator with ultra-vibration that evaporates moisture, sex toy, water\nattribute special attack",
         "etypeId": 2,
         "traits": [
             {
@@ -1896,7 +1896,7 @@
     {
         "id": 71,
         "atypeId": 1,
-        "description": "A vibrator with ultra-vibrations that evaporate moisture, sex toy, water\nattribute special attack with 50% less stamina consumption",
+        "description": "A vibrator with ultra-vibration that evaporates moisture, sex toy, water\nattribute special attack with 50% less stamina consumption",
         "etypeId": 2,
         "traits": [
             {
@@ -2122,7 +2122,7 @@
     {
         "id": 79,
         "atypeId": 1,
-        "description": "A holy vibrator that seals demons, sex toy, evil attribute special attack with\nvitality drain -1% per turn",
+        "description": "A holy vibrator that seals demons, sex toy, evil attribute special attack with\n1% vitality drain per turn",
         "etypeId": 2,
         "traits": [
             {
@@ -2154,7 +2154,7 @@
     {
         "id": 80,
         "atypeId": 1,
-        "description": "When held in hand the wind on all sides stops blowing, sex toy, wind attribute\nspecial attack",
+        "description": "A sex toy that stops the wind on all sides when held in hand, wind attribute\nspecial attack",
         "etypeId": 2,
         "traits": [
             {
@@ -2181,7 +2181,7 @@
     {
         "id": 81,
         "atypeId": 1,
-        "description": "Holding it stops the wind in all directions - a sexual device with wind\nattribute special effects",
+        "description": "When held, it stops the wind in its tracks – a sexual device with wind attribute\nbonus.",
         "etypeId": 2,
         "traits": [
             {
@@ -2208,7 +2208,7 @@
     {
         "id": 82,
         "atypeId": 1,
-        "description": "Holding it stops the wind in all directions - a sexual device with wind\nattribute special effects",
+        "description": "When held, it stops the wind in its tracks – a sexual device with wind attribute\nbonus.",
         "etypeId": 2,
         "traits": [
             {
@@ -2235,7 +2235,7 @@
     {
         "id": 83,
         "atypeId": 1,
-        "description": "Holding it stops the wind in all directions - a sexual device with wind\nattribute special effects, item recovery effect +100",
+        "description": "When held, it stops the wind in its tracks – a sexual device with wind attribute\nbonus. Item recovery effect +100",
         "etypeId": 2,
         "traits": [
             {
@@ -2267,7 +2267,7 @@
     {
         "id": 84,
         "atypeId": 1,
-        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects",
+        "description": "The roots of a great tree that suck up nutrients – a sexual device with grass\nattribute bonus.",
         "etypeId": 2,
         "traits": [
             {
@@ -2294,7 +2294,7 @@
     {
         "id": 85,
         "atypeId": 1,
-        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects",
+        "description": "The roots of a great tree that suck up nutrients – a sexual device with grass\nattribute bonus.",
         "etypeId": 2,
         "traits": [
             {
@@ -2321,7 +2321,7 @@
     {
         "id": 86,
         "atypeId": 1,
-        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects",
+        "description": "The roots of a great tree that suck up nutrients – a sexual device with grass\nattribute bonus.",
         "etypeId": 2,
         "traits": [
             {
@@ -2348,7 +2348,7 @@
     {
         "id": 87,
         "atypeId": 1,
-        "description": "The roots of a great tree that suck up nutrients - a sexual device with grass\nattribute special effects, double consecutive attacks",
+        "description": "The roots of a great tree that suck up nutrients – a sexual device with grass\nattribute bonus. Double consecutive attack",
         "etypeId": 2,
         "traits": [
             {
@@ -2380,7 +2380,7 @@
     {
         "id": 88,
         "atypeId": 1,
-        "description": "A dildo modeled after a succubus's tail - a sexual device with +1 automatic\nstamina recovery, +1 automatic health recovery",
+        "description": "A dildo modeled after a succubus's tail – a sexual device with +1 automatic\nstamina recovery and +1 automatic health recovery.",
         "etypeId": 2,
         "traits": [
             {
@@ -2412,7 +2412,7 @@
     {
         "id": 89,
         "atypeId": 1,
-        "description": "Just holding it makes you lose your motivation - a rod-shaped something, a\nsexual device with TP increase -100%",
+        "description": "Just having it makes you lose motivation, some kind of rod-shaped thing – a\nsexual device with TP increase -100%.",
         "etypeId": 2,
         "traits": [
             {
@@ -2422,7 +2422,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "Wobbly",
+        "name": "Nae Poyo",
         "note": "",
         "params": [
             200,
@@ -2439,7 +2439,7 @@
     {
         "id": 90,
         "atypeId": 1,
-        "description": "Wriggling tentacles of a mythical creature - a sexual device with restraint\ninfliction, TP increase -100%",
+        "description": "Wriggling tentacles of a mythical creature – a sexual device with restraint\neffect and TP increase -100%.",
         "etypeId": 2,
         "traits": [
             {
@@ -2471,7 +2471,7 @@
     {
         "id": 91,
         "atypeId": 1,
-        "description": "Crawling chaos - a sexual device with restraint infliction, TP increase -100%",
+        "description": "Crawling chaos – a sexual device with restraint effect and TP increase -100%.",
         "etypeId": 2,
         "traits": [
             {
@@ -2486,7 +2486,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "Nyarlahand",
+        "name": "Nyarlathotep's Hand",
         "note": "",
         "params": [
             0,
@@ -2503,7 +2503,7 @@
     {
         "id": 92,
         "atypeId": 1,
-        "description": "Very delicious when grilled as skewered meat - a sexual device with restraint\ninfliction, stun infliction",
+        "description": "Very delicious when grilled as skewered fish – a sexual device with restraint\neffect and stun effect.",
         "etypeId": 2,
         "traits": [
             {
@@ -2535,7 +2535,7 @@
     {
         "id": 93,
         "atypeId": 1,
-        "description": "A snake controlled by playing a flute - a sexual device with restraint\ninfliction, stun infliction",
+        "description": "A snake controlled by playing a flute – a sexual device with restraint effect\nand stun effect.",
         "etypeId": 2,
         "traits": [
             {
@@ -2567,7 +2567,7 @@
     {
         "id": 94,
         "atypeId": 1,
-        "description": "Loves butter - a sexual device with flinch infliction, TP increase -100%",
+        "description": "Loves butter – a sexual device with flinch effect and TP increase -100%.",
         "etypeId": 2,
         "traits": [
             {
@@ -2599,11 +2599,11 @@
     {
         "id": 95,
         "atypeId": 1,
-        "description": "Equipping it turns you into an awkwardly hip-swinging pup - a sexual device\neffective against impudence and lolis (not true)",
+        "description": "Equipping it turns you into an awkwardly gyrating puppy – a sexual device\neffective against impudence and lolis (not true).",
         "etypeId": 2,
         "traits": [],
         "iconIndex": 162,
-        "name": "Disciplinary Rod",
+        "name": "Discipline Rod",
         "note": "<mat1:I202*1>\n<matG:10>",
         "params": [
             -5000,
@@ -2620,7 +2620,7 @@
     {
         "id": 96,
         "atypeId": 1,
-        "description": "A sexual device with recovery effect +20%",
+        "description": "A sexual device with recovery effect +20%.",
         "etypeId": 2,
         "traits": [
             {
@@ -2647,7 +2647,7 @@
     {
         "id": 97,
         "atypeId": 1,
-        "description": "Used in place of oden or as a mosaic substitute - a sexual device with +1\nautomatic vigor recovery, recovery effect +50%",
+        "description": "Used for oden or as a mosaic substitute – a sexual device with +1 automatic\nenergy recovery and recovery effect +50%.",
         "etypeId": 2,
         "traits": [
             {
@@ -2667,7 +2667,7 @@
             }
         ],
         "iconIndex": 162,
-        "name": "Fish Cake",
+        "name": "Chikuwa",
         "note": "",
         "params": [
             0,
@@ -2765,7 +2765,7 @@
     {
         "id": 101,
         "atypeId": 1,
-        "description": "0.01mm condom - Rubber",
+        "description": "A 0.01mm condom. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2786,7 +2786,7 @@
     {
         "id": 102,
         "atypeId": 1,
-        "description": "0.05mm separation - Rubber",
+        "description": "A 0.05mm separation. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2807,7 +2807,7 @@
     {
         "id": 103,
         "atypeId": 1,
-        "description": "0.1mm condom - Rubber",
+        "description": "A 0.1mm condom. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2828,7 +2828,7 @@
     {
         "id": 104,
         "atypeId": 1,
-        "description": "0.2mm condom - Rubber",
+        "description": "A 0.2mm condom. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2849,7 +2849,7 @@
     {
         "id": 105,
         "atypeId": 1,
-        "description": "Originally used to prevent chapped fingers - Rubber",
+        "description": "Originally used to prevent chapped fingers. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2870,7 +2870,7 @@
     {
         "id": 106,
         "atypeId": 1,
-        "description": "Made of iron rubber (?) - Rubber",
+        "description": "Rubber made of iron (?). Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2891,7 +2891,7 @@
     {
         "id": 107,
         "atypeId": 1,
-        "description": "Gold-plated tacky rubber - Rubber",
+        "description": "A gold-plated rubber of bad taste. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2912,7 +2912,7 @@
     {
         "id": 108,
         "atypeId": 1,
-        "description": "Rubber designed to not hurt your pride - Rubber",
+        "description": "Rubber designed to avoid hurting one's pride. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2933,7 +2933,7 @@
     {
         "id": 109,
         "atypeId": 1,
-        "description": "Being too slow can also be problematic - Rubber, stamina consumption -10%",
+        "description": "Being too slow can also be problematic. Rubber. Stamina consumption -10%",
         "etypeId": 3,
         "traits": [
             {
@@ -2960,7 +2960,7 @@
     {
         "id": 110,
         "atypeId": 1,
-        "description": "Seems to appear intelligent - Rubber",
+        "description": "Apparently, it looks like you have high IQ. Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -2981,7 +2981,7 @@
     {
         "id": 111,
         "atypeId": 1,
-        "description": "A fingertip protector with a little extra room - Rubber, immune to flinching",
+        "description": "A slightly roomy finger cot. Rubber. Flinch immunity",
         "etypeId": 3,
         "traits": [
             {
@@ -3008,7 +3008,7 @@
     {
         "id": 112,
         "atypeId": 1,
-        "description": "Medicinal rubber that eases fatigue and stiffness in the body, automatic health\nrecovery +2",
+        "description": "Medicinal rubber that eases fatigue and stiffness in the body. Rubber. Automatic\nhealth recovery +2",
         "etypeId": 3,
         "traits": [
             {
@@ -3035,7 +3035,7 @@
     {
         "id": 113,
         "atypeId": 1,
-        "description": "Rubber that refreshes both mind and body with a nice scent, automatic vigor\nrecovery +2, automatic health recovery +2",
+        "description": "Rubber that refreshes both mind and body with a good scent. Rubber. Automatic\nenergy recovery +2, automatic health recovery +2",
         "etypeId": 3,
         "traits": [
             {
@@ -3067,7 +3067,7 @@
     {
         "id": 114,
         "atypeId": 1,
-        "description": "Rubber that is said to improve blood circulation, automatic vigor recovery +2,\nautomatic health recovery +2",
+        "description": "Rubber that is said to improve blood circulation. Rubber. Automatic energy\nrecovery +2, automatic health recovery +2",
         "etypeId": 3,
         "traits": [
             {
@@ -3099,7 +3099,7 @@
     {
         "id": 115,
         "atypeId": 1,
-        "description": "Rubber that maintains daily health benefits for the body, automatic health\nrecovery +4",
+        "description": "Rubber that maintains daily health benefits for the body. Rubber. Automatic\nhealth recovery +4",
         "etypeId": 3,
         "traits": [
             {
@@ -3126,7 +3126,7 @@
     {
         "id": 116,
         "atypeId": 1,
-        "description": "Rubber made from recycled materials, automatic vigor recovery +4",
+        "description": "Rubber made from recycled materials. Rubber. Automatic energy recovery +4",
         "etypeId": 3,
         "traits": [
             {
@@ -3153,7 +3153,7 @@
     {
         "id": 117,
         "atypeId": 1,
-        "description": "Rubber enchanted with continuous healing magic, automatic vigor recovery +4",
+        "description": "Rubber enchanted with continuous healing magic. Rubber. Automatic energy\nrecovery +4",
         "etypeId": 3,
         "traits": [
             {
@@ -3180,7 +3180,7 @@
     {
         "id": 118,
         "atypeId": 1,
-        "description": "Rubber with a slightly medicinal smell, item recovery effect +20",
+        "description": "Rubber that smells slightly medicinal. Rubber. Item recovery effect +20",
         "etypeId": 3,
         "traits": [
             {
@@ -3207,7 +3207,7 @@
     {
         "id": 119,
         "atypeId": 1,
-        "description": "Rubber accidentally created while attempting to make the Philosopher's Stone,\nitem recovery effect +50",
+        "description": "Rubber accidentally created while attempting to make the Philosopher's Stone.\nRubber. Item recovery effect +50",
         "etypeId": 3,
         "traits": [
             {
@@ -3234,7 +3234,7 @@
     {
         "id": 120,
         "atypeId": 1,
-        "description": "Eco-friendly rubber that's kind to nature, stamina consumption -20%, grass and\nwind resistance",
+        "description": "Eco-friendly rubber that's kind to nature. Rubber. Stamina consumption -20%,\ngrass and wind resistance",
         "etypeId": 3,
         "traits": [
             {
@@ -3271,7 +3271,7 @@
     {
         "id": 121,
         "atypeId": 1,
-        "description": "Strawberry-flavored rubber, stamina consumption -20%, fellatio resistance -50%",
+        "description": "Strawberry-flavored rubber. Rubber. Stamina consumption -20%, fellatio\nresistance -50%",
         "etypeId": 3,
         "traits": [
             {
@@ -3303,7 +3303,7 @@
     {
         "id": 122,
         "atypeId": 1,
-        "description": "Blueberry-flavored rubber, stamina consumption -20%, fellatio resistance -100%",
+        "description": "Blueberry-flavored rubber. Rubber. Stamina consumption -20%, fellatio resistance\n-100%",
         "etypeId": 3,
         "traits": [
             {
@@ -3335,7 +3335,7 @@
     {
         "id": 123,
         "atypeId": 1,
-        "description": "A dangerous rubber that causes people to eat anything, with a rubber blowjob\nresistance of -500%",
+        "description": "A dangerous rubber that makes people want to eat it, Rubber Fellatio Resistance\n-500%",
         "etypeId": 3,
         "traits": [
             {
@@ -3362,7 +3362,7 @@
     {
         "id": 124,
         "atypeId": 1,
-        "description": "Wrap it up with tape, rubber stamina consumption -20%, paralysis invalid",
+        "description": "Wrap it up with tape, Rubber Stamina Consumption -20% Paralysis Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3394,7 +3394,7 @@
     {
         "id": 125,
         "atypeId": 1,
-        "description": "Instead of rubber, thinly coat it with magic power, rubber stamina consumption\n-20%",
+        "description": "Instead of rubber, wrap a thin layer of magic power, Rubber Stamina Consumption\n-20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3421,7 +3421,7 @@
     {
         "id": 126,
         "atypeId": 1,
-        "description": "Just wearing it makes the body heat up, rubber TP increase +20, charm invalid",
+        "description": "Just wearing it makes the body heat up, Rubber TP Increase +20 Charm Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3453,7 +3453,7 @@
     {
         "id": 127,
         "atypeId": 1,
-        "description": "Just wearing it causes cold extremities, rubber recovery effect +20, excitement\ninvalid",
+        "description": "Just wearing it causes cold extremities, Rubber Recovery Effect +20 Excitement\nInvalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3485,7 +3485,7 @@
     {
         "id": 128,
         "atypeId": 1,
-        "description": "Just wearing it causes numbness, rubber critical hit +2, flinching invalid",
+        "description": "Just wearing it causes numbness, Rubber Critical +2 Flinch Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3517,7 +3517,7 @@
     {
         "id": 129,
         "atypeId": 1,
-        "description": "Something like a case to fit over the genitals, rubber critical hit +5,\nflinching invalid",
+        "description": "Something like a case to fit over that place, Rubber Critical +5 Flinch Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3532,7 +3532,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "Coteka",
+        "name": "Koteka",
         "note": "",
         "params": [
             0,
@@ -3549,7 +3549,7 @@
     {
         "id": 130,
         "atypeId": 1,
-        "description": "Rubber with bumps, rubber actual performance resistance +20",
+        "description": "A rubber with bumps, Rubber Real Deal Resistance +20",
         "etypeId": 3,
         "traits": [
             {
@@ -3576,7 +3576,7 @@
     {
         "id": 131,
         "atypeId": 1,
-        "description": "Rubber with spikes, rubber actual performance resistance +20",
+        "description": "A rubber with spikes, Rubber Real Deal Resistance +20",
         "etypeId": 3,
         "traits": [
             {
@@ -3603,7 +3603,7 @@
     {
         "id": 132,
         "atypeId": 1,
-        "description": "Rubber for training purposes, rubber EXP +20%",
+        "description": "A rubber for training purposes, Rubber EXP +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3630,7 +3630,7 @@
     {
         "id": 133,
         "atypeId": 1,
-        "description": "Rubber that is pulled down by gravity when worn, rubber EXP +20%",
+        "description": "Wearing it pulls down due to gravity, Rubber EXP +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3657,7 +3657,7 @@
     {
         "id": 134,
         "atypeId": 1,
-        "description": "Rubber that is recorded in the Kojiki as used by ninjas, flinching invalid",
+        "description": "Recorded in ancient chronicles as used by ninjas, Rubber Flinch Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3684,7 +3684,7 @@
     {
         "id": 135,
         "atypeId": 1,
-        "description": "Rubber made of brightly glowing material, flinching invalid, darkness invalid",
+        "description": "Made of brightly glowing material, Rubber Flinch Invalid Darkness Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3716,7 +3716,7 @@
     {
         "id": 136,
         "atypeId": 1,
-        "description": "Rubber decorated with glitter, flinching invalid, darkness invalid, charm\ninvalid",
+        "description": "Decorated with glitter and such, Rubber Flinch Invalid Darkness Invalid Charm\nInvalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3753,7 +3753,7 @@
     {
         "id": 137,
         "atypeId": 1,
-        "description": "Rubber that only covers the glans, sensitivity invalid",
+        "description": "A rubber that only covers the glans, Rubber Sensitivity Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3780,7 +3780,7 @@
     {
         "id": 138,
         "atypeId": 1,
-        "description": "Striped pattern rubber, paralysis invalid",
+        "description": "A striped pattern rubber, Rubber Paralysis Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3807,7 +3807,7 @@
     {
         "id": 139,
         "atypeId": 1,
-        "description": "Gently apply whipped meringue, rubber aphrodisiac poison invalid",
+        "description": "Gently apply whipped meringue, Rubber Aphrodisiac Poison Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3834,7 +3834,7 @@
     {
         "id": 140,
         "atypeId": 1,
-        "description": "Gently apply sweet honey, rubber aphrodisiac poison invalid, blowjob resistance\n-50%",
+        "description": "Gently apply sweet honey, Rubber Aphrodisiac Poison Invalid Fellatio Resistance\n-50%",
         "etypeId": 3,
         "traits": [
             {
@@ -3866,7 +3866,7 @@
     {
         "id": 141,
         "atypeId": 1,
-        "description": "Secretly apply spicy wasabi, rubber aphrodisiac poison invalid, blowjob\nresistance +20%",
+        "description": "Secretly apply spicy wasabi, Rubber Aphrodisiac Poison Invalid Fellatio\nResistance +20%",
         "etypeId": 3,
         "traits": [
             {
@@ -3898,7 +3898,7 @@
     {
         "id": 142,
         "atypeId": 1,
-        "description": "A very dangerous rubber with a hole at the tip",
+        "description": "A very dangerous rubber with a hole at the tip, Rubber",
         "etypeId": 3,
         "traits": [],
         "iconIndex": 163,
@@ -3919,7 +3919,7 @@
     {
         "id": 143,
         "atypeId": 1,
-        "description": "Twisted and difficult to put on, rubber restraint invalid",
+        "description": "Twisted and difficult to put on, Rubber Restraint Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3946,7 +3946,7 @@
     {
         "id": 144,
         "atypeId": 1,
-        "description": "Slippery and smooth rubber, restraint invalid",
+        "description": "Slippery and smooth rubber, Rubber Restraint Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -3973,7 +3973,7 @@
     {
         "id": 145,
         "atypeId": 1,
-        "description": "Rubber that turns you into a rubber human, restraint invalid, water resistance\n-100%",
+        "description": "Become a rubber human with this rubber, Rubber Restraint Invalid Water\nResistance -100%",
         "etypeId": 3,
         "traits": [
             {
@@ -3988,7 +3988,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "Gum-Gum Rubber",
+        "name": "Gomu Gomu no Rubber",
         "note": "",
         "params": [
             200,
@@ -4005,7 +4005,7 @@
     {
         "id": 146,
         "atypeId": 1,
-        "description": "Rubber coated with succubus love juice, excitement invalid, seduction resistance\n-100%",
+        "description": "Rubber coated with succubus love juice, Rubber Excitement Invalid Seduction\nResistance -100%",
         "etypeId": 3,
         "traits": [
             {
@@ -4037,7 +4037,7 @@
     {
         "id": 147,
         "atypeId": 1,
-        "description": "Rubber with defensive magic cast on it, flinching invalid, darkness invalid,\ncharm invalid",
+        "description": "Rubber with defensive magic cast on it, Rubber Flinch Invalid Darkness Invalid\nCharm Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4074,7 +4074,7 @@
     {
         "id": 148,
         "atypeId": 1,
-        "description": "Rubber with the blessing of a guardian spirit, excitement invalid, darkness\ninvalid, charm invalid",
+        "description": "Rubber with the protection of a guardian spirit, Rubber Excitement Invalid\nDarkness Invalid Charm Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4111,7 +4111,7 @@
     {
         "id": 149,
         "atypeId": 1,
-        "description": "Clean rubber sterilized and disinfected, aphrodisiac poison invalid, darkness\ninvalid",
+        "description": "Clean rubber sterilized and disinfected, Rubber Aphrodisiac Poison Invalid\nDarkness Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4143,7 +4143,7 @@
     {
         "id": 150,
         "atypeId": 1,
-        "description": "Rubber laced with poison, aphrodisiac poison invalid, aphrodisiac poison given",
+        "description": "Rubber laced with poison, Rubber Aphrodisiac Poison Invalid Aphrodisiac Poison\nGranted",
         "etypeId": 3,
         "traits": [
             {
@@ -4175,7 +4175,7 @@
     {
         "id": 151,
         "atypeId": 1,
-        "description": "Dangerous rubber laced with a dangerous poison, self also in danger, rubber\nstamina auto-recovery -1, aphrodisiac poison given",
+        "description": "Dangerous rubber laced with a bad poison, Dangerous for oneself too, Rubber\nStamina Auto-Recovery -1 Aphrodisiac Poison Granted",
         "etypeId": 3,
         "traits": [
             {
@@ -4207,7 +4207,7 @@
     {
         "id": 152,
         "atypeId": 1,
-        "description": "Rubber knitted by mom staying up all night, sensitivity invalid, darkness\ninvalid, charm invalid",
+        "description": "Mom stayed up all night knitting condoms for me, Rubber Sensitivity Invalid\nDarkness Invalid Charm Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4244,7 +4244,7 @@
     {
         "id": 153,
         "atypeId": 1,
-        "description": "High-tech rubber made by Cyber Wife Co., sensitivity invalid, darkness invalid,\ncharm invalid, paralysis invalid",
+        "description": "High-tech rubber made by Cyber Wife Co., Rubber Sensitivity Invalid Darkness\nInvalid Charm Invalid Paralysis Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4286,7 +4286,7 @@
     {
         "id": 154,
         "atypeId": 1,
-        "description": "Rubber that increases the pleasure of titjobs, titjob resistance -500%",
+        "description": "Rubber that increases the pleasure of titjobs, Rubber Titjob Resistance -500%",
         "etypeId": 3,
         "traits": [
             {
@@ -4313,7 +4313,7 @@
     {
         "id": 155,
         "atypeId": 1,
-        "description": "Rubber that doubles the dick into two, attack count +1, skill use not possible",
+        "description": "Rubber that doubles your member, Rubber Attack Frequency +1 Skill Use Not\nPossible",
         "etypeId": 3,
         "traits": [
             {
@@ -4328,7 +4328,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "Serendipitous Rubber",
+        "name": "Fateful Rubber",
         "note": "",
         "params": [
             0,
@@ -4345,7 +4345,7 @@
     {
         "id": 156,
         "atypeId": 1,
-        "description": "A counterfeit of the legendary rubber, charm invalid, restraint invalid",
+        "description": "A counterfeit of the legendary rubber, Rubber Charm Invalid Restraint Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4377,7 +4377,7 @@
     {
         "id": 157,
         "atypeId": 1,
-        "description": "The legendary rubber, status abnormality invalid",
+        "description": "The legendary rubber, Rubber Status Anomaly Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4439,7 +4439,7 @@
     {
         "id": 158,
         "atypeId": 1,
-        "description": "Rubber imbued with Lilith's magic power, TP increase +30%, titjob resistance\n-100%",
+        "description": "Rubber imbued with Lilith's magical power, Rubber TP Increase +30% Titjob\nResistance -100%",
         "etypeId": 3,
         "traits": [
             {
@@ -4471,7 +4471,7 @@
     {
         "id": 159,
         "atypeId": 1,
-        "description": "Cooling rubber coated with menthol, excitement invalid, flinching invalid",
+        "description": "Rubber coated with menthol for a cool sensation, Rubber Excitement Invalid\nFlinch Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4503,7 +4503,7 @@
     {
         "id": 160,
         "atypeId": 1,
-        "description": "Rubber with cold magic cast on it, excitement invalid, flinching invalid",
+        "description": "Rubber with cold magic cast on it, Rubber Excitement Invalid Flinch Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4535,7 +4535,7 @@
     {
         "id": 161,
         "atypeId": 1,
-        "description": "Rubber instantly frozen with liquid nitrogen, excitement invalid, flinching\ninvalid, charm invalid",
+        "description": "Rubber instantly frozen with liquid nitrogen, Rubber Excitement Invalid Flinch\nInvalid Charm Invalid",
         "etypeId": 3,
         "traits": [
             {
@@ -4572,7 +4572,7 @@
     {
         "id": 162,
         "atypeId": 1,
-        "description": "Almost just a toilet paper core, flinching invalid, assjob resistance +20%",
+        "description": "Almost just a toilet paper roll core, Rubber Flinch Invalid Assjob Resistance\n+20%",
         "etypeId": 3,
         "traits": [
             {
@@ -4646,7 +4646,7 @@
     {
         "id": 165,
         "atypeId": 1,
-        "description": "A condom wrapped with wire, excitement nullified",
+        "description": "A condom with wire coiled around it. Excitement nullified",
         "etypeId": 3,
         "traits": [
             {
@@ -4673,7 +4673,7 @@
     {
         "id": 166,
         "atypeId": 1,
-        "description": "A condom that cannot be touched or seen, but has mass and gravity, healing item\neffectiveness increased by 1.5 times",
+        "description": "A condom that cannot be touched or seen, but has mass and gravity. Healing item\neffectiveness increased by 1.5 times",
         "etypeId": 3,
         "traits": [
             {
@@ -4700,7 +4700,7 @@
     {
         "id": 167,
         "atypeId": 1,
-        "description": "One of the elementary particles that make up the world, penetrates anything,\ncondom grants sensitivity and increases TP by +10, Critical +3",
+        "description": "One of the elementary particles that create the world. It penetrates anything.\nCondom. Grants sensitivity. TP increase +10, Critical +3",
         "etypeId": 3,
         "traits": [
             {
@@ -5628,7 +5628,7 @@
     {
         "id": 201,
         "atypeId": 1,
-        "description": "A ring that vows eternity, Ring Bullet +1, Wide Shot",
+        "description": "A ring that symbolizes eternity. Ring. Bullet +1, Wide Shot",
         "etypeId": 4,
         "traits": [
             {
@@ -5655,7 +5655,7 @@
     {
         "id": 202,
         "atypeId": 1,
-        "description": "A simple ring made of iron, Ring",
+        "description": "A simple ring made of iron. Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
@@ -5676,7 +5676,7 @@
     {
         "id": 203,
         "atypeId": 1,
-        "description": "A luxurious ring made of gold, Ring",
+        "description": "A luxurious ring made of gold. Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
@@ -5697,7 +5697,7 @@
     {
         "id": 204,
         "atypeId": 1,
-        "description": "A ring with a punk design, Ring",
+        "description": "A ring with a punk design. Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
@@ -5718,7 +5718,7 @@
     {
         "id": 205,
         "atypeId": 1,
-        "description": "A cute ring designed with cherries, Ring Bullet +1",
+        "description": "A cute ring designed with cherries. Ring. Bullet +1",
         "etypeId": 4,
         "traits": [
             {
@@ -5745,7 +5745,7 @@
     {
         "id": 206,
         "atypeId": 1,
-        "description": "A ring adorned with small diamonds, Ring charm nullified",
+        "description": "A ring adorned with small diamonds. Ring. Charm nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -5772,7 +5772,7 @@
     {
         "id": 207,
         "atypeId": 1,
-        "description": "A pinky ring cursed with Lilith's curse, Ring Paizuri resistance -500%",
+        "description": "A pinky ring cursed with Lilith's curse. Ring. Paizuri resistance -500%",
         "etypeId": 4,
         "traits": [
             {
@@ -5799,7 +5799,7 @@
     {
         "id": 208,
         "atypeId": 1,
-        "description": "A cheap-looking ring made of plastic, Ring Charm resistance 30, Excitement\nresistance 30",
+        "description": "A cheap-looking ring made of plastic. Ring. Charm resistance 30, Excitement\nresistance 30",
         "etypeId": 4,
         "traits": [
             {
@@ -5831,7 +5831,7 @@
     {
         "id": 209,
         "atypeId": 1,
-        "description": "An elegant ring decorated with acacia flowers, Ring Charm nullified, Excitement\nnullified, Aphrodisiac poison nullified",
+        "description": "An elegant ring decorated with acacia flowers. Ring. Charm nullified, Excitement\nnullified, Aphrodisiac poison nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -5868,7 +5868,7 @@
     {
         "id": 210,
         "atypeId": 1,
-        "description": "A fairy's bracelet, for humans it's a ring, Ring Charm resistance 30,\nAphrodisiac poison nullified, Stamina consumption -20%",
+        "description": "A fairy's bracelet, which is a ring for humans. Ring. Charm resistance 30,\nAphrodisiac poison nullified, Stamina consumption -20%",
         "etypeId": 4,
         "traits": [
             {
@@ -5905,7 +5905,7 @@
     {
         "id": 211,
         "atypeId": 1,
-        "description": "A ring that smells of the seashore, Ring Aphrodisiac poison nullified, EXP +5%",
+        "description": "A ring that smells of the seashore. Ring. Aphrodisiac poison nullified, EXP +5%",
         "etypeId": 4,
         "traits": [
             {
@@ -5937,7 +5937,7 @@
     {
         "id": 212,
         "atypeId": 1,
-        "description": "A ring that expresses passion, Ring Weakness nullified, TP increase +30%",
+        "description": "A ring that expresses passion. Ring. Weakness nullified, TP increase +30%",
         "etypeId": 4,
         "traits": [
             {
@@ -5969,7 +5969,7 @@
     {
         "id": 213,
         "atypeId": 1,
-        "description": "A ring that expresses calmness, Ring Excitement nullified, Automatic HP recovery\n+3",
+        "description": "A ring that expresses calmness. Ring. Excitement nullified, Automatic HP\nrecovery +3",
         "etypeId": 4,
         "traits": [
             {
@@ -6001,7 +6001,7 @@
     {
         "id": 214,
         "atypeId": 1,
-        "description": "A ring that expresses inspiration, Ring Flinch nullified, Critical +3",
+        "description": "A ring that expresses inspiration. Ring. Flinch nullified, Critical +3",
         "etypeId": 4,
         "traits": [
             {
@@ -6033,7 +6033,7 @@
     {
         "id": 215,
         "atypeId": 1,
-        "description": "A ring that expresses freedom, Ring Restraint nullified, Automatic Vigor\nrecovery +3",
+        "description": "A ring that expresses freedom. Ring. Restraint nullified, Automatic stamina\nrecovery +3",
         "etypeId": 4,
         "traits": [
             {
@@ -6065,7 +6065,7 @@
     {
         "id": 216,
         "atypeId": 1,
-        "description": "A ring with healing magic applied, Ring Aphrodisiac poison nullified, Automatic\nVigor recovery +2",
+        "description": "A ring enchanted with healing magic. Ring. Aphrodisiac poison nullified,\nAutomatic stamina recovery +2",
         "etypeId": 4,
         "traits": [
             {
@@ -6097,7 +6097,7 @@
     {
         "id": 217,
         "atypeId": 1,
-        "description": "A ring that enhances the effects of medicine, Ring Aphrodisiac poison nullified,\nItem recovery effect +50%",
+        "description": "A ring that enhances the effects of medicine. Ring. Aphrodisiac poison\nnullified, Item recovery effect +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -6129,7 +6129,7 @@
     {
         "id": 218,
         "atypeId": 1,
-        "description": "A ring that makes power well up within you, Ring Weakness nullified, Restraint\nnullified, Automatic HP recovery +1",
+        "description": "A ring that makes you feel energized. Ring. Weakness nullified, Restraint\nnullified, Automatic HP recovery +1",
         "etypeId": 4,
         "traits": [
             {
@@ -6166,7 +6166,7 @@
     {
         "id": 219,
         "atypeId": 1,
-        "description": "A rusted ring, Ring Charm nullified, Excitement nullified, Item recovery effect\n+20%",
+        "description": "A rusted ring. Charm nullified, Excitement nullified, Item recovery effect +20%",
         "etypeId": 4,
         "traits": [
             {
@@ -6203,7 +6203,7 @@
     {
         "id": 220,
         "atypeId": 1,
-        "description": "A ring with a skull pattern that seems obviously cursed, Ring Sensitivity\nnullified, Vigor decrease -2",
+        "description": "A ring with a skull pattern that seems obviously cursed. Ring. Sensitivity\nnullified, Stamina decrease -2",
         "etypeId": 4,
         "traits": [
             {
@@ -6235,7 +6235,7 @@
     {
         "id": 221,
         "atypeId": 1,
-        "description": "A magical ring that makes you exert unnecessary strength, Ring Weakness\nnullified, Stamina consumption +50%",
+        "description": "A magical ring that makes you exert unnecessary strength. Ring. Weakness\nnullified, Stamina consumption +50%",
         "etypeId": 4,
         "traits": [
             {
@@ -6267,7 +6267,7 @@
     {
         "id": 222,
         "atypeId": 1,
-        "description": "Made in Arco as written on the ring, Item drop rate doubled, Action addition 5%",
+        "description": "A ring that says \"Made in Arco\". Item drop rate doubled, Action addition 5%",
         "etypeId": 4,
         "traits": [
             {
@@ -6299,7 +6299,7 @@
     {
         "id": 223,
         "atypeId": 1,
-        "description": "A ring of poor taste, Ring Money earned doubled",
+        "description": "A ring of poor taste. Ring. Acquired money doubled",
         "etypeId": 4,
         "traits": [
             {
@@ -6326,7 +6326,7 @@
     {
         "id": 224,
         "atypeId": 1,
-        "description": "A ring that makes hair glossy and shiny, Ring Recovery effect +20%, Sensitivity\nnullified, Darkness nullified",
+        "description": "A ring that makes your hair shiny and lustrous. Ring. Recovery effect +20%,\nSensitivity nullified, Darkness nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6363,7 +6363,7 @@
     {
         "id": 225,
         "atypeId": 1,
-        "description": "A ring swirling with black magic power, Ring Recovery effect -20%, Sensitivity\nnullified, Excitement nullified",
+        "description": "A ring swirling with black magic power. Ring. Recovery effect -20%, Sensitivity\nnullified, Excitement nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6400,7 +6400,7 @@
     {
         "id": 226,
         "atypeId": 1,
-        "description": "A sweet-smelling ring, Ring Item recovery effect +50%, Automatic Vigor recovery\n+2",
+        "description": "A ring with a sweet smell. Ring. Item recovery effect +50%, Automatic stamina\nrecovery +2",
         "etypeId": 4,
         "traits": [
             {
@@ -6432,7 +6432,7 @@
     {
         "id": 227,
         "atypeId": 1,
-        "description": "A ring that receives cosmic radio waves, Ring Item recovery effect +50%, EXP\n+20%",
+        "description": "A ring that receives cosmic radio waves. Ring. Item recovery effect +50%, EXP\n+20%",
         "etypeId": 4,
         "traits": [
             {
@@ -6464,7 +6464,7 @@
     {
         "id": 228,
         "atypeId": 1,
-        "description": "A connecting ring for punching purposes, Ring",
+        "description": "A connecting ring for punching. Ring",
         "etypeId": 4,
         "traits": [],
         "iconIndex": 164,
@@ -6485,7 +6485,7 @@
     {
         "id": 229,
         "atypeId": 1,
-        "description": "A ring imbued with the magic power of a famous magician, Ring Automatic HP\nrecovery +5",
+        "description": "A ring imbued with the magic power of a famous magician. Ring. Automatic HP\nrecovery +5",
         "etypeId": 4,
         "traits": [
             {
@@ -6495,7 +6495,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "Magic Circle Ring",
+        "name": "Magicale Ring",
         "note": "<mat1:I793*1>\n<matG:5000>",
         "params": [
             0,
@@ -6512,7 +6512,7 @@
     {
         "id": 230,
         "atypeId": 1,
-        "description": "A ring made of Higgs particles, Ring Accuracy +15%",
+        "description": "A ring made of Higgs bosons. Ring. Accuracy +15%",
         "etypeId": 4,
         "traits": [
             {
@@ -6539,7 +6539,7 @@
     {
         "id": 231,
         "atypeId": 1,
-        "description": "A ring with prayers for a safe return home imbued within it, Ring TP carryover",
+        "description": "A ring with prayers for a safe return home. Ring. TP carryover",
         "etypeId": 4,
         "traits": [
             {
@@ -6566,7 +6566,7 @@
     {
         "id": 232,
         "atypeId": 1,
-        "description": "A beautiful ring adorned with a red gemstone, Ring TP carryover",
+        "description": "A beautiful ring adorned with a red gemstone. Ring. TP carryover",
         "etypeId": 4,
         "traits": [
             {
@@ -6593,7 +6593,7 @@
     {
         "id": 233,
         "atypeId": 1,
-        "description": "A beautiful ring adorned with a blue gemstone, Ring Excitement nullified, Flinch\nnullified, Aphrodisiac poison nullified",
+        "description": "A beautiful ring adorned with a blue gemstone. Ring. Excitement nullified,\nFlinch nullified, Aphrodisiac poison nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6630,7 +6630,7 @@
     {
         "id": 234,
         "atypeId": 1,
-        "description": "A beautiful ring adorned with a green gemstone, Ring Charm nullified, Restraint\nnullified, Darkness nullified",
+        "description": "A beautiful ring adorned with a green gemstone. Ring. Charm nullified, Restraint\nnullified, Darkness nullified",
         "etypeId": 4,
         "traits": [
             {
@@ -6812,7 +6812,7 @@
     {
         "id": 240,
         "atypeId": 1,
-        "description": "A ring that allows you to see as if your eyes were open, even when they're\nclosed. Ring Darkness Nullification Item Drop Rate x2",
+        "description": "A ring that allows you to see as if your eyes were open even when they're\nclosed. Ring Darkness Nullification Item Drop Rate x2",
         "etypeId": 4,
         "traits": [
             {
@@ -6827,7 +6827,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "Clairvoyance Ring",
+        "name": "X-Ray Ring",
         "note": "",
         "params": [
             0,
@@ -6844,7 +6844,7 @@
     {
         "id": 241,
         "atypeId": 1,
-        "description": "A ring with a red-black stone condensed with the lives of six people. Ring\nExcitement/Charm/Arousal Nullification Deep Breathing Seal",
+        "description": "A ring with a red-black stone condensed with the lives of six people. Ring\nExcitement/Charm/Heat Nullification Deep Breath Seal",
         "etypeId": 4,
         "traits": [
             {
@@ -8479,7 +8479,7 @@
     {
         "id": 301,
         "atypeId": 1,
-        "description": "An amulet filled with prayers for safety in battle. Accessory Defense Effect\n+20% Sword Equipment Possible",
+        "description": "An amulet filled with prayers for safety in battle. Accessory Defense Effect\n+20% Sword Equippable",
         "etypeId": 5,
         "traits": [
             {
@@ -8494,7 +8494,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Swordsman's Charm",
+        "name": "Swordsman's Amulet",
         "note": "",
         "params": [
             0,
@@ -8511,7 +8511,7 @@
     {
         "id": 302,
         "atypeId": 1,
-        "description": "An essential adventurer's accessory to protect vital points. Accessory Defense\nEffect +20%",
+        "description": "An essential accessory for adventurers to protect their vital points. Accessory\nDefense Effect +20%",
         "etypeId": 5,
         "traits": [
             {
@@ -8538,7 +8538,7 @@
     {
         "id": 303,
         "atypeId": 1,
-        "description": "An armlet that enhances the effects of medicine. Accessory Item Recovery Effect\n+20% Medicine Equipment Possible",
+        "description": "An armlet that enhances the effects of medicines. Accessory Item Recovery Effect\n+20% Medicine Equippable",
         "etypeId": 5,
         "traits": [
             {
@@ -8570,7 +8570,7 @@
     {
         "id": 304,
         "atypeId": 1,
-        "description": "A mysterious pocket watch with an irregular second hand. Accessory Action\nIncrease 20%",
+        "description": "A mysterious pocket watch with a second hand that moves irregularly. Accessory\nAction Increase 20%",
         "etypeId": 5,
         "traits": [
             {
@@ -8580,7 +8580,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "White Rabbit's Pocket Watch",
+        "name": "White Rabbit Pocket Watch",
         "note": "",
         "params": [
             0,
@@ -8597,7 +8597,7 @@
     {
         "id": 305,
         "atypeId": 1,
-        "description": "A watch that moves erratically due to running out of magic power. Accessory\nExcitement Nullification Action Increase 10%",
+        "description": "A watch that moves or stops depending on whether it's out of magic power.\nAccessory Excitement Nullification Action Increase 10%",
         "etypeId": 5,
         "traits": [
             {
@@ -8629,7 +8629,7 @@
     {
         "id": 306,
         "atypeId": 1,
-        "description": "A clock belonging to the god who governs time. Accessory Action Increase 40%",
+        "description": "The clock of the god who governs time. Accessory Action Increase 40%",
         "etypeId": 5,
         "traits": [
             {
@@ -8661,7 +8661,7 @@
     {
         "id": 307,
         "atypeId": 1,
-        "description": "A bag filled with various medicines. Accessory Item Recovery Effect +50%\nMedicine Equipment Possible",
+        "description": "A bag filled with various medicines. Accessory Item Recovery Effect +50%\nMedicine Equippable",
         "etypeId": 5,
         "traits": [
             {
@@ -8757,7 +8757,7 @@
     {
         "id": 310,
         "atypeId": 1,
-        "description": "An armlet that helps maintain composure. Accessory Excitement Nullification\nFlinch Immunity",
+        "description": "An armlet that helps maintain calmness. Accessory Excitement Nullification\nFlinch Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -8821,7 +8821,7 @@
     {
         "id": 312,
         "atypeId": 1,
-        "description": "A cute choker with heart patterns. Accessory Charm Nullification Sensitivity\nResistance 60",
+        "description": "A cute choker with a heart pattern. Accessory Charm Nullification Sensitivity\nResistance 60",
         "etypeId": 5,
         "traits": [
             {
@@ -8868,7 +8868,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Imp's Earrings",
+        "name": "Imp Earrings",
         "note": "",
         "params": [
             10,
@@ -8900,7 +8900,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Rope Escape Bracelet",
+        "name": "Escape Artist's Bracelet",
         "note": "",
         "params": [
             0,
@@ -8981,7 +8981,7 @@
     {
         "id": 317,
         "atypeId": 1,
-        "description": "A necklace that protects against poison. Accessory Aphrodisiac Poison\nNullification",
+        "description": "A necklace that prevents poison. Accessory Aphrodisiac Poison Nullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9150,7 +9150,7 @@
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "Slave's Collar",
+        "name": "Slave's Collar of Spirit",
         "note": "",
         "params": [
             500,
@@ -9194,7 +9194,7 @@
     {
         "id": 324,
         "atypeId": 1,
-        "description": "It is said that a wish will come true when it breaks. Accessory Charm\nNullification",
+        "description": "It's said that your wish will come true when it breaks. Accessory Charm\nNullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9280,7 +9280,7 @@
     {
         "id": 327,
         "atypeId": 1,
-        "description": "Water magically linked into a necklace form. Accessory Sensitivity Nullification\nRestraint Nullification",
+        "description": "Water magically linked together in the shape of a necklace. Accessory\nSensitivity Nullification Restraint Nullification",
         "etypeId": 5,
         "traits": [
             {
@@ -9472,7 +9472,7 @@
     {
         "id": 333,
         "atypeId": 1,
-        "description": "Attack is the only option! Retreat is not allowed. Accessory Defense Effect\n-100% Vigor Reduction 1",
+        "description": "Attack is the only option! Retreat is not allowed. Accessory Defense Effect\n-100% Vitality Decrease 1",
         "etypeId": 5,
         "traits": [
             {
@@ -9504,7 +9504,7 @@
     {
         "id": 334,
         "atypeId": 1,
-        "description": "Someone's ring of sworn love. Don't lose it. Accessory Automatic Vigor Recovery\n+1 Charm Immunity",
+        "description": "A ring someone swore their love with. Don't lose it. Accessory Automatic\nVitality Recovery +1 Charm Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -9676,7 +9676,7 @@
     {
         "id": 340,
         "atypeId": 1,
-        "description": "A bracelet that promises good fortune to the wearer. Accessory Critical Rate +5",
+        "description": "An armlet that promises good fortune to the wearer. Accessory Critical Rate +5",
         "etypeId": 5,
         "traits": [
             {
@@ -9703,7 +9703,7 @@
     {
         "id": 341,
         "atypeId": 1,
-        "description": "A bracelet for leading a steadily ordinary life. Accessory Accuracy +100\nCritical Rate -100",
+        "description": "An armlet for leading a steadily ordinary life. Accessory Accuracy +100 Critical\nRate -100",
         "etypeId": 5,
         "traits": [
             {
@@ -9735,7 +9735,7 @@
     {
         "id": 342,
         "atypeId": 1,
-        "description": "Your hand moves twice in one motion. Accessory Accuracy -40% Attack Frequency +1",
+        "description": "Makes your hand move twice in one motion. Accessory Accuracy -40% Attack\nFrequency +1",
         "etypeId": 5,
         "traits": [
             {
@@ -9767,7 +9767,7 @@
     {
         "id": 343,
         "atypeId": 1,
-        "description": "Your hand moves three times in one motion. Accessory Accuracy -70% Attack\nFrequency +2",
+        "description": "Makes your hand move three times in one motion. Accessory Accuracy -70% Attack\nFrequency +2",
         "etypeId": 5,
         "traits": [
             {
@@ -9826,7 +9826,7 @@
     {
         "id": 345,
         "atypeId": 1,
-        "description": "A cursed bracelet that whittles away the soul to grant power. Accessory Vigor\nReduction 1 per turn",
+        "description": "An armlet that carves the soul to bring forth power. Accessory Vitality Decrease\n1 every turn",
         "etypeId": 5,
         "traits": [
             {
@@ -9853,7 +9853,7 @@
     {
         "id": 346,
         "atypeId": 1,
-        "description": "A choker cursed with dark magic power. Accessory Vigor Reduction 2 per turn",
+        "description": "A choker cursed with dark magic power. Accessory Vitality Decrease 2 every turn",
         "etypeId": 5,
         "traits": [
             {
@@ -9949,11 +9949,11 @@
     {
         "id": 349,
         "atypeId": 1,
-        "description": "You could die unexpectedly by getting caught on tree branches or something.\nAccessory",
+        "description": "You could die unexpectedly by getting caught on a tree branch or something.\nAccessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "Death Necklace",
+        "name": "Necklace of Death",
         "note": "",
         "params": [
             0,
@@ -9970,7 +9970,7 @@
     {
         "id": 350,
         "atypeId": 1,
-        "description": "A necklace made from the finger bones of humans eaten by orcs. Accessory Vigor\nReduction 3 per turn",
+        "description": "A necklace made from the finger bones of humans eaten by orcs. Accessory\nVitality Decrease 3 every turn",
         "etypeId": 5,
         "traits": [
             {
@@ -9997,7 +9997,7 @@
     {
         "id": 351,
         "atypeId": 1,
-        "description": "It makes you feel rock 'n' roll. Accessory Charm Resistance -1000% TP Increase\n+30%",
+        "description": "It makes you feel rock'n'roll. Accessory Charm Resistance -1000% TP Increase\n+30%",
         "etypeId": 5,
         "traits": [
             {
@@ -10093,7 +10093,7 @@
     {
         "id": 354,
         "atypeId": 1,
-        "description": "Lalala, my agility goes up, and I'm so happy. Accessory Vaginal Attribute\nGranted",
+        "description": "Lalala, my agility is rising, I'm so happy. Accessory Vaginal Attribute Granted",
         "etypeId": 5,
         "traits": [
             {
@@ -10103,7 +10103,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Hip-Shaking Arm Ring",
+        "name": "Hip-Shaking Armlet",
         "note": "",
         "params": [
             0,
@@ -10120,7 +10120,7 @@
     {
         "id": 355,
         "atypeId": 1,
-        "description": "An armlet that brings up frustrating feelings. Accessory Weakness Immunity Slow\nResistance 30",
+        "description": "An armlet that brings about feelings of frustration. Accessory Weakness Immunity\nSlow Resistance 30",
         "etypeId": 5,
         "traits": [
             {
@@ -10152,7 +10152,7 @@
     {
         "id": 356,
         "atypeId": 1,
-        "description": "A platinum bracelet. Accessory Slow Immunity",
+        "description": "An armlet made of platinum. Accessory Slow Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -10194,7 +10194,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Time Scholar's Cap",
+        "name": "Cap of Time",
         "note": "",
         "params": [
             55,
@@ -10243,7 +10243,7 @@
     {
         "id": 359,
         "atypeId": 1,
-        "description": "A black and white checkered silk hat. Accessory Automatic Vigor Recovery +1\nOverdrive",
+        "description": "A black and white checkered silk hat. Accessory Automatic Vitality Recovery +1\nOverdrive",
         "etypeId": 5,
         "traits": [
             {
@@ -10339,7 +10339,7 @@
     {
         "id": 362,
         "atypeId": 1,
-        "description": "A brooch with a design that embodies both delicacy and strength. Accessory\nFlinch Immunity Darkness Immunity Ora Ora",
+        "description": "A brooch with a design that embodies both loveliness and strength. Accessory\nFlinch Immunity Darkness Immunity Ora Ora",
         "etypeId": 5,
         "traits": [
             {
@@ -10376,7 +10376,7 @@
     {
         "id": 363,
         "atypeId": 1,
-        "description": "Looking at these white socks makes you feel strange. Accessory Footjob\nResistance -50%",
+        "description": "Looking at these white socks gives you a strange feeling. Accessory Footjob\nResistance -50%",
         "etypeId": 5,
         "traits": [
             {
@@ -10403,7 +10403,7 @@
     {
         "id": 364,
         "atypeId": 1,
-        "description": "Earplugs to prevent being entranced by your own singing. Accessory Charm\nImmunity Flinch Immunity Darkness Resistance -50%",
+        "description": "Earplugs to prevent being entranced by one's own singing. Accessory Charm\nImmunity Flinch Immunity Darkness Resistance -50%",
         "etypeId": 5,
         "traits": [
             {
@@ -10440,7 +10440,7 @@
     {
         "id": 365,
         "atypeId": 1,
-        "description": "Smelling this lowers your IQ. Accessory Kiss/Seduction Resistance -50%",
+        "description": "Smelling this seems to lower IQ. Accessory Kiss/Seduction Resistance -50%",
         "etypeId": 5,
         "traits": [
             {
@@ -10450,7 +10450,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Shiina's Panties",
+        "name": "Sheena's Panties",
         "note": "",
         "params": [
             -100,
@@ -10467,7 +10467,7 @@
     {
         "id": 366,
         "atypeId": 1,
-        "description": "A gothic lolita headband. Accessory Action Addition +100%",
+        "description": "A gothic lolita style hairband. Accessory Action Addition +100%",
         "etypeId": 5,
         "traits": [
             {
@@ -10627,7 +10627,7 @@
     {
         "id": 371,
         "atypeId": 1,
-        "description": "The badge of a guard who protects the town's peace. Accessory Bind Immunity",
+        "description": "The badge of a guard protecting the town's peace. Accessory Bind Immunity",
         "etypeId": 5,
         "traits": [
             {
@@ -10654,7 +10654,7 @@
     {
         "id": 372,
         "atypeId": 1,
-        "description": "An ornament proving lineage, oddly liked by dogs. Accessory Bind/Arousal\nResistance -50 Action Addition 15%",
+        "description": "An ornament proving one's lineage, oddly liked by dogs. Accessory Bind/Arousal\nResistance -50 Action Addition 15%",
         "etypeId": 5,
         "traits": [
             {
@@ -10691,11 +10691,11 @@
     {
         "id": 373,
         "atypeId": 1,
-        "description": "The kind you often find at souvenir shops, a cool accessory",
+        "description": "The cool decorative piece that's often sold at souvenir shops",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "Sword Keyholder",
+        "name": "Sword Keychain",
         "note": "",
         "params": [
             0,
@@ -10712,11 +10712,11 @@
     {
         "id": 374,
         "atypeId": 1,
-        "description": "The kind you often find at souvenir shops, an amazing accessory",
+        "description": "The amazing decorative piece that's often sold at souvenir shops",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 165,
-        "name": "Dragon Keyholder",
+        "name": "Dragon Keychain",
         "note": "",
         "params": [
             0,
@@ -10733,7 +10733,7 @@
     {
         "id": 375,
         "atypeId": 1,
-        "description": "The one in the desk drawer, a nostalgic accessory, Dragon Spirit Technique",
+        "description": "The nostalgic decorative piece that's in the desk drawer, Dragon Spirit\nTechnique",
         "etypeId": 5,
         "traits": [
             {
@@ -10743,7 +10743,7 @@
             }
         ],
         "iconIndex": 165,
-        "name": "Dragon Sword Keyholder",
+        "name": "Dragon Sword Keychain",
         "note": "",
         "params": [
             0,
@@ -10760,7 +10760,7 @@
     {
         "id": 376,
         "atypeId": 1,
-        "description": "I wished time would stop, memories of that summer, accessory, Action Plus 10%",
+        "description": "I wish time would stop, the memory of that summer, Decorative Piece, Action Plus\n10%",
         "etypeId": 5,
         "traits": [
             {
@@ -11354,7 +11354,7 @@
     {
         "id": 398,
         "atypeId": 1,
-        "description": "While equipped, damage from monsters is reduced to 0, others, EXP gained tripled",
+        "description": "While equipped, damage from monsters is reduced to 0, Other, EXP gained tripled",
         "etypeId": 6,
         "traits": [
             {
@@ -11386,7 +11386,7 @@
     {
         "id": 399,
         "atypeId": 1,
-        "description": "Relief equipment for fighting monsters, others, Combat Power tripled, EXP gained\n1.5 times",
+        "description": "Relief equipment for fighting monsters, Other, Combat power tripled, EXP gained\nincreased by 1.5 times",
         "etypeId": 6,
         "traits": [
             {
@@ -11445,7 +11445,7 @@
     {
         "id": 401,
         "atypeId": 1,
-        "description": "Gazing into the starry sky, others, Bullets +3, Wide Shot 7",
+        "description": "Gazing into the starry sky, Other, Bullets +3, Wide Shot 7",
         "etypeId": 6,
         "traits": [
             {
@@ -11472,7 +11472,7 @@
     {
         "id": 402,
         "atypeId": 1,
-        "description": "Makes the world seem wider, others, Wide Shot 4",
+        "description": "The world seems to expand, Other, Wide Shot 4",
         "etypeId": 6,
         "traits": [
             {
@@ -11499,7 +11499,7 @@
     {
         "id": 403,
         "atypeId": 1,
-        "description": "It's harder to move, but it improves form, others, Opening +40",
+        "description": "It's hard to move, but it improves form, Other, Vulnerability +40",
         "etypeId": 6,
         "traits": [
             {
@@ -11526,7 +11526,7 @@
     {
         "id": 404,
         "atypeId": 1,
-        "description": "A magical ointment that increases speed when applied to weapons, others, Bullet\nSpeed +1",
+        "description": "A magical ointment that increases speed when applied to weapons, Other, Bullet\nSpeed +1",
         "etypeId": 6,
         "traits": [
             {
@@ -11553,7 +11553,7 @@
     {
         "id": 405,
         "atypeId": 1,
-        "description": "A scope that allows for precise targeting, others, Accuracy +5",
+        "description": "A scope that allows for precise targeting, Other, Accuracy +5",
         "etypeId": 6,
         "traits": [
             {
@@ -11580,7 +11580,7 @@
     {
         "id": 406,
         "atypeId": 1,
-        "description": "It's like a bra but not a bra, others, Opening +30, Duration +10",
+        "description": "It's like a bra but not a bra, Other, Vulnerability +30, Duration +10",
         "etypeId": 6,
         "traits": [
             {
@@ -11607,7 +11607,7 @@
     {
         "id": 407,
         "atypeId": 1,
-        "description": "Brand shoes that were all the rage for a while, others, Duration +20",
+        "description": "Brand shoes that were all the rage for a while, Other, Duration +20",
         "etypeId": 6,
         "traits": [
             {
@@ -11634,7 +11634,7 @@
     {
         "id": 408,
         "atypeId": 1,
-        "description": "Auxiliary machinery that serves as a substitute for muscles, others",
+        "description": "Auxiliary machinery that acts as a substitute for muscles, Other",
         "etypeId": 6,
         "traits": [
             {
@@ -11661,7 +11661,7 @@
     {
         "id": 409,
         "atypeId": 1,
-        "description": "The blessing of a god who can split watermelons with rapid finger taps, others,\nOpening -20%",
+        "description": "The blessing of a god who can split watermelons with rapid finger taps, Other,\nVulnerability -20%",
         "etypeId": 6,
         "traits": [
             {
@@ -11688,7 +11688,7 @@
     {
         "id": 410,
         "atypeId": 1,
-        "description": "A trap using perspective, bullets are less likely to spread out, others, Narrow\nShot 4.5",
+        "description": "A trap utilizing perspective, bullets are less likely to spread out, Other,\nNarrow Shot 4.5",
         "etypeId": 6,
         "traits": [
             {
@@ -11715,7 +11715,7 @@
     {
         "id": 411,
         "atypeId": 1,
-        "description": "An extra shot as a bonus, others, Bullets +1",
+        "description": "An extra shot as a bonus, Other, Bullets +1",
         "etypeId": 6,
         "traits": [
             {
@@ -11742,7 +11742,7 @@
     {
         "id": 412,
         "atypeId": 1,
-        "description": "A cute bear strap soaked in blood, others, Bullet Speed -2",
+        "description": "A cute bear strap soaked in blood, Other, Bullet Speed -2",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -11763,11 +11763,11 @@
     {
         "id": 413,
         "atypeId": 1,
-        "description": "Glasses that fit on the temples, others, Narrow Shot 1",
+        "description": "Glasses that clip onto the temples, Other, Narrow Shot 1",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "Riverbank Glasses",
+        "name": "Kawabata Glasses",
         "note": "<shotSpace:-0.1>",
         "params": [
             0,
@@ -11784,7 +11784,7 @@
     {
         "id": 414,
         "atypeId": 1,
-        "description": "A barrel that makes bullets less likely to scatter, others, Narrow Shot 2",
+        "description": "A barrel that makes bullets less likely to scatter, Other, Narrow Shot 2",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -11805,7 +11805,7 @@
     {
         "id": 415,
         "atypeId": 1,
-        "description": "Batteries that last a long time, others, Duration +30",
+        "description": "Batteries that last a long time, Other, Duration +30",
         "etypeId": 6,
         "traits": [
             {
@@ -11832,7 +11832,7 @@
     {
         "id": 416,
         "atypeId": 1,
-        "description": "The remnants of someone's dream that was swallowed whole, others, Bullet Speed\n-4, Duration +15",
+        "description": "The remnants of someone's dream that was swallowed whole, Other, Bullet Speed\n-4, Duration +15",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -11853,7 +11853,7 @@
     {
         "id": 417,
         "atypeId": 1,
-        "description": "A neck warmer with a sweet scent, others, Bullet Speed -3, Duration +60",
+        "description": "A neck warmer with a sweet scent, Other, Bullet Speed -3, Duration +60",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -11874,7 +11874,7 @@
     {
         "id": 418,
         "atypeId": 1,
-        "description": "A bell from a cat freed from nightmares, others, Bullets +2, Wide Shot 3,\nAccuracy Rate -3%",
+        "description": "A bell from a cat freed from nightmares, Other, Bullets +2, Wide Shot 3,\nAccuracy Rate -3%",
         "etypeId": 6,
         "traits": [
             {
@@ -11884,7 +11884,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "Nyan Tom Bell",
+        "name": "Nyantom Bell",
         "note": "<shotWay:2>\n<shotSpace:0.3>",
         "params": [
             0,
@@ -11901,7 +11901,7 @@
     {
         "id": 419,
         "atypeId": 1,
-        "description": "A book with dozens of methods for slaying monsters written in it, others,\nDuration +10, Opening -10%, Bullet Speed +1",
+        "description": "A book that describes dozens of ways to exterminate monsters, Other, Duration\n+10, Vulnerability -10%, Bullet Speed +1",
         "etypeId": 6,
         "traits": [
             {
@@ -11928,7 +11928,7 @@
     {
         "id": 420,
         "atypeId": 1,
-        "description": "A lucky egg that increases experience points when held, others, Opening +25%,\nEXP +25%, Item Drop Rate doubled",
+        "description": "A lucky egg that increases experience points when held, Other, Vulnerability\n+25%, EXP +25%, Item Drop Rate Doubled",
         "etypeId": 6,
         "traits": [
             {
@@ -11965,7 +11965,7 @@
     {
         "id": 421,
         "atypeId": 1,
-        "description": "Machine parts that accelerate processing speed, others, Opening -40%",
+        "description": "Machine parts that accelerate processing speed, Other, Vulnerability -40%",
         "etypeId": 6,
         "traits": [
             {
@@ -11992,7 +11992,7 @@
     {
         "id": 422,
         "atypeId": 1,
-        "description": "A sphere made by condensing many souls, others, Bullets +4, Bullet Speed -2,\nDuration -20",
+        "description": "A sphere made by condensing many souls, Other, Bullets +4, Bullet Speed -2,\nDuration -20",
         "etypeId": 6,
         "traits": [
             {
@@ -12019,7 +12019,7 @@
     {
         "id": 423,
         "atypeId": 1,
-        "description": "The heart of the bravest lion in the world, others, Bullets +1, Bullet Speed +1,\nDuration +20, Opening -20%",
+        "description": "The heart of the bravest lion in this world, Other, Bullets +1, Bullet Speed +1,\nDuration +20, Vulnerability -20%",
         "etypeId": 6,
         "traits": [
             {
@@ -12046,7 +12046,7 @@
     {
         "id": 424,
         "atypeId": 1,
-        "description": "Moving picture of a cat, others, Bullet Speed +3, Duration -30, Opening -20%",
+        "description": "Moving picture of a cat, Other, Bullet Speed +3, Duration -30, Vulnerability\n-20%",
         "etypeId": 6,
         "traits": [
             {
@@ -12073,7 +12073,7 @@
     {
         "id": 425,
         "atypeId": 1,
-        "description": "Fluffy feathers filled with tremendous magical power, others, Bullet Speed -1,\nOpening -60%",
+        "description": "Fluffy feathers filled with tremendous magical power, Other, Bullet Speed -1,\nVulnerability -60%",
         "etypeId": 6,
         "traits": [
             {
@@ -12100,7 +12100,7 @@
     {
         "id": 426,
         "atypeId": 1,
-        "description": "An ointment for enchanting weapons with destructive magic, others",
+        "description": "An ointment for enchanting weapons with destructive magic, Other",
         "etypeId": 6,
         "traits": [
             {
@@ -12127,7 +12127,7 @@
     {
         "id": 427,
         "atypeId": 1,
-        "description": "A perfectly normal hat made by a mad hatter, others, Bullets +3, Bullet Speed\n-2, Duration +30, Wide Shot 6",
+        "description": "A perfectly normal hat made by a mad hatter, Other, Bullets +3, Bullet Speed -2,\nDuration +30, Wide Shot 6",
         "etypeId": 6,
         "traits": [
             {
@@ -12154,7 +12154,7 @@
     {
         "id": 428,
         "atypeId": 1,
-        "description": "Memoirs of a man who has seen everything in this world, others, Bullets +10,\nOpening +20%, Wide Shot 4",
+        "description": "The memoirs of a man who has seen everything in this world, Other, Bullets +10,\nVulnerability +20%, Wide Shot 4",
         "etypeId": 6,
         "traits": [
             {
@@ -12181,7 +12181,7 @@
     {
         "id": 429,
         "atypeId": 1,
-        "description": "Gravity so strong not even light can escape it, others, Bullets +1, Narrow Shot\n7, Combat Power 1.2 times",
+        "description": "Gravity so strong not even light can escape it, Other, Bullets +1, Narrow Shot\n7, Combat Power 1.2 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12213,7 +12213,7 @@
     {
         "id": 430,
         "atypeId": 10,
-        "description": "Parts for enhancing handguns, others, Bullets +2",
+        "description": "Parts to enhance a handgun, Other, Bullets +2",
         "etypeId": 6,
         "traits": [
             {
@@ -12240,7 +12240,7 @@
     {
         "id": 431,
         "atypeId": 10,
-        "description": "Parts for enhancing handguns, others, Bullets +10, Duration -35, Wide Shot 3",
+        "description": "Parts to enhance a handgun, Other, Bullets +10, Duration -35, Wide Shot 3",
         "etypeId": 6,
         "traits": [
             {
@@ -12267,7 +12267,7 @@
     {
         "id": 432,
         "atypeId": 10,
-        "description": "Parts for enhancing handguns, others, Opening -20, Duration -25",
+        "description": "Parts to enhance a handgun, Other, Vulnerability -20, Duration -25",
         "etypeId": 6,
         "traits": [
             {
@@ -12294,7 +12294,7 @@
     {
         "id": 433,
         "atypeId": 1,
-        "description": "Amy's secret book of combat techniques, others, Combat Power 2.5 times",
+        "description": "Amy's secret book of combat techniques, Other, Combat Power 2.5 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12304,7 +12304,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "Amy's Secret Technique",
+        "name": "Amy's Ultimate Technique",
         "note": "",
         "params": [
             0,
@@ -12321,7 +12321,7 @@
     {
         "id": 434,
         "atypeId": 1,
-        "description": "A mysterious ribbon made from a mysterious fabric - Other - Combat power\nincreased by 1.5 times, vulnerability reduced by 20%",
+        "description": "A mysterious ribbon made from a mysterious fabric. Other: Combat power increased\nby 1.5 times, vulnerability reduced by 20%",
         "etypeId": 6,
         "traits": [
             {
@@ -12348,7 +12348,7 @@
     {
         "id": 435,
         "atypeId": 1,
-        "description": "When pushed firmly, a yellow air cannon is released - Other - Combat power\nincreased by 1.3 times",
+        "description": "When pushed firmly, a yellow air cannon is released. Other: Combat power\nincreased by 1.3 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12375,7 +12375,7 @@
     {
         "id": 436,
         "atypeId": 10,
-        "description": "Being hit makes your blood boil - Custom Parts - Other - Bullets +10,\nvulnerability -23, duration -20",
+        "description": "Being shot makes the blood boil inside the veins. Custom Parts: Other: Bullets\n+10, vulnerability -23, duration -20",
         "etypeId": 6,
         "traits": [
             {
@@ -12385,7 +12385,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "Lilim Magazine",
+        "name": "Lilima Magazine",
         "note": "<shotInterval:-23>\n<shotWay:10>\n<shotCount:-20>",
         "params": [
             0,
@@ -12402,7 +12402,7 @@
     {
         "id": 437,
         "atypeId": 10,
-        "description": "Being hit makes your blood boil - Custom Parts - Other - Bullets +5,\nvulnerability -20, duration -35, Wide Shot 1",
+        "description": "Being shot makes the blood boil inside the veins. Custom Parts: Other: Bullets\n+5, vulnerability -20, duration -35, Wide Shot 1",
         "etypeId": 6,
         "traits": [
             {
@@ -12429,7 +12429,7 @@
     {
         "id": 438,
         "atypeId": 1,
-        "description": "● Other - Combat power increased by 1.7 times",
+        "description": "● Other: Combat power increased by 1.7 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12456,7 +12456,7 @@
     {
         "id": 439,
         "atypeId": 1,
-        "description": "One half of a split silver coin - Other - Bullets +1, bullet speed +1",
+        "description": "One half of a split silver coin. Other: Bullets +1, bullet speed +1",
         "etypeId": 6,
         "traits": [
             {
@@ -12466,7 +12466,7 @@
             }
         ],
         "iconIndex": 161,
-        "name": "★ \"Oath of War Coin\"",
+        "name": "★ \"Oath of War Silver Coin\"",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotSpeed:0.1>",
         "params": [
             0,
@@ -12483,7 +12483,7 @@
     {
         "id": 440,
         "atypeId": 1,
-        "description": "A high-quality poor product that feels incomparable to cheap ones - Other -\nDuration +10",
+        "description": "A high-quality poor-quality item that feels incomparable to cheap ones. Other:\nDuration +10",
         "etypeId": 6,
         "traits": [
             {
@@ -12510,7 +12510,7 @@
     {
         "id": 441,
         "atypeId": 1,
-        "description": "Mercy that increases firepower to ensure a painless disappearance - Other -\nCombat power increased by 1.5 times",
+        "description": "Mercy that increases firepower to ensure a painless disappearance. Other: Combat\npower increased by 1.5 times",
         "etypeId": 6,
         "traits": [
             {
@@ -12537,7 +12537,7 @@
     {
         "id": 442,
         "atypeId": 1,
-        "description": "The heart that accepts oneself as is, including the negatives - Other -\nVulnerability reduced by 30%",
+        "description": "The heart that accepts oneself as is, including the negatives. Other:\nVulnerability reduced by 30%",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -12558,7 +12558,7 @@
     {
         "id": 443,
         "atypeId": 1,
-        "description": "The momentary judgment to choose the best option from selection - Other - Speed\n+2, bullets +2",
+        "description": "The momentary judgment to choose the best option through selection. Other: Speed\n+2, bullets +2",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -12579,11 +12579,11 @@
     {
         "id": 444,
         "atypeId": 1,
-        "description": "Maintaining high flexibility while responding adaptively to situations - Other -\nSpeed +1, bullets +1, vulnerability reduced by 10%",
+        "description": "The sight that responds flexibly while maintaining high flexibility. Other:\nSpeed +1, bullets +1, vulnerability -10%",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
-        "name": "Mist's Observation",
+        "name": "Mist's Contemplation",
         "note": "<shotWay:1>\n<shotSpace:0.1>\n<shotSpeed:0.2>\n<shotIntervalRate:0.90>",
         "params": [
             0,
@@ -12600,7 +12600,7 @@
     {
         "id": 445,
         "atypeId": 6,
-        "description": "An amulet imbued with the magic of wind and water - Protagonist Exclusive -\nOther - Bullets +5, vulnerability +50%, speed +1, duration -20, Wide Shot",
+        "description": "An amulet imbued with the magic of wind and water. Exclusive to the protagonist.\nOther: Bullets +5, vulnerability +50%, speed +1, duration -20, Wide Shot",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -12621,7 +12621,7 @@
     {
         "id": 446,
         "atypeId": 1,
-        "description": "A magic stone of wind that causes a strong gale enough to slick back your hair -\nOther - Bullet speed -2",
+        "description": "A magic stone of wind that causes a strong gust to slick back one's hair. Other:\nBullet speed -2",
         "etypeId": 6,
         "traits": [
             {
@@ -12648,7 +12648,7 @@
     {
         "id": 447,
         "atypeId": 1,
-        "description": "An improved version of Deguchi Hosonaru with a rounded tip - Other - Narrow Shot\n5.5, duration +15",
+        "description": "An improved version of Deguchi Hosonaru with a rounded tip. Other: Narrow Shot\n5.5, duration +15",
         "etypeId": 6,
         "traits": [
             {
@@ -12675,7 +12675,7 @@
     {
         "id": 448,
         "atypeId": 1,
-        "description": "A rare metal occasionally found on the beak of a myna bird - Other - Bullets +2",
+        "description": "A rare metal occasionally found on the beak of a mynah bird. Other: Bullets +2",
         "etypeId": 6,
         "traits": [
             {
@@ -12702,7 +12702,7 @@
     {
         "id": 449,
         "atypeId": 1,
-        "description": "Speeds up the weapon to make it super fast - Other - Bullet speed +1.4",
+        "description": "Speeds up the weapon to make it super fast. Other: Bullet speed +1.4",
         "etypeId": 6,
         "traits": [
             {
@@ -12729,7 +12729,7 @@
     {
         "id": 450,
         "atypeId": 1,
-        "description": "Adds the frustration of missing to the weapon - Don't sell such things - Other -\nBullets -1",
+        "description": "Adds the frustration of a miss on top. Don't sell such things. Other: Bullets -1",
         "etypeId": 6,
         "traits": [
             {
@@ -12756,7 +12756,7 @@
     {
         "id": 451,
         "atypeId": 1,
-        "description": "The exit is too narrow to pass through properly - Other - Bullets -4, Narrow\nShot 8.3",
+        "description": "The exit is too narrow to pass through properly. Other: Bullets -4, Narrow Shot\n8.3",
         "etypeId": 6,
         "traits": [
             {
@@ -12783,7 +12783,7 @@
     {
         "id": 452,
         "atypeId": 9,
-        "description": "Makes poison bullets feel really good somehow - Other - Bullets +5, Wide Shot,\nexclusive for poison bullets",
+        "description": "Makes poison bullets feel really good somehow. Other: Bullets +5, Wide Shot,\nexclusive to poison bullets",
         "etypeId": 6,
         "traits": [],
         "iconIndex": 161,
@@ -14100,7 +14100,7 @@
     {
         "id": 501,
         "atypeId": 1,
-        "description": "Reduces slash damage by 20% with a thin layer of wind - Armor",
+        "description": "Reduces slash damage by 20%. There's a thin layer of wind. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14127,7 +14127,7 @@
     {
         "id": 502,
         "atypeId": 1,
-        "description": "Reduces blunt damage by 20% with what people call armor - Armor",
+        "description": "Reduces blunt damage by 20%. People call it armor. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14154,7 +14154,7 @@
     {
         "id": 503,
         "atypeId": 1,
-        "description": "Reduces fire damage by 20% with clothes made from non-flammable fibers - Armor",
+        "description": "Reduces fire damage by 20%. Made from non-flammable fibers. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14181,7 +14181,7 @@
     {
         "id": 504,
         "atypeId": 1,
-        "description": "Reduces water and ice damage by 20% with material that heats up upon contact\nwith water - Armor",
+        "description": "Reduces water and ice damage by 20%. Material heats up when touched by water.\nArmor",
         "etypeId": 2,
         "traits": [
             {
@@ -14208,7 +14208,7 @@
     {
         "id": 505,
         "atypeId": 1,
-        "description": "Reduces lightning damage by 20% with coils wrapped around it - Armor",
+        "description": "Reduces lightning damage by 20%. Coils are wrapped around it. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14235,7 +14235,7 @@
     {
         "id": 506,
         "atypeId": 1,
-        "description": "Increases maximum stamina by 20% with clothes newlyweds wear in matching outfits\n– Tacky – Armor",
+        "description": "Increases maximum stamina by 20%. Newlyweds wear this as matching outfits.\nTacky. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14262,7 +14262,7 @@
     {
         "id": 507,
         "atypeId": 1,
-        "description": "Reduces food and poison damage by 20% with sturdy pompoms – Armor",
+        "description": "Reduces food and poison damage by 20%. Makes your pompoms more durable. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14289,7 +14289,7 @@
     {
         "id": 508,
         "atypeId": 1,
-        "description": "Reduces all damage by 20% with armor that's too hard to wear comfortably – Armor",
+        "description": "Reduces all damage by 20%. Too hard to even wear comfortably. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14346,7 +14346,7 @@
     {
         "id": 509,
         "atypeId": 1,
-        "description": "Reduces slash and lightning damage by 20%, maximum stamina decreased by 40% –\nAlready worn by Soel – Armor",
+        "description": "Reduces slash and lightning damage by 20%. Maximum stamina -40%. Already worn by\nSoel. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14383,7 +14383,7 @@
     {
         "id": 510,
         "atypeId": 1,
-        "description": "Reduces fire and water damage by 20%, maximum stamina decreased by 40% – The\npheromones are strong – Armor",
+        "description": "Reduces fire and water damage by 20%. Maximum stamina -40%. The pheromones are\nstrong. Armor",
         "etypeId": 2,
         "traits": [
             {
@@ -14690,7 +14690,7 @@
     {
         "id": 521,
         "atypeId": 1,
-        "description": "Reduces slash damage by 20%, making cuts shallower – Ring",
+        "description": "Reduces slash damage by 20%. Makes cuts shallower. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14717,7 +14717,7 @@
     {
         "id": 522,
         "atypeId": 1,
-        "description": "Reduces blunt damage by 20%, hardening the entire body – Ring",
+        "description": "Reduces blunt damage by 20%. Makes the whole body harder. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14744,7 +14744,7 @@
     {
         "id": 523,
         "atypeId": 1,
-        "description": "Reduces fire damage by 20%, unbeaten by the heat of summer – Ring",
+        "description": "Reduces fire damage by 20%. Can withstand the heat of summer. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14771,7 +14771,7 @@
     {
         "id": 524,
         "atypeId": 1,
-        "description": "Reduces water and ice damage by 20%, dustproof and waterproof IP68 – Ring",
+        "description": "Reduces water and ice damage by 20%. Dustproof and waterproof IP68. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14798,7 +14798,7 @@
     {
         "id": 525,
         "atypeId": 1,
-        "description": "Reduces lightning damage by 20%, comes with an earth wire – Ring",
+        "description": "Reduces lightning damage by 20%. Comes with an earth wire. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14825,7 +14825,7 @@
     {
         "id": 526,
         "atypeId": 1,
-        "description": "Increases maximum stamina by 20%, very pretty – Ring",
+        "description": "Increases maximum stamina by 20%. Very pretty. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14852,7 +14852,7 @@
     {
         "id": 527,
         "atypeId": 1,
-        "description": "Reduces food and poison damage by 20%, this is poison – Ring",
+        "description": "Reduces food and poison damage by 20%. This is poison. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14879,7 +14879,7 @@
     {
         "id": 528,
         "atypeId": 1,
-        "description": "Reduces all damage by 20%, gives you the chills – Ring",
+        "description": "Reduces all damage by 20%. Gives you the chills, doesn't it? Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14936,7 +14936,7 @@
     {
         "id": 529,
         "atypeId": 1,
-        "description": "Reduces fire and slash damage by 10%, ring engraved with CF – Ring",
+        "description": "Reduces fire and slash damage by 10%. Ring with CF engraving. Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14968,7 +14968,7 @@
     {
         "id": 530,
         "atypeId": 1,
-        "description": "Max Stamina and Energy +20% A ring imbued with a gentle prayer Ring",
+        "description": "Max Stamina & Vitality +20% A ring imbued with a gentle prayer Ring",
         "etypeId": 4,
         "traits": [
             {
@@ -14983,7 +14983,7 @@
             }
         ],
         "iconIndex": 163,
-        "name": "Ladro's Ring",
+        "name": "Thief's Ring",
         "note": "",
         "params": [
             0,
@@ -15253,7 +15253,7 @@
             }
         ],
         "iconIndex": 0,
-        "name": "~Cat Ornaments~",
+        "name": "~Cat Accessories~",
         "note": "",
         "params": [
             0,
@@ -15270,7 +15270,7 @@
     {
         "id": 541,
         "atypeId": 1,
-        "description": "Slash, Fire, Water damage reduced by 10% The name varies by region Accessory",
+        "description": "Slash, Fire, Water damage reduced by 10% There are regional differences [Human]\nAccessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15307,7 +15307,7 @@
     {
         "id": 542,
         "atypeId": 1,
-        "description": "Reduces all damage by 10% Full body wrap Accessory",
+        "description": "Reduces all damage by 10% Full-body wrap Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15364,7 +15364,7 @@
     {
         "id": 543,
         "atypeId": 1,
-        "description": "Prevents all status abnormalities If it's cute, even men can equip it Accessory",
+        "description": "Prevents all status abnormalities Can be equipped by men too if it's cute\nAccessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15421,7 +15421,7 @@
     {
         "id": 544,
         "atypeId": 1,
-        "description": "Prevents the state of heat Don't bury it in the garden of someone you dislike\nAccessory",
+        "description": "Prevents the state of heat Stop burying it in the yard of someone you dislike\nAccessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15448,7 +15448,7 @@
     {
         "id": 545,
         "atypeId": 1,
-        "description": "Prevents Poison and Deadly Poison status The reason why is unclear Accessory",
+        "description": "Prevents Poison, Deadly Poison status The reason why is unclear Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15480,7 +15480,7 @@
     {
         "id": 546,
         "atypeId": 1,
-        "description": "Prevents Weakness and Slow status Also slightly increases combat power Accessory",
+        "description": "Prevents Weakness, Slow status Also slightly increases combat power Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15512,7 +15512,7 @@
     {
         "id": 547,
         "atypeId": 1,
-        "description": "Prevents Paralysis and Attack Disable Courage is knowing fear Accessory",
+        "description": "Prevents Paralysis, Attack Disable Courage is knowing fear Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15539,7 +15539,7 @@
     {
         "id": 548,
         "atypeId": 1,
-        "description": "Max Energy +20% Primes are printed on it Accessory",
+        "description": "Max Stamina +20% Primes are printed on it Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15566,7 +15566,7 @@
     {
         "id": 549,
         "atypeId": 1,
-        "description": "Max Stamina +10 Can endure pain Accessory",
+        "description": "Max Vitality +10 Can endure pain Accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 164,
@@ -15587,7 +15587,7 @@
     {
         "id": 550,
         "atypeId": 1,
-        "description": "Max Energy +40% Makes you slightly more sensual Accessory",
+        "description": "Max Stamina +40% Becomes slightly sexy Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15614,7 +15614,7 @@
     {
         "id": 551,
         "atypeId": 1,
-        "description": "Max Stamina +20 Makes your build slightly better Accessory",
+        "description": "Max Vitality +20 Slightly improves physique Accessory",
         "etypeId": 5,
         "traits": [],
         "iconIndex": 164,
@@ -15635,7 +15635,7 @@
     {
         "id": 552,
         "atypeId": 1,
-        "description": "Max Stamina and Energy +20% It's tough without this in winter Accessory",
+        "description": "Max Stamina & Vitality +20% It's tough without this in winter Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15667,7 +15667,7 @@
     {
         "id": 553,
         "atypeId": 1,
-        "description": "Stamina +40% Max Energy 1 Pathetic Macho Accessory",
+        "description": "Vitality +40% Max Stamina 1 Pathetic macho Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15687,7 +15687,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "Muscle Brute Premature Ejaculation Badge",
+        "name": "Muscle Muscle Premature Ejaculation Badge",
         "note": "",
         "params": [
             0,
@@ -15704,7 +15704,7 @@
     {
         "id": 554,
         "atypeId": 1,
-        "description": "Combat power is multiplied by 1.2 It's a stress reliever Accessory",
+        "description": "Combat power becomes 1.2 times It's a stress reliever Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15731,7 +15731,7 @@
     {
         "id": 555,
         "atypeId": 1,
-        "description": "Combat power is multiplied by 1.3 It's covered in spikes Accessory",
+        "description": "Combat power becomes 1.3 times It's studded with spikes Accessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15785,7 +15785,7 @@
     {
         "id": 557,
         "atypeId": 1,
-        "description": "Water, Thunder damage reduced by 20% Gloves knitted overnight that are slimy to\nthe touch Accessory",
+        "description": "Water, Thunder damage reduced by 20% Gloves knitted overnight that are slimy\nAccessory",
         "etypeId": 5,
         "traits": [
             {
@@ -15800,7 +15800,7 @@
             }
         ],
         "iconIndex": 164,
-        "name": "Maele's Gloves",
+        "name": "Gloves of Maelstrom",
         "note": "",
         "params": [
             0,

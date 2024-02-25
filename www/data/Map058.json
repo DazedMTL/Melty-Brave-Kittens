@@ -13021,7 +13021,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Rumahle is so vast. I got terribly lost just trying to get\nout of town. And to think, my work only starts after I get\nout and make it to the forest."
+                                "\\n<Wanz>Lumare is so vast. I got terribly lost just trying to leave\ntown. And to think, my work only starts after I get out and\nmake it to the forest."
                             ]
                         },
                         {
@@ -13054,7 +13054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>Rui♥ Let's go home together on the way back♥ Okay♥"
+                                "\\n<Wanz>Katara♥ let's go home together♥ okay♥"
                             ]
                         },
                         {
@@ -13109,7 +13109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Let's hold hands too♥ (Ah, that's a relief. I was definitely\nabout to get lost.)"
+                                "\\n<Wanz>Let's hold hands too♥ (Ah, that's a relief. I was sure to\nget lost otherwise.)"
                             ]
                         },
                         {
@@ -13155,7 +13155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>What's that? But come to think of it, walking through the\nnoble district as twins might be a bit conspicuous. We might\nget found out by our family. Guess I have no choice but to\nmemorize the way."
+                                "\\n<Wanz>What's that? But now that I think about it, walking through\nthe noble district as twins might be a bit conspicuous. We\nmight get found out by our family. Guess I have no choice\nbut to memorize the way."
                             ]
                         },
                         {
@@ -13263,7 +13263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>The guards of Rumare don't come as far as the forest, huh.\nIt seems like they exterminate the monsters around the town,\nbut beyond here must be out of their jurisdiction."
+                                "\\n<Louie>The guards of Rumah-Le don't come as far as the forest, huh.\nIt seems like they exterminate the monsters around the town,\nbut beyond here must be out of their jurisdiction."
                             ]
                         },
                         {
@@ -13296,7 +13296,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>It's not threatening the town yet, but it might become\ndangerous eventually. Taking care of monsters in such places\nfeels like it's within our adventurers' purview, doesn't it?"
+                                "\\n<Louie>It's not a threat to the town yet, but it might become\ndangerous eventually. Taking care of monsters in such places\nfeels like it's within our adventurers' purview."
                             ]
                         },
                         {
@@ -13320,7 +13320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Mr. Serious~"
+                                "\\n<Katara>Mr. Serious~"
                             ]
                         },
                         {
@@ -13353,7 +13353,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>But I mean, adventurer. It has a nice ring to it, doesn't\nit? It feels romantic. Maybe girls don't understand? Fufufu♥"
+                                "\\n<Louie>But I'm an adventurer. Doesn't it have a nice ring to it?\nIt's so romantic. Maybe girls don't understand? Fufufu♥"
                             ]
                         },
                         {
@@ -14054,7 +14054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ones>I got lost at the forest exit... I'm glad Rui came...\n*sniffle*."
+                                "\\n<Wanz>I got lost at the forest exit... I'm glad Katara came...\n*sniffle*."
                             ]
                         },
                         {
@@ -14109,7 +14109,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>No way. I'll keep trying. After all, I'm saving up my\nallowance to eat some Luma-Ré Chocolat."
+                                "\\n<Wanz>No, I'll keep trying. After all, I'm saving up my allowance\nto eat some Ruma-Leschocola."
                             ]
                         },
                         {
@@ -14155,7 +14155,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ones>Hm...? Ah, that's right. I see, I remember seeing that tree!\nHmm hmm. Got it memorized."
+                                "\\n<Wanz>Hm...? Ah, you're right. I see, I remember that tree! Hmm\nhmm. Got it memorized."
                             ]
                         },
                         {
@@ -14179,7 +14179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>You shouldn't use trees as landmarks in the forest. Maybe\nyou should sharpen your claws instead?"
+                                "\\n<Katara>You shouldn't use trees as landmarks in the forest. Maybe\nyou should sharpen your claws instead?"
                             ]
                         },
                         {
@@ -14287,7 +14287,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Ugh! This is bad... My, my stomach is starting to rumble...!\nOuch ouch ouch..."
+                                "\\n<Louie>Ugh! This is bad... My stomach is starting to rumble...!\nOuch, ouch, ouch..."
                             ]
                         },
                         {
@@ -14311,7 +14311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Did I eat something weird?"
+                                "\\n<Katara>Did you eat something weird?"
                             ]
                         },
                         {
@@ -14344,7 +14344,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>The innkeeper gave me a cookie... It tasted awful and I spat\nit out immediately, but it must have been poisoned or\nsomething... That damn hag! She did it on purpose!"
+                                "\\n<Louie>The innkeeper gave me a cookie... It tasted awful and I spat\nit out immediately, but it must've been poisoned or\nsomething... That damn hag! She did it on purpose!"
                             ]
                         },
                         {
@@ -14368,7 +14368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>It's not just that the old lady's cooking is bad. She's a\nveritable poison factory, you know. I can't believe I even\ntried it."
+                                "\\n<Katara>It's not just bad cooking with her. She's like a poison\nfactory, you knew that. I'm surprised you even tried it."
                             ]
                         },
                         {
@@ -14408,7 +14408,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>She said her grandchild baked them, ahhhh!! And they were\nwrapped so cutely tooooo!! Ahhhhh!! Sorry, I need a moment!\nI'm going to fertilize the forest!"
+                                "\\n<Louie>She said her grandchild baked them!! And they were wrapped\nup so cutely too!! Aaargh!! Sorry, I need a moment! I'm\ngoing to fertilize the forest!"
                             ]
                         },
                         {
@@ -14432,7 +14432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>Even the grass will wither."
+                                "\\n<Katara>Even the grass will wither."
                             ]
                         },
                         {
@@ -14657,7 +14657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>Hey Rui. Are you on forest cleaning duty? I've come to\nsurvey the ecosystem."
+                                "\\n<Rintei>Hey Katara. Are you on forest cleaning duty? I'm here to\nsurvey the ecosystem."
                             ]
                         },
                         {
@@ -14674,7 +14674,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>Monsters prioritize attacking humans, but they don't live\nsolely on human flesh. They also feed on plants, deer, and\nrabbits."
+                                "\\n<Rintei>Monsters prefer to attack humans, but they don't live solely\non human flesh. They also feed on plants, deer, and rabbits."
                             ]
                         },
                         {
@@ -14691,7 +14691,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>Understanding what kind of flora and fauna are in the\nvicinity is very important for unraveling the breeding\nmechanisms of monsters."
+                                "\\n<Rintei>Knowing what kind of flora and fauna are around is very\nimportant for unraveling the breeding mechanisms of\nmonsters."
                             ]
                         },
                         {
@@ -14833,7 +14833,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>Whenever I take on a request from the nobles' district, I\nmake sure to buy some fine liquor to bring back. It's nice\nto enjoy it myself, but it's really for the sake of my\ncompanions."
+                                "\\n<Rintei>Whenever I take a job from the nobles' district, I make sure\nto buy some fine liquor to bring back. It's nice to enjoy it\nmyself, but it's really for my companions."
                             ]
                         },
                         {
@@ -14850,7 +14850,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>The cheap alcohol everyone drinks doesn't exactly contain\nhealthy ingredients, you know. Collapsing from ruining your\nhealth is not exactly becoming of an adventurer."
+                                "\\n<Rintei>The cheap alcohol everyone drinks doesn't exactly contain\nhealthy ingredients, you know. Collapsing from a broken body\nisn't exactly becoming of an adventurer."
                             ]
                         },
                         {

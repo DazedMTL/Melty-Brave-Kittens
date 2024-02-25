@@ -4951,7 +4951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Phew... I've finally made it... It was quite a detour, but I\nmanaged to get down to the slum residential area. With such\na prize, they were particularly persistent today..."
+                                "\\n<Ladro>Phew... I've finally made it... It was quite a detour, but\nI've managed to get down to the slum residential area. Given\nwhat I've got, they were particularly persistent today..."
                             ]
                         },
                         {
@@ -4984,7 +4984,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Well, it's a good thing I usually send out a warning notice.\n♥ \"When you're aiming for a big catch, breaking the promise\nsuddenly thins out the guards,\" just like mom used to say. ♥"
+                                "\\n<Ladro>Well, it's a good thing I usually send out a notice\nbeforehand. ♥ \"When you're aiming for a big score, breaking\na promise suddenly thins out the guards,\" just like mama\nsaid. ♥"
                             ]
                         },
                         {
@@ -5026,7 +5026,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Such a huge gemstone... kufufu ♥ I can buy anything ♥ I can\nfeed everyone to their heart's content ♥"
+                                "\\n<Ladro>Such a huge gemstone... kufufu ♥ I can buy anything ♥ I can\neat to my heart's content ♥"
                             ]
                         },
                         {
@@ -5078,7 +5078,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>In the moonlit night~♪ There's no way to escape from a cat~♪\nmeow~n ♥"
+                                "\\n<Katara>In the moonlit night~♪ There's no way~♪ A cat can escape~♪\nmeow-ow-ow ♥"
                             ]
                         },
                         {
@@ -5112,7 +5112,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I won't let you do that!"
+                                "\\n<Katara>I won't let you do that!"
                             ]
                         },
                         {
@@ -5373,7 +5373,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Gah...! (Damn it! It's Rui again...!)"
+                                "\\n<Ladro>Grr...! (Damn it! It's Katara again...!)"
                             ]
                         },
                         {
@@ -5505,7 +5505,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Today for sure, you'll be caught... caught... please let\nyourself be caught? Huh? I had my line thought out, but now\nI've forgotten it!"
+                                "\\n<Katara>Today for sure you'll be caught... caught... please let\nyourself be caught? Huh? I had my line thought out, but now\nI can't remember!"
                             ]
                         },
                         {
@@ -5539,7 +5539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Hero to the rescue!"
+                                "\\n<Katara>Hero to the rescue!"
                             ]
                         },
                         {
@@ -5614,7 +5614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>... (Well, honestly, this was all expected. Rui's agility is\ntroublesome.)"
+                                "\\n<Ladro>...(Well, honestly, this was all expected. Katara's agility\nis troublesome.)"
                             ]
                         },
                         {
@@ -5647,7 +5647,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>... (I'll take away their mobility with ice magic... and\nthen...)"
+                                "\\n<Ladro>...(I'll take away their mobility with ice magic... and\nthen...)"
                             ]
                         },
                         {
@@ -5680,7 +5680,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>(I don't want to hurt them too much... so I guess I have no\nchoice but to use that method.)"
+                                "\\n<Ladro>(I don't want to hurt them too much... so I guess there's no\nchoice but to go with that method.)"
                             ]
                         },
                         {
@@ -5736,7 +5736,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>You know, I've already figured out your weakness ♥ After\nall, look at last time. Right? ♥ Kusukusu ♥"
+                                "\\n<Ladro>You know, I've already figured out your weakness ♥ After\nall, look at last time. Right? ♥ Kusukusu ♥"
                             ]
                         },
                         {
@@ -5769,7 +5769,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Your face turned so red ♥ It was really cute ♥ I want to see\nthat face again ♥ Show it to me one more time ♥"
+                                "\\n<Ladro>Your face turned so red ♥ It was really cute ♥ I want to see\nthat face again ♥ Show it to me one more time ♥"
                             ]
                         },
                         {
@@ -5890,7 +5890,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Nyaa!! Wh-why are you undressing? St-stop it, it's\nembarrassing for me! Don't you have any sense of shame?"
+                                "\\n<Katara>Nyaa!! Wh-why are you stripping? St-stop it, it's\nembarrassing for me! Don't you have any sense of shame?"
                             ]
                         },
                         {
@@ -5917,7 +5917,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ugh... ♥ Do-don't strip! Do-don't you have any sense of\nshame...!"
+                                "\\n<Katara>Ugh...♥ Do-don't strip! Sh-shame, don't you have any...!"
                             ]
                         },
                         {
@@ -5967,7 +5967,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Sense of shame? Nope! I left that at home in a drawer.\nLocked it up tight! Ahaha!"
+                                "\\n<Ladro>Sense of shame? Not at all! I left such things locked away\nin a drawer at home. Locked with a key! Ahaha!"
                             ]
                         },
                         {
@@ -6007,7 +6007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>(I'm dying of embarrassment here!)"
+                                "\\n<Ladro>(This is mortifying to death!)"
                             ]
                         },
                         {
@@ -6056,7 +6056,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>You pervert!!"
+                                "\\n<Katara>You pervert!!"
                             ]
                         },
                         {
@@ -6083,7 +6083,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Put your pants on! You, exhibitionist!"
+                                "\\n<Katara>Put your pants on! You, exhibitionist!"
                             ]
                         },
                         {
@@ -6172,7 +6172,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>(I'll kill you, you little brat...!!)"
+                                "\\n<Ladro>(I'll kill you, you little brat...!!)"
                             ]
                         },
                         {
@@ -6235,7 +6235,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Uh... nyaa...///"
+                                "\\n<Katara>Uh... nyaa...///"
                             ]
                         },
                         {
@@ -6262,7 +6262,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Ugh.../// (I don't know where to look...)"
+                                "\\n<Katara>Uhh.../// (I don't know where to look...)"
                             ]
                         },
                         {
@@ -6314,7 +6314,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>(It's working, it's working. Calm down, Radro. I absolutely\ncannot afford to be caught here. No matter what it takes.)"
+                                "\\n<Ladro>(It's working, it's working. Calm down, Ladro. I absolutely\ncannot be caught here. No matter what it takes.)"
                             ]
                         },
                         {
@@ -6347,7 +6347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Fufu ♥ Can you fight? You can't even look at me properly ♥\nKusukusu ♥ If you stay still, big sis will do something nice\nfor you ♥"
+                                "\\n<Ladro>Fufu ♥ Can you fight? You can't even look at me properly ♥\nKusukusu ♥ If you stay still, big sis will do something nice\nfor you ♥"
                             ]
                         },
                         {
@@ -6380,7 +6380,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Don't resist ♥ It's better for both of us that way ♥"
+                                "\\n<Ladro>Don't resist ♥ It's better for both of us that way ♥"
                             ]
                         },
                         {

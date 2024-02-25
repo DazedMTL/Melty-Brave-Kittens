@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Don't be scared...♥ *smooch*♥ I'm not going crazy, you know♥\nDo you understand now that I've done this? *kiss*♥"
+                                "\\n<[Enemysuccubus]>Don't be scared...♥ *smooch*♥ I'm not going crazy or\nanything♥ Do you understand if I do this? *kiss*♥"
                             ]
                         },
                         {
@@ -4975,7 +4975,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
+                                "\\n<[Enemysuccubus]>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's right♥"
+                                "\\n<[Enemysuccubus]>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's just fine♥"
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...! Why...! Why are you doing this..."
+                                "\\n<Enemy Succubus>Ah...! Why...! Why are you doing this..."
                             ]
                         },
                         {
@@ -5644,7 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>All I want is to live. Just because I melt a little, does\nthat make me different from humans?"
+                                "\\n<Enemy Succubus>I just want to live. Just because I'm a bit different, does\nthat make me not human?"
                             ]
                         },
                         {
@@ -5677,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Even beastmen are different from normal humans. What makes\nme any different from them?"
+                                "\\n<Enemy Succubus>Beastmen are different from normal humans too, aren't they?\nHow am I any different from them?"
                             ]
                         },
                         {
@@ -5710,7 +5710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>... (Words are just sounds. I can definitely feel the malice\ninherent in monsters. But something feels off...)"
+                                "\\n<Katara>... (Words are just sounds. I can definitely feel the malice\ninherent to monsters. But, something feels off...)"
                             ]
                         },
                         {
@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>... (I can definitely sense the unique malice of magical\npower from a monster. This one must be up to something.\nBut...)"
+                                "\\n<Katara>... (I can definitely sense the unique malice of a monster's\nmagic power. This one must be plotting something. But...)"
                             ]
                         },
                         {
@@ -5804,7 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Jean>Rui-san... If there was a monster with the same memories as\nMama, would it still be a monster? It talks and remembers\njust like her."
+                                "\\n<Jean>Katara-san... If there was a monster with the same memories\nas Mama, would it still be a monster? It talks and remembers\njust like her."
                             ]
                         },
                         {
@@ -5854,7 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Do you believe in Mama, Jean? Do you want to stay with me?"
+                                "\\n<Enemy Succubus>Do you believe in Mama, Jean? Do you want to stay with me?"
                             ]
                         },
                         {
@@ -5924,7 +5924,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Jean>Quiet! Don't talk!"
+                                "\\n<Jean>Be quiet! Don't talk!"
                             ]
                         },
                         {
@@ -5983,7 +5983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Jean... (I'm hesitating... I'm becoming unsure myself...\nThere's definitely a presence of a monster but...)"
+                                "\\n<Katara>Jean... (I'm hesitating... I'm becoming unsure too...\nThere's definitely a monster's presence, but...)"
                             ]
                         },
                         {
@@ -6010,7 +6010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Jean... (Confused... I'm starting to lose my way too.\nThere's definitely the scent of a monster but...)"
+                                "\\n<Katara>Jean... (I'm confused... I'm starting to lose my way too.\nThere's definitely the scent of a monster, but...)"
                             ]
                         },
                         {
@@ -6053,7 +6053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>... (If I let it go, Jean might be eaten someday. But is it\nreally right to slay a mother in front of her child?)"
+                                "\\n<Katara>... (If I let it go, Jean might be eaten someday. But is it\nreally right to kill a mother in front of her child?)"
                             ]
                         },
                         {
@@ -6080,7 +6080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>... (If I let it go, Jean might be eaten someday. But can I\nreally slay a mother in front of her child?)"
+                                "\\n<Katara>... (If I let it go, Jean might be eaten someday. But can I\nreally kill a mother in front of her child?)"
                             ]
                         },
                         {
@@ -6123,7 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<\\n[3]>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
+                                "\\n<Enemy Succubus>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
                             ]
                         },
                         {
@@ -6512,7 +6512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ahh. I was waiting for you to grow up. What are you doing?"
+                                "\\n<Enemy Succubus>Ahh. I was waiting for you to grow up. What are you doing?"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
+                                "\\n<Enemy Succubus>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
                             ]
                         },
                         {
@@ -6578,7 +6578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
+                                "\\n<Enemy Succubus>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
                             ]
                         },
                         {
@@ -6899,7 +6899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>Jean... (Ah, that was close... I almost cut Jean by\nmistake...)"
+                                "\\n<Katara>Jean... (Ah, that was close... I almost cut Jean by\nmistake...)"
                             ]
                         },
                         {
@@ -6926,7 +6926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>...! (If I had swung just now, it would have hit Jean! That\nwas close...)"
+                                "\\n<Katara>...! (If I had swung just now, it would have hit Jean! That\nwas dangerous...)"
                             ]
                         },
                         {
@@ -6969,7 +6969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Jean...♥ You child... you really are...♥"
+                                "\\n<Enemy Succubus>Jean...♥ You child... are truly...♥"
                             ]
                         },
                         {
@@ -7068,7 +7068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
+                                "\\n<Enemy Succubus>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
                             ]
                         },
                         {
@@ -7274,7 +7274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>N-no, she got away...! What should I do! I have to report to\nthe guild..."
+                                "\\n<Katara>N-no, she got away...! What should I do! I have to report to\nthe guild..."
                             ]
                         },
                         {
@@ -7301,7 +7301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>Damn it! She took Jean! I don't think she'll harm him right\naway, but... I have to report to the guild."
+                                "\\n<Katara>Damn it! She took Jean! I don't think she'll harm him right\naway, but... I have to report this to the guild."
                             ]
                         },
                         {
@@ -7530,7 +7530,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "MultiwayShot Event Bullet Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
@@ -7544,7 +7544,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "All-Around Shooter"
+                                "FullShot All-Around Firing"
                             ]
                         },
                         {
@@ -7558,7 +7558,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Place Switching"
+                                "Position Swap"
                             ]
                         },
                         {
@@ -7857,7 +7857,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Shot"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
@@ -9633,7 +9633,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Multi-Way Shot Event Bullet Fired"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
@@ -10938,7 +10938,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand strike with the A key. While holding the D key, you can\nmove with your direction fixed."
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand strike with the A key. While holding the D key, you can\nmove without changing direction."
                             ]
                         },
                         {
@@ -10955,7 +10955,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If either your stamina or health reaches 0 due to the\nenemy's attacks, you will be defeated. Generally, ranged\nattacks will reduce health, while contact will reduce\nstamina."
+                                "If either your stamina or health reaches 0 due to the\nenemy's attacks, you will be defeated. Generally, ranged\nattacks decrease health, while contact decreases stamina."
                             ]
                         },
                         {
@@ -10972,7 +10972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let me show you the timing bar."
+                                "When you come into contact with an enemy, you'll be held and\ncontinue to take damage until you succeed at the timing bar.\nLet me show you the timing bar."
                             ]
                         },
                         {
@@ -11013,7 +11013,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, taking damage to your stamina from the enemy\nwill put you in a [Color_14]state of arousal\\C[0], reducing\nthe number of slashes during your attack. A heart mark will\nappear on your status while in this state."
+                                "Furthermore, taking damage to your stamina from an enemy\nwill put you in a \\C[14]state of arousal\\C[0], which reduces\nthe number of slashes during your attack. A ♡ mark will\nappear on your status while in this state."
                             ]
                         },
                         {
@@ -11030,7 +11030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Arousal can be removed by walking around a set number of\nsteps. It can also be removed by achieving a critical to\nshake off the enemy. If possible, aim to stop on red."
+                                "Arousal can be removed by walking around for a certain\namount of time. It can also be removed by achieving a\ncritical to shake off the enemy. If possible, aim to stop on\nred."
                             ]
                         },
                         {
@@ -11084,7 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile moving backwards can make the fight easier."
+                                ".Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile moving backward can make the fight easier."
                             ]
                         },
                         {
@@ -11101,7 +11101,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".Use healing items and skills. There are no usage limits for\nhealing items and skills (like deep breaths). You can heal\nand push through if necessary."
+                                ".Use healing items and skills. There are no usage limits for\nhealing items and skills (like deep breathing). You can heal\nand push through with brute force if necessary."
                             ]
                         },
                         {
@@ -11118,7 +11118,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                ".Use Action Ease. By turning on Action Ease from the\noptions, the difficulty level will significantly decrease.\nThere are no downsides."
+                                ".Utilize Action Ease. By turning on Action Ease from the\noptions, the difficulty level will significantly decrease.\nThere are no downsides to this."
                             ]
                         },
                         {
@@ -11762,7 +11762,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Jean>Ah... M... ma..."
+                                "\\n<Jean>Ah... M... my..."
                             ]
                         },
                         {

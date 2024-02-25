@@ -4814,8 +4814,8 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "Ask about her birthday",
-                                    "Ask about her husband",
+                                    "Ask about their birthday",
+                                    "Ask about their husband",
                                     "Ask about Jean's personality",
                                     "Ask about recent events",
                                     "Observe",
@@ -4898,7 +4898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>Please don't try to calculate it. My birthday is... and the\nplace I was born is..."
+                                "\\n<Mele>Please don't calculate it. My birthday is... and I was born\nin..."
                             ]
                         },
                         {
@@ -5019,7 +5019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>But until the end, he said, \"The people of Drine are not\nbad. It's the world divided into upper and lower that's\nwrong.\""
+                                "\\n<Mele>But until the end, he said, \"The people of Drine aren't bad.\nIt's the world divided into upper and lower that's wrong.\""
                             ]
                         },
                         {
@@ -5085,7 +5085,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>Not to hate, it's so cruel, isn't it? Because of such\nidealistic notions, I've been enduring hatred all this time.\nHow much easier it would have been to just follow my heart."
+                                "\\n<Mele>Not to hate, what a cruel thing to say. Because of such\nidealistic words, I've been enduring hatred all this time.\nHow much easier it would have been to just let my heart out."
                             ]
                         },
                         {
@@ -5151,7 +5151,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "There are no lies. But for just a moment, I sensed the same\nmalice from her that a monster has towards humans. It might\njust be my imagination though..."
+                                "There are no lies. But for just a moment, I sensed the same\nmalice from her that monsters have towards humans. It might\njust be my imagination though..."
                             ]
                         },
                         {
@@ -5230,7 +5230,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>Perhaps their kindness in choosing words so as not to hurt\nanyone with a knife-like word is why they struggle with\ncommunication."
+                                "\\n<Mele>Perhaps their kindness in choosing words so as not to hurt\nanyone with a knife-like phrase is why they struggle with\ncommunication."
                             ]
                         },
                         {
@@ -5391,7 +5391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>Oh, now that you mention it! When I was picking mushrooms\nnear the swamp in the nearby forest, I suddenly felt a thud\non my head, as if I'd been struck by a stone or something..."
+                                "\\n<Mele>Oh, now that you mention it! When I was picking mushrooms\nnear the swamp in the nearby forest, suddenly my head was\nstruck with a thud, as if by a stone or something..."
                             ]
                         },
                         {
@@ -5424,7 +5424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>There was also a loud boom and my vision went all sparkly,\nbut it was just a momentary blackout, no bumps or wounds, so\nwhat was that..."
+                                "\\n<Mele>There was a loud boom and sparks before my eyes, but it was\njust a momentary blackout, no bumps or wounds, so what was\nthat..."
                             ]
                         },
                         {
@@ -5457,7 +5457,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>After that, I had no fever or nausea and was perfectly\nhealthy, so I didn't worry about it... If there was anything\nunusual, it was just that."
+                                "\\n<Mele>After that, I had no fever or nausea and was completely\nhealthy, so I didn't worry about it... If there was anything\nunusual, it was just that."
                             ]
                         },
                         {
@@ -5490,7 +5490,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A shock, a sound, and sparkles? Maybe struck by lightning?\nIt's strange there were no injuries though..."
+                                "A shock, a sound, and sparks? Maybe struck by lightning?\nIt's strange there were no injuries though..."
                             ]
                         },
                         {
@@ -5536,7 +5536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mele>What? Staring at me...♥ I've had children, but my figure\nshouldn't have gone out of shape♥ Just kidding."
+                                "\\n<Mele>What? Staring at me...♥ I've had children, but my figure\nshouldn't have fallen apart♥ Just kidding."
                             ]
                         },
                         {
@@ -5569,7 +5569,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "She's certainly beautiful... No, that's not it, there's some\nstrange aura about her. I need more concrete evidence."
+                                "Indeed, she's a beautiful person... No, that's not it,\nthere's some strange aura. I need a bit more confirmation."
                             ]
                         },
                         {
@@ -5827,7 +5827,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Jean>Um... are you an adventurer, big sis?"
+                                "\\n<Jean>Uh, excuse me... are you an adventurer, big sis?"
                             ]
                         },
                         {
@@ -5851,7 +5851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>That's right. Impressive, isn't it? I wonder if it is... But\nI'm pretty strong. Nice to meet you, Jean."
+                                "\\n<Katara>That's right. Impressive, isn't it? I wonder if it is... But\nI'm quite strong. Nice to meet you, Jean."
                             ]
                         },
                         {
@@ -5878,7 +5878,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Jean>Uh... are you an adventurer, mister?"
+                                "\\n<Jean>Uh, excuse me... are you an adventurer, big bro?"
                             ]
                         },
                         {
@@ -5902,7 +5902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Yeah, that's right. Nice to meet you, Jean."
+                                "\\n<Katara>Yeah, that's right. Nice to meet you, Jean."
                             ]
                         },
                         {
@@ -5968,7 +5968,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mere>It's rare to see a beast-person adventurer. By the way, what\nbrings you here today?"
+                                "\\n<Mele>It's rare to see a beast-person adventurer. By the way, what\nbrings you here today?"
                             ]
                         },
                         {
@@ -6046,7 +6046,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>There's been sightings of a really tiny mouse-like monster\naround here, so I'm checking each house! It's a cat's time\nto shine for this kind of thing!"
+                                "\\n<Katara>I'm going around checking each house because there's been\nsightings of a really tiny mouse-like monster in the area!\nThis is a job for a cat!"
                             ]
                         },
                         {
@@ -6079,7 +6079,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Mere>I see, understood. A monster about the size of a mouse... I\nhaven't seen anything like that myself."
+                                "\\n<Mele>I see, understood. A monster about the size of a mouse... I\nhaven't seen anything like that."
                             ]
                         },
                         {
@@ -6106,7 +6106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>Jean asked me to check because there's been some strange\nnoises. Probably a mouse or a weasel got into the attic.\nWell, just in case it's a monster, it's better to be safe\nthan sorry."
+                                "\\n<Katara>Jean asked me to check because there's been some strange\nnoises. Probably a mouse or a weasel got into the attic.\nWell, just in case it's a monster, it's better to be safe\nthan sorry."
                             ]
                         },
                         {
@@ -6139,7 +6139,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Mere>Oh my! So adventurers even do that kind of work. I haven't\nnoticed any concerning noises myself... but please, go\nahead."
+                                "\\n<Mele>Oh my! So adventurers even do that kind of work. I haven't\nnoticed any concerning noises... but please take care of it."
                             ]
                         },
                         {
@@ -6202,7 +6202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Jean>I-I'm the one who asked for help! There seems to be some\npresence... like... ghosts or something..."
+                                "\\n<Jean>I-I'm the one who asked for help! There seems to be\nsomething there... like... a ghost or something..."
                             ]
                         },
                         {
@@ -6228,7 +6228,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Jean>I can't sleep because I'm scared, so I want the house\nchecked. Adventurers take on those kinds of requests..."
+                                "\\n<Jean>I can't sleep because I'm scared, so I want you to check the\nhouse. Adventurers take on such requests..."
                             ]
                         },
                         {
@@ -6261,7 +6261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Mere>Is that so? You should have told me. I'm sorry about my\nchild. We will pay you properly for your services, so please\ntake care of it."
+                                "\\n<Mele>Is that so? You should have told me. I'm sorry about my\nchild. We will pay you properly for your services, so please\ntake care of it."
                             ]
                         },
                         {
@@ -6304,7 +6304,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mere>If there's anything I can help with, please let me know.\nFeel free to investigate anywhere in the house. And if you'd\nlike, please have some tea as well♥"
+                                "\\n<Mele>If there's anything I can help with, please let me know.\nFeel free to investigate anywhere in the house. And if you'd\nlike, please have some tea as well♥"
                             ]
                         },
                         {
@@ -6374,14 +6374,14 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[1]Try Talking To People Or Investigating Inside Houses.\\C[0]"
+                                "\\C[1]Try Listening To Stories Or Investigating Inside Houses.\\C[0]"
                             ]
                         },
                         {
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Hopefully there's nothing..."
+                                "Hopefully, it's nothing..."
                             ]
                         },
                         {
@@ -6477,7 +6477,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is Mare-san's closet...? It feels quite damp. Maybe the\nlaundry was put in before it was fully dry?"
+                                "Is this Mare-san's closet...? It feels very damp. I wonder\nif the laundry was put in before it was fully dry?"
                             ]
                         },
                         {
@@ -6584,7 +6584,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's Jean's bed. Nothing particularly unusual about it. It's\nvery fluffy."
+                                "It's Jean's bed. Nothing particularly unusual about it. Very\nfluffy."
                             ]
                         },
                         {
@@ -6798,7 +6798,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There are encyclopedias of animals and plants. I want to\nread them."
+                                "There's an encyclopedia of animals and plants here. I want\nto read it."
                             ]
                         },
                         {
@@ -6905,7 +6905,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's not the season to use the fireplace now."
+                                "Now is not the season to use the fireplace."
                             ]
                         },
                         {
@@ -7029,7 +7029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Jean>You can search anywhere in the house... If you find anything\nstrange..."
+                                "\\n<Jean>You can search anywhere in the house... If there's anything\nstrange..."
                             ]
                         },
                         {
@@ -8170,7 +8170,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "This is... like the succubus pheromones I smelled in the\nGalette Cave..."
+                                "This is... It's like the succubus pheromones I smelled in\nthe Galette Cave..."
                             ]
                         },
                         {
@@ -8210,7 +8210,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Uh... No good. This scent is...♥ *pant*... *pant*...♥"
+                                "Uh... No good. This scent is...♥ Haa... Haa...♥"
                             ]
                         },
                         {
@@ -8417,7 +8417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bookshelf contains a feature on delicious eateries in\nLumare."
+                                "The bookshelf features a collection of articles on delicious\neateries in Lumale."
                             ]
                         },
                         {
@@ -8524,7 +8524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The bookshelf is lined with cooking recipes... but there's\nsome kind of slimy liquid sticking to them..."
+                                "The bookshelf is lined with cooking recipes... but there's\nsomething... a slimy liquid is sticking to them..."
                             ]
                         },
                         {
@@ -9141,7 +9141,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It feels like it's been a while since I've seen a decent cup\nof tea... The ones below are weak and not tasty."
+                                "It feels like it's been a while since I've seen a proper cup\nof tea... The ones below are weak and not tasty."
                             ]
                         },
                         {
@@ -9462,7 +9462,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The streets of Lumare are visible. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It all looks very peaceful."
+                                "The streets of Rumare come into view. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It all looks very peaceful."
                             ]
                         },
                         {
@@ -9676,7 +9676,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The streets of Lumale can be seen. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It looks very peaceful."
+                                "The streets of Rumare come into view. Restaurants, clothing\nstores, children running around, and mothers watching over\nthem kindly. It all looks very peaceful."
                             ]
                         },
                         {
@@ -9890,7 +9890,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "So many green apples!"
+                                "Lots of green apples!"
                             ]
                         },
                         {

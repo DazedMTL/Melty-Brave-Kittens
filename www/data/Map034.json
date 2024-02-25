@@ -9700,7 +9700,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Poor quality oil has a strange smell, but this oil has no\nodor. It was the same with the lamp at home."
+                                "Poor quality oil has a strange smell, but this oil is\nodorless. It was the same with the lamp at home."
                             ]
                         },
                         {
@@ -10048,7 +10048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>It's boring, isn't it? If we can get paid just for standing\naround without anything happening, it's a good job, but it\nmakes me sleepy."
+                                "\\n<Adventurer A>It's so boring. It'd be a good job if we could just stand\nhere without anything happening and still get paid, but it's\nmaking me sleepy."
                             ]
                         },
                         {
@@ -10123,7 +10123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>\"It's not a full moon today, so we should be fine. Up until\nnow, everything has happened just as predicted. The main\nevent feels like it'll be in 4 or 5 days, huh?\""
+                                "\\n<Adventurer A>It's not a full moon today, so we should be fine, right? Up\nuntil now, everything seems to have happened just as\npredicted. The main event feels like it'll be in 4 or 5\ndays, I guess."
                             ]
                         },
                         {
@@ -10207,7 +10207,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>Tsk tsk tsk tsk! Baritstch! 0! Ah, I raised my own finger.\nWhat a fool I am."
+                                "\\n<Adventurer B>\"Tsk tsk tsk tsk! Very tsk! 0! Ah, I raised my own finger.\nHow silly of me.\""
                             ]
                         },
                         {
@@ -10282,7 +10282,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>\"Is it really okay to go with the same team? We let them\nescape last time. Honestly, with that speed, it's\nimpossible.\""
+                                "\\n<Adventurer B>\"Is it okay to go with the same people? We let them escape\nlast time. Honestly, that speed is just impossible to\nmatch.\""
                             ]
                         },
                         {
@@ -10444,7 +10444,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a splendid gate. Made of fine wood. It would surely\nfeel great to sharpen my claws on it."
+                                "It's a splendid gate. Made of fine wood. Sharpening my claws\non it would surely feel great."
                             ]
                         },
                         {
@@ -11029,7 +11029,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Nnnngh! Nnnngh! Nnnngh!!!"
+                                "\\n<Captain>Ngh, ngh, ngh, ngh, ngh, ngh!!!"
                             ]
                         },
                         {
@@ -11458,7 +11458,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Phantom Thief \"L\">So long! Toodles~!"
+                                "\\n<Phantom Thief \"L\">So long~! Daddy-o!"
                             ]
                         },
                         {
@@ -11573,7 +11573,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>Damn...! It's too dark...!"
+                                "\\n<Adventurer B>Darn it...! It's too dark...!"
                             ]
                         },
                         {
@@ -11752,7 +11752,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's a splendid gate. I wonder where the phantom thief plans\nto break in from. Could they have already sneaked in...?"
+                                "It's a splendid gate. I wonder where the phantom thief plans\nto break in from. Could they have already snuck in...?"
                             ]
                         },
                         {
@@ -11799,7 +11799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "That can't be the case, surely."
+                                "That can't be the case. Surely not."
                             ]
                         },
                         {
@@ -12232,7 +12232,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Stop right there!"
+                                "\\n<Captain>Wait right there!"
                             ]
                         },
                         {
@@ -12354,7 +12354,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Captain>Nngh... Nngh... Nngh... Nngh... Nngh... Nngh...!!!"
+                                "\\n<Captain>Mmmph! Mmmph! Mmmph! Mmmph! Mmmph! Mmmph!"
                             ]
                         },
                         {
@@ -12862,7 +12862,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Too fast! What's with that movement? They're running on the\nwalls!"
+                                "\\n<Adventurer A>Too fast! What's that movement? They're running on the\nwalls!"
                             ]
                         },
                         {
@@ -12898,7 +12898,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer B>Haa... haa...! Where did they go!?"
+                                "\\n<Adventurer B>Huff... huff...! Where did they go?"
                             ]
                         },
                         {
@@ -12934,7 +12934,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rui>...! This time for sure...!"
+                                "\\n<Katara>...! This time for sure...!"
                             ]
                         },
                         {
@@ -13042,7 +13042,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "The difference between this place and Dreamy can be told\njust by the design of the door. Intricate designs are born\nfrom abundance."
+                                "The difference between this place and Dreamine can be told\njust by the design of the door. Intricate designs are born\nfrom abundance."
                             ]
                         },
                         {
@@ -13143,7 +13143,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>\"We are the adventurers of this town, the Rumare\nAdventurer's Guild. Though I say that, we all come from\ndifferent places.\""
+                                "\\n<Adventurer C>\"We are the adventurers of this town, Luma-Le's guild.\nThough I say that, everyone here comes from different\nplaces.\""
                             ]
                         },
                         {
@@ -13218,7 +13218,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>\"The Noble Count seems different somehow. Before, he spoke\nlike a fool. But this time... it was as if he was a\ndifferent person.\""
+                                "\\n<Adventurer C>The Noblesse Earl, they seem to have changed somehow.\nBefore, they spoke in such a foolish manner. But this\ntime... it was like they were a completely different person."
                             ]
                         },
                         {
@@ -13235,7 +13235,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer C>\"He had this distant look in his eyes, as if he was already\nthinking about what happens after something's been stolen...\nIt might just be my imagination, though.\""
+                                "\\n<Adventurer C>They had this distant look in their eyes, as if they were\nalready thinking about what happens after something's been\nstolen... It might just be my imagination, though."
                             ]
                         },
                         {
@@ -13319,7 +13319,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer D>Ready, set, go! Right? What's with this \"Barley Tits\" thing.\nYour hometown is crazy, huh."
+                                "\\n<Adventurer D>Ready, set, go! Right? What's with this \"bari-chitchi\"? Your\nhometown is crazy, man."
                             ]
                         },
                         {
@@ -13394,7 +13394,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer D>\"It was dark and hard to see, but last time, I thought I saw\nsomeone who almost caught up with the phantom thief. Wasn't\nthat you?\""
+                                "\\n<Adventurer D>\"It was dark and hard to see, but last time, I felt like\nthere was someone who almost caught up to the phantom thief.\nWasn't that you?\""
                             ]
                         },
                         {
@@ -13456,7 +13456,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>\"I was so close, but then I tripped! Ehehe!\""
+                                "\\n<Katara>\"I was so close, but then I tripped! Ehehe!\""
                             ]
                         },
                         {
@@ -13483,7 +13483,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>\"I ended up falling over... If only there hadn't been a\nstone there... Ahahaha.\""
+                                "\\n<Katara>\"I ended up falling over... If only there hadn't been a rock\nthere... Ahahaha.\""
                             ]
                         },
                         {
@@ -13563,7 +13563,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>\"It was a total disaster! When I get surprised, I just\nfreeze up! You've got the wrong person!\""
+                                "\\n<Katara>\"It was a total disaster! When I get surprised, I just\nfreeze up! You've got the wrong person!\""
                             ]
                         },
                         {
@@ -13590,7 +13590,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Rui>\"No! I don't think that was me! Yes! I got lost! I'm not\nvery familiar with this town...\""
+                                "\\n<Katara>\"No! I don't think that was me! Yes! I got lost! I'm not\nvery familiar with this town...\""
                             ]
                         },
                         {
@@ -13624,7 +13624,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Adventurer D>\"Really? It looked like a silhouette with cat ears, though.\""
+                                "\\n<Adventurer D>\"Really? It kind of looked like a silhouette with cat ears,\nthough.\""
                             ]
                         },
                         {
@@ -13797,7 +13797,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It seems the tavern is temporarily closed today because\nhaving too many people increases the security hassle. You\ncan tell the extent of the impact that the phantom thief\nhas."
+                                "It seems the tavern is closed for the day due to the\nincreased security hassle from the crowds. You can really\ntell the impact that the phantom thief has."
                             ]
                         },
                         {
@@ -13865,7 +13865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "There seems to be multiple people holding their breath in\nthe tavern with the lights out. It might not only be the\nphantom thief who's after the Howling Stone."
+                                "There seems to be multiple people holding their breath in\nthe tavern with the lights out. It might not just be the\nphantom thief who's after the Howling Stone."
                             ]
                         },
                         {
@@ -14010,7 +14010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(It's quiet... Nothing's happening at all. Boring. Sigh.\nMaybe I should just go home.)"
+                                "\\n<Katara>(It's so quiet... Nothing's happening at all. Boring. Sigh.\nMaybe I should just go home.)"
                             ]
                         },
                         {
@@ -14037,7 +14037,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(It's quiet... It's so dull I might let my guard down. Maybe\nI should wake myself up by talking to someone.)"
+                                "\\n<Katara>(It's quiet... It's so dull I might let my guard down. Maybe\nI should wake myself up by talking to someone.)"
                             ]
                         },
                         {
@@ -14202,7 +14202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Nnyaah... I'm getting sleepy... I need to talk to someone\nto stay awake properly.)"
+                                "\\n<Katara>(Nnyaah... I'm getting sleepy... I need to talk to someone\nto stay awake.)"
                             ]
                         },
                         {
@@ -14229,7 +14229,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Ugh... But it's so boring. It's impossible to stay on alert\nall the time.)"
+                                "\\n<Katara>(Ugh... But it's so boring. It's impossible to stay on guard\nall the time.)"
                             ]
                         },
                         {
@@ -14342,7 +14342,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Former Sergeant>I've been demoted without a hitch due to my blunder. I'm a\nformer sergeant now. Such a pity..."
+                                "\\n<Former Sergeant>I've been demoted without a hitch due to my blunder. I'm an\nex-sergeant now. Such a pity..."
                             ]
                         },
                         {
@@ -14375,7 +14375,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Cheer up! Is your leg okay? It made a snapping sound,\nthough."
+                                "\\n<Katara>Cheer up! Is your leg okay? It made a snapping sound,\nthough."
                             ]
                         },
                         {
@@ -14433,7 +14433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Is it true that you were buried under a tree?"
+                                "\\n<Katara>Is it true that you were buried under a tree?"
                             ]
                         },
                         {
@@ -14481,7 +14481,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(That sounds even tougher...)"
+                                "\\n<Katara>(That sounds even tougher...)"
                             ]
                         },
                         {
@@ -14524,7 +14524,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Former Sergeant>That's right, you were the fastest runner. I made sure the\nhandcuffs issued to you were the best ones. You're good at\nplaying chase, aren't you? I'm counting on you in case of an\nemergency."
+                                "\\n<Former Sergeant>That's right, you were the fastest runner. I made sure the\nhandcuffs issued to you were the best ones. You're good at\nplaying tag, aren't you? I'm counting on you if anything\nhappens."
                             ]
                         },
                         {
@@ -14634,7 +14634,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>I want to eat the pancakes that Jiiya baked..."
+                                "\\n<Katara>I want to eat the pancakes that Jiiya baked..."
                             ]
                         },
                         {
@@ -14668,7 +14668,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>(Is it okay though? The premium bread boom seems to be\nending...)"
+                                "\\n<Katara>(Is it okay though? The premium bread boom seems to be\nending...)"
                             ]
                         },
                         {
@@ -15025,7 +15025,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lookout>Hey! Hey hey! Don't stray too far from your post!"
+                                "\\n<Lookout>Hey! Hey, hey! Don't stray too far from your post!"
                             ]
                         },
                         {
@@ -15111,7 +15111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lookout>All clear on this end! Make sure you guard the gate\nproperly!"
+                                "\\n<Lookout>All clear on this side! Make sure you guard the gate\nproperly!"
                             ]
                         },
                         {

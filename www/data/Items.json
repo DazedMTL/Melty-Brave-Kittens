@@ -11,7 +11,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Faint mint scent: Restores 30% + 200 stamina",
+        "description": "Faint scent of mint: Restores 30% + 200 of your vigor",
         "effects": [
             {
                 "code": 11,
@@ -44,7 +44,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Faint orange flavor: Restores 30% + 20 health",
+        "description": "Faint taste of orange: Restores 30% + 20 of your stamina",
         "effects": [
             {
                 "code": 12,
@@ -335,7 +335,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Faint mint scent: Restores 30% + 200 stamina",
+        "description": "Faint scent of mint: Restores vigor by 30% + 200",
         "effects": [
             {
                 "code": 11,
@@ -347,7 +347,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Energizer",
+        "name": "Aphrodisiac",
         "note": "<mat1:I71*1>\n<matG:10>",
         "occasion": 0,
         "price": 500,
@@ -368,7 +368,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Mint scent: Restores 50% + 200 stamina",
+        "description": "Scent of mint: Restores vigor by 50% + 200",
         "effects": [
             {
                 "code": 11,
@@ -380,7 +380,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Energizer Alpha",
+        "name": "Aphrodisiac α",
         "note": "<mat1:I71*2>\n<matG:10>",
         "occasion": 0,
         "price": 1200,
@@ -401,7 +401,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strong mint scent: Restores 70% + 200 stamina",
+        "description": "Strong scent of mint: Restores vigor by 70% + 200",
         "effects": [
             {
                 "code": 11,
@@ -413,7 +413,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Energizer Beta",
+        "name": "Aphrodisiac β",
         "note": "<mat1:I71*3>\n<matG:10>",
         "occasion": 0,
         "price": 2800,
@@ -434,7 +434,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Minter than mint scent: Fully restores stamina",
+        "description": "Scent stronger than mint: Fully restores vigor",
         "effects": [
             {
                 "code": 11,
@@ -446,7 +446,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Energizer Gamma",
+        "name": "Aphrodisiac γ",
         "note": "<mat1:I71*3>\n<mat2:I73*1>\n<matG:10>",
         "occasion": 0,
         "price": 4000,
@@ -493,7 +493,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Faint orange flavor: Restores 30% + 5 health",
+        "description": "Faint taste of orange: Restores 30% + 5 of your stamina",
         "effects": [
             {
                 "code": 12,
@@ -526,7 +526,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Orange flavor: Restores 50% + 5 health",
+        "description": "Taste of orange: Restores 50% + 5 of your stamina",
         "effects": [
             {
                 "code": 12,
@@ -538,7 +538,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Stamina Recovery Medicine Alpha",
+        "name": "Stamina Recovery Medicine α",
         "note": "<mat1:I72*2>\n<matG:10>",
         "occasion": 0,
         "price": 2000,
@@ -559,7 +559,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Strong orange flavor: Restores 70% health",
+        "description": "Strong taste of orange: Restores 70% of your stamina",
         "effects": [
             {
                 "code": 12,
@@ -571,7 +571,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Stamina Recovery Medicine Beta",
+        "name": "Stamina Recovery Medicine β",
         "note": "<mat1:I72*3>\n<matG:10>",
         "occasion": 0,
         "price": 3600,
@@ -592,7 +592,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Exaggerated orange flavor: Fully restores health",
+        "description": "Exaggerated taste of orange: Fully restores stamina",
         "effects": [
             {
                 "code": 12,
@@ -604,7 +604,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Stamina Recovery Medicine Gamma",
+        "name": "Stamina Recovery Medicine γ",
         "note": "<mat1:I72*3>\n<mat2:I73*1>\n<matG:10>",
         "occasion": 0,
         "price": 6000,
@@ -651,7 +651,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Crushed herbs seasoned to make them easier to drink: Restores 30% stamina and\nhealth",
+        "description": "Crushed herbs seasoned to make them easier to drink: Restores 30% of vigor and\nstamina",
         "effects": [
             {
                 "code": 11,
@@ -669,7 +669,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Herbal Juice",
+        "name": "Herb Juice",
         "note": "<mat1:I71*1>\n<mat2:I72*1>\n<matG:10>",
         "occasion": 0,
         "price": 1500,
@@ -690,7 +690,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A friend for adventures that revitalizes both body and mind: Restores 50%\nstamina and health",
+        "description": "A friend for adventures that revitalizes both body and mind: Restores 50% of\nvigor and stamina",
         "effects": [
             {
                 "code": 11,
@@ -729,7 +729,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Drops of liquid magic condensed from the atmosphere: Restores 70% stamina and\nhealth",
+        "description": "Drops of magic condensed from the atmosphere into liquid form: Restores 70% of\nvigor and stamina",
         "effects": [
             {
                 "code": 11,
@@ -768,7 +768,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An alchemical product whose production method is not yet established: Fully\nrestores stamina and health, greatly increases TP",
+        "description": "Alchemy product with an unestablished production method: Fully restores vigor\nand stamina, greatly increases TP",
         "effects": [
             {
                 "code": 11,
@@ -839,7 +839,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A drug that causes a surge of adrenaline: Greatly increases TP",
+        "description": "Medicine that causes a surge of adrenaline: Greatly increases TP",
         "effects": [
             {
                 "code": 13,
@@ -872,7 +872,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A barely legal drug: Greatly increases TP",
+        "description": "Barely legal medicine: Greatly increases TP",
         "effects": [
             {
                 "code": 13,
@@ -905,7 +905,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A drug that temporarily boosts attack power and skill: Increases Attack,\nIncreases Skill, slightly increases TP",
+        "description": "Medicine that temporarily boosts attack power and skill: Increases Attack,\nIncreases Skill, slightly increases TP",
         "effects": [
             {
                 "code": 21,
@@ -944,7 +944,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A drug that temporarily boosts defense and mental strength: Increases Defense,\nIncreases Mental Strength, slightly increases TP",
+        "description": "Medicine that temporarily boosts defense and mental strength: Increases Defense,\nIncreases Mental Strength, slightly increases TP",
         "effects": [
             {
                 "code": 21,
@@ -983,7 +983,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A drug that temporarily boosts maximum stamina: Increases Max Stamina\n(stackable), slightly increases TP",
+        "description": "Medicine that temporarily boosts maximum vigor: Increases Max Vigor (stackable),\nslightly increases TP",
         "effects": [
             {
                 "code": 31,
@@ -1022,7 +1022,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A card with the power to twist fate: Fully restores stamina and health, boosts\nall abilities",
+        "description": "A card with the power to twist fate: Fully restores vigor and stamina, boosts\nall abilities",
         "effects": [
             {
                 "code": 21,
@@ -1079,7 +1079,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mythical elixir that houses the power of demons in the body: All stats\nmultiplied by 1.5 (during battle)",
+        "description": "The phantom elixir that houses the power of demons in the body: All stats\nmultiplied by 1.5 (during battle)",
         "effects": [
             {
                 "code": 21,
@@ -1091,7 +1091,7 @@
         "hitType": 0,
         "iconIndex": 178,
         "itypeId": 1,
-        "name": "Demon's Secret Elixir",
+        "name": "Demon's Secret Medicine",
         "note": "<mat1:I71*5>\n<mat2:I72*5>\n<mat3:I73*5>\n<mat4:I74*5>\n<matG:10000>",
         "occasion": 1,
         "price": 20000,
@@ -1112,7 +1112,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A medicine effective against all diseases: Fully restores stamina and health,\ngreatly increases TP",
+        "description": "Medicine effective against all diseases: Fully restores vigor and stamina,\ngreatly increases TP",
         "effects": [
             {
                 "code": 11,
@@ -1157,7 +1157,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A new drug expected by the world: Restores 50% stamina and health, has side\neffects",
+        "description": "A new drug expected by the world: Restores 50% of vigor and stamina, has side\neffects",
         "effects": [
             {
                 "code": 11,
@@ -1187,7 +1187,7 @@
         "hitType": 0,
         "iconIndex": 176,
         "itypeId": 1,
-        "name": "Atto-Tech 8",
+        "name": "AttoTech 8",
         "note": "",
         "occasion": 0,
         "price": 1000,
@@ -1213,7 +1213,7 @@
         "hitType": 0,
         "iconIndex": 177,
         "itypeId": 1,
-        "name": "Tough Adult Fluid",
+        "name": "Tough Adult Liquid",
         "note": "",
         "occasion": 1,
         "price": 5,
@@ -1234,7 +1234,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The usual taste: Greatly increases TP, cures blindness",
+        "description": "The usual flavor: Greatly increases TP, cures blindness",
         "effects": [
             {
                 "code": 13,
@@ -1273,7 +1273,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A healing medicine you drink with your eyes: Restores 15% stamina, cures status\nabnormalities, causes blindness",
+        "description": "A healing potion you drink with your eyes: Restores 15% vigor, cures status\nabnormalities, causes blindness",
         "effects": [
             {
                 "code": 22,
@@ -1336,7 +1336,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Nourishes and restores health: Restores 20 health, cures weakness",
+        "description": "Nutritional supplement that restores stamina: Restores 20 stamina, cures\nweakness",
         "effects": [
             {
                 "code": 22,
@@ -1369,7 +1369,7 @@
             "type": 4,
             "variance": 0
         },
-        "description": "Soothes pain and fully restores health: Fully restores health, cures weakness",
+        "description": "Medicine that soothes pain and fully restores stamina: Fully restores stamina,\ncures weakness",
         "effects": [
             {
                 "code": 22,
@@ -1402,7 +1402,7 @@
             "type": 0,
             "variance": 0
         },
-        "description": "Powdered plant roots: Cures status abnormalities",
+        "description": "Powder made from the roots of plants: Cures status abnormalities",
         "effects": [
             {
                 "code": 22,
@@ -1504,7 +1504,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": ": Restores 500 stamina, cures arousal, no consumption required",
+        "description": "Sweet pastry with Deitz bean paste: Restores 5 stamina",
         "effects": [
             {
                 "code": 12,
@@ -1537,7 +1537,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sweet Deitz bean pastry: Restores 5 health",
+        "description": "Illegal drug that makes you feel good when used: Fully restores vigor and\nstamina, increases Attack Power, decreases Vigor",
         "effects": [
             {
                 "code": 21,
@@ -1588,7 +1588,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A skull-branded delicacy of the Corpse Highway, quite macabre. Restores 20 HP\nand has a detoxifying effect.",
+        "description": "A skull-branded specialty of the Corpse Highway. Quite macabre. Restores 20 HP\nand has a detoxifying effect.",
         "effects": [
             {
                 "code": 12,
@@ -1633,7 +1633,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Rhododendron honey, intoxicating when licked, causing muscles to relax. Defense\nis doubled, Spirit is zero for 5 turns.",
+        "description": "Rhododendron honey. Licking it causes intoxication and muscle relaxation.\nDefense is doubled, mental strength is zero for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -1684,7 +1684,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Dried banana fiber powder, awakens and sensitizes the skin. Defense is zero,\nSpirit is doubled for 5 turns.",
+        "description": "Dried banana fiber powder. Awakens and sensitizes the skin. Defense is zero,\nmental strength is doubled for 5 turns.",
         "effects": [
             {
                 "code": 21,
@@ -1735,7 +1735,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An irresistible portable food for cats, buffs galore for a certain number of\nsteps.",
+        "description": "An irresistible portable food for cats. Buffs increase with every step taken.",
         "effects": [
             {
                 "code": 21,
@@ -1786,7 +1786,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "This portable food can feed a cat ten meals, buffs galore for a certain number\nof steps.",
+        "description": "This portable food can feed a cat ten meals. Buffs greatly increase with every\nstep taken.",
         "effects": [
             {
                 "code": 21,
@@ -1849,7 +1849,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A portable food that makes cats tearfully grateful for life, buffs galore for a\ncertain number of steps. Full recovery, Combat Power +1 (permanent).",
+        "description": "A portable food that makes cats tearfully grateful for life. Buffs greatly\nincrease with every step taken, full recovery, and combat power +1 (permanent).",
         "effects": [
             {
                 "code": 21,
@@ -1909,7 +1909,7 @@
         "hitType": 0,
         "iconIndex": 275,
         "itypeId": 1,
-        "name": "GoroNyantururu Neo",
+        "name": "Goronyantururu Neo",
         "note": "<mat1:I73*1>\n<matG:10>",
         "occasion": 0,
         "price": 15000,
@@ -1956,7 +1956,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that makes you want to go at it with gusto when eaten. Attack +1\n(permanent).",
+        "description": "Eating this nut makes you want to push forward. Attack power +1 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -1989,7 +1989,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that slightly hardens the skin when eaten. Defense +1 (permanent).",
+        "description": "Eating this nut makes your skin slightly tougher. Defense power +1 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2022,7 +2022,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that makes your hands more skillful when eaten. Dexterity +1 (permanent).",
+        "description": "Eating this nut makes your hands more skillful. Dexterity +1 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2055,7 +2055,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that makes you mentally stronger when eaten. Spirit +1 (permanent).",
+        "description": "Eating this nut makes you mentally stronger. Mental strength +1 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2088,7 +2088,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that improves your explosive power when eaten. Agility +1 (permanent).",
+        "description": "Eating this nut improves your explosive power. Agility +1 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2121,7 +2121,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that increases your destructive impulses when eaten. Combat Power +1\n(permanent).",
+        "description": "Eating this nut increases your destructive impulses. Combat power +1\n(permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2154,7 +2154,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that boosts your vitality when eaten. Max Vitality +20 (permanent).",
+        "description": "Eating this nut boosts your vitality. Max vitality +20 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2187,7 +2187,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A nut that makes it easier to build muscle when eaten. Max HP +5 (permanent).",
+        "description": "Eating this nut makes it easier to build muscle. Max HP +5 (permanent).",
         "effects": [
             {
                 "code": 42,
@@ -2220,7 +2220,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A spherical object that grants experience points when crushed. Raises the level\nof any chosen cat borrower.",
+        "description": "Crushing this sphere grants experience points. Raises the level of a chosen cat\nborrower.",
         "effects": [
             {
                 "code": 44,
@@ -2279,7 +2279,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Cute round sweets, the only thing not cute is the price. Restores 10 HP.",
+        "description": "A cute, round sweet treat. The only thing not cute is the price. Restores 10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2305,7 +2305,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Famous chocolate, a sublime single piece with terrible cost performance.\nRestores 10 HP.",
+        "description": "A specialty chocolate. A supreme morsel with terrible cost performance. Restores\n10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2331,7 +2331,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Cherry and chocolate cake, a slightly adult flavor. Restores 10 HP.",
+        "description": "A cake with cherries and chocolate. A slightly adult flavor. Restores 10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2357,7 +2357,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Candy that disappears in a flash like lightning. Restores 10 HP.",
+        "description": "A candy that disappears in a flash like lightning. Restores 10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2383,7 +2383,7 @@
             "type": 4,
             "variance": 20
         },
-        "description": "Pastry like a thousand layered leaves, occasionally causes choking. Restores 10\nHP.",
+        "description": "A pastry with layers like a thousand leaves. Sometimes causes choking. Restores\n10 HP.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 274,
@@ -2539,7 +2539,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb that boosts vitality when eaten. Material.",
+        "description": "Eating this grass boosts vitality. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 181,
@@ -2565,7 +2565,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb containing healthy ingredients. Material.",
+        "description": "Grass containing healthy ingredients. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 181,
@@ -2591,7 +2591,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb with the power to enhance effects when mixed. Material.",
+        "description": "Grass that strengthens effects when mixed. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 181,
@@ -2617,12 +2617,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Herb that grows by absorbing human happiness. Material.",
+        "description": "Grass that grows by absorbing human happiness. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 181,
         "itypeId": 1,
-        "name": "Happiness Grass",
+        "name": "Luck Grass",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -2721,7 +2721,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gemstone with a fiery red hue like burning flames. Material.",
+        "description": "A gemstone with a fiery red hue like burning flames. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -2747,7 +2747,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gemstone with a calm blue like the quiet sea. Material.",
+        "description": "A gemstone with a calm blue like the quiet sea. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -2773,7 +2773,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gemstone with a green color like rustling leaves in the wind. Material.",
+        "description": "A green gemstone like the rustling leaves in the wind. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -2799,7 +2799,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gemstone born from the strong stamping of the earth. Material.",
+        "description": "A gemstone born from firmly stepping on the earth. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -2825,7 +2825,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Gemstone that glows ominously in response to the magic of succubi. Material.",
+        "description": "A gemstone that glows ominously in response to the magic of succubi. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 300,
@@ -2851,7 +2851,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Teeth for deliciously consuming humans and animals. Material.",
+        "description": "Teeth for savoring humans and animals deliciously. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 294,
@@ -2929,7 +2929,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Light feather with a faint sense of wind magic. Material.",
+        "description": "Light feathers that faintly sense the magic of wind. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 297,
@@ -2955,7 +2955,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Durable thread from a handcraft spider skilled in knitting. Material.",
+        "description": "Sturdy thread from a handcraft spider skilled in knitting. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 290,
@@ -2981,7 +2981,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Scales with a unique sheen. Material.",
+        "description": "Scales with a unique luster. Material.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 288,
@@ -3012,7 +3012,7 @@
         "hitType": 0,
         "iconIndex": 289,
         "itypeId": 1,
-        "name": "Fluffy Stuff",
+        "name": "Fluffy Fluff",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3059,7 +3059,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A very durable scroll written in a mysterious language material",
+        "description": "Durable scroll written in a mysterious language material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 296,
@@ -3085,7 +3085,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Powder that sticks and won't come off when mixed with water material",
+        "description": "Powder that becomes sticky and unremovable when mixed with water material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 304,
@@ -3111,7 +3111,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A material that's like a plant, like a stone, and like an animal",
+        "description": "Material that seems like a plant, a stone, and an animal all at once",
         "effects": [],
         "hitType": 0,
         "iconIndex": 316,
@@ -3137,7 +3137,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mysterious lump regurgitated by birds of prey material",
+        "description": "Mysterious mass regurgitated by birds of prey and such material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 299,
@@ -3163,12 +3163,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A stone that traps light and glows when split material",
+        "description": "Stone with the property of trapping light, glows when split material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
         "itypeId": 1,
-        "name": "Photon Capture Stone",
+        "name": "Photon Stone",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3189,7 +3189,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Shells that burn fiercely when crushed material",
+        "description": "Shell that burns fiercely when crushed material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 315,
@@ -3215,12 +3215,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A lump in which the lives of six people have been compressed inside a monster's\nstomach material",
+        "description": "Mass compressed from the lives of six people inside a monster's stomach material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 305,
         "itypeId": 1,
-        "name": "Six Souls Stone",
+        "name": "Six-Soul Stone",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3293,7 +3293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from human-attributed magical power material",
+        "description": "Crystallized human attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3319,7 +3319,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from evil-attributed magical power material",
+        "description": "Crystallized evil attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3345,7 +3345,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from beast-attributed magical power material",
+        "description": "Crystallized beast attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3371,7 +3371,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from water-attributed magical power material",
+        "description": "Crystallized water attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3397,7 +3397,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from wind-attributed magical power material",
+        "description": "Crystallized wind attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3423,7 +3423,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from insect-attributed magical power material",
+        "description": "Crystallized insect attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3449,7 +3449,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A crystal formed from grass-attributed magical power material",
+        "description": "Crystallized grass attribute magical power material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
@@ -3475,12 +3475,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A part that fell off something material",
+        "description": "Some part that fell off with a plop material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 301,
         "itypeId": 1,
-        "name": "Machinery Parts",
+        "name": "Mechanical Parts",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3532,7 +3532,7 @@
         "hitType": 0,
         "iconIndex": 294,
         "itypeId": 1,
-        "name": "Fox's Double Tooth",
+        "name": "Fox Fang",
         "note": "",
         "occasion": 3,
         "price": 200,
@@ -3553,12 +3553,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "An unofficial request written on origami paper. Adds a request to the guild's\ndesk",
+        "description": "Unofficial request written on origami paper, adds a request to the guild's desk",
         "effects": [],
         "hitType": 0,
         "iconIndex": 193,
         "itypeId": 2,
-        "name": "Paper Airplane Request Form",
+        "name": "Paper Airplane Request",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -5893,7 +5893,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Wings imbued with teleportation magic. Can return to base",
+        "description": "Wings imbued with teleportation magic, can return to base",
         "effects": [
             {
                 "code": 44,
@@ -5926,7 +5926,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A complete set of alchemy tools. Can perform alchemy anywhere",
+        "description": "Complete set of alchemy tools, can perform alchemy anywhere",
         "effects": [
             {
                 "code": 44,
@@ -5964,7 +5964,7 @@
         "hitType": 0,
         "iconIndex": 295,
         "itypeId": 1,
-        "name": "Large and Long Timber",
+        "name": "Large Long Timber",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -5985,7 +5985,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A small orb made by condensing Dream Island. Insert inside",
+        "description": "A small orb made by condensing Dream Island, insert inside",
         "effects": [],
         "hitType": 0,
         "iconIndex": 312,
@@ -6167,7 +6167,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Something is inside, but it's too hard to open",
+        "description": "Something is inside but it's too hard to open",
         "effects": [],
         "hitType": 0,
         "iconIndex": 306,
@@ -6193,7 +6193,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The locker key dropped by a nurse",
+        "description": "A locker key dropped by a nurse",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
@@ -6219,7 +6219,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A log that seems suitable as a catalyst for a ship event item",
+        "description": "A log that seems usable as a catalyst for a ship event item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 295,
@@ -6245,7 +6245,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A key for opening doors event item",
+        "description": "A key for opening a door event item",
         "effects": [],
         "hitType": 0,
         "iconIndex": 195,
@@ -6297,7 +6297,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A brooch with simple reflective magic. Temporarily prevents the erosion of\nmagical power from succubi",
+        "description": "A brooch with simple reflective magic, briefly protects against the erosion of\nmagic from succubi",
         "effects": [],
         "hitType": 0,
         "iconIndex": 147,
@@ -6349,7 +6349,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A seed that stores sound and releases it when it sprouts. Can record words and\nmusic",
+        "description": "A seed that stores sound and releases it when it sprouts, can record words and\nmusic",
         "effects": [],
         "hitType": 0,
         "iconIndex": 284,
@@ -6375,12 +6375,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A feather taken from Krilkril's Wing of Return. Adds Krilkril to the inn's Drain\nEvent",
+        "description": "A feather taken from Krilkril's Wing of Return, adds Krilkril to the inn's drain\nevent",
         "effects": [],
         "hitType": 0,
         "iconIndex": 225,
         "itypeId": 2,
-        "name": "Krilk's Feather",
+        "name": "Krilk Feather",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -6406,7 +6406,7 @@
         "hitType": 0,
         "iconIndex": 192,
         "itypeId": 2,
-        "name": "Peach-Colored Envelope",
+        "name": "Pink Envelope",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -6427,7 +6427,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A small bottle filled with a mysterious liquid. Effects unknown",
+        "description": "A small bottle filled with a mysterious liquid, effects unknown",
         "effects": [],
         "hitType": 0,
         "iconIndex": 179,
@@ -13733,7 +13733,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Peel the banana while shouting \"Chiquita!\" to eat it - Restores 5 HP",
+        "description": "Peel the banana while shouting \"Chiquita!\" to eat it and recover 5 HP",
         "effects": [
             {
                 "code": 12,
@@ -13766,7 +13766,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Add honey before drinking to counteract the loss of sweetness from fermentation\n- Restores 10 HP, +2 Bullets (100 steps)",
+        "description": "Add honey before drinking to prevent the sweetness from fading due to\nfermentation. Recovers 10 HP and adds 2 bullets (100 steps)",
         "effects": [
             {
                 "code": 12,
@@ -13805,7 +13805,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Beer made from wheat with a sweet banana-like scent - Restores 20 HP, +2 Bullets\n(100 steps)",
+        "description": "Beer made from wheat with a sweet smell like bananas. Recovers 20 HP and adds 2\nbullets (100 steps)",
         "effects": [
             {
                 "code": 12,
@@ -13844,7 +13844,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A drink sweetened with honey and lemon juice - Restores 15 HP, +2 Bullets (100\nsteps)",
+        "description": "A drink sweetened with honey and lemon juice. Recovers 15 HP and adds 2 bullets\n(100 steps)",
         "effects": [
             {
                 "code": 12,
@@ -21038,7 +21038,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "~Fragment of Dreams~",
+        "name": "~Fragments of Dreams~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -21059,7 +21059,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with one's own memories",
+        "description": "A fragment of a dream filled with one's own memories",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21085,7 +21085,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with the memories of a professional battling succubi",
+        "description": "A professional's dream fragment filled with battles against succubi",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21111,7 +21111,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with business know-how",
+        "description": "A dream fragment filled with business know-how",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21137,7 +21137,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with Charlotte's memories",
+        "description": "A dream fragment filled with Charlotte's memories",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21163,7 +21163,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with Alice's memories",
+        "description": "A dream fragment filled with Alice's memories",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21189,7 +21189,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with Riddle's memories",
+        "description": "A dream fragment filled with Riddle's memories",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21215,7 +21215,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with father's memories",
+        "description": "A dream fragment filled with father's memories",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21241,7 +21241,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with mother's memories",
+        "description": "A dream fragment filled with mother's memories",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21293,7 +21293,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with someone's trivial memories - Material",
+        "description": "A dream fragment filled with someone's trivial memories. Material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21319,7 +21319,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with someone's distorted memories - Material",
+        "description": "A dream fragment filled with someone's distorted memories. Material",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21345,7 +21345,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with someone's embarrassing memories - Material,\nincludes aphrodisiac poison",
+        "description": "A dream fragment filled with someone's embarrassing memories. Material. Infused\nwith aphrodisiac poison",
         "effects": [
             {
                 "code": 21,
@@ -21378,7 +21378,7 @@
             "type": 3,
             "variance": 0
         },
-        "description": "Fragments of dreams filled with someone's happy memories - Material, Attack UP,\nSkill UP, restores 500 Stamina",
+        "description": "A dream fragment filled with someone's happy memories. Material. Increases\nattack power and skill. Recovers 500 stamina",
         "effects": [
             {
                 "code": 21,
@@ -21411,7 +21411,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Fragments of dreams filled with someone's sad memories - Material, causes\nflinching, increases sensitivity",
+        "description": "A dream fragment filled with someone's sad memories. Material. Inflicts\nflinching and sensitivity",
         "effects": [
             {
                 "code": 21,
@@ -21450,7 +21450,7 @@
             "type": 1,
             "variance": 0
         },
-        "description": "Fragments of dreams filled with someone's angry memories - Material, deals 500\nfixed damage to succubi",
+        "description": "A dream fragment filled with someone's angry memories. Material. Deals 500 fixed\ndamage to succubi",
         "effects": [],
         "hitType": 0,
         "iconIndex": 87,
@@ -21554,7 +21554,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories of inexperience, lost upon having the real experience",
+        "description": "Memories of inexperience, lost upon having real intercourse",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
@@ -21585,7 +21585,7 @@
         "hitType": 0,
         "iconIndex": 0,
         "itypeId": 1,
-        "name": "~Memory of Defeat~",
+        "name": "~Memories of Defeat~",
         "note": "",
         "occasion": 0,
         "price": 0,
@@ -22048,12 +22048,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Lippu",
+        "description": "Memories of being drained by a Lip",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Lipp",
+        "name": "Memories of Defeat: Lip",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22074,12 +22074,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Hypno",
+        "description": "Memories of being drained by a Hypno",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Hypno",
+        "name": "Memories of Defeat: Hypno",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22100,12 +22100,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Slime",
+        "description": "Memories of being drained by a Slime",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Slime",
+        "name": "Memories of Defeat: Slime",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22126,12 +22126,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Sirene",
+        "description": "Memories of being drained by a Siren",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Sirene",
+        "name": "Memories of Defeat: Siren",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22152,12 +22152,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Witch",
+        "description": "Memories of being drained by a Witch",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Witch",
+        "name": "Memories of Defeat: Witch",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22178,12 +22178,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Elf",
+        "description": "Memories of being drained by an Elf",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Elf",
+        "name": "Memories of Defeat: Elf",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22204,12 +22204,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Octochan",
+        "description": "Memories of being drained by Tako-chan",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Tako-chan",
+        "name": "Memories of Defeat: Octochan",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22230,12 +22230,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Lamia",
+        "description": "Memories of being drained by a Lamia",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Lamia",
+        "name": "Memories of Defeat: Lamia",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22256,12 +22256,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Eratta",
+        "description": "Memories of being drained by an Eratta",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Eratta",
+        "name": "Memories of Defeat: Eratta",
         "note": "",
         "occasion": 3,
         "price": 0,
@@ -22282,12 +22282,12 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Memories drained by the Silky",
+        "description": "Memories of being drained by a Silky",
         "effects": [],
         "hitType": 0,
         "iconIndex": 84,
         "itypeId": 2,
-        "name": "Memory of Defeat: Silky",
+        "name": "Memories of Defeat: Silky",
         "note": "",
         "occasion": 3,
         "price": 0,

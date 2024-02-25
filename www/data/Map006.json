@@ -3875,7 +3875,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Female>Hm? What? You're on an investigation...? Asking if I\nrecognize this man?"
+                                "\\n<Female>Hm? What? You're asking if I recognize this man during an\ninvestigation...?"
                             ]
                         },
                         {
@@ -3921,7 +3921,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Female>Could be a ghost, right? Maybe he wanted to see his wife's\nface before passing on. The Mason couple were quite close,\nafter all."
+                                "\\n<Female>Maybe he's a ghost. Perhaps he wanted to see his wife's face\nbefore passing on? The Mason couple was quite close, after\nall."
                             ]
                         },
                         {
@@ -3948,7 +3948,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Female>Are you an adventurer? I haven't seen your face before. It's\nbetter for you not to approach the residential area.\nUnfamiliar faces are met with suspicion. You should stop\nhere."
+                                "\\n<Female>Are you an adventurer? I haven't seen your face before. It's\nbetter for your own good not to approach the residential\narea. Unfamiliar faces are met with suspicion. You should\nstop here."
                             ]
                         },
                         {
@@ -3965,7 +3965,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Female>If you're free, you might as well offer a prayer at the\nchurch. There might be some kind of blessing for you. Not\nthat I would know."
+                                "\\n<Female>If you have some free time, you might as well offer a prayer\nat the church. There might be some kind of blessing for you.\nNot that I would know."
                             ]
                         },
                         {
@@ -4057,7 +4057,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>Is it true that the sister was using necromancy? I can't\nimagine such a good child doing that. It must be a nasty\nrumor."
+                                "\\n<Female>Is it true that the sister was using necromancy? I can't\nimagine such a good child doing something like that. It must\nbe a nasty rumor."
                             ]
                         },
                         {
@@ -4074,7 +4074,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>Right now, whether it was the sister who put it up or\nsomeone else, we can't enter the church. With strange rumors\ngoing around, it must be hard to protect oneself."
+                                "\\n<Female>Right now, whether the sister put it up or someone else did,\nwe can't enter the church. With strange rumors going around,\nit must be hard to protect oneself."
                             ]
                         },
                         {
@@ -4156,7 +4156,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>It seems like it was just a nasty rumor that the sister was\nusing necromancy. I'm glad the church is back to normal."
+                                "\\n<Female>It seems like the nasty rumor about the Sister using\nnecromancy was just a malicious lie. I'm glad the church is\nback to normal."
                             ]
                         },
                         {
@@ -4641,7 +4641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A considerably powerful green barrier has been erected. It's\nlikely made with the power of wind magic. It seems it will\ntake some time to dispel..."
+                                "A considerably powerful green barrier has been cast. It's\nlikely made with the power of wind magic. It seems it will\ntake some time to dispel..."
                             ]
                         },
                         {
@@ -4846,7 +4846,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "A considerably powerful green barrier has been cast. It's\nlikely made with the power of wind magic. It seems it will\ntake time to dispel..."
+                                "A considerably powerful green barrier has been erected. It's\nlikely made with the power of wind magic. It seems it will\ntake some time to dispel..."
                             ]
                         },
                         {
@@ -5310,7 +5310,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They keep laughing to themselves... It's scary, so I should\nstay away."
+                                "They keep laughing to themselves... It's scary, so I'll make\nsure not to get too close."
                             ]
                         },
                         {
@@ -5469,7 +5469,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "It's the ancestor! They seem to be sleeping comfortably...\nLet's leave them be quietly."
+                                "It's the ancestor! They seem to be sleeping comfortably...\nlet's leave them be quietly."
                             ]
                         },
                         {

@@ -9453,7 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What's going on all of a sudden!! Hey! Rui! It's an\nattack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What's going on all of a sudden!! Hey! Katara! It's\nan attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -9479,7 +9479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Rui!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You too, protect the town!"
+                                "\\n<Dodon>Ahh!? Louie!? Not looking, huh! Maybe they're fighting\nsomewhere else! You too, protect the town!"
                             ]
                         },
                         {
@@ -9506,7 +9506,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Dodon>Ahh!? Ones!? Not looking, huh?! Maybe they're fighting\nsomewhere else! You too, protect the town!"
+                                "\\n<Dodon>Ahh!? Wanz!? Not looking, huh! Maybe they're fighting\nsomewhere else! You too, protect the town!"
                             ]
                         },
                         {
@@ -9678,7 +9678,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Succubus>\"Slurp♥ Slurrrrp♥ Are you going to die already? That's too\nquick-. Boring♥ Maybe I should cast a healing spell-.\""
+                                "\\n<Succubus>\"Slurp♥ Slurrrrp♥ Are you going to die already? That's too\nquick-. Boring♥ Should I cast a healing spell on you-?\""
                             ]
                         },
                         {
@@ -9755,7 +9755,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Succubus>\"Slurp♥ Slurrrrp♥ This one's so tasty♥ Even though you're\nquick to cum♥\""
+                                "\\n<Succubus>*slurp*♥ *slurrrrp*♥ This one's so tasty♥ Even though you're\nquick to cum♥"
                             ]
                         },
                         {
@@ -10355,7 +10355,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Lady Terra, you look beautiful as always. The contrast with\nthis town makes you shine even brighter♥ Like a goddess."
+                                "\\n<Latier>Lady Terra, you are as beautiful as ever today. Against the\nbackdrop of this town, you shine even brighter♥ Like a\ngoddess."
                             ]
                         },
                         {
@@ -10673,7 +10673,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Barley>...(I wonder if all the audience members will die too. Well,\nit doesn't matter.)"
+                                "\\n<Barley>...(I wonder if all the spectators will die too. Well, it\ndoesn't matter.)"
                             ]
                         },
                         {
@@ -11192,7 +11192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Rui! The town's in chaos! We've evacuated everyone who can't\nfight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden?!"
                             ]
                         },
                         {
@@ -11535,7 +11535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! Rui, go around the town! Help everyone...!"
+                                "\\n<Ladro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! Katara, go around the town! Help everyone...!"
                             ]
                         },
                         {
@@ -11568,7 +11568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>But don't do anything reckless...! If something happens to\nRui... I...! If you think it's dangerous, escape!"
+                                "\\n<Ladro>But don't do anything reckless...! If something happens to\nKatara... I...! If you think it's dangerous, escape!"
                             ]
                         },
                         {
@@ -11659,7 +11659,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Female>You're an adventurer, right? Please, I'm counting on you to\nprotect the town. Defeat the monsters for us."
+                                "\\n<Female>You're an adventurer, right? Please, I'm counting on you to\nprotect the town and defeat the monsters."
                             ]
                         },
                         {
@@ -11858,7 +11858,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>Ugh...! I'm weak against these sudden attacks! I'm the type\nwho needs to prepare thoroughly!"
+                                "\\n<Rintei>Ugh...! I'm weak against such sudden attacks! I'm the type\nwho needs to prepare thoroughly!"
                             ]
                         },
                         {
@@ -11875,7 +11875,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Lintei>But I can't afford to lose! Lynx, Cunes... lend me your\nstrength...!"
+                                "\\n<Rintei>But I can't afford to lose! Lynx, Cunes... lend me your\nstrength...!"
                             ]
                         },
                         {
@@ -12845,7 +12845,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>I can fight too, you know! Idiot, idiot, idiot! Get out of\nhere!!"
+                                "\\n<Seibel>I can fight too, you know! Idiot, idiot, idiot! Get away!!"
                             ]
                         },
                         {
@@ -12949,7 +12949,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>Ha! I did it! Serves you right! Loser, loser!"
+                                "\\n<Seibel>Ha! I did it! Serves you right! Loser, loser!"
                             ]
                         },
                         {
@@ -13023,7 +13023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Siebel>Seconds!?"
+                                "\\n<Seibel>Seconds!?"
                             ]
                         },
                         {
@@ -13309,7 +13309,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soldier>No, you can't pass! I cannot allow you through here! This is\nan order! If you don't leave, I'll have no choice but to cut\nyou down!"
+                                "\\n<Soldier>No, you can't pass! I cannot allow it! This is an order! If\nyou don't leave this place, I'll have to cut you down!"
                             ]
                         },
                         {
@@ -13417,7 +13417,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Tanuki Beastman>Hmm, oh! A cat beastperson. I'm currently avoiding danger by\ndisguising myself as trash. Pretty smart, huh?"
+                                "\\n<Tanuki Beastman>Mmm, oh! A cat beastman. I'm currently avoiding danger by\ndisguising myself as trash. Pretty smart, huh."
                             ]
                         },
                         {
@@ -13434,7 +13434,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Tanuki Beastman>Huh? I'm not disguised? You're kidding... Oh, it's true.\nWell, whatever. When it's time to die, I'll die."
+                                "\\n<Tanuki Beastman>Huh? Not disguised? You're kidding... Oh, really. Well, it's\nfine. When it's time to die, I'll die."
                             ]
                         },
                         {
@@ -13580,7 +13580,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>Young Lady! Thank goodness...! I'm so relieved you're\nsafe...!!"
+                                "\\n<Grandpa>Miss! Thank goodness...! I'm so relieved you're safe...!!"
                             ]
                         },
                         {
@@ -13606,7 +13606,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>What!? The young master is missing!? That can't be...!"
+                                "\\n<Grandpa>What!? The young master is missing!? That can't be...!"
                             ]
                         },
                         {
@@ -13633,7 +13633,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>Young Master! Thank goodness...! I'm so relieved you're\nsafe...!!"
+                                "\\n<Grandpa>Young master! Thank goodness...! I'm so relieved you're\nsafe...!!"
                             ]
                         },
                         {
@@ -13659,7 +13659,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>What!? The young lady is nowhere to be seen...!? That can't\nbe...!"
+                                "\\n<Grandpa>What!? The young lady is nowhere to be seen...!? That can't\nbe...!"
                             ]
                         },
                         {
@@ -13686,7 +13686,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>Perhaps they noticed the approach of the monsters early on.\nIf that's the case, they might be fighting to the south."
+                                "\\n<Grandpa>Perhaps they noticed the approach of the monsters early on.\nIf that's the case, they might be fighting to the south."
                             ]
                         },
                         {
@@ -13712,7 +13712,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>When I jumped down from the noble district, I injured my\nleg... I'm sorry. If only I had secured a lodging here..."
+                                "\\n<Grandpa>I injured my leg when I jumped down from the noble\ndistrict... I'm sorry. If only I had secured a room here..."
                             ]
                         },
                         {
@@ -13745,7 +13745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Thanks, old man. You go hide somewhere safe now! Leave the\nrest to me."
+                                "\\n<Katara>Thanks, Grandpa. You hide in a safe place now! Leave the\nrest to me."
                             ]
                         },
                         {
@@ -13779,7 +13779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rui>Thank you! Old man! Now please evacuate to a safe place! I\nwill definitely find Ones...!"
+                                "\\n<Katara>Thank you, Grandpa! Now, please evacuate to a safe place! I\nwill find Wanz...! Definitely!"
                             ]
                         },
                         {
@@ -13821,7 +13821,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>Please take care. But don't push yourself too hard..."
+                                "\\n<Grandpa>Please take care. But don't push yourself too hard..."
                             ]
                         },
                         {
@@ -13903,7 +13903,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Old Man>I will evacuate the injured and those who have fallen behind\nto the orphanage."
+                                "\\n<Grandpa>I will evacuate the injured and those who have fallen behind\nto the orphanage."
                             ]
                         },
                         {
@@ -13929,7 +13929,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>The monsters are attacking from the south! Please take care\nof the young master...! But do not overexert yourself!\nHeal...!"
+                                "\\n<Grandpa>The monsters are attacking from the south! Please take care\nof the young master...! But please, don't overdo it!\nHeal...!"
                             ]
                         },
                         {
@@ -13956,7 +13956,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Old Man>The monsters are attacking from the south! Please take care\nof the young lady...! But do not overexert yourself!\nHeal...!"
+                                "\\n<Grandpa>The monsters are attacking from the south! Please take care\nof the young lady...! But please, don't overdo it! Heal...!"
                             ]
                         },
                         {
@@ -17400,7 +17400,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Please proceed when you're ready. (Returning to the inn will\nrespawn the minions.)"
+                                "Please proceed when you think you're ready. (Returning to\nthe inn will respawn the minions.)"
                             ]
                         },
                         {
@@ -17807,7 +17807,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Look at that! A succubus's meal. Fufufu♥ Just from a\nblowjob, the man is withering away. It's my first time\nseeing this♥"
+                                "\\n<Bijou>Look at that! A succubus's meal. Hehehe♥ Just from a\nblowjob, the man is withering away. It's my first time\nseeing this♥"
                             ]
                         },
                         {
@@ -17873,7 +17873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>This town is finished, isn't it. Ahahaha! I'll make my\nescape when the time is right. If you value your life, Rui,\nyou should run too."
+                                "\\n<Bijou>This town is finished, isn't it? Ahahaha! I'll make my\nescape when the time is right. If you value your life,\nKatara, you should run too."
                             ]
                         },
                         {
@@ -17897,7 +17897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "They seem a bit drunk. If they were sober, they might be a\nbit of help in a fight... No, maybe not. Let's just leave\nthem be."
+                                "They seem a bit drunk. If they were sober, they might be a\nbit of help in a fight... no, maybe not. Let's just leave\nthem be."
                             ]
                         },
                         {
@@ -17995,7 +17995,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>One after another...! What's with these bears!! They're more\nferocious than the usual War Bears!!"
+                                "\\n<Dodon>One after another...! What's with these bears!! They're more\nferocious than the usual War-Bears!!"
                             ]
                         },
                         {
@@ -18012,7 +18012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Haah...! Haah...! Hurry up and drop dead! This is turning\ninto a damn workout!"
+                                "\\n<Dodon>Hah...! Hah...! Hurry up and drop dead! This is turning into\na damn workout!"
                             ]
                         },
                         {
@@ -18152,7 +18152,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Monster>Guaaaaaaahhhhh!!!"
+                                "\\n<Monster>Guaaaaaaaahhh!!!"
                             ]
                         },
                         {

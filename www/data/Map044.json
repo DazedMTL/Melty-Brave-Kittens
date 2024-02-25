@@ -5075,7 +5075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Got you♥ Lick...♥ Being licked here makes you lose your\nstrength, doesn't it?♥ Slurp...♥"
+                                "\\n<[Enemysuccubus]>Got you♥ Lick...♥ Being licked here makes you lose your\nstrength, doesn't it?♥ Slurp...♥"
                             ]
                         },
                         {
@@ -5143,7 +5143,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Ah♥ Lick, lick...♥ Are you about to reach climax? Hehe♥\nYou're getting excited even in this situation, huh?♥\nGiggles♥"
+                                "\\n<[Enemysuccubus]>Ah♥ Lick, lick...♥ Are you about to reach climax soon? Hehe♥\nYou're getting excited in such a situation? Giggle♥"
                             ]
                         },
                         {
@@ -5167,7 +5167,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<\\n[3]>Kyaa♥ It's spurting out♥ Your legs are trembling♥ But you\ncan't fall just yet, okay?"
+                                "\\n<[Enemysuccubus]>Kyaa♥ It's spurting out♥ Your legs are trembling♥ But you\ncan't fall just yet, okay?"
                             ]
                         },
                         {
@@ -5888,14 +5888,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "One-Way Shot Event Bullet Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Fire"
+                                "Aim at Me, Fire Directly"
                             ]
                         },
                         {
@@ -6356,14 +6356,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "One-Way Shot Event Bullet Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Shot"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
@@ -8439,14 +8439,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "nwayShot Event Bullet Fired"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Direct Fire"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
@@ -9977,7 +9977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If either your energy or health reaches 0 from the enemy's\nattacks, you will be defeated. Generally, ranged attacks\nwill decrease your health, and contact will decrease your\nenergy."
+                                "If either your energy or health reaches zero from the\nenemy's attacks, you will be defeated. Generally, ranged\nattacks decrease health, and contact decreases energy."
                             ]
                         },
                         {
@@ -9994,7 +9994,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let me show you the timing bar."
+                                "When you come into contact with the enemy, you'll be held\nand continue to take damage until you succeed at the timing\nbar. Let's try out the timing bar."
                             ]
                         },
                         {
@@ -10035,7 +10035,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, taking damage to your energy from the enemy\nwill put you in a [Color_14]state of arousal\\C[0], reducing\nthe number of slashes during your attacks. A heart mark will\nappear on your status while you are aroused."
+                                "Furthermore, taking damage to your energy from the enemy\nwill put you in a \\C[14]state of arousal\\C[0], reducing the\nnumber of slashes during your attack. A heart mark will\nappear on your status during arousal."
                             ]
                         },
                         {
@@ -10052,7 +10052,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Arousal can be removed by walking around a certain number of\nsteps. It can also be removed if you achieve a critical to\nshake off the enemy. If possible, try to stop on red to\nremove arousal."
+                                "Arousal can be removed by walking around a set number of\nsteps. It can also be removed by achieving a critical to\nshake off the enemy. If possible, aim to stop on red."
                             ]
                         },
                         {
@@ -10089,7 +10089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on dodging first to learn them."
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. Focus on avoiding them first to learn them."
                             ]
                         },
                         {
@@ -10106,7 +10106,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and dodge. Attacking\nwhile moving backwards can make the fight easier."
+                                "Make use of the D key's direction lock. Locking your\ndirection makes it easier to attack and evade. Attacking\nwhile retreating can make the battle easier."
                             ]
                         },
                         {
@@ -10123,7 +10123,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Use healing items and skills. There are no usage limits for\nhealing items and skills (like deep breathing). You can heal\nand push through with brute force if necessary."
+                                "Use healing items and skills. There are no usage limits for\nhealing items and skills (such as deep breaths). It's\npossible to heal and push through aggressively."
                             ]
                         },
                         {
@@ -10140,7 +10140,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Utilize Action Ease. Turning on Action Ease from the options\nwill significantly lower the difficulty level. There are no\ndownsides to this."
+                                "Use the Action Easer option. Turning on the Action Easer\nfrom the options will significantly lower the difficulty\nlevel. There are no disadvantages."
                             ]
                         },
                         {
@@ -10805,7 +10805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...uh...ah...♥"
+                                "\\n<[Enemysuccubus]>Ah...uh...ah...♥"
                             ]
                         },
                         {
@@ -11608,7 +11608,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...uh...ah...♥"
+                                "\\n<[Enemysuccubus]>Ah...uh...ah...♥"
                             ]
                         },
                         {
@@ -12270,7 +12270,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Special 206 (Individual Attack Type)"
+                                "Special 206 (Individual Attack Types)"
                             ]
                         },
                         {
@@ -12647,7 +12647,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ugh...♥ Ah...♥ Aah...♥"
+                                "\\n<[Enemy Succubus]>Ugh...♥ Ah...♥ Ahh...♥"
                             ]
                         },
                         {
@@ -12739,7 +12739,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Soel>You did well♥ Thank you. Now, continue to milk it for me♥"
+                                "\\n<Soel>Well done♥ Thank you. Now, continue to milk it for all it's\nworth♥"
                             ]
                         },
                         {
@@ -13565,7 +13565,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ugh...♥ Ah...♥ Aah...♥"
+                                "\\n<[Enemy Succubus]>Ugh...♥ Ah...♥ Ahh...♥"
                             ]
                         },
                         {
@@ -13657,7 +13657,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Soel>You've done well♥ Thank you. Now, continue to milk me dry♥"
+                                "\\n<Soel>You did well♥ Thank you. Now, continue to milk me dry♥"
                             ]
                         },
                         {
@@ -14324,7 +14324,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "6 Temptations, 7 Delicacies"
+                                "6 Temptations 7 Foods"
                             ]
                         },
                         {
@@ -14693,7 +14693,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...♥ slurp♥ slurp♥ *suck*♥ *slurping noises*♥"
+                                "\\n<[Enemysuccubus]>Ah...♥ slurp♥ slurp♥ *suck*♥ slurrrrrrr♥"
                             ]
                         },
                         {
@@ -14770,7 +14770,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Soel>That child is very hungry♥ Please feed them plenty♥"
+                                "\\n<Soel>That child has a voracious appetite♥ Please feed them\nplenty♥"
                             ]
                         },
                         {
@@ -15581,7 +15581,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<\\n[3]>Ah...♥ slurp♥ slurp♥ *suck*♥ slurping sounds♥"
+                                "\\n<Enemy Succubus>Ahh...♥ slurp♥ slurp♥ *suck*♥ *slurping noises*♥"
                             ]
                         },
                         {
@@ -15658,7 +15658,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Soel>That child is very hungry♥ Please feed them plenty♥"
+                                "\\n<Soel>This child has a voracious appetite♥ Please feed them\nplenty♥"
                             ]
                         },
                         {
@@ -16339,7 +16339,7 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "1 Apple 2 Plates 3 Eggs"
+                                "1 Apple, 2 Plates, 3 Eggs"
                             ]
                         },
                         {

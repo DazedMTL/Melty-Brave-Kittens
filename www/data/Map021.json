@@ -7808,7 +7808,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>What's with this brat! So strong! I can't take this anymore!\nAh, I'm already tired! Good work!"
+                                "\\n<Sheika>What's with this brat! So strong! I can't deal with this\nanymore! Ah, I'm already tired! Good game!"
                             ]
                         },
                         {
@@ -8074,21 +8074,21 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "One-Way Shot Event Bullet Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Narrow Aim Self-Targeting Shot"
+                                "Aimed Shot at Player's Craft"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "All-Directional Discharge"
+                                "All-Directional Barrage"
                             ]
                         },
                         {
@@ -8551,14 +8551,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Multi-Way Shot Event Fired"
+                                "Multi-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Aimed Shot at Player's Position"
+                                "Aimed Shot at Player's Vessel"
                             ]
                         },
                         {
@@ -11771,7 +11771,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding the D key, you can\nmove while keeping your direction fixed."
+                                "This is an action RPG boss battle. Avoid the enemy's attacks\nand attack with the A key. While holding the D key, you can\nmove while fixing your direction."
                             ]
                         },
                         {
@@ -11788,7 +11788,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If either your energy or health reaches zero from the\nenemy's attacks, you will be defeated. In the case of a\nseduction attack, a timing bar will be displayed."
+                                "If either your stamina or health reaches 0 from the enemy's\nattacks, you will be defeated. In case of a seduction\nattack, a timing bar will be displayed."
                             ]
                         },
                         {
@@ -11805,7 +11805,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Furthermore, if you take damage to your energy from the\nenemy, you will enter a \\C[14]state of arousal\\C[0], and the\nnumber of slashes during your attack will decrease. A heart\nmark will appear on your status while you are aroused."
+                                "Furthermore, if you take damage to your stamina from the\nenemy, you will enter a \\C[14]state of arousal\\C[0], which\nreduces the number of slashes during your attacks. A heart\nmark ♡ will appear on your status while you are aroused."
                             ]
                         },
                         {
@@ -11859,7 +11859,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. First, focus on avoiding them to learn the\npatterns."
+                                "Learn the enemy's attack patterns. The enemy's attacks have\npatterns. First, focus on avoiding them to learn."
                             ]
                         },
                         {
@@ -11910,7 +11910,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Use the Action Easer option. Turning on the Action Easer\nfrom the options will significantly lower the difficulty\nlevel. There are no disadvantages."
+                                "Use the Action Easer option. By turning on the Action Easer\nfrom the options, the difficulty level will significantly\ndecrease. There are no disadvantages."
                             ]
                         },
                         {
@@ -13137,7 +13137,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>*pant*... *pant*... I'm at my limit... need a break..."
+                                "\\n<Barley>*pant*...*pant*...I'm at my limit...need a break..."
                             ]
                         },
                         {
@@ -13430,14 +13430,14 @@
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "4-Way Shot Event Fired"
+                                "One-Way Shot Event Bullet Fired"
                             ]
                         },
                         {
                             "code": 408,
                             "indent": 0,
                             "parameters": [
-                                "Aimed Shot at Player's Craft"
+                                "Aim at Me, Fire Directly"
                             ]
                         },
                         {
@@ -19482,7 +19482,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>Ugh... so boring! Seriously, I can't anymore. I'm gonna die."
+                                "\\n<Sheika>Ugh... So boring! Seriously, I can't anymore. I'm gonna die."
                             ]
                         },
                         {
@@ -19630,7 +19630,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>What do you think a succubus would do? Seduction is\nobviously the go-to move!"
+                                "\\n<Sheika>What do you think a succubus would do? It's obviously\nseduction!"
                             ]
                         },
                         {
@@ -19786,7 +19786,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>Come on★ I'll make you feel good, so come here. Alright?\nI'll give you a titjob. You've been staring this whole time,\nhaven't you?"
+                                "\\n<Sheika>Come on over here, and I'll make you feel good. How about a\ntitjob? You've been staring the whole time, haven't you?"
                             ]
                         },
                         {
@@ -19803,7 +19803,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>If you get sandwiched between our boobs...♥ it's amazing♥\nJust a little rub and you'll be spurting non-stop♥"
+                                "\\n<Barley>If you get sandwiched between our breasts...♥ It's amazing♥\nJust a little rub and you'll be cumming non-stop♥"
                             ]
                         },
                         {
@@ -19820,7 +19820,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>You're the stronger one, so don't be scared. Let's start\nwith feeling good and think later★ Wanna do something\nerotic, right?"
+                                "\\n<Sheika>You're the stronger one, so don't be scared. Let's start\nwith feeling good and think later★ Wanna do something\nerotic?"
                             ]
                         },
                         {
@@ -19837,7 +19837,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>If you defeat us, you'll have to go back all horny, right?\nWondering what kind of titjob it was, without ever knowing\nfor the rest of your life♥"
+                                "\\n<Barley>If you defeat us, you'll have to go back all horny, right?\nWondering what kind of titjob it was for the rest of your\nlife♥"
                             ]
                         },
                         {
@@ -19907,7 +19907,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>Look★ You're getting hard★ It's totally stiff now★ Hehehe★\nDon't hold back★"
+                                "\\n<Sheika>Look, you're getting hard★ It's totally stiff now★ Hehehe★\nDon't hold back★"
                             ]
                         },
                         {
@@ -19931,7 +19931,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>Come here, come here♥ Just a little more forward♥ Just open\nyour heart♥"
+                                "\\n<Barley>Come here, come here♥ Just a little bit more forward♥ Just\nopen your heart♥"
                             ]
                         },
                         {
@@ -19955,7 +19955,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sheika>You want to be squished by four boobs until you're crushed,\ndon't you? Let's stop fighting★ Let's make up with a titjob★"
+                                "\\n<Sheika>You want to be crushed by four boobs, don't you? Let's stop\nfighting★ Let's make up with a titjob★"
                             ]
                         },
                         {
@@ -19979,7 +19979,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Barley>So heavy and soft♥ You'll forget about everything else with\nthese boobs♥ Come on♥ Come here...♥"
+                                "\\n<Barley>So heavy and soft♥ You'll forget about everything else with\nthese breasts♥ Come on♥ Come here...♥"
                             ]
                         },
                         {
@@ -20413,7 +20413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>I've decided. I'm going to milk you dry and then use your\nflimsy skin to make a shamisen."
+                                "\\n<Sheika>That settles it. I'm going to milk you dry and then make a\nshamisen out of your skin."
                             ]
                         },
                         {
@@ -20465,7 +20465,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>I'll sing the Deigo flower song for you! Remember that!"
+                                "\\n<Sheika>I'll sing the Deigo flower song for you! Remember it!"
                             ]
                         },
                         {
