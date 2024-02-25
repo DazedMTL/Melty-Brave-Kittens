@@ -11204,7 +11204,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>\"Ah, sorry!\""
+                                "\\n<\\n[1]>\"Ah, sorry!\""
                             ]
                         },
                         {
@@ -12623,7 +12623,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>\"No, there's a lot of circumstances to this...\""
+                                "\\n<\\n[1]>\"No, there's a lot of circumstances to this...\""
                             ]
                         },
                         {
@@ -13075,7 +13075,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Thief>\"Like hell I can deal with this!! Katara! Louie! Let's go!\""
+                                "\\n<Thief>\"Like hell I can deal with this!! \\n[1]! Louie! Let's go!\""
                             ]
                         },
                         {
@@ -13102,7 +13102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Thief>\"Like hell I can deal with this!! Katara! Wanz! Let's go!\""
+                                "\\n<Thief>\"Like hell I can deal with this!! \\n[1]! Wanz! Let's go!\""
                             ]
                         },
                         {
@@ -13556,7 +13556,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I want to eat the pancakes that Jiiya baked..."
+                                "\\n<\\n[1]>I want to eat the pancakes that Jiiya baked..."
                             ]
                         },
                         {
@@ -13590,7 +13590,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(Is it okay though? The premium bread boom seems to be\nending...)"
+                                "\\n<\\n[1]>(Is it okay though? The premium bread boom seems to be\nending...)"
                             ]
                         },
                         {

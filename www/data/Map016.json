@@ -4972,7 +4972,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Hm, so this is your so-called secret base? A warehouse?"
+                                "\\n<\\n[1]>Hm, so this is your so-called secret base? A warehouse?"
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Hm, so this is your hideout, huh? Looks like a warehouse."
+                                "\\n<\\n[1]>Hm, so this is your hideout, huh? Looks like a warehouse."
                             ]
                         },
                         {
@@ -5167,7 +5167,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Wait... huh? (Katara?!)"
+                                "\\n<Ladro>Wait... huh? (\\n[1]?!)"
                             ]
                         },
                         {
@@ -5209,7 +5209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>What do you say at times like this? Forgive me! No, not\nthat... be remorseful... right?"
+                                "\\n<\\n[1]>What do you say at times like this? Forgive me! No, not\nthat... be remorseful... right?"
                             ]
                         },
                         {
@@ -5236,7 +5236,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>You shouldn't lick a cat's paw. Besides, I have the blessing\nof the wind. When it comes to racing, I won't lose to\nanyone."
+                                "\\n<\\n[1]>You shouldn't lick a cat's paw. Besides, I have the blessing\nof the wind. When it comes to racing, I won't lose to\nanyone."
                             ]
                         },
                         {
@@ -6182,7 +6182,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Nya... what are you doing...?"
+                                "\\n<\\n[1]>Nya... what are you doing...?"
                             ]
                         },
                         {
@@ -6209,7 +6209,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Hey... what are you doing...!"
+                                "\\n<\\n[1]>Hey... what are you doing...!"
                             ]
                         },
                         {
@@ -6297,7 +6297,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ladro>...(Huh? What's that? It's getting bigger? Is Katara... a\nfutanari?)"
+                                "\\n<Ladro>...(Huh? What's that? It's getting bigger? Is \\n[1]... a\nfutanari?)"
                             ]
                         },
                         {

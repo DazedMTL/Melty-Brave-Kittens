@@ -4879,7 +4879,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Katara...! What's the situation in town?"
+                                "\\n<Guild Master>\\n[1]...! What's the situation in town?"
                             ]
                         },
                         {
@@ -5261,7 +5261,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>This is a Howlstone. You know about it, right Katara? It was\ncertainly glowing yellow. But..."
+                                "\\n<Guild Master>This is a Howlstone. You know about it, right \\n[1]? It was\ncertainly glowing yellow. But..."
                             ]
                         },
                         {
@@ -5643,7 +5643,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>The power of wind... I might be able to do it. I'll try!"
+                                "\\n<\\n[1]>The power of wind... I might be able to do it. I'll try!"
                             ]
                         },
                         {
@@ -5897,7 +5897,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>I did it... hah... hah... but this might not hold for very\nlong..."
+                                "\\n<\\n[1]>I did it... hah... hah... but this might not hold for very\nlong..."
                             ]
                         },
                         {
@@ -6015,7 +6015,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Grandpa>...For now, let's have Katara, who can cast barriers, hold\nonto it. By sealing its ominous power, the monsters should\nbecome a bit more subdued."
+                                "\\n<Grandpa>...For now, let's have \\n[1], who can cast barriers, hold\nonto it. By sealing its ominous power, the monsters should\nbecome a bit more subdued."
                             ]
                         },
                         {
@@ -6348,7 +6348,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Katara...! What's the situation in town?"
+                                "\\n<Guild Master>\\n[1]...! What's the situation in town?"
                             ]
                         },
                         {
@@ -6989,7 +6989,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Forget about that! Just give it to the monsters already...!"
+                                "\\n<\\n[1]>Forget about that! Just give it to the monsters already...!"
                             ]
                         },
                         {
@@ -7079,7 +7079,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Wind magic... I might be able to do it. I'll try!"
+                                "\\n<\\n[1]>Wind magic... I might be able to do it. I'll try!"
                             ]
                         },
                         {
@@ -7371,7 +7371,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>I did it! Haah... haah... But this might not last very long.\nBarrier magic isn't my specialty..."
+                                "\\n<\\n[1]>I did it! Haah... haah... But this might not last very long.\nBarrier magic isn't my specialty..."
                             ]
                         },
                         {
@@ -7451,7 +7451,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Wait! You mean to take this to the nobles' district...!?\nThat's not right!"
+                                "\\n<\\n[1]>Wait! You mean to take this to the nobles' district...!?\nThat's not right!"
                             ]
                         },
                         {
@@ -8873,7 +8873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Katara...! Cut this one down...♥ Ki...♥ Ahh ahh♥"
+                                "\\n<Guild Master>\\n[1]...! Cut this one down...♥ Ki...♥ Ahh ahh♥"
                             ]
                         },
                         {
@@ -8981,7 +8981,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Katara. You're not going to cut me down? I'm defenseless\nright now. Fufu♥"
+                                "\\n<Terra>\\n[1]. You're not going to cut me down? I'm defenseless\nright now. Fufu♥"
                             ]
                         },
                         {
@@ -9016,7 +9016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ugh... uwaaaaaaaahhhhhhhhhh!!!"
+                                "\\n<\\n[1]>Ugh... uwaaaaaaaahhhhhhhhhh!!!"
                             ]
                         },
                         {
@@ -9239,7 +9239,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Ah... guh...♥ Haah...♥ Haah...♥ Katara... sorry... I owe you\none...!"
+                                "\\n<Guild Master>Ah... guh...♥ Haah...♥ Haah...♥ \\n[1]... sorry... I owe you\none...!"
                             ]
                         },
                         {
@@ -9294,7 +9294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Phew... phew... (That was close! My legs were frozen; I\ncouldn't move...! This one's... strong!!)"
+                                "\\n<\\n[1]>Phew... phew... (That was close! My legs were frozen; I\ncouldn't move...! This one's... strong!!)"
                             ]
                         },
                         {
@@ -9391,7 +9391,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Master! Run away! (Damn it, what should I do...!)"
+                                "\\n<\\n[1]>Master! Run away! (Damn it, what should I do...!)"
                             ]
                         },
                         {
@@ -9424,7 +9424,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Katara...! My bad! Don't die on me!"
+                                "\\n<Guild Master>\\n[1]...! My bad! Don't die on me!"
                             ]
                         },
                         {
@@ -9766,7 +9766,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Katara... run..."
+                                "\\n<Guild Master>\\n[1]... run..."
                             ]
                         },
                         {
@@ -10104,7 +10104,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Louie...!? Where is Louie!! (Was that strange hallucination\nearlier also this one's doing!? )"
+                                "\\n<\\n[1]>Louie...!? Where is Louie!! (Was that strange hallucination\nearlier also this one's doing!? )"
                             ]
                         },
                         {
@@ -10187,7 +10187,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Wanz...!? What have you done to Wanz...!?"
+                                "\\n<\\n[1]>Wanz...!? What have you done to Wanz...!?"
                             ]
                         },
                         {
@@ -10460,7 +10460,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...! (Huh? My body's shrinking...! Minimum! No, no way... I\ncan't win like this...)"
+                                "\\n<\\n[1]>...! (Huh? My body's shrinking...! Minimum! No, no way... I\ncan't win like this...)"
                             ]
                         },
                         {
@@ -10484,7 +10484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>(I-I have to escape...! Master, I'm sorry! I couldn't move\nagain...! But at least Louie...!)"
+                                "\\n<\\n[1]>(I-I have to escape...! Master, I'm sorry! I couldn't move\nagain...! But at least Louie...!)"
                             ]
                         },
                         {
@@ -10518,7 +10518,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...! (My body's shrinking...! Minimum...! There's no way I\ncan win like this...)"
+                                "\\n<\\n[1]>...! (My body's shrinking...! Minimum...! There's no way I\ncan win like this...)"
                             ]
                         },
                         {
@@ -10542,7 +10542,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>(I have to escape! Ah, my legs can move again...! Master...\nI couldn't be saved again... But at least Wanz...!)"
+                                "\\n<\\n[1]>(I have to escape! Ah, my legs can move again...! Master...\nI couldn't be saved again... But at least Wanz...!)"
                             ]
                         },
                         {
@@ -10595,7 +10595,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...! (Huh? My body's shrinking...! Minimum! If I hadn't used\nmy magic power for the barrier spell, this would be nothing\nto me!)"
+                                "\\n<\\n[1]>...! (Huh? My body's shrinking...! Minimum! If I hadn't used\nmy magic power for the barrier spell, this would be nothing\nto me!)"
                             ]
                         },
                         {
@@ -10619,7 +10619,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...(But maybe this size is just right for escaping? I am a\ncat after all! If I run, no one should be able to catch up!)"
+                                "\\n<\\n[1]>...(But maybe this size is just right for escaping? I am a\ncat after all! If I run, no one should be able to catch up!)"
                             ]
                         },
                         {
@@ -10653,7 +10653,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...! (My body's shrinking...! Minimum...! If it weren't for\nthe magic power I used on that barrier spell earlier, this\nwould be nothing...)"
+                                "\\n<\\n[1]>...! (My body's shrinking...! Minimum...! If it weren't for\nthe magic power I used on that barrier spell earlier, this\nwould be nothing...)"
                             ]
                         },
                         {
@@ -10677,7 +10677,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...(The only thing to do is run around and recover my magic\npower. Even if I'm small, I'm still a cat! Being hard to\ncatch might be an advantage!)"
+                                "\\n<\\n[1]>...(The only thing to do is run around and recover my magic\npower. Even if I'm small, I'm still a cat! Being hard to\ncatch might be an advantage!)"
                             ]
                         },
                         {
@@ -10827,7 +10827,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\n<Terra>\"A beast person cat named Katara escaped even with Minimum\ncast on them. An interesting child with unique magic power.\nFirst come, first served.\" \\C[0]"
+                                "\\C[14]\\n<Terra>\"A beast person cat named \\n[1] escaped even with Minimum\ncast on them. An interesting child with unique magic power.\nFirst come, first served.\" \\C[0]"
                             ]
                         },
                         {

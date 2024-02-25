@@ -10641,7 +10641,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Where is Louie Sham!!"
+                                "\\n<\\n[1]>Where is Louie Sham!!"
                             ]
                         },
                         {
@@ -10675,7 +10675,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Where is Wanz Warth!!"
+                                "\\n<\\n[1]>Where is Wanz Warth!!"
                             ]
                         },
                         {
@@ -10768,7 +10768,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Katara... Have you returned to your senses already?\nImpressive. Just as I expected."
+                                "\\n<Terra>\\n[1]... Have you returned to your senses already?\nImpressive. Just as I expected."
                             ]
                         },
                         {
@@ -11234,7 +11234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ugh... Ah...♥ (This is unprecedented...! I must keep my\nsanity...!)"
+                                "\\n<\\n[1]>Ugh... Ah...♥ (This is unprecedented...! I must keep my\nsanity...!)"
                             ]
                         },
                         {
@@ -11268,7 +11268,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah... Ah...♥ (What is this...♥ My sanity is...♥ I need to\ncalm down...!)"
+                                "\\n<\\n[1]>Ah... Ah...♥ (What is this...♥ My sanity is...♥ I need to\ncalm down...!)"
                             ]
                         },
                         {
@@ -11433,7 +11433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Terra...! I will... defeat you...!!"
+                                "\\n<\\n[1]>Terra...! I will... defeat you...!!"
                             ]
                         },
                         {
@@ -11507,7 +11507,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ha... Ugh...♥ (No good...♥ This is...♥ My body is so\nhot...♥)"
+                                "\\n<\\n[1]>Ha... Ugh...♥ (No good...♥ This is...♥ My body is so\nhot...♥)"
                             ]
                         },
                         {
@@ -12009,7 +12009,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Are you okay, Katara!? That was close... I'm sorry for being\nlate! The explosion at the guild made the children cry...!"
+                                "\\n<Radro>Are you okay, \\n[1]!? That was close... I'm sorry for being\nlate! The explosion at the guild made the children cry...!"
                             ]
                         },
                         {
@@ -13558,7 +13558,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>It's okay! I'll take it outside! Beyond Dri-Ne, beyond\nRumare, even further away! I'll show you the speed of a\ncat's feet!"
+                                "\\n<\\n[1]>It's okay! I'll take it outside! Beyond Dri-Ne, beyond\nRumare, even further away! I'll show you the speed of a\ncat's feet!"
                             ]
                         },
                         {
@@ -13585,7 +13585,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Leave the rest to me! I'll take it! Beyond Dri-Ne, beyond\nRumare, even further away! Don't underestimate the speed of\na cat's feet!"
+                                "\\n<\\n[1]>Leave the rest to me! I'll take it! Beyond Dri-Ne, beyond\nRumare, even further away! Don't underestimate the speed of\na cat's feet!"
                             ]
                         },
                         {
@@ -13637,7 +13637,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Katara...!"
+                                "\\n<Radro>\\n[1]...!"
                             ]
                         },
                         {
@@ -13855,7 +13855,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Radro! Thanks for your help ♥ Take care of \"little brother\"\nfor me!"
+                                "\\n<\\n[1]>Radro! Thanks for your help ♥ Take care of \"little brother\"\nfor me!"
                             ]
                         },
                         {
@@ -13882,7 +13882,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Radro! Thank you! Take care of \"little sister\" for me!"
+                                "\\n<\\n[1]>Radro! Thank you! Take care of \"little sister\" for me!"
                             ]
                         },
                         {
@@ -14159,7 +14159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Katara!!! Hang in there!!!"
+                                "\\n<Radro>\\n[1]!!! Hang in there!!!"
                             ]
                         },
                         {
@@ -14210,7 +14210,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>\"Little brother,\" huh... haah. Totally defeated by you,\nKatara. Ahh, now I have two older sisters. Tch."
+                                "\\n<Louie>\"Little brother,\" huh... haah. Totally defeated by you,\n\\n[1]. Ahh, now I have two older sisters. Tch."
                             ]
                         },
                         {
@@ -15023,7 +15023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>\\n[1]! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -15571,7 +15571,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\nKatara! It's an attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\n\\n[1]! It's an attack! Kill the monsters!!"
                             ]
                         },
                         {

@@ -7742,7 +7742,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Louie-Chan>Katara... that's just as it is. Well, whatever. Then I'll be\nLouie... there."
+                                "\\n<Louie-Chan>\\n[1]... that's just as it is. Well, whatever. Then I'll be\nLouie... there."
                             ]
                         },
                         {
@@ -7785,7 +7785,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Louie-Chan>Katara, huh... then I'll go with Louie... there."
+                                "\\n<Louie-Chan>\\n[1], huh... then I'll go with Louie... there."
                             ]
                         },
                         {
@@ -7864,7 +7864,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wanzworth>Katara? Really? That's okay? Well then, I'll tentatively go\nwith... Wanz. It's not much of a change."
+                                "\\n<Wanzworth>\\n[1]? Really? That's okay? Well then, I'll tentatively go\nwith... Wanz. It's not much of a change."
                             ]
                         },
                         {
@@ -7907,7 +7907,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wanzworth>Katara, huh... then I'll just be Wanz."
+                                "\\n<Wanzworth>\\n[1], huh... then I'll just be Wanz."
                             ]
                         },
                         {
@@ -8026,7 +8026,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>A hot milk, please♥ But not too hot♥"
+                                "\\n<\\n[1]>A hot milk, please♥ But not too hot♥"
                             ]
                         },
                         {
@@ -8102,7 +8102,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Carrot juice, please!"
+                                "\\n<\\n[1]>Carrot juice, please!"
                             ]
                         },
                         {

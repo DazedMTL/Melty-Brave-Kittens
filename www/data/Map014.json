@@ -5039,7 +5039,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Soel>Hey, Katara-san. I've come up with a good idea♥ A very good\nidea♥"
+                                "\\n<Soel>Hey, \\n[1]-san. I've come up with a good idea♥ A very good\nidea♥"
                             ]
                         },
                         {
@@ -5406,7 +5406,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Do... Don't make fun of me..."
+                                "\\n<\\n[1]>Do... Don't make fun of me..."
                             ]
                         },
                         {
@@ -5433,7 +5433,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>St... Stop joking around...!"
+                                "\\n<\\n[1]>St... Stop joking around...!"
                             ]
                         },
                         {

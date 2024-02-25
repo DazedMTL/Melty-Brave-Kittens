@@ -4977,7 +4977,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Which one?"
+                                "\\n<\\n[1]>Which one?"
                             ]
                         },
                         {
@@ -5004,7 +5004,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(Which one is it...)"
+                                "\\n<\\n[1]>(Which one is it...)"
                             ]
                         },
                         {
@@ -5452,7 +5452,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Nyaaah...♥ I-I don't want anything like that... Stop joking\naround..."
+                                "\\n<\\n[1]>Nyaaah...♥ I-I don't want anything like that... Stop joking\naround..."
                             ]
                         },
                         {
@@ -5479,7 +5479,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Haah... Haah...♥ Stop messing around...!"
+                                "\\n<\\n[1]>Haah... Haah...♥ Stop messing around...!"
                             ]
                         },
                         {

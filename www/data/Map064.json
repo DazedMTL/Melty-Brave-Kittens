@@ -4257,7 +4257,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Mmm... What's that sound...? Mmm... Mmm..."
+                                "\\n<\\n[1]>Mmm... What's that sound...? Mmm... Mmm..."
                             ]
                         },
                         {
@@ -4291,7 +4291,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Wh-What's that noise...? Yawn... Mmm... Mmm..."
+                                "\\n<\\n[1]>Wh-What's that noise...? Yawn... Mmm... Mmm..."
                             ]
                         },
                         {
@@ -4343,7 +4343,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Huh...? Louie...? Where's Louie...? The bathroom...?"
+                                "\\n<\\n[1]>Huh...? Louie...? Where's Louie...? The bathroom...?"
                             ]
                         },
                         {
@@ -4377,7 +4377,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Hmm...? Wanz...? Are you in the restroom...?"
+                                "\\n<\\n[1]>Hmm...? Wanz...? Are you in the restroom...?"
                             ]
                         },
                         {
@@ -4586,7 +4586,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Louie-sham!!"
+                                "\\n<\\n[1]>Louie-sham!!"
                             ]
                         },
                         {
@@ -4620,7 +4620,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Wanz-waas!!"
+                                "\\n<\\n[1]>Wanz-waas!!"
                             ]
                         },
                         {

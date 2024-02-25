@@ -10849,7 +10849,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -11058,7 +11058,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -11318,7 +11318,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Hey, Katara... that was your name, right? How are you doing?"
+                                "\\n<Adventurer A>Hey, \\n[1]... that was your name, right? How are you doing?"
                             ]
                         },
                         {
@@ -12810,7 +12810,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(A bed you can't sleep in, and a breakfast so gross it\nmakes you want to puke. It's a far cry from the inn below.)"
+                                "\\n<\\n[1]>...(A bed you can't sleep in, and a breakfast so gross it\nmakes you want to puke. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -14465,7 +14465,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -15288,7 +15288,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
+                                "\\n<\\n[1]>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -15315,7 +15315,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
+                                "\\n<\\n[1]>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {

@@ -10416,7 +10416,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>You're Katara-san, right? It's a pleasure to meet you."
+                                "\\n<Sister>You're \\n[1]-san, right? It's a pleasure to meet you."
                             ]
                         },
                         {
@@ -11690,7 +11690,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Katara-san♥ What's the matter? Did you come to see me? Fufu♥"
+                                "\\n<Soel>\\n[1]-san♥ What's the matter? Did you come to see me? Fufu♥"
                             ]
                         },
                         {
@@ -12119,7 +12119,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Soel>Hey♥ Katara-san♥ Would you mind making a donation? A\ndonation♥"
+                                "\\n<Soel>Hey♥ \\n[1]-san♥ Would you mind making a donation? A\ndonation♥"
                             ]
                         },
                         {
@@ -12926,7 +12926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>I feel so happy when Katara-san comes to visit♥ Even if it's\njust for work♥ Nfufu♥"
+                                "\\n<Sister>I feel so happy when \\n[1]-san comes to visit♥ Even if it's\njust for work♥ Nfufu♥"
                             ]
                         },
                         {
@@ -13702,7 +13702,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>(While making a gesture of prayer, they're slightly opening\ntheir eyes looking for something. It seems like they're\ncasing the place for something to steal...)"
+                                "\\n<\\n[1]>(While making a gesture of prayer, they're slightly opening\ntheir eyes looking for something. It seems like they're\ncasing the place for something to steal...)"
                             ]
                         },
                         {
@@ -14299,7 +14299,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(It's me! It's me! It's not a rumor... Ugh...)"
+                                "\\n<\\n[1]>(It's me! It's me! It's not a rumor... Ugh...)"
                             ]
                         },
                         {
@@ -14333,7 +14333,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(A rumor, huh... Maybe it was better this way for these\npeople...)"
+                                "\\n<\\n[1]>(A rumor, huh... Maybe it was better this way for these\npeople...)"
                             ]
                         },
                         {
@@ -14475,7 +14475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Offer what?"
+                                "\\n<\\n[1]>Offer what?"
                             ]
                         },
                         {
@@ -14723,7 +14723,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Gross! (You can keep my dead body by your side...)"
+                                "\\n<\\n[1]>Gross! (You can keep my dead body by your side...)"
                             ]
                         },
                         {
@@ -14757,7 +14757,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(Even if he knew her true identity, it seems like this\nperson wouldn't care...)"
+                                "\\n<\\n[1]>(Even if he knew her true identity, it seems like this\nperson wouldn't care...)"
                             ]
                         },
                         {
@@ -15157,7 +15157,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(You're not seeing clearly, granny...)"
+                                "\\n<\\n[1]>(You're not seeing clearly, granny...)"
                             ]
                         },
                         {
@@ -15191,7 +15191,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(Even with age, there are things you just don't\nunderstand...)"
+                                "\\n<\\n[1]>(Even with age, there are things you just don't\nunderstand...)"
                             ]
                         },
                         {

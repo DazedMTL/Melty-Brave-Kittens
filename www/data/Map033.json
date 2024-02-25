@@ -11134,7 +11134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(This sounds exciting! I'm getting pumped♥ I'll catch them\nand get a whole lot of money! Hehehe♥)"
+                                "\\n<\\n[1]>(This sounds exciting! I'm getting pumped♥ I'll catch them\nand get a whole lot of money! Hehehe♥)"
                             ]
                         },
                         {
@@ -11161,7 +11161,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(A phantom thief, huh... I don't know what kind of person\nthey are, but stealing from others is wrong. Alright. I'll\ncatch them!)"
+                                "\\n<\\n[1]>(A phantom thief, huh... I don't know what kind of person\nthey are, but stealing from others is wrong. Alright. I'll\ncatch them!)"
                             ]
                         },
                         {
@@ -11888,7 +11888,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(Uncle Count seems different from last time? I have a\nstrange feeling...)"
+                                "\\n<\\n[1]>(Uncle Count seems different from last time? I have a\nstrange feeling...)"
                             ]
                         },
                         {
@@ -11915,7 +11915,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(The Count has a stern look on his face. If only I had\ncaught him last time... last time...)"
+                                "\\n<\\n[1]>(The Count has a stern look on his face. If only I had\ncaught him last time... last time...)"
                             ]
                         },
                         {
@@ -11946,7 +11946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(Ugh... let's not dwell on those memories...)"
+                                "\\n<\\n[1]>(Ugh... let's not dwell on those memories...)"
                             ]
                         },
                         {

@@ -4826,7 +4826,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>So, we've successfully tamed the twin beastfolk, Katara and\nLouie."
+                                "\\n<Terra>So, we've successfully tamed the twin beastfolk, \\n[1] and\nLouie."
                             ]
                         },
                         {
@@ -4853,7 +4853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Terra>So, we've successfully tamed the twin beastfolk, Katara and\nWanz."
+                                "\\n<Terra>So, we've successfully tamed the twin beastfolk, \\n[1] and\nWanz."
                             ]
                         },
                         {
@@ -5030,7 +5030,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Latier>Demon Lord. I've taken a liking to Katara as well. May I\nplease be entrusted with their care?"
+                                "\\n<Latier>Demon Lord. I've taken a liking to \\n[1] as well. May I\nplease be entrusted with their care?"
                             ]
                         },
                         {
@@ -5089,7 +5089,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Demon Lord! It was Megna who charmed Katara! Despite being\nstronger than me, now they're totally smitten with Megna♥"
+                                "\\n<Megna>Demon Lord! It was Megna who charmed \\n[1]! Despite being\nstronger than me, now they're totally smitten with Megna♥"
                             ]
                         },
                         {
@@ -5148,7 +5148,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Sheika>Katara has been ensnared by us. We've soaked them in\npleasure with our saliva..."
+                                "\\n<Sheika>\\n[1] has been ensnared by us. We've soaked them in\npleasure with our saliva..."
                             ]
                         },
                         {

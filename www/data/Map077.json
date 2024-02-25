@@ -3602,7 +3602,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>*pant*...*pant*...If I've made it this far...!"
+                                "\\n<\\n[1]>*pant*...*pant*...If I've made it this far...!"
                             ]
                         },
                         {
@@ -3635,7 +3635,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(There's no sign of them... I've completely shaken them\noff! Now to deal with the coagulation crystal...)"
+                                "\\n<\\n[1]>...(There's no sign of them... I've completely shaken them\noff! Now to deal with the coagulation crystal...)"
                             ]
                         },
                         {
@@ -3799,7 +3799,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>The barrier is completely gone!! I have no choice but to\nthrow it into the sea... No, there are monsters in the sea\ntoo! I have to throw it as far away as possible, or it'll be\nfound immediately..."
+                                "\\n<\\n[1]>The barrier is completely gone!! I have no choice but to\nthrow it into the sea... No, there are monsters in the sea\ntoo! I have to throw it as far away as possible, or it'll be\nfound immediately..."
                             ]
                         },
                         {
@@ -3839,7 +3839,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Ugh...ughhhhh!!! No, I can't! I can't touch this anymore...\nI feel nauseous...!!"
+                                "\\n<\\n[1]>Ugh...ughhhhh!!! No, I can't! I can't touch this anymore...\nI feel nauseous...!!"
                             ]
                         },
                         {
@@ -3886,7 +3886,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<???>(You've done well, Katara.)"
+                                "\\n<???>(You've done well, \\n[1].)"
                             ]
                         },
                         {
@@ -3926,7 +3926,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Wh...who...? Whose voice..."
+                                "\\n<\\n[1]>Wh...who...? Whose voice..."
                             ]
                         },
                         {
@@ -4014,7 +4014,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Huh...? Cat Borrower? The hand... spoke...?"
+                                "\\n<\\n[1]>Huh...? Cat Borrower? The hand... spoke...?"
                             ]
                         },
                         {
@@ -4539,7 +4539,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Cat Borrower>(Katara... no, Wanz Wars. You were quite a handful, my\ndaughter.)"
+                                "\\n<Cat Borrower>(\\n[1]... no, Wanz Wars. You were quite a handful, my\ndaughter.)"
                             ]
                         },
                         {
@@ -4566,7 +4566,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Cat Borrower>(Katara... no, Louisham. You were quite a handful, my son.)"
+                                "\\n<Cat Borrower>(\\n[1]... no, Louisham. You were quite a handful, my son.)"
                             ]
                         },
                         {
@@ -4616,7 +4616,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Mo...Mother...?"
+                                "\\n<\\n[1]>Mo...Mother...?"
                             ]
                         },
                         {
@@ -5055,7 +5055,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Ah...don't go..."
+                                "\\n<\\n[1]>Ah...don't go..."
                             ]
                         },
                         {
@@ -5111,7 +5111,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>..."
+                                "\\n<\\n[1]>..."
                             ]
                         },
                         {
@@ -5245,7 +5245,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Thank you for everything!! I can do it too! Because I'm your\nchild, Mom! I'll keep trying! I'll keep going!!"
+                                "\\n<\\n[1]>Thank you for everything!! I can do it too! Because I'm your\nchild, Mom! I'll keep trying! I'll keep going!!"
                             ]
                         },
                         {
@@ -5272,7 +5272,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Thank you for everything!! I'll try even harder!! Because\nI'm a proud member of the Catfield family!"
+                                "\\n<\\n[1]>Thank you for everything!! I'll try even harder!! Because\nI'm a proud member of the Catfield family!"
                             ]
                         },
                         {

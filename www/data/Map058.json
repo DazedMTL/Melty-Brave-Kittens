@@ -13054,7 +13054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wanz>Katara♥ let's go home together♥ okay♥"
+                                "\\n<Wanz>\\n[1]♥ let's go home together♥ okay♥"
                             ]
                         },
                         {
@@ -13320,7 +13320,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Mr. Serious~"
+                                "\\n<\\n[1]>Mr. Serious~"
                             ]
                         },
                         {
@@ -14054,7 +14054,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wanz>I got lost at the forest exit... I'm glad Katara came...\n*sniffle*."
+                                "\\n<Wanz>I got lost at the forest exit... I'm glad \\n[1] came...\n*sniffle*."
                             ]
                         },
                         {
@@ -14179,7 +14179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>You shouldn't use trees as landmarks in the forest. Maybe\nyou should sharpen your claws instead?"
+                                "\\n<\\n[1]>You shouldn't use trees as landmarks in the forest. Maybe\nyou should sharpen your claws instead?"
                             ]
                         },
                         {
@@ -14311,7 +14311,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Did you eat something weird?"
+                                "\\n<\\n[1]>Did you eat something weird?"
                             ]
                         },
                         {
@@ -14368,7 +14368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>It's not just bad cooking with her. She's like a poison\nfactory, you knew that. I'm surprised you even tried it."
+                                "\\n<\\n[1]>It's not just bad cooking with her. She's like a poison\nfactory, you knew that. I'm surprised you even tried it."
                             ]
                         },
                         {
@@ -14432,7 +14432,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Even the grass will wither."
+                                "\\n<\\n[1]>Even the grass will wither."
                             ]
                         },
                         {
@@ -14657,7 +14657,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Rintei>Hey Katara. Are you on forest cleaning duty? I'm here to\nsurvey the ecosystem."
+                                "\\n<Rintei>Hey \\n[1]. Are you on forest cleaning duty? I'm here to\nsurvey the ecosystem."
                             ]
                         },
                         {

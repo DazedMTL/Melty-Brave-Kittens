@@ -9794,7 +9794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Ladro>Do you think it's strange to run an orphanage in a place\nlike this? It's precisely because it's this kind of place\nthat it's needed. Maybe it's still a difficult topic for\nKatara?"
+                                "\\n<Ladro>Do you think it's strange to run an orphanage in a place\nlike this? It's precisely because it's this kind of place\nthat it's needed. Maybe it's still a difficult topic for\n\\n[1]?"
                             ]
                         },
                         {

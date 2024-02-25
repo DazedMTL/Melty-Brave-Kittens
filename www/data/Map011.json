@@ -9794,7 +9794,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Do you think it's strange to run an orphanage in a place\nlike this? It's necessary because it's a place like this.\nMaybe it's still a difficult topic for Katara?"
+                                "\\n<Radro>Do you think it's strange to run an orphanage in a place\nlike this? It's necessary because it's a place like this.\nMaybe it's still a difficult topic for \\n[1]?"
                             ]
                         },
                         {
@@ -11387,7 +11387,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>You're called Katara? That's unusual. We don't have many\nbeastfolk around here. I like your cat ears. They're so\ncute♥"
+                                "\\n<Radro>You're called \\n[1]? That's unusual. We don't have many\nbeastfolk around here. I like your cat ears. They're so\ncute♥"
                             ]
                         },
                         {

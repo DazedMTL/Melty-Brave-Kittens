@@ -11514,7 +11514,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Adventurer A>Hey, Katara... that was your name, right? How's it going?"
+                                "\\n<Adventurer A>Hey, \\n[1]... that was your name, right? How's it going?"
                             ]
                         },
                         {
@@ -12865,7 +12865,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>T-taru!"
+                                "\\n<\\n[1]>T-taru!"
                             ]
                         },
                         {
@@ -12973,7 +12973,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(A bed you can't sleep in, and a breakfast so awful it's\nmade by an old lady. It's a far cry from the inn below.)"
+                                "\\n<\\n[1]>...(A bed you can't sleep in, and a breakfast so awful it's\nmade by an old lady. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -13071,7 +13071,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>T-tar!"
+                                "\\n<\\n[1]>T-tar!"
                             ]
                         },
                         {
@@ -13260,7 +13260,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>T-tar!"
+                                "\\n<\\n[1]>T-tar!"
                             ]
                         },
                         {
@@ -14337,7 +14337,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, sorry! I have to work, so maybe another time♥\n(Rabbits... I'm not good with them...)"
+                                "\\n<\\n[1]>Ah, sorry! I have to work, so maybe another time♥\n(Rabbits... I'm not good with them...)"
                             ]
                         },
                         {
@@ -14371,7 +14371,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, um, well... I, I have work! So let's do it another time!\n(I don't have good memories with rabbit beastmen...)"
+                                "\\n<\\n[1]>Ah, um, well... I, I have work! So let's do it another time!\n(I don't have good memories with rabbit beastmen...)"
                             ]
                         },
                         {
@@ -14478,7 +14478,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah-! Don't pull my arm! It's broken there! Ouch ouch ouch!\nSee you later! Bye-bye! (So persistent! Are they all like\nthis?!)"
+                                "\\n<\\n[1]>Ah-! Don't pull my arm! It's broken there! Ouch ouch ouch!\nSee you later! Bye-bye! (So persistent! Are they all like\nthis?!)"
                             ]
                         },
                         {
@@ -14512,7 +14512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>No, really, I have work! Hey, don't pull on my arm! Guard!\nGuard!! (Rabbits are really forceful, huh!)"
+                                "\\n<\\n[1]>No, really, I have work! Hey, don't pull on my arm! Guard!\nGuard!! (Rabbits are really forceful, huh!)"
                             ]
                         },
                         {
@@ -14588,7 +14588,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>...(What a hassle... Better not to get involved. So tiring.)"
+                                "\\n<\\n[1]>...(What a hassle... Better not to get involved. So tiring.)"
                             ]
                         },
                         {
@@ -14622,7 +14622,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>...(Ugh. Annoying.)"
+                                "\\n<\\n[1]>...(Ugh. Annoying.)"
                             ]
                         },
                         {
@@ -16742,7 +16742,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>For all that talk, it's pretty expensive. Give us more of a\nservice."
+                                "\\n<\\n[1]>For all that talk, it's pretty expensive. Give us more of a\nservice."
                             ]
                         },
                         {
@@ -16899,7 +16899,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>You're giving a bonus at this price?"
+                                "\\n<\\n[1]>You're giving a bonus at this price?"
                             ]
                         },
                         {
@@ -17048,7 +17048,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -17943,7 +17943,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Are you talking about Mare-san and Jean?"
+                                "\\n<\\n[1]>Are you talking about Mare-san and Jean?"
                             ]
                         },
                         {
@@ -18932,7 +18932,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>No, that's not it! They say there are at least three people\nin the world who look like you! That's it!"
+                                "\\n<\\n[1]>No, that's not it! They say there are at least three people\nin the world who look like you! That's it!"
                             ]
                         },
                         {
@@ -19103,7 +19103,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>N-No, that's not it! I'm not from a fine family like the\nCatfields!"
+                                "\\n<\\n[1]>N-No, that's not it! I'm not from a fine family like the\nCatfields!"
                             ]
                         },
                         {
@@ -19169,7 +19169,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I'm just an admirer. It's fake! Ehehe♥ After all, it's a\nprestigious family, isn't it? Any beastperson cat would\ndream of it."
+                                "\\n<\\n[1]>I'm just an admirer. It's fake! Ehehe♥ After all, it's a\nprestigious family, isn't it? Any beastperson cat would\ndream of it."
                             ]
                         },
                         {
@@ -19196,7 +19196,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, this was something I received from someone of the\nCatfield family a while ago. It was so honorable that I've\nkept it on me at all times."
+                                "\\n<\\n[1]>Ah, this was something I received from someone of the\nCatfield family a while ago. It was so honorable that I've\nkept it on me at all times."
                             ]
                         },
                         {
@@ -19263,7 +19263,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>... (Did I manage to get through that...)"
+                                "\\n<\\n[1]>... (Did I manage to get through that...)"
                             ]
                         },
                         {
@@ -19327,7 +19327,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>That's terrible! If I see them, I'll make sure to report it!\n(I need to get out of here quickly...)"
+                                "\\n<\\n[1]>That's terrible! If I see them, I'll make sure to report it!\n(I need to get out of here quickly...)"
                             ]
                         },
                         {
@@ -20023,7 +20023,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(It looks like they have nothing but free time... But I\nguess everyone has different things they must do.)"
+                                "\\n<\\n[1]>...(It looks like they have nothing but free time... But I\nguess everyone has different things they must do.)"
                             ]
                         },
                         {
@@ -20089,7 +20089,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>(No, on second thought, this person really does seem to have\na lot of free time.)"
+                                "\\n<\\n[1]>(No, on second thought, this person really does seem to have\na lot of free time.)"
                             ]
                         },
                         {
@@ -20379,7 +20379,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Sniff sniff...? I don't smell anything? My sense of smell is\nmany times better than an average person's. It must be your\nimagination."
+                                "\\n<\\n[1]>Sniff sniff...? I don't smell anything? My sense of smell is\nmany times better than an average person's. It must be your\nimagination."
                             ]
                         },
                         {
@@ -20413,7 +20413,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Sniff sniff...? Really? I can't smell anything at all. And I\nhave a much better nose than humans. Strange."
+                                "\\n<\\n[1]>Sniff sniff...? Really? I can't smell anything at all. And I\nhave a much better nose than humans. Strange."
                             ]
                         },
                         {
@@ -20480,7 +20480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Sorry I don't get it! But I can tell you're a nasty person!\nI feel sorry for the tea that gets drunk by you! Bye then!"
+                                "\\n<\\n[1]>Sorry I don't get it! But I can tell you're a nasty person!\nI feel sorry for the tea that gets drunk by you! Bye then!"
                             ]
                         },
                         {
@@ -20504,7 +20504,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(I secretly mixed some crushed coins into the tea with a\nsleight of hand. Drink up and get diarrhea! Idiot!)"
+                                "\\n<\\n[1]>(I secretly mixed some crushed coins into the tea with a\nsleight of hand. Drink up and get diarrhea! Idiot!)"
                             ]
                         },
                         {
@@ -20538,7 +20538,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, please enjoy your tea. (So there are people who harbor\nsuch feelings towards adventurers. Better to avoid further\ninvolvement.)"
+                                "\\n<\\n[1]>Ah, please enjoy your tea. (So there are people who harbor\nsuch feelings towards adventurers. Better to avoid further\ninvolvement.)"
                             ]
                         },
                         {
@@ -20562,7 +20562,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>(I also secretly added some sand to the tea with a sleight\nof hand. Enjoy your gravel tea.)"
+                                "\\n<\\n[1]>(I also secretly added some sand to the tea with a sleight\nof hand. Enjoy your gravel tea.)"
                             ]
                         },
                         {
@@ -21258,7 +21258,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>An adventure with the hero...? My sister...? Hmm, could that\nreally be true?"
+                                "\\n<\\n[1]>An adventure with the hero...? My sister...? Hmm, could that\nreally be true?"
                             ]
                         },
                         {
@@ -21285,7 +21285,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Fighting barehanded is just like my sister... But a hero?\nPart of such an amazing person's group? I doubt it..."
+                                "\\n<\\n[1]>Fighting barehanded is just like my sister... But a hero?\nPart of such an amazing person's group? I doubt it..."
                             ]
                         },
                         {
@@ -21453,7 +21453,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
+                                "\\n<\\n[1]>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -21480,7 +21480,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
+                                "\\n<\\n[1]>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {
@@ -21722,7 +21722,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wanz>Oh, Katara! I found a cute dress! I want to buy this after\nworking hard-♥ How much is it-?"
+                                "\\n<Wanz>Oh, \\n[1]! I found a cute dress! I want to buy this after\nworking hard-♥ How much is it-?"
                             ]
                         },
                         {
@@ -21917,7 +21917,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Louie! Why are you looking at dresses?"
+                                "\\n<\\n[1]>Louie! Why are you looking at dresses?"
                             ]
                         },
                         {
@@ -21950,7 +21950,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Louie>Ah, Katara. No reason, just thought they looked cute. I\nthink you'd look good in one too."
+                                "\\n<Louie>Ah, \\n[1]. No reason, just thought they looked cute. I\nthink you'd look good in one too."
                             ]
                         },
                         {
@@ -21974,7 +21974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Is that a compliment?"
+                                "\\n<\\n[1]>Is that a compliment?"
                             ]
                         },
                         {
@@ -22031,7 +22031,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Just \"genuinely\"?"
+                                "\\n<\\n[1]>Just \"genuinely\"?"
                             ]
                         },
                         {
@@ -22088,7 +22088,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Then buy it for me♥"
+                                "\\n<\\n[1]>Then buy it for me♥"
                             ]
                         },
                         {
@@ -22565,7 +22565,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Louie! What are you eating?"
+                                "\\n<\\n[1]>Louie! What are you eating?"
                             ]
                         },
                         {
@@ -22614,7 +22614,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Louie>Katara! Mmph! Cough! Don't just start talking to me out of\nnowhere! Cough! It went down the wrong way! Cough cough!"
+                                "\\n<Louie>\\n[1]! Mmph! Cough! Don't just start talking to me out of\nnowhere! Cough! It went down the wrong way! Cough cough!"
                             ]
                         },
                         {
@@ -22638,7 +22638,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Oh, that's a strawberry mille-feuille, isn't it? Give me a\nbite♥ Just one♥"
+                                "\\n<\\n[1]>Oh, that's a strawberry mille-feuille, isn't it? Give me a\nbite♥ Just one♥"
                             ]
                         },
                         {
@@ -22745,7 +22745,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Ahhhhh♥ (Pops the whole thing into their mouth)"
+                                "\\n<\\n[1]>Ahhhhh♥ (Pops the whole thing into their mouth)"
                             ]
                         },
                         {
@@ -22787,7 +22787,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Louie>Damn it! I forgot about Katara's lack of restraint! With the\nsize of that mille-feuille, it was only natural for them to\ndevour it in one bite!"
+                                "\\n<Louie>Damn it! I forgot about \\n[1]'s lack of restraint! With the\nsize of that mille-feuille, it was only natural for them to\ndevour it in one bite!"
                             ]
                         },
                         {
@@ -22869,7 +22869,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Yum yum...♥ Munch munch...♥ Gulp♥ Nyaaaahhh～～～♥ So\ndelicious～～♥"
+                                "\\n<\\n[1]>Yum yum...♥ Munch munch...♥ Gulp♥ Nyaaaahhh～～～♥ So\ndelicious～～♥"
                             ]
                         },
                         {
@@ -22921,7 +22921,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Another one."
+                                "\\n<\\n[1]>Another one."
                             ]
                         },
                         {
@@ -23405,7 +23405,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Isn't this not something to be used just for fun?"
+                                "\\n<\\n[1]>Isn't this not something to be used just for fun?"
                             ]
                         },
                         {
@@ -23520,7 +23520,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Aren't the nobles' games just too cruel?"
+                                "\\n<\\n[1]>Aren't the nobles' games just too cruel?"
                             ]
                         },
                         {

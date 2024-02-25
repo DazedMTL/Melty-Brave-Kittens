@@ -4612,7 +4612,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>You'll have to work hard for both your share and theirs,\nKatara! I'm counting on you all!"
+                                "\\n<Guild Master>You'll have to work hard for both your share and theirs,\n\\n[1]! I'm counting on you all!"
                             ]
                         },
                         {
@@ -4639,7 +4639,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Hey there, Katara. You seem to use some interesting\ntechniques, but you're still lacking in practical\nexperience, right? Don't get too carried away, okay?"
+                                "\\n<Guild Master>Hey there, \\n[1]. You seem to use some interesting\ntechniques, but you're still lacking in practical\nexperience, right? Don't get too carried away, okay?"
                             ]
                         },
                         {
@@ -5016,7 +5016,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Hey Katara. Your twin is also working hard. Really helps me\nout."
+                                "\\n<Guild Master>Hey \\n[1]. Your twin is also working hard. Really helps me\nout."
                             ]
                         },
                         {
@@ -5174,7 +5174,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Guild Master>Katara... could you occasionally check on... the orphanage?\nIt seems that Radlo guy has gone missing."
+                                "\\n<Guild Master>\\n[1]... could you occasionally check on... the orphanage?\nIt seems that Radlo guy has gone missing."
                             ]
                         },
                         {
@@ -5430,7 +5430,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Guild Master>Poison Bullet? Did you steal that from an enemy? Katara\nreally is a genius. The fact that I hired you means I have\ngood judgment. So that makes me a genius too, right?"
+                                "\\n<Guild Master>Poison Bullet? Did you steal that from an enemy? \\n[1]\nreally is a genius. The fact that I hired you means I have\ngood judgment. So that makes me a genius too, right?"
                             ]
                         },
                         {
@@ -5858,7 +5858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Erotic monsters? What's that? Do they really exist? Yikes.\nKatara, you can't lose to something like that, okay? (Rank )"
+                                "\\n<Wanz>Erotic monsters? What's that? Do they really exist? Yikes.\n\\n[1], you can't lose to something like that, okay? (Rank )"
                             ]
                         },
                         {
@@ -5891,7 +5891,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>...Katara, you sometimes glance at my boobs or big sis's\nboobs... I'm a bit worried."
+                                "\\n<Wanz>...\\n[1], you sometimes glance at my boobs or big sis's\nboobs... I'm a bit worried."
                             ]
                         },
                         {
@@ -5962,7 +5962,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wanz>Hmm, which quest should we take on. The really strong\nmonsters are still scary... Katara, have you decided? (Rank\n)"
+                                "\\n<Wanz>Hmm, which quest should we take on. The really strong\nmonsters are still scary... \\n[1], have you decided? (Rank\n)"
                             ]
                         },
                         {
@@ -6718,7 +6718,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Wanz>Katara... how long do we have to keep working here? I'm\nstarting to want to go home. (Rank )"
+                                "\\n<Wanz>\\n[1]... how long do we have to keep working here? I'm\nstarting to want to go home. (Rank )"
                             ]
                         },
                         {
@@ -7057,7 +7057,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Hmm, which quest should we take on. I'm still scared of the\nreally strong monsters... Katara, have you decided? (Rank )"
+                                "\\n<Wanz>Hmm, which quest should we take on. I'm still scared of the\nreally strong monsters... \\n[1], have you decided? (Rank )"
                             ]
                         },
                         {
@@ -7846,7 +7846,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Katara... how long do we have to keep working here? I'm\nstarting to want to go home. (Rank )"
+                                "\\n<Wanz>\\n[1]... how long do we have to keep working here? I'm\nstarting to want to go home. (Rank )"
                             ]
                         },
                         {
@@ -8173,7 +8173,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Erotic monsters...? What are you talking about, Katara... Do\nsuch things even exist? (Rank \\v[269])"
+                                "\\n<Louie>Erotic monsters...? What are you talking about, \\n[1]... Do\nsuch things even exist? (Rank \\v[269])"
                             ]
                         },
                         {
@@ -8268,7 +8268,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Louie>Which quest should I take... I need to be careful not to\noverestimate my abilities. Katara, don't push yourself too\nhard. (Rank \\v[269])"
+                                "\\n<Louie>Which quest should I take... I need to be careful not to\noverestimate my abilities. \\n[1], don't push yourself too\nhard. (Rank \\v[269])"
                             ]
                         },
                         {
@@ -8322,7 +8322,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Louie>It was my first time defeating a monster, but it was nothing\nspecial. That was less of a workout than sparring with you,\nKatara. (Rank \\v[269])"
+                                "\\n<Louie>It was my first time defeating a monster, but it was nothing\nspecial. That was less of a workout than sparring with you,\n\\n[1]. (Rank \\v[269])"
                             ]
                         },
                         {
@@ -8484,7 +8484,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Louie>Katara! I'm going to the noble district for work, so I'll\nbuy dessert and bring it back! Let's eat together tonight!\n(Rank \\v[269])"
+                                "\\n<Louie>\\n[1]! I'm going to the noble district for work, so I'll\nbuy dessert and bring it back! Let's eat together tonight!\n(Rank \\v[269])"
                             ]
                         },
                         {
@@ -8862,7 +8862,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Louie>Katara... (The things those erotic monsters did to me... I\ndefinitely can't talk to Katara about it...) (Rank \\v[269])"
+                                "\\n<Louie>\\n[1]... (The things those erotic monsters did to me... I\ndefinitely can't talk to \\n[1] about it...) (Rank \\v[269])"
                             ]
                         },
                         {
@@ -9153,7 +9153,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Which quest should I choose... I need to be careful not to\noverestimate my abilities. Katara, don't push yourself too\nhard. (Rank \\v[269])"
+                                "\\n<Louie>Which quest should I choose... I need to be careful not to\noverestimate my abilities. \\n[1], don't push yourself too\nhard. (Rank \\v[269])"
                             ]
                         },
                         {
@@ -9207,7 +9207,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>It was my first time defeating a monster, but it was nothing\nspecial. Training with Katara is much more of a workout.\n(Rank \\v[269])"
+                                "\\n<Louie>It was my first time defeating a monster, but it was nothing\nspecial. Training with \\n[1] is much more of a workout.\n(Rank \\v[269])"
                             ]
                         },
                         {
@@ -9369,7 +9369,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Katara! I'm going to the noble district for work, so I'll\nbuy dessert and bring it back! Let's eat together tonight!\n(Rank \\v[269])"
+                                "\\n<Louie>\\n[1]! I'm going to the noble district for work, so I'll\nbuy dessert and bring it back! Let's eat together tonight!\n(Rank \\v[269])"
                             ]
                         },
                         {
@@ -9747,7 +9747,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Katara... (I can't tell Katara about all the lewd things\nthose monsters did to me...) (Rank \\v[269])"
+                                "\\n<Louie>\\n[1]... (I can't tell \\n[1] about all the lewd things\nthose monsters did to me...) (Rank \\v[269])"
                             ]
                         },
                         {
@@ -10184,7 +10184,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Seibel>You know Radlo from the orphanage? They always talk about\nKitty. They must really like Katara♥"
+                                "\\n<Seibel>You know Radlo from the orphanage? They always talk about\nKitty. They must really like \\n[1]♥"
                             ]
                         },
                         {
@@ -10271,7 +10271,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Seibel>But the children are feeling even lonelier. I try to check\non them as much as I can, but Katara, if you could help out\ntoo, that would be great?"
+                                "\\n<Seibel>But the children are feeling even lonelier. I try to check\non them as much as I can, but \\n[1], if you could help out\ntoo, that would be great?"
                             ]
                         },
                         {
@@ -10481,7 +10481,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Katara>Nyaa!!! It's stinky!! My tongue is burning..."
+                                "\\n<\\n[1]>Nyaa!!! It's stinky!! My tongue is burning..."
                             ]
                         },
                         {
@@ -10515,7 +10515,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<Katara>Ugh...!!! I can't stand the smell of alcohol anymore! No, I\ncan't do it."
+                                "\\n<\\n[1]>Ugh...!!! I can't stand the smell of alcohol anymore! No, I\ncan't do it."
                             ]
                         },
                         {
@@ -10605,7 +10605,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Seibel>Even without Charm's magic, Katara is super charming♥ I'm\ntotally smitten～♥ Nyaan♥"
+                                "\\n<Seibel>Even without Charm's magic, \\n[1] is super charming♥ I'm\ntotally smitten～♥ Nyaan♥"
                             ]
                         },
                         {
@@ -11510,7 +11510,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Dodon>What's this? You're equipping Charm's grimoire... Oh, I\ndon't need such a thing to... hehehe♥ I've been thinking\nabout wanting to hold you, Katara♥"
+                                "\\n<Dodon>What's this? You're equipping Charm's grimoire... Oh, I\ndon't need such a thing to... hehehe♥ I've been thinking\nabout wanting to hold you, \\n[1]♥"
                             ]
                         },
                         {
@@ -11534,7 +11534,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>Dodon... commit suicide."
+                                "\\n<\\n[1]>Dodon... commit suicide."
                             ]
                         },
                         {
@@ -11585,7 +11585,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>If you continue with this misunderstanding, are you prepared\nto die right here?"
+                                "\\n<\\n[1]>If you continue with this misunderstanding, are you prepared\nto die right here?"
                             ]
                         },
                         {
@@ -11641,7 +11641,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Dodon>What's with you, Katara? You're sexier than usual today. Did\nyou change your lipstick? It's totally my type. Don't tell\nme, for me...?"
+                                "\\n<Dodon>What's with you, \\n[1]? You're sexier than usual today. Did\nyou change your lipstick? It's totally my type. Don't tell\nme, for me...?"
                             ]
                         },
                         {
@@ -11665,7 +11665,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>Dodon... commit suicide."
+                                "\\n<\\n[1]>Dodon... commit suicide."
                             ]
                         },
                         {
@@ -11692,7 +11692,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Dodon>You kind of look like a girl today, Katara. Are you wearing\nlipstick? It suits you. I'm totally down for it."
+                                "\\n<Dodon>You kind of look like a girl today, \\n[1]. Are you wearing\nlipstick? It suits you. I'm totally down for it."
                             ]
                         },
                         {
@@ -11716,7 +11716,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>Stay away."
+                                "\\n<\\n[1]>Stay away."
                             ]
                         },
                         {
@@ -12012,7 +12012,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Kunes>Katara, huh? How does it feel to become an adventurer?\nYou're the youngest one here. But remember, it's not about\nseniority."
+                                "\\n<Kunes>\\n[1], huh? How does it feel to become an adventurer?\nYou're the youngest one here. But remember, it's not about\nseniority."
                             ]
                         },
                         {
@@ -12745,7 +12745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Annie>But still... I wouldn't want them to die. Katara, you better\nnot die on me."
+                                "\\n<Annie>But still... I wouldn't want them to die. \\n[1], you better\nnot die on me."
                             ]
                         },
                         {
@@ -13315,7 +13315,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Annie>As an adventurer, you're really starting to shine, Katara♥\nNice going♥"
+                                "\\n<Annie>As an adventurer, you're really starting to shine, \\n[1]♥\nNice going♥"
                             ]
                         },
                         {
@@ -13737,7 +13737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Annie>Huh? Katara, you can use a glaive? Yeah, striking weapons\nare cool. Thrusting from below is nice too!"
+                                "\\n<Annie>Huh? \\n[1], you can use a glaive? Yeah, striking weapons\nare cool. Thrusting from below is nice too!"
                             ]
                         },
                         {
@@ -13909,7 +13909,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>It's long been numb. To the point where I smell nothing at\nall. Nothingness."
+                                "\\n<\\n[1]>It's long been numb. To the point where I smell nothing at\nall. Nothingness."
                             ]
                         },
                         {
@@ -14312,7 +14312,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Sorry, Katara♥ When treasure is on the line, I tend to lose\nmy restraint♥ I might have slashed, burned, and soaked you,\nbut are you okay?"
+                                "\\n<Bijou>Sorry, \\n[1]♥ When treasure is on the line, I tend to lose\nmy restraint♥ I might have slashed, burned, and soaked you,\nbut are you okay?"
                             ]
                         },
                         {
@@ -14749,7 +14749,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Bijou>Katara really is strong, huh♥ Despite looking so cute♥\nUfufu♥ Our \"test of strength\" was so much fun♥"
+                                "\\n<Bijou>\\n[1] really is strong, huh♥ Despite looking so cute♥\nUfufu♥ Our \"test of strength\" was so much fun♥"
                             ]
                         },
                         {
@@ -14782,7 +14782,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Bijou>Will you fight me again? Or maybe, since Katara seems weak\nto naughty attacks...♥ Shall we train together? Kukuku♥"
+                                "\\n<Bijou>Will you fight me again? Or maybe, since \\n[1] seems weak\nto naughty attacks...♥ Shall we train together? Kukuku♥"
                             ]
                         },
                         {
@@ -14843,7 +14843,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Bijou>What's the matter? Katara♥ Do you need something from me?\nKukuku♥"
+                                "\\n<Bijou>What's the matter? \\n[1]♥ Do you need something from me?\nKukuku♥"
                             ]
                         },
                         {
@@ -14945,7 +14945,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Oh, Katara♥ You seem to be doing well lately♥ You've been\ncompleting lots of requests, and everyone's talking about\nyou♥"
+                                "\\n<Bijou>Oh, \\n[1]♥ You seem to be doing well lately♥ You've been\ncompleting lots of requests, and everyone's talking about\nyou♥"
                             ]
                         },
                         {
@@ -15658,7 +15658,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rintei>He died soon after meeting Katara, but if he had lived, I'm\nsure they would have become good friends. Please make good\nuse of that magic power."
+                                "\\n<Rintei>He died soon after meeting \\n[1], but if he had lived, I'm\nsure they would have become good friends. Please make good\nuse of that magic power."
                             ]
                         },
                         {
@@ -15769,7 +15769,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Rintei>Huh! Katara-san, you fight with your fists? With four hands,\nyou can go \"ora ora\"! I'm envious. Eh? You don't know \"ora\nora\"?"
+                                "\\n<Rintei>Huh! \\n[1]-san, you fight with your fists? With four hands,\nyou can go \"ora ora\"! I'm envious. Eh? You don't know \"ora\nora\"?"
                             ]
                         },
                         {
@@ -18933,7 +18933,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "This request has already been completed by Katara. Too bad\nyou didn't get the 5000000 trillion million G."
+                                "This request has already been completed by \\n[1]. Too bad\nyou didn't get the 5000000 trillion million G."
                             ]
                         },
                         {
@@ -21477,7 +21477,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Since the details are unclear, if a hiding place is\ndiscovered, Katara, who accepted the request, will go ahead\nto check the situation. Further contact will follow."
+                                "Since the details are unclear, if a hiding place is\ndiscovered, \\n[1], who accepted the request, will go ahead\nto check the situation. Further contact will follow."
                             ]
                         },
                         {
@@ -21524,7 +21524,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Mare's Challenge is cleared with the conditions\\C[14]\"Katara\nNo Attack\" \"Menu Forbidden\"\\C[0]."
+                                "Mare's Challenge is cleared with the conditions\\C[14]\"\\n[1]\nNo Attack\" \"Menu Forbidden\"\\C[0]."
                             ]
                         },
                         {
@@ -23776,7 +23776,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "We will ask Katara, who is well-informed about the\nsituation, to take on the request."
+                                "We will ask \\n[1], who is well-informed about the\nsituation, to take on the request."
                             ]
                         },
                         {
@@ -24877,7 +24877,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "A new advance notice has arrived from the phantom thief \"L\".\nThis time, it's a considerable treasure known as the\n\\C[14]Howling Stone\\C[0]. Just like last time, they want\nKatara to be on guard duty."
+                                "A new advance notice has arrived from the phantom thief \"L\".\nThis time, it's a considerable treasure known as the\n\\C[14]Howling Stone\\C[0]. Just like last time, they want\n\\n[1] to be on guard duty."
                             ]
                         },
                         {
@@ -26930,7 +26930,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "The whereabouts of the escaped Latier have been discovered.\nAlthough Katara has defeated them once, do not let your\nguard down."
+                                "The whereabouts of the escaped Latier have been discovered.\nAlthough \\n[1] has defeated them once, do not let your\nguard down."
                             ]
                         },
                         {
@@ -29761,7 +29761,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Katara, you've grown stronger as an adventurer, so I've been\nwanting to challenge you to another battle♥ If you're up for\nit, let's compete on the second floor♥"
+                                "\\n[1], you've grown stronger as an adventurer, so I've been\nwanting to challenge you to another battle♥ If you're up for\nit, let's compete on the second floor♥"
                             ]
                         },
                         {
@@ -32912,7 +32912,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>...Let's go with this one!"
+                                "\\n<\\n[1]>...Let's go with this one!"
                             ]
                         },
                         {

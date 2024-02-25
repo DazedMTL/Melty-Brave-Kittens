@@ -3412,7 +3412,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Are you the demon that's been attacking merchants here? I've\ncome to exterminate you!"
+                                "\\n<\\n[1]>Are you the demon that's been attacking merchants here? I've\ncome to exterminate you!"
                             ]
                         },
                         {
@@ -3439,7 +3439,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I'm an adventurer. You're the demon that's been attacking\nmerchants on this bridge, right?"
+                                "\\n<\\n[1]>I'm an adventurer. You're the demon that's been attacking\nmerchants on this bridge, right?"
                             ]
                         },
                         {
@@ -3815,7 +3815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ugh...♥ Damn it... why am I... with someone like you..."
+                                "\\n<\\n[1]>Ugh...♥ Damn it... why am I... with someone like you..."
                             ]
                         },
                         {
@@ -3842,7 +3842,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ugh...♥ Damn it... why am I... with someone like you..."
+                                "\\n<\\n[1]>Ugh...♥ Damn it... why am I... with someone like you..."
                             ]
                         },
                         {

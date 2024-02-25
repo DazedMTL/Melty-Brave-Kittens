@@ -4058,7 +4058,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>My strategy was perfect. Hehe♥ I knew everything would go\nwell from the start."
+                                "\\n<\\n[1]>My strategy was perfect. Hehe♥ I knew everything would go\nwell from the start."
                             ]
                         },
                         {
@@ -4134,7 +4134,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Well, it's because the strategy I came up with was perfect.\nI knew from the beginning that everything would go well."
+                                "\\n<\\n[1]>Well, it's because the strategy I came up with was perfect.\nI knew from the beginning that everything would go well."
                             ]
                         },
                         {
@@ -4219,7 +4219,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>No way. I'm the one who thought of it. And I'm the one who\ntook down that perverted old man. Don't get so high and\nmighty, little brother!"
+                                "\\n<\\n[1]>No way. I'm the one who thought of it. And I'm the one who\ntook down that perverted old man. Don't get so high and\nmighty, little brother!"
                             ]
                         },
                         {
@@ -4311,7 +4311,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>The one who's born first becomes the younger sibling! That's\nthe rule! I'm the older sister!"
+                                "\\n<\\n[1]>The one who's born first becomes the younger sibling! That's\nthe rule! I'm the older sister!"
                             ]
                         },
                         {
@@ -4446,7 +4446,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I'm not the little brother! Since I was born first, that\nmakes me the older brother!"
+                                "\\n<\\n[1]>I'm not the little brother! Since I was born first, that\nmakes me the older brother!"
                             ]
                         },
                         {
@@ -4526,7 +4526,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Normally, the one born first is the older brother! I don't\nwant to be made the younger brother by some weird local\nrule!"
+                                "\\n<\\n[1]>Normally, the one born first is the older brother! I don't\nwant to be made the younger brother by some weird local\nrule!"
                             ]
                         },
                         {
@@ -4743,7 +4743,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Alright, let's settle this once and for all. Who's on top.\nIt's a duel. If I win, Louie is the little brother♥"
+                                "\\n<\\n[1]>Alright, let's settle this once and for all. Who's on top.\nIt's a duel. If I win, Louie is the little brother♥"
                             ]
                         },
                         {
@@ -4809,7 +4809,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah... Are we using 'swords' as weapons?"
+                                "\\n<\\n[1]>Ah... Are we using 'swords' as weapons?"
                             ]
                         },
                         {
@@ -5036,7 +5036,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>The 'Nekokarite' passed down from our ancestors! That's our\nstyle!!"
+                                "\\n<\\n[1]>The 'Nekokarite' passed down from our ancestors! That's our\nstyle!!"
                             ]
                         },
                         {
@@ -5079,7 +5079,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Alright, let's settle this once and for all. Who's on top.\nIt's a duel. If I win, Wanz is the little sister."
+                                "\\n<\\n[1]>Alright, let's settle this once and for all. Who's on top.\nIt's a duel. If I win, Wanz is the little sister."
                             ]
                         },
                         {
@@ -5145,7 +5145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah... Are we using 'swords' as weapons?"
+                                "\\n<\\n[1]>Ah... Are we using 'swords' as weapons?"
                             ]
                         },
                         {
@@ -5358,7 +5358,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>The 'Nekokarite' passed down from our ancestors! That's our\nstyle!!"
+                                "\\n<\\n[1]>The 'Nekokarite' passed down from our ancestors! That's our\nstyle!!"
                             ]
                         },
                         {
@@ -5881,7 +5881,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>That's a good idea! It's a competition then! We'll have to\nwork hard starting tomorrow. Let's go to sleep now.\nGoodnight, Louie."
+                                "\\n<\\n[1]>That's a good idea! It's a competition then! We'll have to\nwork hard starting tomorrow. Let's go to sleep now.\nGoodnight, Louie."
                             ]
                         },
                         {
@@ -5898,7 +5898,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Yeah. Goodnight, Katara."
+                                "\\n<Louie>Yeah. Goodnight, \\n[1]."
                             ]
                         },
                         {
@@ -5925,7 +5925,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>That's a good idea! Let's do that! We'll have to work hard\nstarting tomorrow. Let's go to sleep now. Goodnight, Wanz."
+                                "\\n<\\n[1]>That's a good idea! Let's do that! We'll have to work hard\nstarting tomorrow. Let's go to sleep now. Goodnight, Wanz."
                             ]
                         },
                         {
@@ -5942,7 +5942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Yeah. Goodnight, Katara."
+                                "\\n<Wanz>Yeah. Goodnight, \\n[1]."
                             ]
                         },
                         {
@@ -6350,7 +6350,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Katara, it's been quite a while since we came here. I\nthought this town was kind of unpleasant at first, but you\nget used to it, huh-"
+                                "\\n<Wanz>\\n[1], it's been quite a while since we came here. I\nthought this town was kind of unpleasant at first, but you\nget used to it, huh-"
                             ]
                         },
                         {
@@ -6393,7 +6393,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I was worried someone from home might come and find us, but\nit seems like we're safe! That's a relief♥"
+                                "\\n<\\n[1]>I was worried someone from home might come and find us, but\nit seems like we're safe! That's a relief♥"
                             ]
                         },
                         {
@@ -6427,7 +6427,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I thought maybe pursuers from home would come, but it looks\nlike we're okay."
+                                "\\n<\\n[1]>I thought maybe pursuers from home would come, but it looks\nlike we're okay."
                             ]
                         },
                         {
@@ -6861,7 +6861,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Geez! Grandpa!?"
+                                "\\n<\\n[1]>Geez! Grandpa!?"
                             ]
                         },
                         {
@@ -8341,7 +8341,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Katara, it's been quite a while since we came here. I\nthought this town was kind of unpleasant at first, but you\nget used to it if you live long enough."
+                                "\\n<Wanz>\\n[1], it's been quite a while since we came here. I\nthought this town was kind of unpleasant at first, but you\nget used to it if you live long enough."
                             ]
                         },
                         {
@@ -8384,7 +8384,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I was worried someone from home might come and find us, but\nit seems we're safe! That's a relief♥"
+                                "\\n<\\n[1]>I was worried someone from home might come and find us, but\nit seems we're safe! That's a relief♥"
                             ]
                         },
                         {
@@ -8418,7 +8418,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I thought maybe pursuers from home would come, but it seems\nwe're okay."
+                                "\\n<\\n[1]>I thought maybe pursuers from home would come, but it seems\nwe're okay."
                             ]
                         },
                         {
@@ -8852,7 +8852,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Geez! Grandpa!?"
+                                "\\n<\\n[1]>Geez! Grandpa!?"
                             ]
                         },
                         {

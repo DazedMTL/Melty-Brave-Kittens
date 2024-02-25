@@ -4942,7 +4942,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Found you...! Where's Jean!?"
+                                "\\n<\\n[1]>Found you...! Where's Jean!?"
                             ]
                         },
                         {
@@ -4969,7 +4969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I've found you! Where is Jean!?"
+                                "\\n<\\n[1]>I've found you! Where is Jean!?"
                             ]
                         },
                         {
@@ -5096,7 +5096,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Jean>A cat's [Human]...!?"
+                                "\\n<Jean>A cat's \\n[8]...!?"
                             ]
                         },
                         {
@@ -5471,7 +5471,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Haa... haa...! (Ugh...♥ my dick...♥ I'm so tired of this...)"
+                                "\\n<\\n[1]>Haa... haa...! (Ugh...♥ my dick...♥ I'm so tired of this...)"
                             ]
                         },
                         {
@@ -5498,7 +5498,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Haa... haa...! (Calm down... don't get bigger...! Damn\nit...!)"
+                                "\\n<\\n[1]>Haa... haa...! (Calm down... don't get bigger...! Damn\nit...!)"
                             ]
                         },
                         {

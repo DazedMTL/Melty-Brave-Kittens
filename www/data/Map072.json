@@ -14952,7 +14952,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Mele>Besides, Katara is here. That child will surely save both\nDriane and Lumare. I can tell."
+                                "\\n<Mele>Besides, \\n[1] is here. That child will surely save both\nDriane and Lumare. I can tell."
                             ]
                         },
                         {
@@ -16347,7 +16347,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(A bed you can't sleep in, and a breakfast so awful it\nmakes you want to puke. It's a far cry from the inn below.)"
+                                "\\n<\\n[1]>...(A bed you can't sleep in, and a breakfast so awful it\nmakes you want to puke. It's a far cry from the inn below.)"
                             ]
                         },
                         {
@@ -17971,7 +17971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18197,7 +18197,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -18586,7 +18586,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
+                                "\\n<\\n[1]>...(This person isn't bad at all. Yet, I'm getting the urge\nto scratch them.)"
                             ]
                         },
                         {
@@ -19905,7 +19905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
+                                "\\n<\\n[1]>A subjugation request, huh? Hmm, that doesn't sound like my\nsister. Thanks!"
                             ]
                         },
                         {
@@ -19932,7 +19932,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
+                                "\\n<\\n[1]>Ah, that must be someone else then. Thank you very much.\n(Please, let it be someone else!)"
                             ]
                         },
                         {

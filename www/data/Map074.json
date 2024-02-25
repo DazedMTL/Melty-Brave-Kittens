@@ -10228,7 +10228,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Terra>Katara...! What? Could it be that..."
+                                "\\n<Terra>\\n[1]...! What? Could it be that..."
                             ]
                         },
                         {
@@ -11611,7 +11611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>\\n[1]! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -12159,7 +12159,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\nKatara! It's an attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\n\\n[1]! It's an attack! Kill the monsters!!"
                             ]
                         },
                         {

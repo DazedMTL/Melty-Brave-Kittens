@@ -5629,7 +5629,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Grandpa>[Human], did you really get here in one night? No matter how\nhigh your physical abilities and the blessing of the wind...\nGoodness. You're practically a monster."
+                                "\\n<Grandpa>\\n[8], did you really get here in one night? No matter how\nhigh your physical abilities and the blessing of the wind...\nGoodness. You're practically a monster."
                             ]
                         },
                         {
@@ -5815,7 +5815,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Grandpa>That [Human] broke it might have been some kind of divine\nrevelation. I take it as a message from the previous head of\nthe family."
+                                "\\n<Grandpa>That \\n[8] broke it might have been some kind of divine\nrevelation. I take it as a message from the previous head of\nthe family."
                             ]
                         },
                         {
@@ -5853,7 +5853,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Grandpa>[Human] uses \"Cat's Paw\" in combat, but originally it was\nmeant to assist with writing documents and such. It's a\nmagic used by the executive branch."
+                                "\\n<Grandpa>\\n[8] uses \"Cat's Paw\" in combat, but originally it was\nmeant to assist with writing documents and such. It's a\nmagic used by the executive branch."
                             ]
                         },
                         {
@@ -5946,7 +5946,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Grandpa>By the way... [Human], you are still in the midst of growing\nup. I hope you make the right choices.\\C[1] (Current Karma\nValue 0)"
+                                "\\n<Grandpa>By the way... \\n[8], you are still in the midst of growing\nup. I hope you make the right choices.\\C[1] (Current Karma\nValue 0)"
                             ]
                         },
                         {
@@ -5984,7 +5984,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Grandpa>By the way... since coming here, it seems [Human] has grown.\nThis old man is a bit relieved.\\C[1] (Current Karma Value\n\\v[270])"
+                                "\\n<Grandpa>By the way... since coming here, it seems \\n[8] has grown.\nThis old man is a bit relieved.\\C[1] (Current Karma Value\n\\v[270])"
                             ]
                         },
                         {
@@ -6022,7 +6022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Grandpa>By the way... [Human], you seem to have changed somehow.\nDon't do anything too reckless.\\C[14] (Current Karma Value\n\\v[270])"
+                                "\\n<Grandpa>By the way... \\n[8], you seem to have changed somehow.\nDon't do anything too reckless.\\C[14] (Current Karma Value\n\\v[270])"
                             ]
                         },
                         {
@@ -6826,7 +6826,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
+                                "\\n<Annie>\\n[1]! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden!!"
                             ]
                         },
                         {
@@ -6951,7 +6951,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\nKatara! It's an attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What the hell is this all of a sudden!! Hey!\n\\n[1]! It's an attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -15275,7 +15275,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>... (Katara...)"
+                                "\\n<Radro>... (\\n[1]...)"
                             ]
                         },
                         {

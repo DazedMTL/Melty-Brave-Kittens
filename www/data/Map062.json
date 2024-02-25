@@ -4791,7 +4791,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>Welcome, Katara♥"
+                                "\\n<Bijou>Welcome, \\n[1]♥"
                             ]
                         },
                         {
@@ -5234,7 +5234,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>Aww♥ How cute♥ You're already getting hard in anticipation♥\nWhat do you want from me? Tell me♥ Katara♥"
+                                "\\n<Bijou>Aww♥ How cute♥ You're already getting hard in anticipation♥\nWhat do you want from me? Tell me♥ \\n[1]♥"
                             ]
                         },
                         {
@@ -5342,7 +5342,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Bijou>My swordsmanship and magic skills are quite something,\naren't they? Well, if Katara were to get serious, I'd be no\nmatch. If you could get serious, that is♥"
+                                "\\n<Bijou>My swordsmanship and magic skills are quite something,\naren't they? Well, if \\n[1] were to get serious, I'd be no\nmatch. If you could get serious, that is♥"
                             ]
                         },
                         {

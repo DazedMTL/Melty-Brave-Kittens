@@ -2420,7 +2420,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Chelsea>Katara, you're short but you have big boobs, huh. Just like\nmy little sibling should be. All the women in the Catfield\nfamily are like that."
+                                "\\n<Chelsea>\\n[1], you're short but you have big boobs, huh. Just like\nmy little sibling should be. All the women in the Catfield\nfamily are like that."
                             ]
                         },
                         {
@@ -2463,7 +2463,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Chelsea>Katara, are you studying hard? I'm sorry, it seems like I'm\nthe only one who gets to be free. Both of us are expected to\ndo well..."
+                                "\\n<Chelsea>\\n[1], are you studying hard? I'm sorry, it seems like I'm\nthe only one who gets to be free. Both of us are expected to\ndo well..."
                             ]
                         },
                         {
@@ -2536,7 +2536,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Chelsea>The Cat Borrowing Hand is said to be the hand of our\nancestors! It's amazing that they lend us a hand from the\nother world. Katara, you had mom's hand, right?"
+                                "\\n<Chelsea>The Cat Borrowing Hand is said to be the hand of our\nancestors! It's amazing that they lend us a hand from the\nother world. \\n[1], you had mom's hand, right?"
                             ]
                         },
                         {
@@ -5368,7 +5368,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Wanz>Katara! Will you switch with me?"
+                                "\\n<Wanz>\\n[1]! Will you switch with me?"
                             ]
                         },
                         {
@@ -5531,7 +5531,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Bring it on!"
+                                "\\n<\\n[1]>Bring it on!"
                             ]
                         },
                         {
@@ -5859,7 +5859,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Louie>Katara! Let's switch! I want to be the protagonist too!"
+                                "\\n<Louie>\\n[1]! Let's switch! I want to be the protagonist too!"
                             ]
                         },
                         {
@@ -6022,7 +6022,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Alright! I'll do my best! I'm the older sibling after all!"
+                                "\\n<\\n[1]>Alright! I'll do my best! I'm the older sibling after all!"
                             ]
                         },
                         {
@@ -6088,7 +6088,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I'm the older sibling!"
+                                "\\n<\\n[1]>I'm the older sibling!"
                             ]
                         },
                         {

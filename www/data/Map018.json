@@ -4928,7 +4928,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Treasure...! It's real! So there really are things like this\nhere."
+                                "\\n<\\n[1]>Treasure...! It's real! So there really are things like this\nhere."
                             ]
                         },
                         {
@@ -4952,7 +4952,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>What's inside, I wonder? I'm so excited♥"
+                                "\\n<\\n[1]>What's inside, I wonder? I'm so excited♥"
                             ]
                         },
                         {
@@ -4979,7 +4979,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Is this the treasure of the ruins? There don't seem to be\nany traps... Alright, mission accomplished!"
+                                "\\n<\\n[1]>Is this the treasure of the ruins? There don't seem to be\nany traps... Alright, mission accomplished!"
                             ]
                         },
                         {
@@ -5653,7 +5653,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Nyah♥ What's this...? I think I drank something...!"
+                                "\\n<\\n[1]>Nyah♥ What's this...? I think I drank something...!"
                             ]
                         },
                         {
@@ -5680,7 +5680,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Mmm...!! Let... go! What did you make me drink...!"
+                                "\\n<\\n[1]>Mmm...!! Let... go! What did you make me drink...!"
                             ]
                         },
                         {

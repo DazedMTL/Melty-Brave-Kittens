@@ -5490,7 +5490,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Count Noblesse>It seems either drugs were involved or it was a mutual\ntakedown, but that Katara managed to capture the phantom\nthief. Splendid, what an impressive feat!"
+                                "\\n<Count Noblesse>It seems either drugs were involved or it was a mutual\ntakedown, but that \\n[1] managed to capture the phantom\nthief. Splendid, what an impressive feat!"
                             ]
                         },
                         {
@@ -6392,7 +6392,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\C[14]\\n<Guild Master>Not telling anyone about it\\C[0], huh? If they knew the\nidentity of the phantom thief, Katara would feel\nresponsible. Got it."
+                                "\\C[14]\\n<Guild Master>Not telling anyone about it\\C[0], huh? If they knew the\nidentity of the phantom thief, \\n[1] would feel\nresponsible. Got it."
                             ]
                         },
                         {
@@ -6409,7 +6409,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>But to worry about Katara at a time like this. What a tough\nwoman. Sigh... What to do with this gemstone."
+                                "\\n<Guild Master>But to worry about \\n[1] at a time like this. What a tough\nwoman. Sigh... What to do with this gemstone."
                             ]
                         },
                         {
@@ -6974,7 +6974,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Make sure you manage it properly, okay? If word gets out\nthat we have this here, it could lead to a bloodbath. The\nonly ones who know are me, the Master, and Katara."
+                                "\\n<Radro>Make sure you manage it properly, okay? If word gets out\nthat we have this here, it could lead to a bloodbath. The\nonly ones who know are me, the Master, and \\n[1]."
                             ]
                         },
                         {
@@ -7007,7 +7007,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Katara knows too, huh. Hmph... I bet you lost to Katara and\nbegged for your life, right? Am I wrong?"
+                                "\\n<Guild Master>\\n[1] knows too, huh. Hmph... I bet you lost to \\n[1] and\nbegged for your life, right? Am I wrong?"
                             ]
                         },
                         {
@@ -7187,7 +7187,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>But why is Katara sleeping so soundly? Take them to an inn\nor something. They'll catch a cold and they're in the way."
+                                "\\n<Guild Master>But why is \\n[1] sleeping so soundly? Take them to an inn\nor something. They'll catch a cold and they're in the way."
                             ]
                         },
                         {
@@ -7281,7 +7281,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Mumble mumble... zzzZ"
+                                "\\n<\\n[1]>Mumble mumble... zzzZ"
                             ]
                         },
                         {

@@ -8707,7 +8707,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "I've become an adventurer! I don't have any real combat\nexperience, but I've trained thoroughly with Katara, so I'm\nsure I'll be fine fighting monsters!"
+                                "I've become an adventurer! I don't have any real combat\nexperience, but I've trained thoroughly with \\n[1], so I'm\nsure I'll be fine fighting monsters!"
                             ]
                         },
                         {
@@ -8783,7 +8783,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "Katara is working hard too! I can't lose to them, so I'll do\nmy best! I can't lose to my younger sibling!"
+                                "\\n[1] is working hard too! I can't lose to them, so I'll do\nmy best! I can't lose to my younger sibling!"
                             ]
                         },
                         {
@@ -9473,7 +9473,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "It seems Katara is also handling guild tasks! I can't lose\nto them! As their older sibling!"
+                                "It seems \\n[1] is also handling guild tasks! I can't lose\nto them! As their older sibling!"
                             ]
                         },
                         {
@@ -10156,7 +10156,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>The breakfast from the lady here was so gross! It was the\nfirst time I've had something that bad, I almost threw up♥\nAnd then I got smacked♥ Katara, be careful!"
+                                "\\n<Wanz>The breakfast from the lady here was so gross! It was the\nfirst time I've had something that bad, I almost threw up♥\nAnd then I got smacked♥ \\n[1], be careful!"
                             ]
                         },
                         {
@@ -10522,7 +10522,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Mumble mumble... Good morning, Katara. I'm still sleepy\nnya..."
+                                "\\n<Wanz>Mumble mumble... Good morning, \\n[1]. I'm still sleepy\nnya..."
                             ]
                         },
                         {
@@ -10576,7 +10576,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Wanz>Katara, you had, you know, a boner. Pukuku♥ It seems that\nhappens in the morning♥ Boys are so funny♥"
+                                "\\n<Wanz>\\n[1], you had, you know, a boner. Pukuku♥ It seems that\nhappens in the morning♥ Boys are so funny♥"
                             ]
                         },
                         {
@@ -11071,7 +11071,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Good morning, Katara. You were talking in your sleep, saying\nsome weird things. What kind of dream were you having? \"You,\nshampoo thief!\""
+                                "\\n<Louie>Good morning, \\n[1]. You were talking in your sleep, saying\nsome weird things. What kind of dream were you having? \"You,\nshampoo thief!\""
                             ]
                         },
                         {
@@ -11179,7 +11179,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Alright! Let's do our best today too! I can't lose to\nKatara!"
+                                "\\n<Louie>Alright! Let's do our best today too! I can't lose to\n\\n[1]!"
                             ]
                         },
                         {
@@ -11233,7 +11233,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>The breakfast here is crazy bad! I threw up a hairball! Got\nwhacked with a wand too! Never tasted anything so awful\nbefore! You should try it later, Katara!"
+                                "\\n<Louie>The breakfast here is crazy bad! I threw up a hairball! Got\nwhacked with a wand too! Never tasted anything so awful\nbefore! You should try it later, \\n[1]!"
                             ]
                         },
                         {
@@ -11536,7 +11536,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Louie>Katara, are you okay with money? If you ever find yourself\nin a pinch, just let me know. I'll lend you some."
+                                "\\n<Louie>\\n[1], are you okay with money? If you ever find yourself\nin a pinch, just let me know. I'll lend you some."
                             ]
                         },
                         {

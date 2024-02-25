@@ -5292,7 +5292,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Mmm...haah...haah...somehow...my strength is...♥ hau...♥"
+                                "\\n<\\n[1]>Mmm...haah...haah...somehow...my strength is...♥ hau...♥"
                             ]
                         },
                         {
@@ -5319,7 +5319,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ugh...! Haah...haah..."
+                                "\\n<\\n[1]>Ugh...! Haah...haah..."
                             ]
                         },
                         {

@@ -14273,7 +14273,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Oh, it's Katara. Slimeys have been flowing in from the\nunderground water cavern. Creatures coming from such a place\ngive me the creeps."
+                                "\\n<Dodon>Oh, it's \\n[1]. Slimeys have been flowing in from the\nunderground water cavern. Creatures coming from such a place\ngive me the creeps."
                             ]
                         },
                         {
@@ -14415,7 +14415,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Oh♥ Katara-chan♥ Hey there! How are you?"
+                                "\\n<Annie>Oh♥ \\n[1]-chan♥ Hey there! How are you?"
                             ]
                         },
                         {
@@ -14551,7 +14551,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Blunt weapons are the best! Smashing an orc's skull is just\nso satisfying! You think so too, right Katara?"
+                                "\\n<Annie>Blunt weapons are the best! Smashing an orc's skull is just\nso satisfying! You think so too, right \\n[1]?"
                             ]
                         },
                         {
@@ -14947,7 +14947,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Louie>I don't think Katara would get hurt in a place like this,\nbut let's stay alert and do our best. By the way, what\nshould we eat when we get home today?"
+                                "\\n<Louie>I don't think \\n[1] would get hurt in a place like this,\nbut let's stay alert and do our best. By the way, what\nshould we eat when we get home today?"
                             ]
                         },
                         {
@@ -14971,7 +14971,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Louie, you're getting careless. Thinking about food while\nwe're working."
+                                "\\n<\\n[1]>Louie, you're getting careless. Thinking about food while\nwe're working."
                             ]
                         },
                         {
@@ -15479,7 +15479,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Katara>Mr. Serious~"
+                                "\\n<\\n[1]>Mr. Serious~"
                             ]
                         },
                         {

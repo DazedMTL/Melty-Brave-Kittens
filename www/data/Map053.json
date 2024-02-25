@@ -5851,7 +5851,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>That's right. Impressive, isn't it? I wonder if it is... But\nI'm quite strong. Nice to meet you, Jean."
+                                "\\n<\\n[1]>That's right. Impressive, isn't it? I wonder if it is... But\nI'm quite strong. Nice to meet you, Jean."
                             ]
                         },
                         {
@@ -5902,7 +5902,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Yeah, that's right. Nice to meet you, Jean."
+                                "\\n<\\n[1]>Yeah, that's right. Nice to meet you, Jean."
                             ]
                         },
                         {
@@ -6046,7 +6046,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>I'm going around checking each house because there's been\nsightings of a really tiny mouse-like monster in the area!\nThis is a job for a cat!"
+                                "\\n<\\n[1]>I'm going around checking each house because there's been\nsightings of a really tiny mouse-like monster in the area!\nThis is a job for a cat!"
                             ]
                         },
                         {
@@ -6106,7 +6106,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>Jean asked me to check because there's been some strange\nnoises. Probably a mouse or a weasel got into the attic.\nWell, just in case it's a monster, it's better to be safe\nthan sorry."
+                                "\\n<\\n[1]>Jean asked me to check because there's been some strange\nnoises. Probably a mouse or a weasel got into the attic.\nWell, just in case it's a monster, it's better to be safe\nthan sorry."
                             ]
                         },
                         {

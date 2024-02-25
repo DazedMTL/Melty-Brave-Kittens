@@ -5641,7 +5641,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Francois>Lately, Radro-mama keeps talking about Katara. You must have\ngiven mama a present or something to raise your\nfavorability! That's cheating!"
+                                "\\n<Francois>Lately, Radro-mama keeps talking about \\n[1]. You must have\ngiven mama a present or something to raise your\nfavorability! That's cheating!"
                             ]
                         },
                         {
@@ -10153,7 +10153,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Katara...♥...uh, um..."
+                                "\\n<Ladro>\\n[1]...♥...uh, um..."
                             ]
                         },
                         {
@@ -10252,7 +10252,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Is there something you want me to do? If it's something you,\nKatara, want, I'll do anything♥"
+                                "\\n<Ladro>Is there something you want me to do? If it's something you,\n\\n[1], want, I'll do anything♥"
                             ]
                         },
                         {
@@ -10294,7 +10294,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>But... that's not... It wasn't that I let you go, it's just\nthat I couldn't hold back my dick and... nyaa...///"
+                                "\\n<\\n[1]>But... that's not... It wasn't that I let you go, it's just\nthat I couldn't hold back my dick and... nyaa...///"
                             ]
                         },
                         {
@@ -10328,7 +10328,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>No, it's not like that...! It's not that I let you go, it's\nmore like I couldn't hold back and... uh, um... that..."
+                                "\\n<\\n[1]>No, it's not like that...! It's not that I let you go, it's\nmore like I couldn't hold back and... uh, um... that..."
                             ]
                         },
                         {
@@ -10404,7 +10404,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>I-I don't dislike it! I want to...! But not as a thank you\nor anything..."
+                                "\\n<\\n[1]>I-I don't dislike it! I want to...! But not as a thank you\nor anything..."
                             ]
                         },
                         {
@@ -10438,7 +10438,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>It's not like that... It's not something to be thanked\nfor...!"
+                                "\\n<\\n[1]>It's not like that... It's not something to be thanked\nfor...!"
                             ]
                         },
                         {
@@ -10523,7 +10523,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ah...♥ Yeah...♥ That's good♥"
+                                "\\n<\\n[1]>Ah...♥ Yeah...♥ That's good♥"
                             ]
                         },
                         {
@@ -10557,7 +10557,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Uh...♥ If that's the case... definitely...♥"
+                                "\\n<\\n[1]>Uh...♥ If that's the case... definitely...♥"
                             ]
                         },
                         {
@@ -10740,7 +10740,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Radro>Katara, hold out your hand♥"
+                                "\\n<Radro>\\n[1], hold out your hand♥"
                             ]
                         },
                         {
@@ -10906,7 +10906,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Radro>Katara♥ take this with you. It's a charm filled with my\nwater and wind magic."
+                                "\\n<Radro>\\n[1]♥ take this with you. It's a charm filled with my\nwater and wind magic."
                             ]
                         },
                         {
@@ -11084,7 +11084,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I-I want to do it because I like you. I want you to be\nspoiled. Katara...♥"
+                                "\\n<Radro>I-I want to do it because I like you. I want you to be\nspoiled. \\n[1]...♥"
                             ]
                         },
                         {
@@ -11145,7 +11145,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Katara...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no choice."
+                                "\\n<Radro>\\n[1]...? Just so you know, I'm not a pervert, okay? I only\ndid that because I had no choice."
                             ]
                         },
                         {
@@ -11178,7 +11178,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>I thought it was okay because it's you, Katara. Don't get\nthe wrong idea, okay?"
+                                "\\n<Radro>I thought it was okay because it's you, \\n[1]. Don't get\nthe wrong idea, okay?"
                             ]
                         },
                         {
@@ -11340,7 +11340,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Katara...♥ This is our little secret, okay?♥"
+                                "\\n<Radro>\\n[1]...♥ This is our little secret, okay?♥"
                             ]
                         },
                         {
@@ -11502,7 +11502,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>Don't hold back♥ I've been seen in plenty of embarrassing\nsituations myself. I want to see all of Katara's\nembarrassing sides too♥"
+                                "\\n<Radro>Don't hold back♥ I've been seen in plenty of embarrassing\nsituations myself. I want to see all of \\n[1]'s\nembarrassing sides too♥"
                             ]
                         },
                         {
@@ -11664,7 +11664,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Radro>...♥ (Wow...♥ What should I do♥ Katara...♥ I'm still so\nembarrassed♥)"
+                                "\\n<Radro>...♥ (Wow...♥ What should I do♥ \\n[1]...♥ I'm still so\nembarrassed♥)"
                             ]
                         },
                         {
@@ -11698,7 +11698,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Radro>Hey, Katara♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
+                                "\\n<Radro>Hey, \\n[1]♥ What do you want me to do? Tell me♥\\C[14] (The\namount donated to the orphanage \\v[742]G)"
                             ]
                         },
                         {

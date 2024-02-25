@@ -2639,7 +2639,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Megna>Megna wanted to see you too-♥ Katara♥ Ahaha♥ Of course,\nyou've leveled up, haven't you?"
+                                "\\n<Megna>Megna wanted to see you too-♥ \\n[1]♥ Ahaha♥ Of course,\nyou've leveled up, haven't you?"
                             ]
                         },
                         {
@@ -2941,7 +2941,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>Katara is totally smitten with Megna now♥. You used to have\nsuch a scary face, but now you're all blushing - so cute♥"
+                                "\\n<Megna>\\n[1] is totally smitten with Megna now♥. You used to have\nsuch a scary face, but now you're all blushing - so cute♥"
                             ]
                         },
                         {
@@ -3265,7 +3265,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Megna>The once so strong Katara is now all lovey-dovey over\nMegna♥. That's hilarious♥"
+                                "\\n<Megna>The once so strong \\n[1] is now all lovey-dovey over\nMegna♥. That's hilarious♥"
                             ]
                         },
                         {

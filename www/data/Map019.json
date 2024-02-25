@@ -4907,7 +4907,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<[Enemysuccubus]>Don't be scared...♥ *smooch*♥ I'm not going crazy or\nanything♥ Do you understand if I do this? *kiss*♥"
+                                "\\n<\\n[3]>Don't be scared...♥ *smooch*♥ I'm not going crazy or\nanything♥ Do you understand if I do this? *kiss*♥"
                             ]
                         },
                         {
@@ -4975,7 +4975,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[Enemysuccubus]>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
+                                "\\n<\\n[3]>Ah...♥ Can you feel my emotions coming through? It's okay♥\nJust let yourself feel good♥"
                             ]
                         },
                         {
@@ -4999,7 +4999,7 @@
                             "code": 401,
                             "indent": 3,
                             "parameters": [
-                                "\\n<[Enemysuccubus]>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's just fine♥"
+                                "\\n<\\n[3]>Kissing feels good, doesn't it?♥ Look, you've already lost\nyour wariness♥ That's just fine♥"
                             ]
                         },
                         {
@@ -5611,7 +5611,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy Succubus>Ah...! Why...! Why are you doing this..."
+                                "\\n<\\n[3]>Ah...! Why...! Why are you doing this..."
                             ]
                         },
                         {
@@ -5644,7 +5644,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy Succubus>I just want to live. Just because I'm a bit different, does\nthat make me not human?"
+                                "\\n<\\n[3]>I just want to live. Just because I'm a bit different, does\nthat make me not human?"
                             ]
                         },
                         {
@@ -5677,7 +5677,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy Succubus>Beastmen are different from normal humans too, aren't they?\nHow am I any different from them?"
+                                "\\n<\\n[3]>Beastmen are different from normal humans too, aren't they?\nHow am I any different from them?"
                             ]
                         },
                         {
@@ -5710,7 +5710,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>... (Words are just sounds. I can definitely feel the malice\ninherent to monsters. But, something feels off...)"
+                                "\\n<\\n[1]>... (Words are just sounds. I can definitely feel the malice\ninherent to monsters. But, something feels off...)"
                             ]
                         },
                         {
@@ -5737,7 +5737,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>... (I can definitely sense the unique malice of a monster's\nmagic power. This one must be plotting something. But...)"
+                                "\\n<\\n[1]>... (I can definitely sense the unique malice of a monster's\nmagic power. This one must be plotting something. But...)"
                             ]
                         },
                         {
@@ -5804,7 +5804,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Jean>Katara-san... If there was a monster with the same memories\nas Mama, would it still be a monster? It talks and remembers\njust like her."
+                                "\\n<Jean>\\n[1]-san... If there was a monster with the same memories\nas Mama, would it still be a monster? It talks and remembers\njust like her."
                             ]
                         },
                         {
@@ -5854,7 +5854,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy Succubus>Do you believe in Mama, Jean? Do you want to stay with me?"
+                                "\\n<\\n[3]>Do you believe in Mama, Jean? Do you want to stay with me?"
                             ]
                         },
                         {
@@ -5983,7 +5983,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Jean... (I'm hesitating... I'm becoming unsure too...\nThere's definitely a monster's presence, but...)"
+                                "\\n<\\n[1]>Jean... (I'm hesitating... I'm becoming unsure too...\nThere's definitely a monster's presence, but...)"
                             ]
                         },
                         {
@@ -6010,7 +6010,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Jean... (I'm confused... I'm starting to lose my way too.\nThere's definitely the scent of a monster, but...)"
+                                "\\n<\\n[1]>Jean... (I'm confused... I'm starting to lose my way too.\nThere's definitely the scent of a monster, but...)"
                             ]
                         },
                         {
@@ -6053,7 +6053,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>... (If I let it go, Jean might be eaten someday. But is it\nreally right to kill a mother in front of her child?)"
+                                "\\n<\\n[1]>... (If I let it go, Jean might be eaten someday. But is it\nreally right to kill a mother in front of her child?)"
                             ]
                         },
                         {
@@ -6080,7 +6080,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>... (If I let it go, Jean might be eaten someday. But can I\nreally kill a mother in front of her child?)"
+                                "\\n<\\n[1]>... (If I let it go, Jean might be eaten someday. But can I\nreally kill a mother in front of her child?)"
                             ]
                         },
                         {
@@ -6123,7 +6123,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Enemy Succubus>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
+                                "\\n<\\n[3]>Understood. I won't resist anymore. In exchange, please take\ncare of Jean..."
                             ]
                         },
                         {
@@ -6512,7 +6512,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy Succubus>Ahh. I was waiting for you to grow up. What are you doing?"
+                                "\\n<\\n[3]>Ahh. I was waiting for you to grow up. What are you doing?"
                             ]
                         },
                         {
@@ -6545,7 +6545,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy Succubus>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
+                                "\\n<\\n[3]>I was living properly as a mama. If only you hadn't come, I\ncould have continued my daily life."
                             ]
                         },
                         {
@@ -6578,7 +6578,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy Succubus>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
+                                "\\n<\\n[3]>It can't be helped. You'll have to take Jean's place. You\ncan't refuse, can you?"
                             ]
                         },
                         {
@@ -6899,7 +6899,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>Jean... (Ah, that was close... I almost cut Jean by\nmistake...)"
+                                "\\n<\\n[1]>Jean... (Ah, that was close... I almost cut Jean by\nmistake...)"
                             ]
                         },
                         {
@@ -6926,7 +6926,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>...! (If I had swung just now, it would have hit Jean! That\nwas dangerous...)"
+                                "\\n<\\n[1]>...! (If I had swung just now, it would have hit Jean! That\nwas dangerous...)"
                             ]
                         },
                         {
@@ -6969,7 +6969,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy Succubus>Jean...♥ You child... are truly...♥"
+                                "\\n<\\n[3]>Jean...♥ You child... are truly...♥"
                             ]
                         },
                         {
@@ -7068,7 +7068,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Enemy Succubus>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
+                                "\\n<\\n[3]>I'm so happy you've grown up to be such a kind child♥ Ufufu♥\nGrow more... grow more for me...♥"
                             ]
                         },
                         {
@@ -7274,7 +7274,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>N-no, she got away...! What should I do! I have to report to\nthe guild..."
+                                "\\n<\\n[1]>N-no, she got away...! What should I do! I have to report to\nthe guild..."
                             ]
                         },
                         {
@@ -7301,7 +7301,7 @@
                             "code": 401,
                             "indent": 2,
                             "parameters": [
-                                "\\n<Katara>Damn it! She took Jean! I don't think she'll harm him right\naway, but... I have to report this to the guild."
+                                "\\n<\\n[1]>Damn it! She took Jean! I don't think she'll harm him right\naway, but... I have to report this to the guild."
                             ]
                         },
                         {

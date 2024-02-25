@@ -7019,7 +7019,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kunes>Hey! Katara! What are you doing?!?"
+                                "\\n<Kunes>Hey! \\n[1]! What are you doing?!?"
                             ]
                         },
                         {
@@ -7525,7 +7525,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Kunes>Are you okay? Katara."
+                                "\\n<Kunes>Are you okay? \\n[1]."
                             ]
                         },
                         {

@@ -2829,7 +2829,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Arno>Now, you remember the contract that Katara and I made, don't\nyou? \"I will only extract vital energy from Katara.\" \"Katara\ncannot attack me.\""
+                                "\\n<Arno>Now, you remember the contract that \\n[1] and I made, don't\nyou? \"I will only extract vital energy from \\n[1].\" \"\\n[1]\ncannot attack me.\""
                             ]
                         },
                         {
@@ -3521,7 +3521,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>I've been waiting for Katara. Bound by the contract, they\nare the only human I can attack."
+                                "\\n<Arno>I've been waiting for \\n[1]. Bound by the contract, they\nare the only human I can attack."
                             ]
                         },
                         {
@@ -3662,7 +3662,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Arno>Katara's magical power is of very high quality. Could it be\nthat you're a twin? Such special magic power isn't common."
+                                "\\n<Arno>\\n[1]'s magical power is of very high quality. Could it be\nthat you're a twin? Such special magic power isn't common."
                             ]
                         },
                         {

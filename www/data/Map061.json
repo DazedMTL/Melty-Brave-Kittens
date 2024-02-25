@@ -9453,7 +9453,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Dodon>Damn it! What's going on all of a sudden!! Hey! Katara! It's\nan attack! Kill the monsters!!"
+                                "\\n<Dodon>Damn it! What's going on all of a sudden!! Hey! \\n[1]! It's\nan attack! Kill the monsters!!"
                             ]
                         },
                         {
@@ -11192,7 +11192,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Annie>Katara! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden?!"
+                                "\\n<Annie>\\n[1]! The town is in chaos! We've evacuated everyone who\ncan't fight! But there are monsters in the residential area\ntoo...! Damn it! Why is this happening all of a sudden?!"
                             ]
                         },
                         {
@@ -11535,7 +11535,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! Katara, go around the town! Help everyone...!"
+                                "\\n<Ladro>Why are monsters suddenly...! I'll definitely protect the\nchildren here! \\n[1], go around the town! Help everyone...!"
                             ]
                         },
                         {
@@ -11568,7 +11568,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Ladro>But don't do anything reckless...! If something happens to\nKatara... I...! If you think it's dangerous, escape!"
+                                "\\n<Ladro>But don't do anything reckless...! If something happens to\n\\n[1]... I...! If you think it's dangerous, escape!"
                             ]
                         },
                         {
@@ -13745,7 +13745,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Thanks, Grandpa. You hide in a safe place now! Leave the\nrest to me."
+                                "\\n<\\n[1]>Thanks, Grandpa. You hide in a safe place now! Leave the\nrest to me."
                             ]
                         },
                         {
@@ -13779,7 +13779,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Thank you, Grandpa! Now, please evacuate to a safe place! I\nwill find Wanz...! Definitely!"
+                                "\\n<\\n[1]>Thank you, Grandpa! Now, please evacuate to a safe place! I\nwill find Wanz...! Definitely!"
                             ]
                         },
                         {
@@ -17873,7 +17873,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Bijou>This town is finished, isn't it? Ahahaha! I'll make my\nescape when the time is right. If you value your life,\nKatara, you should run too."
+                                "\\n<Bijou>This town is finished, isn't it? Ahahaha! I'll make my\nescape when the time is right. If you value your life,\n\\n[1], you should run too."
                             ]
                         },
                         {

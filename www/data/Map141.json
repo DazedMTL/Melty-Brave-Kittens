@@ -3935,7 +3935,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Guild Master>Sigh... Katara-sama, please continue to handle quests for a\nlittle while longer. We will surely find Pirika-sama."
+                                "\\n<Guild Master>Sigh... \\n[1]-sama, please continue to handle quests for a\nlittle while longer. We will surely find Pirika-sama."
                             ]
                         },
                         {
@@ -6180,7 +6180,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Chelsea>Katara, are you really doing a guard's job? Just watching\nover people who did bad things? Sounds boring!"
+                                "\\n<Chelsea>\\n[1], are you really doing a guard's job? Just watching\nover people who did bad things? Sounds boring!"
                             ]
                         },
                         {

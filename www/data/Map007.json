@@ -3828,7 +3828,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>It's troubling, Katara-san. You can't just enter as you\nplease..."
+                                "\\n<Sister>It's troubling, \\n[1]-san. You can't just enter as you\nplease..."
                             ]
                         },
                         {
@@ -4115,7 +4115,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>But that doesn't mean you can just use it for experiments as\nyou please! Necromancy isn't such a good thing! You'll just\nturn into a zombie!"
+                                "\\n<\\n[1]>But that doesn't mean you can just use it for experiments as\nyou please! Necromancy isn't such a good thing! You'll just\nturn into a zombie!"
                             ]
                         },
                         {
@@ -4142,7 +4142,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Necromancy is banned by magical law. Besides, even if they\ncome back, they'll only be zombies."
+                                "\\n<\\n[1]>Necromancy is banned by magical law. Besides, even if they\ncome back, they'll only be zombies."
                             ]
                         },
                         {
@@ -4321,7 +4321,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Nya...! (This malevolent magic...! My tail is tingling...!\nIs she out of her mind...?)"
+                                "\\n<\\n[1]>Nya...! (This malevolent magic...! My tail is tingling...!\nIs she out of her mind...?)"
                             ]
                         },
                         {
@@ -4348,7 +4348,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>...(There's a good reason why necromancy is banned. It's\nbecause it's possessed by death. The Sister is no longer\nsane.)"
+                                "\\n<\\n[1]>...(There's a good reason why necromancy is banned. It's\nbecause it's possessed by death. The Sister is no longer\nsane.)"
                             ]
                         },
                         {
@@ -4424,7 +4424,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "\\n<Sister>Katara-san. I do not wish for this place to be disturbed.\nLet's go outside."
+                                "\\n<Sister>\\n[1]-san. I do not wish for this place to be disturbed.\nLet's go outside."
                             ]
                         },
                         {

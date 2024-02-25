@@ -5244,7 +5244,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Haah... haah... I'm not... thinking... that...! Don't make\nme remember weird stuff...!"
+                                "\\n<\\n[1]>Haah... haah... I'm not... thinking... that...! Don't make\nme remember weird stuff...!"
                             ]
                         },
                         {
@@ -5271,7 +5271,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "\\n<Katara>Ugh...! (I mustn't... remember...! Damn it...!)"
+                                "\\n<\\n[1]>Ugh...! (I mustn't... remember...! Damn it...!)"
                             ]
                         },
                         {
