@@ -3881,7 +3881,7 @@
             }
         ],
         "gold": 1500,
-        "name": "Meere",
+        "name": "Mare",
         "note": "ボストルテ",
         "params": [
             2000,
@@ -11328,7 +11328,7 @@
             }
         ],
         "gold": 10,
-        "name": "Meere",
+        "name": "Mare",
         "note": "1戦目",
         "params": [
             1000,
@@ -12196,7 +12196,7 @@
             }
         ],
         "gold": 10,
-        "name": "False Meere",
+        "name": "False Mare",
         "note": "1戦目",
         "params": [
             99999,
@@ -13097,7 +13097,7 @@
             }
         ],
         "gold": 10,
-        "name": "Meere",
+        "name": "Mare",
         "note": "2戦目",
         "params": [
             1100,

@@ -165,7 +165,7 @@
     {
         "id": 19,
         "expanded": true,
-        "name": "VS Meere",
+        "name": "VS Mare",
         "order": 62,
         "parentId": 138,
         "scrollX": 692.5,
@@ -174,7 +174,7 @@
     {
         "id": 20,
         "expanded": true,
-        "name": "Meere Event",
+        "name": "Mare Event",
         "order": 63,
         "parentId": 19,
         "scrollX": 1518.6666666666667,
@@ -462,7 +462,7 @@
     {
         "id": 52,
         "expanded": true,
-        "name": "VS Meere Lv2",
+        "name": "VS Mare Lv2",
         "order": 65,
         "parentId": 19,
         "scrollX": 692.5,
@@ -471,7 +471,7 @@
     {
         "id": 53,
         "expanded": true,
-        "name": "Meere Evidence Search",
+        "name": "Mare Evidence Search",
         "order": 64,
         "parentId": 20,
         "scrollX": 934,
@@ -498,7 +498,7 @@
     {
         "id": 56,
         "expanded": true,
-        "name": "Meere Lv2 Event",
+        "name": "Mare Lv2 Event",
         "order": 66,
         "parentId": 52,
         "scrollX": 692.5,
@@ -750,7 +750,7 @@
     {
         "id": 84,
         "expanded": true,
-        "name": "Meere Drain",
+        "name": "Mare Drain",
         "order": 103,
         "parentId": 63,
         "scrollX": 1518.6666666666667,

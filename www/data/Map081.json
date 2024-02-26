@@ -7767,7 +7767,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "I haven't seen Ending 2 yet... To achieve it, your Karma\nmust be at its maximum (by not making any wrong choices).\nYou must save Meere."
+                                "I haven't seen Ending 2 yet... To achieve it, your Karma\nmust be at its maximum (by not making any wrong choices).\nYou must save Mare."
                             ]
                         },
                         {
@@ -7792,7 +7792,7 @@
                             "indent": 0,
                             "parameters": [
                                 [
-                                    "How to save Meere",
+                                    "How to save Mare",
                                     "How to maximize Karma",
                                     "I'm fine"
                                 ],
@@ -7824,7 +7824,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "To save Meere, you need the \"White Vial.\" You can obtain the\nWhite Vial during the \"Bijou-1st battle\" by not hitting the\ntreasure chest even once."
+                                "To save Mare, you need the \"White Vial.\" You can obtain the\nWhite Vial during the \"Bijou-1st battle\" by not hitting the\ntreasure chest even once."
                             ]
                         },
                         {
@@ -7858,7 +7858,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you \"have the White Vial\" and \"know how to use it,\" you\ncan save Meere by resisting the temptation in the \"Meere 2nd\nbattle.\""
+                                "If you \"have the White Vial\" and \"know how to use it,\" you\ncan save Mare by resisting the temptation in the \"Mare 2nd\nbattle.\""
                             ]
                         },
                         {
@@ -7905,7 +7905,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "If you cut down Meere, your Karma will increase, but you\nwill no longer meet the conditions for the ending."
+                                "If you cut down Mare, your Karma will increase, but you\nwill no longer meet the conditions for the ending."
                             ]
                         },
                         {
@@ -8010,7 +8010,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "Ending 2 \"Phantom Thieves Kittens\". Karma is at its best.\nCleared by saving Meere."
+                                "Ending 2 \"Phantom Thieves Kittens\". Karma is at its best.\nCleared by saving Mare."
                             ]
                         },
                         {
